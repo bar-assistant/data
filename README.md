@@ -13,5 +13,5 @@ Optimize ingredient images:
 - Trim empty space around image
 
 ```bash
-docker run -v $(pwd)/data:/data --rm -it bassdata sharp -i './ingredients/*.png' -o ./ingredients trim -- resize --height 600
+docker run -v $(pwd)/data:/data --rm -it bassdata sharp -i './ingredients/*.png' -o ./ingredients trim -- resize --height 600 --withoutEnlargement
 ```
