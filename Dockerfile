@@ -2,8 +2,12 @@ FROM node:20-alpine
 
 RUN mkdir -p /data
 
-VOLUME [ "/data" ]
-
-RUN npm install -g sharp sharp-cli
-
 WORKDIR /data
+
+COPY . .
+
+RUN npm install
+
+RUN npm run build
+
+VOLUME [ "/data" ]

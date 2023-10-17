@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "node script.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.6",
+    "thumbhash": "^0.1.1"
+  }
+}
