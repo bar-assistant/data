@@ -12,7 +12,7 @@ const processIngredientImages = async () => {
 
     await Promise.all(fileIngredients.map(async ing => {
         if (Array.from(ing.images).length > 0) {
-            await Promise.all(ing.images.map(async img => {
+            ing.images.map(async img => {
                 const filename = `${dataFolder}${img.resource_path}`
                 const tempFilename = `${tempFolder}${crypto.randomBytes(20).toString('hex')}`
 
@@ -36,7 +36,7 @@ const processIngredientImages = async () => {
                 img.placeholder_hash = btoa(String.fromCharCode(...hash)).replace(/=+$/, '');
 
                 return img
-            }))
+            })
         }
 
         return ing;
