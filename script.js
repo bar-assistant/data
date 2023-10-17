@@ -28,4 +28,20 @@ const processIngredientImages = async () => {
     })
 }
 
+const processCocktailImages = async () => {
+    const folder = process.cwd() + '/data/cocktails/';
+    const files = await fs.readdir(folder)
+
+    files.map(async (filename) => {
+        const tempFilename = `${folder}temp-${filename}`
+        sharp(`${folder}${filename}`)
+            .jpeg({
+                quality: 80
+            })
+            .toFile(tempFilename)
+            .then(() => fs.rename(tempFilename, `${folder}${filename}`));
+    })
+}
+
+processCocktailImages()
 processIngredientImages()
