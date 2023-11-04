@@ -1,0 +1,76 @@
+_id: income-tax
+name: 'Income Tax'
+instructions: |-
+    1. Combine all ingredients in a cocktail shaker and shake for about ten seconds
+    2. Strain into a cocktail glass and garnish
+description: 'An old-timey double dose of vermouth'
+garnish: |-
+    dashes angostura bitters
+
+    orange wedge for garnish
+source: 'https://tuxedono2.com/bronx-cocktail-recipe'
+tags: {  }
+abv: 21.42
+glass:
+    _id: cocktail
+    name: Cocktail
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sweet-vermouth
+        sort: 2
+        name: 'Sweet Vermouth'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: dry-vermouth
+        sort: 3
+        name: 'Dry Vermouth'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: orange-juice
+        sort: 4
+        name: 'Orange juice'
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: angostura-aromatic-bitters
+        sort: 5
+        name: 'Angostura aromatic bitters'
+        amount: 2
+        amount_max: null
+        units: part
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: income-tax-1.jpg
+        placeholder_hash: RQgGFwAGmJh6hoZzexe4R5iKedAnCHwB
+        copyright: TuxedoNo2

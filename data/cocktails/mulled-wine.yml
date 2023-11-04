@@ -1,0 +1,123 @@
+_id: mulled-wine
+name: 'Mulled Wine'
+instructions: |-
+    Put everything except the rum into a pot and heat slowly on low/lowest heat, lid off. The longer this takes, the better, as the spices should infuse into the wine.
+
+    Do not boil!
+
+    Once hot, stir in the sugar until dissolved.
+
+    Add rum.
+
+    Strain and serve.
+description: "Mulled Wine, or Hypocras, is one of those drinks that predates the era of cocktails. The earliest mentions of heated, spiced wine date back to ancient Rome. Right after they built all those roads, they used them to bring mulled wine all over Europe. It's been a common tradition in Germany, France, and England ever since and is especially popular around Christmas time. ⁣ ⁣"
+garnish: 'Cinnamon stick, orange slice'
+source: 'https://www.reddit.com/r/cocktails/comments/zhqrbx/gl%C3%BChwein_traditional_german_mulled_wine/'
+tags:
+    - Wine
+abv: 10.59
+glass:
+    _id: wine
+    name: Wine
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: white-wine
+        sort: 1
+        name: 'White wine'
+        amount: 1000
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: red-wine
+                name: 'Red wine'
+                amount: null
+                amount_max: null
+                units: null
+    -
+        _id: orange-juice
+        sort: 2
+        name: 'Orange juice'
+        amount: 90
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: orange
+        sort: 3
+        name: Orange
+        amount: 2
+        amount_max: null
+        units: slices
+        note: null
+        optional: true
+        substitutes: {  }
+    -
+        _id: clove
+        sort: 4
+        name: Clove
+        amount: 7
+        amount_max: null
+        units: whole
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: star-anise
+        sort: 5
+        name: 'Star anise'
+        amount: 1
+        amount_max: null
+        units: whole
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sugar
+        sort: 6
+        name: Sugar
+        amount: 50
+        amount_max: null
+        units: g
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: brandy
+        sort: 7
+        name: Brandy
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: dark-rum
+                name: 'Dark Rum'
+                amount: null
+                amount_max: null
+                units: null
+    -
+        _id: candied-ginger
+        sort: 8
+        name: 'Candied Ginger'
+        amount: 3
+        amount_max: null
+        units: whole
+        note: null
+        optional: true
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: mulled-wine-1.jpg
+        placeholder_hash: oigOHwT2t3lqc4d5hoVnmFd1h7AHCXoA
+        copyright: Reddit

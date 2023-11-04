@@ -1,0 +1,67 @@
+_id: trinidad-sour
+name: 'Trinidad Sour'
+instructions: |-
+    1. Pour all ingredients into a cocktail shaker
+    2. Shake well with ice
+    3. Strain into a chilled cocktail glass.
+description: 'Unusually for a cocktail, it uses Angostura bitters as a base spirit rather than as a flavoring, the bitters being the single largest component of the drink in its IBA formulation.'
+garnish: N/A
+source: 'https://iba-world.com/trinidad-sour/'
+tags:
+    - 'IBA Cocktail'
+    - 'New Era Drinks'
+    - Sour
+abv: 18.57
+glass:
+    _id: cocktail
+    name: Cocktail
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: angostura-aromatic-bitters
+        sort: 1
+        name: 'Angostura aromatic bitters'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: orgeat-syrup
+        sort: 2
+        name: 'Orgeat Syrup'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: rye-whiskey
+        sort: 4
+        name: 'Rye whiskey'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: trinidad-sour-1.jpg
+        placeholder_hash: 8NcFDwSwBaaKr2WFY8hX6ClpCJDLBIkJ
+        copyright: 'A Couple Cooks'

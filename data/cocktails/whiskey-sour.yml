@@ -1,0 +1,76 @@
+_id: whiskey-sour
+name: 'Whiskey Sour'
+instructions: |-
+    1. Pour all ingredients into a cocktail shaker filled with ice.
+    2. Shake well.
+    3. Strain into cobbler glass.
+    4. If served “On the rocks”, strain ingredients into an old fashioned glass filled with ice.
+
+    NOTE:
+    If egg white is used shake little harder to release and incorporate the foam from the egg white.
+description: 'The oldest historical mention of a whiskey sour was published in the Wisconsin newspaper, Waukesha Plain Dealer, in 1870. With egg white included, it is sometimes called a Boston Sour; when the whiskey used is a Scotch, it is called a Scotch Sour. With a few bar spoons of full-bodied red wine floated on top, it is often referred to as a New York Sour. It is shaken and served either straight up or over ice.'
+garnish: 'Garnish with a half orange slice and maraschino cherry, optionally use orange zest.'
+source: 'https://iba-world.com/whiskey-sour/'
+tags:
+    - 'IBA Cocktail'
+    - 'The Unforgettables'
+    - Sour
+abv: 16
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: bourbon-whiskey
+        sort: 1
+        name: 'Bourbon Whiskey'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 2
+        name: 'Lemon juice'
+        amount: 25
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 3
+        name: 'Simple Syrup'
+        amount: 20
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: egg-white
+        sort: 4
+        name: 'Egg White'
+        amount: 1
+        amount_max: null
+        units: drops
+        note: null
+        optional: true
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: whiskey-sour-1.jpg
+        placeholder_hash: ZKcJNxBHiYh0cYeVf5eJeKV3aSAHNnAD
+        copyright: VinePair
+    -
+        sort: 2
+        file_name: whiskey-sour-2.jpg
+        placeholder_hash: mRgGDwJWloiThodybAW5t1iKeQknt3AC
+        copyright: null

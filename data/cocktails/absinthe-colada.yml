@@ -1,0 +1,77 @@
+_id: absinthe-colada
+name: 'Absinthe Colada'
+instructions: |-
+    1. Add all ingredients to a cocktail shaker
+    2. Add ice and shake hard for 10 seconds
+    3. Strain into a hurricane glass filled with crushed ice
+description: "Mint and coconut are an excellent pairing that's underused in cocktails. This piña colada variant from Maison Premiere in Brooklyn employs mint in two ways in this boldly flavored cocktail."
+garnish: 'fresh mint'
+source: 'https://www.liberandcompany.com/collections/recipes/products/absinthe-colada'
+tags:
+    - Tiki
+    - Summer
+    - Herbacious
+abv: 16
+glass:
+    _id: hurricane
+    name: Hurricane
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: absinthe
+        sort: 1
+        name: Absinthe
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: rhum-agricole
+        sort: 2
+        name: 'Rhum agricole'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: pineapple-juice
+        sort: 3
+        name: 'Pineapple juice'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: coconut-syrup
+        sort: 4
+        name: 'Coconut Syrup'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: creme-de-menthe
+        sort: 5
+        name: 'Crème de menthe'
+        amount: 1
+        amount_max: null
+        units: barspoon
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: absinthe-colada-1.jpg
+        placeholder_hash: WCgGFwQ7UK3ExlZsmXplhYpyntQHal8C
+        copyright: LiberAndCo

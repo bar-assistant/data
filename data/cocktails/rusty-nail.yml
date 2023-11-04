@@ -1,0 +1,51 @@
+_id: rusty-nail
+name: 'Rusty Nail'
+instructions: 'Pour all ingredients directly into an old fashioned glass filled with ice. Stir gently.'
+description: |-
+    A Rusty Nail can be served in an old-fashioned glass on the rocks, or "up" in a stemmed glass. It is most commonly served over ice. A Rusty Nail served without ice is sometimes called a Straight Up Nail.
+
+      - **The Rusty Bob**, which substitutes Bourbon whiskey for blended Scotch whisky
+      - **The Rusty Ale**, in which a shot of Drambuie is added to any beer, served without ice.
+      - **The Smoky Nail**, which uses Islay whisky (very smoky in flavor) in place of blended Scotch whisky.
+      - **The Clavo Ahumado** (Spanish for "smoky nail"), using mezcal instead of blended Scotch whisky.
+      - **The Railroad Spike**, often served at brunch and made with approximately four parts Cold brewed coffee to one part Drambuie in a tall glass over ice.
+      - **The Donald Sutherland**, which substitutes Canadian rye whisky for blended Scotch whisky.
+garnish: 'Garnish with lemon zest.'
+source: 'https://iba-world.com/rusty-nail/'
+tags:
+    - 'IBA Cocktail'
+    - 'The Unforgettables'
+abv: 36.36
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: scotch-whiskey
+        sort: 1
+        name: 'Scotch whiskey'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: drambuie
+        sort: 2
+        name: Drambuie
+        amount: 25
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: rusty-nail-1.jpg
+        placeholder_hash: aCkGLwSv2YnnsIm0njYcVSyNpgOJSYAI
+        copyright: 'Serious Eats'

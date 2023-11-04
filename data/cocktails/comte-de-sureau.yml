@@ -1,0 +1,58 @@
+_id: comte-de-sureau
+name: 'Comte de Sureau'
+instructions: 'Stir with ice and strain into a chilled rocks glass over ice.'
+description: null
+garnish: 'Garnish with orange and lemon twists.'
+source: 'https://www.diffordsguide.com/cocktails/recipe/7257/comte-de-sureau'
+tags:
+    - Negroni
+abv: 26.75
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: st-germain
+        sort: 2
+        name: St-Germain
+        amount: 25
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: elderflower-cordial
+                name: 'Elderflower Cordial'
+                amount: null
+                amount_max: null
+                units: null
+    -
+        _id: campari
+        sort: 3
+        name: Campari
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: comte-de-sureau-1.jpg
+        placeholder_hash: I0kKJwirmGePd4eJd5ZoiGiHSGBmBXUF
+        copyright: "Eric's Cocktail Guide"

@@ -1,0 +1,73 @@
+_id: russian-spring-punch
+name: 'Russian Spring Punch'
+instructions: 'Pour all ingredients into a cocktail shaker except the sparkling wine, shake well with ice, strain into a chilled tall tumbler glass filled with ice, and top up with sparkling wine.'
+description: 'The Russian Spring Punch was created in London, England by Dick Bradsell in the 1980s. He claims not to remember which bar he was working at at the time, but tells the story of how he created the recipe for personal friends wishing to hold a cocktail party while minimizing the amount of money they had to spend on alcohol. Participants were provided with the vodka, cassis, sugar syrup and lemon juice, and were asked to bring their own sparkling wine. It is named for the russian vodka, and the Tom Collins, which is a spring drink.'
+garnish: 'Garnish with blackberries and optionally a lemon slice as well.'
+source: 'https://iba-world.com/russian-spring-punch/'
+tags:
+    - 'IBA Cocktail'
+    - 'New Era Drinks'
+abv: 14.67
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: vodka
+        sort: 1
+        name: Vodka
+        amount: 25
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 2
+        name: 'Lemon juice'
+        amount: 25
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: creme-de-cassis
+        sort: 3
+        name: 'Crème de cassis'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 4
+        name: 'Simple Syrup'
+        amount: 10
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: champagne
+        sort: 5
+        name: Champagne
+        amount: 1
+        amount_max: null
+        units: topup
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: russian-spring-punch-1.jpg
+        placeholder_hash: 1VgKJwwL2oiDloqJfESXV4l5lnBKCIYG
+        copyright: 'Liquido Spirits'

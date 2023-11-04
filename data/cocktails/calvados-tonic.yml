@@ -1,0 +1,51 @@
+_id: calvados-tonic
+name: "Calvados &\_Tonic"
+instructions: |-
+    1. Pour the Calvados into a Burgundy glass over ice.
+    2. Top with tonic water.
+    3. Garnish with a lemon twist.
+description: 'The Calvados & Tonic is a staple in Normandy. Sarah Morrissey presents hers in a Burgundy glass with heaps of ice and a ton of tonic.'
+garnish: 'Lemon twist'
+source: 'https://punchdrink.com/recipes/calvados-tonic/'
+tags:
+    - Fruity
+    - Bitter
+abv: 15
+glass:
+    _id: wine
+    name: Wine
+method:
+    _id: layer
+    name: Layer
+ingredients:
+    -
+        _id: apple-brandy
+        sort: 1
+        name: 'Apple Brandy'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: tonic
+        sort: 2
+        name: Tonic
+        amount: 100
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: calvados-tonic-1.jpg
+        placeholder_hash: MegFJwT2U2mebYd5pPhHqVeGZeBHJX8E
+        copyright: 'Punch Staff'
+    -
+        sort: 2
+        file_name: calvados-tonic-2.jpg
+        placeholder_hash: bdcJFwJ0eHiQmofMibd5hpmYCYlIoLEG
+        copyright: 'Punch Staff'

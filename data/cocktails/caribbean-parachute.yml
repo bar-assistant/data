@@ -1,0 +1,76 @@
+_id: caribbean-parachute
+name: 'Caribbean Parachute'
+instructions: |-
+    1. Add all of the ingredients except tonic water to a shaker with no ice.
+    2. Shake to combine, then add ice and shake well until chilled and foamy.
+    3. Add chilled tonic water to an empty Collins glass, then strain the cocktail into the tonic until the top of the drink is half an inch below the rim.
+    4. Wait for the foam to completely settle, then finish straining the remainder of the cocktail.
+description: 'This rum and tonic adds the building blocks of a Silver Fizz and the balance of a rich amaro, resulting in a beautifully textured highball.'
+garnish: null
+source: 'https://imbibemagazine.com/recipe/caribbean-parachute-rum-highball/'
+tags:
+    - Summer
+abv: 9.15
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: white-rum
+        sort: 1
+        name: 'White Rum'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 2
+        name: 'Lime juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: amaro-montenegro
+        sort: 3
+        name: 'Amaro Montenegro'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 4
+        name: 'Simple Syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: tonic
+        sort: 5
+        name: Tonic
+        amount: 90
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 0
+        file_name: caribbean-parachute-1.jpg
+        placeholder_hash: NBkGHwKb4Hg5lZdGpnd2eId5R2evUPQK
+        copyright: 'Imbibe Magazine'

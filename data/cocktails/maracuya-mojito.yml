@@ -1,0 +1,78 @@
+_id: maracuya-mojito
+name: 'Maracuyá Mojito'
+instructions: |-
+    1. Add all ingredients except club soda to a cocktail shaker with ice
+    2. Shake for 15 seconds and strain into glass
+    3. Top with club soda and garnish with mint
+description: "This refreshing, rum based cocktail carries summer poolside/porch-side\_vibes. As a Cuban mojito riff, it has the essential mojito ingredients like mint, rum, and club soda, but adds tropical flavor with the passionfruit syrup. For extra mint flavor, muddle the mint with the syrup in the bottom of your highball glass. Otherwise, shaking hard for 15 seconds with the mint in the shaker is enough."
+garnish: mint
+source: 'https://www.liberandcompany.com/collections/recipes/products/maracuya-mojito'
+tags:
+    - Summer
+    - Tropical
+    - Tiki
+    - Mojito
+abv: 17.07
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: white-rum
+        sort: 1
+        name: 'White Rum'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 2
+        name: 'Lime juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: passionfruit-syrup
+        sort: 3
+        name: 'Passionfruit syrup'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: mint
+        sort: 4
+        name: Mint
+        amount: 4
+        amount_max: null
+        units: leaves
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: club-soda
+        sort: 5
+        name: 'Club soda'
+        amount: 1
+        amount_max: null
+        units: topup
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: maracuya-mojito-1.jpg
+        placeholder_hash: 2RgGJwIKx3pkiXmzjaiMmYh3W4BYYrAE
+        copyright: LiberAndCo

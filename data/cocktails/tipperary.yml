@@ -1,0 +1,63 @@
+_id: tipperary
+name: Tipperary
+instructions: 'Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.'
+description: "The Tipperary has been featured in old school cocktail books such as Recipes for Mixed Drinks from 1916, ABC of Mixing Drinks from 1922 and Harry Craddock's Savoy Cocktail Book from 1930. Two of three books call for equal parts but I've opted for an adapted recipe, lowering the Green Chartreuse, making for a more approachable version. Some recipes call for a dash or two of aromatic bitters and an orange twist."
+garnish: 'Garnish with a slice of orange.'
+source: 'https://iba-world.com/tipperary/'
+tags:
+    - 'IBA Cocktail'
+    - 'New Era Drinks'
+abv: 29.41
+glass:
+    _id: cocktail
+    name: Cocktail
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: irish-whiskey
+        sort: 1
+        name: 'Irish whiskey'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sweet-vermouth
+        sort: 2
+        name: 'Sweet Vermouth'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: green-chartreuse
+        sort: 3
+        name: 'Green Chartreuse'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: angostura-aromatic-bitters
+        sort: 4
+        name: 'Angostura aromatic bitters'
+        amount: 2
+        amount_max: null
+        units: dashes
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: tipperary-1.jpg
+        placeholder_hash: TwgKFwI0t3Z/d3eHiHaHWJeImKBJCYoD
+        copyright: MixolopediA

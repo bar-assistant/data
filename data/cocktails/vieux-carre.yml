@@ -1,0 +1,74 @@
+_id: vieux-carre
+name: 'Vieux Carrè'
+instructions: 'Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.'
+description: 'It originated with Walter Bergeron, a bartender at New Orleans’ Carousel Bar in the Hotel Monteleone. The name is French for "old square”, in reference to the city''s French Quarter neighborhood.'
+garnish: 'Garnish with orange zest and maraschino cherry.'
+source: 'https://iba-world.com/vieux-carre/'
+tags:
+    - 'IBA Cocktail'
+    - 'The Unforgettables'
+    - Brandy
+abv: 27.25
+glass:
+    _id: cocktail
+    name: Cocktail
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: rye-whiskey
+        sort: 1
+        name: 'Rye whiskey'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cognac
+        sort: 2
+        name: Cognac
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sweet-vermouth
+        sort: 3
+        name: 'Sweet Vermouth'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: benedictine
+        sort: 4
+        name: Bénédictine
+        amount: 1
+        amount_max: null
+        units: teaspoon
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: peychauds-bitters
+        sort: 5
+        name: 'Peychauds Bitters'
+        amount: 2
+        amount_max: null
+        units: dashes
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: vieux-carre-1.jpg
+        placeholder_hash: mCgGHwQzepeNhoh5WgaZlYdWt2AoHHMA
+        copyright: 'Liquor.com / Tim Nusog'

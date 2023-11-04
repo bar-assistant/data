@@ -2,7 +2,20 @@
 
 This is initial data that gets imported when creating a new bar in Bar Assistant
 
-## Contributing
+WIP
+
+## Data structure
+
+To make it easier to write recipes by hand and at the same time handle merge requests the choice of recipe format is YAML in single files.
+
+TODO: Validate via JSON schema
+
+- Every recipe should have a unique filename, [usually as slug of the cocktail name](https://stackoverflow.com/questions/19335215/what-is-a-slug).
+- For data integrity, you can use this unqiue `_id` reference when writing recipes to reference other data (like ingredients, glass types, methods...).
+- Recipe images are stored in `images` folder located in the same folder as the `.yml` files.
+- You can add multiple images and reference them by their filename when adding a new recipe.
+- It's recommended that you add images as the following filename format: `{recipe_slug}-{image-number}.{extension}`, for example: `old_fashioned-1.jpg`, `old_fashioned-2.webp`, `gin-1.png`.
+- All images must have copyright information, preferebly author of the image. For example: `Punch | John Doe`, `Imbibe magazine`, `Salvador Dali`
 
 ### New ingredients
 

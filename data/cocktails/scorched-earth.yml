@@ -1,0 +1,65 @@
+_id: scorched-earth
+name: 'Scorched Earth'
+instructions: |-
+    1. Combine all ingredients with ice in a mixing glass and stir
+    2. Strain into a lowball or whiskey glass over ice
+    3. Flame orange peel (optionally) and garnish
+description: 'A wild and daring twist on the Negroni'
+garnish: 'orange peel for garnish'
+source: 'https://tuxedono2.com/scorched-earth-cocktail-recipe'
+tags:
+    - Negroni
+abv: 22.65
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: mezcal
+        sort: 1
+        name: Mezcal
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cynar
+        sort: 2
+        name: Cynar
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: campari
+        sort: 3
+        name: Campari
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: orange-bitters
+        sort: 4
+        name: 'Orange bitters'
+        amount: 2
+        amount_max: null
+        units: dash
+        note: null
+        optional: true
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: scorched-earth-1.jpg
+        placeholder_hash: BAgGFwQIl6eKh3hxjVeXh4h6iWAHGIUA
+        copyright: TuxedoNo2

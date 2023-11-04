@@ -1,0 +1,75 @@
+_id: apples-all-the-way-down
+name: 'Apples All the Way Down'
+instructions: |-
+    1. Add syrup, lemon, and brandy to a highball glass filled with ice
+    2. Top with cider and stir
+    3. Slap a sprig of rosemary to release its oils and garnish
+description: "A dash of bitters and fresh rosemary balance the sweetness of this bright highball that's brimming with fall fruit flavor."
+garnish: 'Sprig of rosemary'
+source: 'https://www.liberandcompany.com/collections/recipes/products/apples-all-the-way-down'
+tags:
+    - Fruity
+abv: 10.57
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: apple-brandy
+        sort: 1
+        name: 'Apple Brandy'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: grenadine-syrup
+        sort: 2
+        name: 'Grenadine Syrup'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: angostura-aromatic-bitters
+        sort: 4
+        name: 'Angostura aromatic bitters'
+        amount: 1
+        amount_max: null
+        units: dash
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: apple-cider
+        sort: 5
+        name: 'Apple Cider'
+        amount: 120
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: apples-all-the-way-down-1.jpg
+        placeholder_hash: zjgKHwYIqpZ2eIeBiWeXmJp4qFBYCnQF
+        copyright: LiberAndCo

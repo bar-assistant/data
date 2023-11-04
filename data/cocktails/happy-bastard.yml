@@ -1,0 +1,88 @@
+_id: happy-bastard
+name: 'Happy Bastard'
+instructions: |+
+    1. Combine all ingredients, except tonic, in a mixing tin and shake with ice.
+    2. Strain into a Collins glass over ice.
+    3. Top with tonic.
+
+description: 'A lighter take on the Suffering Bastard cocktail recipe that calls on cucumber tonic water in place of ginger beer.'
+garnish: 'Garnish with lemon wheel.'
+source: 'https://punchdrink.com/recipes/happy-bastard/'
+tags:
+    - Summer
+    - Herbacious
+    - Floral
+abv: 13.33
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: brandy
+        sort: 2
+        name: Brandy
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: st-germain
+        sort: 3
+        name: St-Germain
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: ginger-syrup
+        sort: 4
+        name: 'Ginger syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 5
+        name: 'Lemon juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: tonic
+        sort: 6
+        name: Tonic
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: happy-bastard-1.jpg
+        placeholder_hash: WwgODwIblpdwWZeYe1Z3eYaICPda9qcD
+        copyright: 'Punch Staff'

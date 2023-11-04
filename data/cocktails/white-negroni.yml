@@ -1,0 +1,54 @@
+_id: white-negroni
+name: 'White Negroni'
+instructions: |-
+    1. Combine all ingredients with ice and stir
+    2. Strain into a lowball glass
+description: 'The White Negroni is a fabulous use of the gentian&#039;s powers, and a downright brilliant twist on a bonafide classic. All of the flavor components of a classic Negroni are present, but only the gin remains verbatim.'
+garnish: 'Lemon peel'
+source: 'https://tuxedono2.com/white-negroni-cocktail-recipe'
+tags:
+    - Negroni
+abv: 20
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: suze
+        sort: 2
+        name: Suze
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lillet-blanc
+        sort: 3
+        name: 'Lillet Blanc'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: white-negroni-1.jpg
+        placeholder_hash: URkKLwRKSfqAdnl2fRmYqYeJqQJ4aJAJ
+        copyright: 'A Couple Cooks'

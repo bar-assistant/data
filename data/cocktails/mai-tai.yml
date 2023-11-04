@@ -1,0 +1,109 @@
+_id: mai-tai
+name: Mai-Tai
+instructions: |-
+    1. Add all ingredients into a shaker with ice.
+    2. Shake and pour into a double rocks glass or a highball glass.
+
+    *The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of “rummy” from molasses.*
+description: 'The Mai Tai has a mixed up history. Reaching its height of popularity in the 50s and 60s, it is the quintessential tiki drink. Tiki trendsetters Don the Beachcomber and Trader Vic both claim to have invented the cocktail, though their versions are distinctly different. Over time all kinds of fruity concoctions have been whipped up under the name of Mai Tai, no doubt, in all the colors of the rainbow. Although itself slightly modified, due to availability of ingredients, Trader Vic’s ‘Original” Mai Tai reigns supreme.'
+garnish: 'Garnish with pineapple spear, mint leaves, and lime peel.'
+source: 'https://iba-world.com/mai-tai/'
+tags:
+    - 'Contemporary Classics'
+    - 'IBA Cocktail'
+    - Tiki
+abv: 18.82
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: gold-rum
+        sort: 1
+        name: 'Gold Rum'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: rhum-agricole
+        sort: 2
+        name: 'Rhum agricole'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: dark-rum
+                name: 'Dark Rum'
+                amount: null
+                amount_max: null
+                units: null
+    -
+        _id: orange-curacao
+        sort: 3
+        name: 'Orange Curaçao'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: orgeat-syrup
+        sort: 4
+        name: 'Orgeat Syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 5
+        name: 'Lime juice'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 6
+        name: 'Simple Syrup'
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: mai-tai-1.webp
+        placeholder_hash: SQgKJwIHqJeHd4eBfHaHmHeJh3AoZ3AG
+        copyright: TuxedoNo2
+    -
+        sort: 2
+        file_name: mai-tai-2.jpg
+        placeholder_hash: XkoKHwalendwe3mRiGloZol6NwgHZFAF
+        copyright: null
+    -
+        sort: 3
+        file_name: mai-tai-3.jpg
+        placeholder_hash: cikKNwT1bJh3iYepZrdop2h4yIA4DYUA
+        copyright: null
+    -
+        sort: 4
+        file_name: mai-tai-4.jpg
+        placeholder_hash: kDkOLwZHmHeQeHh2eqZ4h3eIiARniHAI
+        copyright: Reddit

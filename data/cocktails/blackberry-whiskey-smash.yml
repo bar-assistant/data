@@ -1,0 +1,78 @@
+_id: blackberry-whiskey-smash
+name: 'Blackberry Whiskey Smash'
+instructions: |-
+    1. Muddle berries, mint, and syrup in a mixing tin 
+    2. Add lemon juice, whiskey and ice 
+    3. Shake until chilled
+    4. Double strain over crushed ice into a rocks glass
+description: 'Fruit-forward without being too sweet. A perfect spring and early summer drink.'
+garnish: 'Mint Blackberries'
+source: 'https://www.liberandcompany.com/collections/recipes/products/blackberry-whiskey-smash'
+tags:
+    - Smash
+    - Sweet
+    - Fruity
+abv: 17.45
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: whiskey
+        sort: 1
+        name: Whiskey
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 2
+        name: 'Lemon juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 3
+        name: 'Simple Syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: blackberries
+        sort: 4
+        name: Blackberries
+        amount: 4
+        amount_max: null
+        units: whole
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: mint
+        sort: 5
+        name: Mint
+        amount: 1
+        amount_max: null
+        units: sprig
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: blackberry-whiskey-smash-1.jpg
+        placeholder_hash: rUgKDwZToZolg4d/p0eqlniZ2K0Nl8YA
+        copyright: 'LiberAndCo | Juliet Beletic'

@@ -1,0 +1,76 @@
+_id: coronado-cocktail
+name: 'Coronado Cocktail'
+instructions: |-
+    1. Add all ingredients to a cocktail shaker
+    2. Add ice and shake hard for 10 seconds
+    3. Strain into a highball glass over crushed ice
+    4. Garnish with a lemon wheel
+description: 'The combination of Tropical Passionfruit Syrup, coconut water, and tequila has tropical written all over it. The Coronado Cocktail was made by Chris Santos and found in his bookShare: Delicious and Surprising Recipes to Pass Around Your Table.'
+garnish: 'lemon wheel'
+source: 'https://www.liberandcompany.com/collections/recipes/products/coronado-punch'
+tags:
+    - Tropical
+abv: 10.33
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: tequila-blanco
+        sort: 1
+        name: 'Tequila Blanco'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: aperol
+        sort: 2
+        name: Aperol
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: passionfruit-syrup
+        sort: 4
+        name: 'Passionfruit syrup'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: coconut-water
+        sort: 5
+        name: 'Coconut water'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: coronado-cocktail-1.jpg
+        placeholder_hash: 2SgKNwQJyGardXh4eIeYh5h1dnBIBpcF
+        copyright: LiberAndCo

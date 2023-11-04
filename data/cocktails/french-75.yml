@@ -1,0 +1,67 @@
+_id: french-75
+name: 'French 75'
+instructions: |-
+    1. Pour all the ingredients, except Champagne, into a shaker.
+    2. Shake well and strain into a Champagne flute.
+    3. Top up with Champagne.
+    4. Stir gently.
+description: "The drink dates to World War I, and an early form was created in 1915 at the New York Bar in Paris—later Harry's New York Bar—by barman Harry MacElhone. The combination was said to have such a kick that it felt like being shelled with the powerful French 75mm field gun."
+garnish: null
+source: 'https://iba-world.com/french-75/'
+tags:
+    - 'Contemporary Classics'
+    - 'IBA Cocktail'
+abv: 12.8
+glass:
+    _id: champagne
+    name: Champagne
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 2
+        name: 'Lemon juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 3
+        name: 'Simple Syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: champagne
+        sort: 4
+        name: Champagne
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: french-75-1.jpg
+        placeholder_hash: bggKHwKIiIeeiId9dyd4d3ePxBsGnlAC
+        copyright: 'Sip and Feast'

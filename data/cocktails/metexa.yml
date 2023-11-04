@@ -1,0 +1,65 @@
+_id: metexa
+name: Metexa
+instructions: |-
+    1. Combine all ingredients in a mixing glass.
+    2. Stir with ice.
+    3. Strain into a chilled coupe.
+description: 'The Metexa is a tequila drink made with blanco tequila, Lillet and Swedish punsch. Here, Cocchi Americano swaps in for the Lillet.'
+garnish: 'Garnish with a grapefruit twist.'
+source: 'https://punchdrink.com/recipes/metexa/'
+tags:
+    - Citrusy
+abv: 19.25
+glass:
+    _id: cocktail
+    name: Cocktail
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: cocchi-aperitivo-americano
+        sort: 1
+        name: 'Cocchi Aperitivo Americano'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: tequila-blanco
+        sort: 2
+        name: 'Tequila Blanco'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: swedish-punsch
+        sort: 3
+        name: 'Swedish punsch'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: grapefruit
+        sort: 4
+        name: Grapefruit
+        amount: 1
+        amount_max: null
+        units: peel
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: metexa-1.jpg
+        placeholder_hash: JVoGFwJQhnedaYeHd3h4t2d4iPFnGk8K
+        copyright: 'Punch Staff'

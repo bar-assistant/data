@@ -1,0 +1,65 @@
+_id: blood-and-sand
+name: 'Blood and Sand'
+instructions: |-
+    1. Combine all ingredients with ice and shake
+    2. Strain into a coupe
+    3. Flame orange peel and garnish
+description: 'An exceptionally smooth classic with an optional smoky finish'
+garnish: 'Orange peel'
+source: 'https://tuxedono2.com/blood-and-sand-cocktail-recipe'
+tags:
+    - Fruity
+abv: 15.8
+glass:
+    _id: coupe
+    name: Coupe
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: scotch-whiskey
+        sort: 1
+        name: 'Scotch whiskey'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cherry-heering
+        sort: 2
+        name: 'Cherry heering'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sweet-vermouth
+        sort: 3
+        name: 'Sweet Vermouth'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: orange-juice
+        sort: 4
+        name: 'Orange juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: blood-and-sand-1.jpg
+        placeholder_hash: yAcGDwIHp4d2doeHd0eoCNd3l/JYCI4A
+        copyright: TuxedoNo2

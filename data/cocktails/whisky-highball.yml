@@ -1,0 +1,64 @@
+_id: whisky-highball
+name: 'Whisky Highball'
+instructions: |-
+    1. Cut a lemon ready for garnishing and squeezing
+    2. Fill your highball with ice
+    3. Pour all the ingredients into your glass
+    4. Top up with soda water
+    5. Stir the drink gently together, mixing all the ingredients
+    6. Garnish with the lemon wedge
+description: 'Initially, the most common highball was made with Scotch whisky and carbonated water, known simply as a "Scotch and soda". New York barman Patrick Duffy claimed the highball was brought to the U.S. in 1894 from England by actor E. J. Ratcliffe. Bartender Tip:Simple and refreshing cocktail with surprising complexity. One part whisky, two parts mixer, garnished with a lemon wedge and served over ice in a highball glass; the whisky highball is as simple as it is delicious'
+garnish: null
+source: 'https://cocktailclub.com/cocktails/whisky-highball-2'
+tags:
+    - Citrusy
+abv: 29.09
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: whiskey
+        sort: 1
+        name: Whiskey
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: club-soda
+        sort: 2
+        name: 'Club soda'
+        amount: 120
+        amount_max: null
+        units: topup
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: ginger-ale
+                name: 'Ginger ale'
+                amount: null
+                amount_max: null
+                units: null
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: true
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: whisky-highball-1.jpg
+        placeholder_hash: UxgOHwIH2Fd2eId1eXaHaJiId2BYBYMF
+        copyright: 'Cocktail Club'

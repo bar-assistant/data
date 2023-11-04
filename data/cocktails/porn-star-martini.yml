@@ -1,0 +1,88 @@
+_id: porn-star-martini
+name: 'Porn Star Martini'
+instructions: |-
+    1. Scoop the seeds from one of the passion fruits into the glass of a cocktail shaker
+    2. Add the vodka, passoa, lime juice and sugar syrup.
+    3. Add a handful of ice and shake well
+    4. Strain into a martini glass
+    5. Serve with shot of chilled Champagne on the side
+description: 'This easy passion fruit cocktail is bursting with zingy flavours and is perfect for celebrating with friends.'
+garnish: 'Half a passion fruit on top'
+source: 'Douglas Ankrah, The Townhouse | London'
+tags: {  }
+abv: 16.36
+glass:
+    _id: coupe
+    name: Coupe
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: vanilla-vodka
+        sort: 1
+        name: 'Vanilla Vodka'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: vodka
+                name: Vodka
+                amount: null
+                amount_max: null
+                units: null
+    -
+        _id: passoa
+        sort: 2
+        name: Passoã
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 3
+        name: 'Simple Syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 4
+        name: 'Lime juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: champagne
+        sort: 5
+        name: Champagne
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: true
+        substitutes:
+            -
+                _id: prosecco
+                name: Prosecco
+                amount: null
+                amount_max: null
+                units: null
+images:
+    -
+        sort: 1
+        file_name: porn-star-martini-1.jpg
+        placeholder_hash: 2vcNFwJqWHiCeHd7iAmGmIaXyJQIXZoA
+        copyright: 'Punch / Jamie Lau'

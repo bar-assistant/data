@@ -1,0 +1,77 @@
+_id: enzoni
+name: Enzoni
+instructions: 'Muddle grapes, add ingredients, shake then double strain. Garnish with more green grapes on a cocktail pick.'
+description: 'The Enzoni Cocktail is a true modern classic that will impress your guests! This gin-based drink is perfect for any occasion and is a fun and delicious take on some of your favorite classic cocktails!'
+garnish: 'Grapes on a pick'
+source: 'https://www.reddit.com/r/cocktails/comments/10cogce/enzoni/'
+tags:
+    - Negroni
+abv: 16
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: campari
+        sort: 2
+        name: Campari
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 4
+        name: 'Simple Syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: green-grapes
+        sort: 5
+        name: 'Green grapes'
+        amount: 5
+        amount_max: null
+        units: whole
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: enzoni-1.jpg
+        placeholder_hash: ZxgWFwKKeHePd4eGd2iHiId4ZwJ6C1AE
+        copyright: Reddit
+    -
+        sort: 2
+        file_name: enzoni-2.jpg
+        placeholder_hash: VOgJJwxIl4hQeHiLiTeYiHaYxzBnDIIE
+        copyright: "It's a drink"

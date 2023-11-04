@@ -1,0 +1,57 @@
+_id: cuba-libre
+name: 'Cuba Libre'
+instructions: 'Build all ingredients in a highball glass filled with ice.'
+description: |-
+    The cocktail originated in the early 20th century in Cuba, after the country won independence in the Spanish–American War. It subsequently became popular across Cuba, the United States, and other countries. Its simple recipe and inexpensive, ubiquitous ingredients have made it one of the world's most-popular alcoholic drinks. Drink critics often consider the drink mediocre, but it has been noted for its historical significance.
+
+    Traditionally, the cola ingredient is Coca-Cola ("Coke") and the alcohol is a light rum such as Bacardi; however, the drink may be made with various types of rums and cola brands, and lime juice may or may not be included.
+garnish: 'Garnish with lime wedge.'
+source: 'https://iba-world.com/cuba-libre/'
+tags:
+    - 'Contemporary Classics'
+    - 'IBA Cocktail'
+    - Summer
+abv: 10.1
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: white-rum
+        sort: 1
+        name: 'White Rum'
+        amount: 50
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cola
+        sort: 2
+        name: Cola
+        amount: 120
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 3
+        name: 'Lime juice'
+        amount: 10
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: cuba-libre-1.jpg
+        placeholder_hash: 1SgKHwZbaIhUgHqLiHh4SIeHd2BnBoUF
+        copyright: 'Jamie Oliver'

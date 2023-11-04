@@ -1,0 +1,63 @@
+_id: mary-pickford
+name: 'Mary Pickford'
+instructions: 'Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.'
+description: null
+garnish: 'Persian dried rose bud'
+source: 'https://iba-world.com/mary-pickford/'
+tags:
+    - 'IBA Cocktail'
+    - 'The Unforgettables'
+abv: 15.92
+glass:
+    _id: fizzio
+    name: Fizzio
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: white-rum
+        sort: 1
+        name: 'White Rum'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: pineapple-juice
+        sort: 2
+        name: 'Pineapple juice'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: maraschino
+        sort: 3
+        name: Maraschino
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: grenadine-syrup
+        sort: 4
+        name: 'Grenadine Syrup'
+        amount: 5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: mary-pickford-1.jpg
+        placeholder_hash: zBcGFwQIqJiMhodxjAbHeIiLeqAHB4sA
+        copyright: Drinkoteket

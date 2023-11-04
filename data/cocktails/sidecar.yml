@@ -1,0 +1,57 @@
+_id: sidecar
+name: Sidecar
+instructions: 'Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.'
+description: |-
+    The exact origin of the sidecar is unclear, but it is thought to have been invented around the end of World War I in either London or Paris. The drink was directly named for the motorcycle attachment, which was very commonly used back then.
+
+    Like the daiquiri, the sidecar evolved from the original sour formula, but sidecars are often drier than sours, combining liqueurs like curaçao with citrus. Sidecars are considered more of a challenge for bartenders because the proportion of ingredients is more difficult to balance for liqueurs of variable sweetness.
+garnish: ''
+source: 'https://iba-world.com/sidecar/'
+tags:
+    - 'IBA Cocktail'
+    - 'The Unforgettables'
+    - Citrusy
+abv: 24.89
+glass:
+    _id: cocktail
+    name: Cocktail
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: cognac
+        sort: 1
+        name: Cognac
+        amount: 50
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: triple-sec
+        sort: 2
+        name: 'Triple Sec'
+        amount: 20
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 20
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: sidecar-1.jpg
+        placeholder_hash: SggKFwJVd3mmhHd8aQiZeKZ1J5B9BKYH
+        copyright: 'A Couple Cooks'

@@ -1,0 +1,57 @@
+_id: ti-punch
+name: "'Ti Punch"
+instructions: |-
+    1. Slice half a lime into wedges
+    2. Muddle limes and syrup in a rocks glass
+    3. Add 2-3 pieces of ice and stir until melted
+description: "This Caribbean favorite is the laid back cousin to the daiquiri. Kick your feet up with the 'Ti Punch."
+garnish: ''
+source: 'https://www.liberandcompany.com/collections/recipes/products/ti-punch'
+tags:
+    - Caribbean
+    - Citrusy
+    - Summer
+abv: 38.96
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: muddle
+    name: Muddle
+ingredients:
+    -
+        _id: rhum-agricole
+        sort: 1
+        name: 'Rhum agricole'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 2
+        name: 'Simple Syrup'
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime
+        sort: 3
+        name: Lime
+        amount: 1
+        amount_max: null
+        units: whole
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: ti-punch-1.jpg
+        placeholder_hash: HDkOLwqzl2hgiYiph1h5Z4aJmgjIqIAN
+        copyright: 'LiberAndCo | Juliet Beletic'

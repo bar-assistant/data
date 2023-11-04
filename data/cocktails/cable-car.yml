@@ -1,0 +1,78 @@
+_id: cable-car
+name: 'Cable Car'
+instructions: |-
+    1. Start with rimming your cocktail glass with cinnamon and sugar!
+    2. Put your glass to the side and add ice to your shaker.
+    3. Add all the ingredients.
+    4. Shake cold!
+    5. Strain into your rimmed cocktail glass.
+    6. Serve!
+description: |-
+    Tony Abou-Ganim, also known as The Modern Mixologist, is a bartending legend that co-founded the Starlight Room. He created the Cable Car cocktail to pay tribute to San Francisco's cable cars! The cable cars of San Francisco are an icon of a past era. They still climb the hills of San Francisco and carry commuters and tourists up and down busy streets.
+
+    This rum sour is sweet, tart, and lightly spiced, regardless of whether you are familiar with its name. The Cable Car cocktail is a modified Sidecar. It substitutes brandy with spiced rum, back then, spiced rum was very uncommon.
+
+    Abou-Ganim's original cocktails helped to establish San Francisco as a cocktail destination in an era that was defined by Cosmopolitan and other similar drinks.
+
+    Captain Morgan was probably the most widely available spiced rum label at the time of Cable Car's inception. The Captain is probably still the most well-known of the category, but today there are plenty of other options. A more luxurious approach is to maybe use something like a Boukman Botanical Rhum.
+
+    Similar to a Sidecar or Brandy Crusta, the Cable Car includes an orange liqueur in addition to simple syrup for sweetness--specifically, orange curacao. using Bol's or something similar can make the drink heavy, so it's better to use a dry curacao. Abou-Ganim uses Marie Brizard Orange Curacao in the original recipe. Grand Marnier or maybe Cointreau would also work great.
+
+    Another aspect that made the Cable Car a classic is the way it was presented. Abou-Ganim uses a mixture of cinnamon and sugar to give the drink a punchier sweetness and a present hint of spice.
+garnish: 'Cinnamon and sugar rim'
+source: 'https://www.drinkexistence.com/cable-car-cocktail/'
+tags: {  }
+abv: 19.2
+glass:
+    _id: coupe
+    name: Coupe
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: dark-rum
+        sort: 1
+        name: 'Dark Rum'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cointreau
+        sort: 2
+        name: Cointreau
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 4
+        name: 'Simple Syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: cable-car-1.webp
+        placeholder_hash: kQgKHwIZd4d2dHaeiAeWeKlzd8CHBWoH
+        copyright: 'Liquor.com / Tim Nusog'

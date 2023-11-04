@@ -1,0 +1,69 @@
+_id: final-ward
+name: 'Final Ward'
+instructions: |-
+    1. Combine all the ingredients into your cocktail shaker
+    2. Shake with ice for 12 seconds
+    3. Strain into a chilled cocktail glass
+description: |-
+    The Final Ward is perhaps the best-know riff on the classic Last Word and was created in 2007 by Phil Ward at Death & Co. NYC. It is still comprised of equal parts with rye whiskey replacing the gin and fresh lemon juice in place of lime.
+
+    The Last Word is a gin-based prohibition-era cocktail which was rediscovered in 2004 and becoming a cult hit in the Seattle area.
+garnish: 'Cocktail cherry at the bottom of the glass'
+source: 'https://stevethebartender.com.au/final-ward-cocktail-recipe-last-word-riff/'
+tags:
+    - Citrusy
+    - Herbacious
+abv: 25.4
+glass:
+    _id: nick-and-nora
+    name: 'Nick and Nora'
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: rye-whiskey
+        sort: 1
+        name: 'Rye whiskey'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: green-chartreuse
+        sort: 2
+        name: 'Green Chartreuse'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: maraschino
+        sort: 3
+        name: Maraschino
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 4
+        name: 'Lemon juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: final-ward-1.jpg
+        placeholder_hash: nBgSFwJXmHhzdoh/eKeXWId4iUT4aIIP
+        copyright: 'The Educated Barfly'

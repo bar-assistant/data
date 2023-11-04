@@ -1,0 +1,53 @@
+_id: daiquiri
+name: Daiquiri
+instructions: 'In a cocktail shaker add all ingredients. Stir well to dissolve the sugar. Add ice and shake. Strain into chilled cocktail glass.'
+description: 'Daiquirí is also the name of a beach and an iron mine near Santiago de Cuba, and is a word of Taíno origin. The drink was supposedly invented by an American mining engineer named Jennings Cox, who was in Cuba (then at the tail-end of the Spanish Captaincy-General government) at the time of the Spanish–American War. It is also possible that William A. Chanler, a US congressman who purchased the Santiago iron mines in 1902, introduced the daiquiri to clubs in New York in that year.'
+garnish: N/A
+source: 'https://iba-world.com/daiquiri/'
+tags:
+    - 'IBA Cocktail'
+    - 'The Unforgettables'
+abv: 24
+glass:
+    _id: coupe
+    name: Coupe
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: white-rum
+        sort: 1
+        name: 'White Rum'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 2
+        name: 'Lime juice'
+        amount: 20
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sugar
+        sort: 3
+        name: Sugar
+        amount: 2
+        amount_max: null
+        units: barspoon
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: daiquiri-1.jpg
+        placeholder_hash: p4YJFwRWh4dvdneDiGenV4h4OCf8RJMP
+        copyright: 'A Couple Cooks'

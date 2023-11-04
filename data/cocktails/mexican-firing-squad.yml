@@ -1,0 +1,67 @@
+_id: mexican-firing-squad
+name: "Mexican Firing\_Squad"
+instructions: |-
+    1. Add all ingredients to a cocktail shaker.
+    2. Add ice and shake until chilled.
+    3. Strain into a rocks glass over ice.
+description: 'A classic first illustrated in Charles H. Baker’s The Gentlemen’s Companion, the Mexican Firing Squad is a tequila cocktail that deserves attention. It’s served at Ward III in New York City, where bartender Kenneth McCoy says he added it to his summer menu because “it’s fun and delicious and a bit more under the radar than a Margarita or a Paloma.”'
+garnish: 'Garnish with a lime wheel.'
+source: 'https://punchdrink.com/recipes/mexican-firing-squad/'
+tags:
+    - Summer
+    - Sweet
+    - Citrusy
+abv: 18.77
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: tequila-blanco
+        sort: 1
+        name: 'Tequila Blanco'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 2
+        name: 'Lime juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: grenadine-syrup
+        sort: 3
+        name: 'Grenadine Syrup'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: angostura-aromatic-bitters
+        sort: 4
+        name: 'Angostura aromatic bitters'
+        amount: 5
+        amount_max: null
+        units: dash
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: mexican-firing-squad-1.jpg
+        placeholder_hash: mDkKDwRaVZmPpIexeEeneHl49j4WB3EB
+        copyright: 'Punch Staff'

@@ -1,0 +1,74 @@
+_id: mojito
+name: Mojito
+instructions: 'Mix mint springs with sugar and lime juice. Add splash of soda water and fill the glass with ice. Pour the rum and top with soda water. Light stir to involve all ingredients.'
+description: null
+garnish: 'Garnish with sprigs of mint and slice of lime.'
+source: 'https://iba-world.com/mojito/'
+tags:
+    - 'Contemporary Classics'
+    - 'IBA Cocktail'
+    - Mojito
+abv: 25.17
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: white-rum
+        sort: 1
+        name: 'White Rum'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 2
+        name: 'Lime juice'
+        amount: 20
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: mint
+        sort: 3
+        name: Mint
+        amount: 6
+        amount_max: null
+        units: sprigs
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sugar
+        sort: 4
+        name: Sugar
+        amount: 2
+        amount_max: null
+        units: tsp
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: club-soda
+        sort: 5
+        name: 'Club soda'
+        amount: 1
+        amount_max: null
+        units: topup
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: mojito-1.jpg
+        placeholder_hash: MhkGFwB+WaaZf6RjaURa55hGDYp09hkH
+        copyright: 'Bon Apetite'

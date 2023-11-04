@@ -1,0 +1,59 @@
+_id: angel-face
+name: 'Angel Face'
+instructions: |-
+    1. Pour all ingredients into cocktail shaker filled with ice cubes.
+    2. Shake and strain into a chilled cocktail glass.
+description: |-
+    Although the origin of the cocktail is not known, the main hypotheses assume that it was born in the twenties of the twentieth century in France: this thesis would prove the presence of calvados, a liqueur commonly used in France and, in particular, in that period, as an epidemic of phylloxera in European vineyards had limited the production of brandy.
+    On this basis, one of the most frequent hypotheses has it that the cocktail was created by Harry MacElhone, founder of Harry’s New York Bar in Paris on July 19, 1919, in honor of the celebrations for the victory of the First World War.
+    The first reliable evidence, however, dates back to 1930 when Harry Craddock included the Angel Face among the recipes of his book “Savoy cocktail book”. Some sources indicate that the name derives from that of an American gangster active during Prohibition; less likely the dedication to Rick Blaine, the protagonist of Casablanca played by Humphrey Bogart, as the film follows the first testimonies (1942).
+garnish: ''
+source: 'https://iba-world.com/angel-face/'
+tags:
+    - 'IBA Cocktail'
+    - 'The Unforgettables'
+    - Fruity
+abv: 32
+glass:
+    _id: nick-and-nora
+    name: 'Nick and Nora'
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: apricot-brandy
+        sort: 2
+        name: 'Apricot Brandy'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: apple-brandy
+        sort: 3
+        name: 'Apple Brandy'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: angel-face-1.jpg
+        placeholder_hash: JEkKLwhjV3lQdYjEiHeLuJWZhPe4aI8K
+        copyright: 'Wine Enthusiast / Tyler Zieliniski'

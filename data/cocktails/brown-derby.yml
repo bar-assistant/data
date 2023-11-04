@@ -1,0 +1,72 @@
+_id: brown-derby
+name: 'Brown Derby'
+instructions: |-
+    1. Add the ingredients into a shaker with ice and shake until well-chilled.
+
+    2. Fine-strain into a cocktail glass.
+
+    3. Express the oil from a grapefruit twist over the drink and drop the twist into the drink to garnish.
+description: 'The Brown Derby cocktail, a classic bourbon drink, was named for the famous Los Angeles diner and is both sweet and sour.'
+garnish: 'Grapefruit twist'
+source: null
+tags: {  }
+abv: 14.77
+glass:
+    _id: coupe
+    name: Coupe
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: bourbon-whiskey
+        sort: 1
+        name: 'Bourbon Whiskey'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: white-grapefruit-juice
+        sort: 2
+        name: 'White grapefruit juice'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: grapefruit-juice
+                name: 'Grapefruit juice'
+                amount: null
+                amount_max: null
+                units: null
+    -
+        _id: honey-syrup
+        sort: 3
+        name: 'Honey Syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 4
+        name: 'Lemon juice'
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: brown-derby-1.jpg
+        placeholder_hash: b1oGFwL2WIdyiYh4iMhHyFiGqeBpCZ4E
+        copyright: Liquor.com

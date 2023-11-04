@@ -1,0 +1,55 @@
+_id: mezcal-margarita
+name: 'Mezcal Margarita'
+instructions: |
+    1. Combine all ingredients in a mixing tin and shake with ice.
+    2. Strain into a chilled coupe or into a rocks glass over a large ice cube.
+    3. Garnish with a lime wedge.
+description: "Potent, piquant, perfectly balanced, this simple mezcal Margarita recipe comes from Phil Ward's now-shuttered agave bar, Mayahuel."
+garnish: 'lime wedge'
+source: 'https://punchdrink.com/recipes/mayahuel-mezcal-margarita/'
+tags:
+    - Margarita
+abv: 25.6
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: mezcal
+        sort: 1
+        name: Mezcal
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cointreau
+        sort: 2
+        name: Cointreau
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 3
+        name: 'Lime juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 0
+        file_name: mezcal-margarita-1.jpg
+        placeholder_hash: 5VoKHwIodphdp5iCaQa5uFd3mN+495UM
+        copyright: 'Punch Staff'

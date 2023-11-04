@@ -1,0 +1,74 @@
+_id: champagne-cocktail
+name: 'Champagne Cocktail'
+instructions: 'Place the sugar cube with 2 dashes of bitters in a large Champagne glass, add the cognac. Pour gently chilled Champagne.'
+description: 'A recipe for the cocktail appears as early as "Professor" Jerry Thomas'' Bon Vivant''s Companion (1862), which omits the brandy or cognac and is considered to be the "classic" American version.'
+garnish: 'Garnish with orange zest and maraschino cherry.'
+source: 'https://iba-world.com/champagne-cocktail/'
+tags:
+    - 'Contemporary Classics'
+    - 'IBA Cocktail'
+    - Wine
+abv: 13.78
+glass:
+    _id: champagne
+    name: Champagne
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: champagne
+        sort: 1
+        name: Champagne
+        amount: 90
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cognac
+        sort: 2
+        name: Cognac
+        amount: 10
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: angostura-aromatic-bitters
+        sort: 3
+        name: 'Angostura aromatic bitters'
+        amount: 2
+        amount_max: null
+        units: dashes
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: grand-marnier
+        sort: 4
+        name: 'Grand Marnier'
+        amount: 1
+        amount_max: null
+        units: drops
+        note: null
+        optional: true
+        substitutes: {  }
+    -
+        _id: sugar
+        sort: 5
+        name: Sugar
+        amount: 1
+        amount_max: null
+        units: cube
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: champagne-cocktail-1.jpg
+        placeholder_hash: DPgJDwBHqWdxhniOiQeH14hyivEGeW8A
+        copyright: 'A Couple Cooks'

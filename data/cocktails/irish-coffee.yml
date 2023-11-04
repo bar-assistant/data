@@ -1,0 +1,70 @@
+_id: irish-coffee
+name: 'Irish Coffee'
+instructions: |-
+    1. Warm black coffee is poured into a pre-heated Irish coffee glass.
+    2. Whiskey and at least one teaspoon of sugar is added and stirred until dissolved.
+    3. Fresh thick chilled cream is carefully poured over the back of a spoon held just above the surface of the coffee.
+    4. The layer of cream will float on the coffee without mixing.
+    5. Plain sugar can be replaced with sugar syrup
+description: 'Caffeinated alcoholic drink consisting of Irish whiskey, hot coffee, and sugar, stirred, and topped with cream (sometimes cream liqueur) The coffee is drunk through the cream.'
+garnish: null
+source: 'https://iba-world.com/irish-coffee/'
+tags:
+    - 'Contemporary Classics'
+    - 'IBA Cocktail'
+    - Coffee
+    - Hot
+abv: 8.26
+glass:
+    _id: glass-mug
+    name: 'Glass mug'
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: irish-whiskey
+        sort: 1
+        name: 'Irish whiskey'
+        amount: 50
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: coffee
+        sort: 2
+        name: Coffee
+        amount: 120
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cream
+        sort: 3
+        name: Cream
+        amount: 50
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sugar
+        sort: 4
+        name: Sugar
+        amount: 1
+        amount_max: null
+        units: teaspoon
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: irish-coffee-1.jpg
+        placeholder_hash: yPcJDwIIuHeJhXh5d0ioJ8hzp/d4aJ8I
+        copyright: VinePair

@@ -1,0 +1,75 @@
+_id: humuhumunukunukuapuaa
+name: "Humuhumunukunukuapua'a"
+instructions: |-
+    1. Add all ingredients to a cocktail shaker
+    2. Add ice and shake hard for 10 seconds
+    3. Strain into a chilled rocks glass filled with crushed ice
+description: "This Smuggler's Cove original is hard to say but easy to drink. If you're wondering, Hawaii's state fish is the namesake."
+garnish: orchid
+source: 'https://www.liberandcompany.com/collections/recipes/products/humuhumunukunukuapuaa'
+tags:
+    - Citrusy
+abv: 16.12
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 2
+        name: 'Lemon juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: pineapple-juice
+        sort: 3
+        name: 'Pineapple juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: orgeat-syrup
+        sort: 4
+        name: 'Orgeat Syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: peychauds-bitters
+        sort: 5
+        name: 'Peychauds Bitters'
+        amount: 2
+        amount_max: null
+        units: dash
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: humuhumunukunukuapuaa-1.jpg
+        placeholder_hash: ThgGFwQKq2bXj4SDvqg3eXl2dgnLaKAI
+        copyright: 'LiberAndCo | Subtle Tiki'

@@ -1,0 +1,65 @@
+_id: the-infante
+name: 'The Infante'
+instructions: |-
+    1. Combine all ingredients in a cocktail shaker with ice and shake until chilled.
+    2. Strain into a rocks glass over a large ice cube.
+description: 'The Infante, a Margarita riff that introduces aromatic orgeat and rose water, shows how far the cantina staple has traveled. Named after Mexican actor Pedro Infante, the recipe was created in New York City by Giuseppe González, a testament to the way that craft cocktail circles have adopted the refreshing classic and made it their own.'
+garnish: 'Garnish with freshly ground nutmeg.'
+source: 'https://punchdrink.com/recipes/infante/'
+tags:
+    - Margarita
+    - Light
+abv: 18.08
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: tequila-blanco
+        sort: 1
+        name: 'Tequila Blanco'
+        amount: 60
+        amount_max: 0
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 2
+        name: 'Lime juice'
+        amount: 22.5
+        amount_max: 0
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: orgeat-syrup
+        sort: 3
+        name: 'Orgeat Syrup'
+        amount: 22.5
+        amount_max: 0
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: rose-water
+        sort: 4
+        name: 'Rose water'
+        amount: 2
+        amount_max: 0
+        units: dash
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: the-infante-1.jpg
+        placeholder_hash: oGsKJwQHeZqHenhjeIh3iHiHiPeop58J
+        copyright: 'Punch Staff'

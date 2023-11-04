@@ -1,0 +1,76 @@
+_id: bramble
+name: Bramble
+instructions: |-
+    If crème de mûre is unavailable, many bartenders will substitute creme de cassis for it.
+
+    1. Pour all ingredients into a cocktail shaker except the Crème de Mûre
+    2. Shake well with ice
+    3. Strain into chilled old fashioned glass filled with crushed ice
+    4. Pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.
+description: 'The Bramble was created in London, in 1984, by Dick Bradsell. At the time, Bradsell worked at a bar in Soho called Fred&#039;s Club, and he wanted to create a British cocktail. Memories of going blackberrying in his childhood on the Isle of Wight provided the inspiration for the Bramble.'
+garnish: 'Garnish optionally with a lemon slice and blackberries.'
+source: 'https://iba-world.com/bramble/'
+tags:
+    - 'IBA Cocktail'
+    - 'New Era Drinks'
+    - Fruity
+abv: 20.66
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 50
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 2
+        name: 'Lemon juice'
+        amount: 25
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 3
+        name: 'Simple Syrup'
+        amount: 12
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: creme-de-mure
+        sort: 4
+        name: 'Crème de mûre'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: creme-de-cassis
+                name: 'Crème de cassis'
+                amount: null
+                amount_max: null
+                units: null
+images:
+    -
+        sort: 1
+        file_name: bramble-1.jpg
+        placeholder_hash: 00gGFwYQuVdYeIahfRWrpXh5VAm5WIAH
+        copyright: Anders

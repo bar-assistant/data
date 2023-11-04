@@ -1,0 +1,74 @@
+_id: new-fashioned
+name: 'New Fashioned'
+instructions: |-
+    1. Place a sugar lump in a glass and add the bitters and Cocchi Americano; muddle to dissolve the sugar.
+    2. Add the sake and fill glass with crushed ice, then stir to combine.
+    3. Pour the wine over a spoon to “float” atop the drink, creating two layers.
+description: 'This eye-catching spin on the Old Fashioned combines junmai (pure-rice) sake with Italian aperitivo Cocchi Americano and dry red wine.'
+garnish: 'Lemon twist'
+source: 'https://imbibemagazine.com/recipe/new-fashioned/'
+tags: {  }
+abv: 15.71
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: sake
+        sort: 1
+        name: Sake
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cocchi-aperitivo-americano
+        sort: 2
+        name: 'Cocchi Aperitivo Americano'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: red-wine
+        sort: 3
+        name: 'Red wine'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: grapefruit-bitters
+        sort: 4
+        name: 'Grapefruit bitters'
+        amount: 3
+        amount_max: null
+        units: dashes
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sugar
+        sort: 5
+        name: Sugar
+        amount: 1
+        amount_max: null
+        units: cube
+        note: null
+        optional: true
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: new-fashioned-1.jpg
+        placeholder_hash: 9SgKHwagnJmLdoirZ5eJh4iJ9UJWT3UC
+        copyright: 'Lara Ferroni'

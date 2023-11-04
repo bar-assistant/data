@@ -1,0 +1,54 @@
+_id: alaska
+name: Alaska
+instructions: |-
+    1. Combine all ingredients with ice in a mixing glass and stir at length, until the sides of the glass are frosty
+    2. Strain into a cocktail glass and serve up
+description: 'One of the great Chartreuse cocktails and a fundamental three-ingredient recipe'
+garnish: ''
+source: 'https://tuxedono2.com/alaska-cocktail-recipe'
+tags:
+    - Herbacious
+abv: 33.23
+glass:
+    _id: nick-and-nora
+    name: 'Nick and Nora'
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: yellow-chartreuse
+        sort: 2
+        name: 'Yellow Chartreuse'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: orange-bitters
+        sort: 3
+        name: 'Orange bitters'
+        amount: 1
+        amount_max: null
+        units: dash
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: alaska-1.jpg
+        placeholder_hash: 2DgaFwZnh4eAh3iJiGeXZ4eJd2QIh5YA
+        copyright: Punch

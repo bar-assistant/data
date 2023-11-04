@@ -1,0 +1,74 @@
+_id: white-lady
+name: 'White Lady'
+instructions: 'Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.'
+description: |-
+    It was first created in 1919 in London by Harry MacElhone and it was equal parts creme de menthe, triple sec and lemon juice. But four years later [1923], when he was working in Paris, France, at Harry&amp;#039;s American Bar, he had changed the recipe. He had swapped out the creme de menthe, for gin. Which, was a good move. But then, four years later [1927], he puts out the book &amp;quot;Barflies and Cocktails&amp;quot; and includes the White Lady, but the recipe no longer had gin. It went back to cremé de menthe, and it didn&amp;#039;t have lemon juice. It had Brandy, and it was no longer equal parts. It was a completely different drink.
+
+    But then, 3 years later, in 1930, Harry Craddock steps in and he puts, in the &amp;quot;The Savoy Cocktail Book&amp;quot;, the White Lady. Gin, triple sec and lemon juice, only he increases the amount of gin to make a drier cocktail. Which is pretty much the cocktail we have today... and it&amp;#039;s a great drink.
+
+    A few years after this drink became popular at the American Bar at the Savoy in London, because of Harry Craddock. One of the managers, suggested putting in a little egg white. But to this day, the egg white is considered optional.
+garnish: N/A
+source: 'https://iba-world.com/white-lady/'
+tags:
+    - 'IBA Cocktail'
+    - 'The Unforgettables'
+abv: 22.86
+glass:
+    _id: coupe
+    name: Coupe
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: triple-sec
+        sort: 2
+        name: 'Triple Sec'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: cointreau
+                name: Cointreau
+                amount: null
+                amount_max: null
+                units: null
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 4
+        name: 'Simple Syrup'
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: true
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: white-lady-1.jpg
+        placeholder_hash: XAgKBwA2hYdRZ4h6igeXiKd1CztDsCAH
+        copyright: 'BBC Good Food'

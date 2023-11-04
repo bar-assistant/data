@@ -1,0 +1,61 @@
+_id: whitechapel-gt
+name: 'Whitechapel G&T'
+instructions: '1. Combine the first 3 ingredients in an ice-filled highball glass and top with chilled tonic, to taste; stir to combine, then garnish.'
+description: 'While developing a Gin & Tonic menu for gin-focused bar Whitechapel, co-owner and beverage director Alex Smith looked to Italian flavors for inspiration—and wound up with a hybrid that evokes another gin-based classic. “I was thinking about how best to capture the signature flavors of Italian spirits,” Smith says. “The two classic Negroni ingredients, vermouth and Campari, seemed almost too poetically perfect for this application—but the resulting drink is quite delicious as it turns out.”'
+garnish: 'Orange twist, rosemary sprig'
+source: 'https://imbibemagazine.com/recipe/whitechapel-italian-gt/'
+tags: {  }
+abv: 30.76
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: campari
+        sort: 2
+        name: Campari
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sweet-vermouth
+        sort: 3
+        name: 'Sweet Vermouth'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: tonic
+        sort: 4
+        name: Tonic
+        amount: 1
+        amount_max: null
+        units: topup
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 0
+        file_name: whitechapel-gt-1.jpg
+        placeholder_hash: 9jgKLwr3WGh8hXqMdYiZh3h2h0BIB4MF
+        copyright: 'Imbibe Magazine | Lara Ferroni'

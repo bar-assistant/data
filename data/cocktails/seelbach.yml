@@ -1,0 +1,75 @@
+_id: seelbach
+name: Seelbach
+instructions: |-
+    1. Add the bourbon, Cointreau, Angostura bitters and Peychaud’s bitters into a mixing glass with ice and stir until well-chilled.
+    2. Strain into a chilled flute.
+    3. Top with cold Champagne or other sparkling wine.
+    3. Garnish with an orange twist.
+description: "The Seelbach Cocktail may not be a julep, but it doesn't have to be: it's respectable, powerful, and delicious right down to the bottom of the glass."
+garnish: 'Orange twist'
+source: 'https://www.seriouseats.com/seelbach-cocktail-recipe'
+tags: {  }
+abv: 18.43
+glass:
+    _id: champagne
+    name: Champagne
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: bourbon-whiskey
+        sort: 1
+        name: 'Bourbon Whiskey'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cointreau
+        sort: 2
+        name: Cointreau
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: angostura-aromatic-bitters
+        sort: 3
+        name: 'Angostura aromatic bitters'
+        amount: 5
+        amount_max: null
+        units: dashes
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: peychauds-bitters
+        sort: 4
+        name: 'Peychauds Bitters'
+        amount: 5
+        amount_max: null
+        units: dashes
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: champagne
+        sort: 5
+        name: Champagne
+        amount: 90
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: seelbach-1.jpg
+        placeholder_hash: eAgGFwL4J8iGe4R5hqlXqGd4eMBnB3wG
+        copyright: 'The Educated Barfly'

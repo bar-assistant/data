@@ -1,0 +1,86 @@
+_id: art-of-choke
+name: 'Art of Choke'
+instructions: |-
+    1. Muddle mint and syrup in a mixing glass
+    2. Add remaining with ice and stir for 20 seconds
+    3. Strain into a chilled rocks glass with fresh ice
+description: "A drink that broke all the rules when Kyle Davidson first conjured it in 2008. Now it's a modern classic. What's interesting is opting for a split base where one half is an overproof amaro instead of a spirit. Also wild - this is a stirred cocktail!"
+garnish: 'Mint sprig'
+source: 'https://www.liberandcompany.com/collections/recipes/products/art-of-choke'
+tags:
+    - Citrusy
+    - Herbacious
+abv: 22.83
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: muddle
+    name: Muddle
+ingredients:
+    -
+        _id: white-rum
+        sort: 1
+        name: 'White Rum'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cynar
+        sort: 2
+        name: Cynar
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: green-chartreuse
+        sort: 3
+        name: 'Green Chartreuse'
+        amount: 1
+        amount_max: null
+        units: barspoon
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: demerara-syrup
+        sort: 4
+        name: 'Demerara Syrup'
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 5
+        name: 'Lime juice'
+        amount: 1
+        amount_max: null
+        units: barspoon
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: mint
+        sort: 6
+        name: Mint
+        amount: 1
+        amount_max: null
+        units: sprig
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: art-of-choke-1.jpg
+        placeholder_hash: XPgJHwbCimLGdlhvapeHhnV8VwWZZJAJ
+        copyright: "LiberAndCo | \_Scott Kallstrand"

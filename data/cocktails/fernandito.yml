@@ -1,0 +1,46 @@
+_id: fernandito
+name: Fernandito
+instructions: 'Pour the Fernet Branca into a double old fashioned glass with ice, fill the glass up with Cola. Gently stir.'
+description: |-
+    The cocktail first became popular among the youth of the college town of Córdoba, in the 1980s and—impulsed by an advertising campaign led by Fratelli Branca—its consumption grew in popularity during the following decades to become widespread throughout the country, surpassed only by that of beer and wine. It is now considered a cultural icon of Argentina and is especially associated with its home province of Córdoba, where the drink is most consumed. The popularity of fernet con coca is such that Argentina consumes more than 75% of all fernet produced globally. The cocktail can also be found in some of its bordering countries, like Uruguay.
+
+    Although typically made with Fernet-Branca and Coca-Cola, several amaro brands have appeared in Argentina since its popularization, as well as ready-to-drink versions. 
+garnish: N/A
+source: 'https://iba-world.com/fernandito/'
+tags:
+    - 'IBA Cocktail'
+    - 'New Era Drinks'
+abv: 10.43
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: fernet-branca
+        sort: 1
+        name: 'Fernet Branca'
+        amount: 50
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cola
+        sort: 2
+        name: Cola
+        amount: 120
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: fernandito-1.jpg
+        placeholder_hash: JykGJwT3R3ZchZd1cHvqZnd1der4eJ8P
+        copyright: 'The daily meal'

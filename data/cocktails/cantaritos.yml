@@ -1,0 +1,86 @@
+_id: cantaritos
+name: Cantaritos
+instructions: |-
+    1. If using the traditional clay cup for serving, soak it in cold water for 10 minutes before using. Otherwise, use a highball glass.
+    2. Combine the tequila, orange juice, lemon juice and lime juice in the glass with a pinch of salt.
+    3. Fill the glass with ice and top with grapefruit soda.
+description: 'Cantaritos are Mexican tequila cocktails served in clay cups! Similar to the Paloma, this drink stars grapefruit soda and citrus.'
+garnish: 'Citrus wedges'
+source: Mexico
+tags:
+    - Citrusy
+    - Fruity
+abv: 9.7
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: tequila-reposado
+        sort: 1
+        name: 'Tequila Reposado'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: orange-juice
+        sort: 2
+        name: 'Orange juice'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 3
+        name: 'Lime juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 4
+        name: 'Lemon juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: grapefruit-juice
+        sort: 5
+        name: 'Grapefruit juice'
+        amount: 90
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: salt
+        sort: 6
+        name: Salt
+        amount: 2
+        amount_max: null
+        units: pinch
+        note: null
+        optional: true
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: cantaritos-1.jpg
+        placeholder_hash: ZwgKLwy3QmeKlnePp2p3t3l1xwFXHYAF
+        copyright: 'A Couple Cooks'

@@ -1,0 +1,72 @@
+_id: floppydisk
+name: Floppydisk
+instructions: 'Shake without soda'
+description: 'The tricky thing when it comes to low ABV drinks is that the end result doesn’t always give that same feeling of a proper mixed drink. They can easily lack complexity and fall flat. On imbibes website they state this drink is “half the booze and double the flavor” which describes this drink perfectly.'
+garnish: 'Dried grapefruit'
+source: 'https://www.reddit.com/r/cocktails/comments/131qe97/made_a_low_abv_cocktail_floppy_disc_and_a_mix_of/'
+tags:
+    - Virgin
+abv: 5.83
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: grapefruit-juice
+        sort: 1
+        name: 'Grapefruit juice'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cynar
+        sort: 2
+        name: Cynar
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: dry-curacao
+        sort: 3
+        name: 'Dry Curaçao'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: mezcal
+        sort: 4
+        name: Mezcal
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: club-soda
+        sort: 5
+        name: 'Club soda'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: floppydisk-1.jpg
+        placeholder_hash: mBgWHwh4d3hwh3iYiJeGh3eWRwFZJIAG
+        copyright: null

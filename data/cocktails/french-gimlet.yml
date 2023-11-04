@@ -1,0 +1,56 @@
+_id: french-gimlet
+name: 'French Gimlet'
+instructions: |-
+    1. Combine all the ingredients into your cocktail shaker
+    2. Shake with ice for 12-15 seconds
+    3. Strain into a chilled coupe glass
+description: 'A simple 3-ingredient riff on a classic Gimlet. St-Germain Elderflower Liqueur is used as the sweetener to balance the tart lime juice. The French Gimlet highlights the bright, citrusy and floral notes of St Germain.'
+garnish: 'Garnish with a lime wheel'
+source: 'https://stevethebartender.com.au/st-germain-elderflower-french-gimlet/'
+tags:
+    - Citrusy
+    - Sweet
+abv: 22
+glass:
+    _id: coupe
+    name: Coupe
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: st-germain
+        sort: 2
+        name: St-Germain
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 3
+        name: 'Lime juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 0
+        file_name: french-gimlet-1.jpg
+        placeholder_hash: 5zgKDwJBaHckh3dQiFeGSKiHhwgRqUAG
+        copyright: 'Steve the Bartender'

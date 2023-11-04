@@ -1,0 +1,78 @@
+_id: rabbit-szn
+name: 'Rabbit Szn'
+instructions: |-
+    1. Add the first three ingredients to a shaker and whip-shake with a few ice cubes.
+    2. Strain into a Collins glass.
+    3. Top with club soda, add ice, then float sweet vermouth on top.
+    4. Garnish with a sprig of mint.
+description: 'Blanco tequila, lime juice, ginger syrup and a float of sweet vermouth make up this bubbly, easy cocktail recipe.'
+garnish: 'spring of mint'
+source: 'https://punchdrink.com/recipes/rabbit-szn/'
+tags:
+    - Herbacious
+    - Sour
+    - Sweet
+abv: 15.77
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: tequila-blanco
+        sort: 1
+        name: 'Tequila Blanco'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: 'preferably Teremana'
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 2
+        name: 'Lime juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: ginger-syrup
+        sort: 3
+        name: 'Ginger syrup'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sweet-vermouth
+        sort: 4
+        name: 'Sweet Vermouth'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: 'preferably Fell to Earth'
+        optional: false
+        substitutes: {  }
+    -
+        _id: club-soda
+        sort: 5
+        name: 'Club soda'
+        amount: 1
+        amount_max: null
+        units: topup
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 0
+        file_name: rabbit-szn-1.jpg
+        placeholder_hash: yjgOFwQGuGd3iId2epZ3eIiGKGCmEHYJ
+        copyright: 'Punch Staff | Stephen Recchia'

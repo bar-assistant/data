@@ -1,0 +1,63 @@
+_id: bijou
+name: Bijou
+instructions: 'Stir in mixing glass with ice and strain'
+description: 'This cocktail was invented by Harry Johnson, "the father of professional bartending", who called it bijou because it combined the colors of three jewels: gin for diamond, vermouth for ruby, and chartreuse for emerald.'
+garnish: 'Maraschino cherry'
+source: 'https://en.wikipedia.org/wiki/Bijou_(cocktail)'
+tags:
+    - Herbacious
+    - Floral
+abv: 31.28
+glass:
+    _id: nick-and-nora
+    name: 'Nick and Nora'
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sweet-vermouth
+        sort: 2
+        name: 'Sweet Vermouth'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: green-chartreuse
+        sort: 3
+        name: 'Green Chartreuse'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: orange-bitters
+        sort: 4
+        name: 'Orange bitters'
+        amount: 2
+        amount_max: null
+        units: dashes
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: bijou-1.jpg
+        placeholder_hash: CvgFJwRC9KRodniFiwXWppeVW5ULC6oB
+        copyright: 'A Couple Cooks'

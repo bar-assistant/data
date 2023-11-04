@@ -1,0 +1,75 @@
+_id: airmail
+name: Airmail
+instructions: |-
+    1. Combine all ingredients except for the champagne in a mixer and shake for ten seconds
+    2. Strain into a flute and top with champagne
+description: 'An endlessly drinkable sparkler of debated origin'
+garnish: 'Orange or lime peel'
+source: 'https://en.wikipedia.org/wiki/Airmail_(cocktail)'
+tags:
+    - Citrusy
+abv: 16.46
+glass:
+    _id: cocktail
+    name: Cocktail
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: white-rum
+        sort: 1
+        name: 'White Rum'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: champagne
+        sort: 2
+        name: Champagne
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 3
+        name: 'Lime juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: honey-syrup
+        sort: 4
+        name: 'Honey Syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: simple-syrup
+                name: 'Simple Syrup'
+                amount: null
+                amount_max: null
+                units: null
+images:
+    -
+        sort: 1
+        file_name: airmail-1.jpg
+        placeholder_hash: 5ggSJwJwhod4qnmFiId3Vnd3ZkCaNYAH
+        copyright: 'Punch |  Daniel Krieger'
+    -
+        sort: 2
+        file_name: airmail-2.jpg
+        placeholder_hash: ixgKFwAImIeLdnh3iRfHaIh5isB4DbMK
+        copyright: 'Imbibe Magazine'

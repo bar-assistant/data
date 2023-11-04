@@ -1,0 +1,54 @@
+_id: jack-rose
+name: 'Jack Rose'
+instructions: |-
+    1. Combine all ingredients with ice and shake
+    2. Strain into a coupe, serve up
+description: 'This simple sweet-tart classic delivers full on apple flavor'
+garnish: null
+source: 'https://tuxedono2.com/jack-rose-cocktail-recipe'
+tags:
+    - Brandy
+abv: 18.29
+glass:
+    _id: coupe
+    name: Coupe
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: apple-brandy
+        sort: 1
+        name: 'Apple Brandy'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: grenadine-syrup
+        sort: 2
+        name: 'Grenadine Syrup'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 0
+        file_name: jack-rose-1.jpg
+        placeholder_hash: BggGDwIIp4h4dIiGeSfHF8h2+rFjDFoG
+        copyright: TuxedoNo2

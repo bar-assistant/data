@@ -1,0 +1,63 @@
+_id: canchanchara
+name: Canchànchara
+instructions: 'Mix honey with water and lime juice and spread the mixture on the bottom and sides of the glass. Add cracked ice, and then the rum. End by energetically stirring from bottom to top.'
+description: 'Known as the forerunner of the Daiquiri, and drunk by Cuban revolutionaries fighting off the Spanish at the end of the nineteenth century, the Canchànchara is a simple mix of honey, citrus and rum (originally aguardiente de caña rather than rum).'
+garnish: 'Lime wedge.'
+source: 'https://iba-world.com/cachanchara/'
+tags:
+    - 'IBA Cocktail'
+    - 'New Era Drinks'
+abv: 15.58
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: white-rum
+        sort: 1
+        name: 'White Rum'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 2
+        name: 'Lime juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: honey-syrup
+        sort: 3
+        name: 'Honey Syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: water
+        sort: 4
+        name: Water
+        amount: 50
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: canchanchara-1.jpg
+        placeholder_hash: 2RgOHwQoaJdxeXdwiZlniJiJSB+W9nIL
+        copyright: 'Liquor.com / Tim Nusog'

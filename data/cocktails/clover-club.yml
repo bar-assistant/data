@@ -1,0 +1,78 @@
+_id: clover-club
+name: 'Clover Club'
+instructions: |-
+    1. Pour all ingredients into cocktails shaker.
+    2. Shake well with ice.
+    3. Strain into chilled cocktail glass.
+
+    The egg white is not added for the purpose of giving the drink flavor, but rather acts as an emulsifier. Thus when the drink is shaken a characteristic foamy head is formed.
+description: "The Clover Club Cocktail is a drink that pre-dates Prohibition in the United States, and is named for the Philadelphia men's club of the same name, which met in the Bellevue-Stratford Hotel at South Broad and Walnut Streets in Center City. The Clover Club was chartered in 1882."
+garnish: 'Fresh raspberries'
+source: 'https://iba-world.com/clover-club/'
+tags:
+    - 'IBA Cocktail'
+    - 'The Unforgettables'
+abv: 18.4
+glass:
+    _id: coupe
+    name: Coupe
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 45
+        amount_max: 0
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: raspberry-syrup
+        sort: 2
+        name: 'Raspberry Syrup'
+        amount: 15
+        amount_max: 0
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 15
+        amount_max: 0
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: egg-white
+        sort: 4
+        name: 'Egg White'
+        amount: 1
+        amount_max: 0
+        units: drops
+        note: null
+        optional: true
+        substitutes: {  }
+    -
+        _id: dry-vermouth
+        sort: 5
+        name: 'Dry Vermouth'
+        amount: 15
+        amount_max: 0
+        units: ml
+        note: null
+        optional: true
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: clover-club-1.jpg
+        placeholder_hash: CRgKFwRIiYhndYaKiQend6l0evMmCH4B
+        copyright: 'A Couple Cooks'

@@ -1,0 +1,76 @@
+_id: rattlesnake
+name: Rattlesnake
+instructions: |-
+    1. Add all ingredients to a shaker and dry shake, without ice.
+    2. Add ice and shake again until chilled.
+    3. Fine-strain into a coupe glass.
+description: 'The Rattlesnake is a classic whiskey cocktail recipe combining rye, absinthe, lemon juice, simple syrup and an egg white.'
+garnish: 'Garnish with an Angostura bitters swirl.'
+source: 'https://punchdrink.com/recipes/rattlesnake/'
+tags:
+    - Classics
+    - Bitter
+abv: 18.44
+glass:
+    _id: coupe
+    name: Coupe
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: rye-whiskey
+        sort: 1
+        name: 'Rye whiskey'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 2
+        name: 'Lemon juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 3
+        name: 'Simple Syrup'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: absinthe
+        sort: 4
+        name: Absinthe
+        amount: 2
+        amount_max: null
+        units: dash
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: egg-white
+        sort: 5
+        name: 'Egg White'
+        amount: 1
+        amount_max: null
+        units: whole
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 0
+        file_name: rattlesnake-1.jpg
+        placeholder_hash: 2VcSNwhZmoiIlphqeAeniJh0F3B2/6sC
+        copyright: 'Punch Staff'

@@ -1,0 +1,72 @@
+_id: sazerac
+name: Sazerac
+instructions: |-
+    1. Rinse a chilled old-fashioned glass with the absinthe.
+    2. Add crushed ice and set it aside.
+    3. Stir the remaining ingredients over ice in a mixing glass.
+    4. Discard the ice and any excess absinthe from the prepared glass.
+    5. Strain the mixed drink into the glass.
+description: |-
+    The Sazerac is a local variation of a cognac or whiskey cocktail originally from New Orleans, named for the Sazerac de Forge et Fils brand of cognac brandy that served as its original main ingredient.
+    The drink is most traditionally a combination of cognac or rye whiskey, absinthe, Peychaud's Bitters, and sugar, although bourbon whiskey is sometimes substituted for the rye and Herbsaint is sometimes substituted for the absinthe.
+    Some claim it is the oldest known American cocktail, with origins in antebellum New Orleans, although drink historian David Wondrich is among those who dispute this, and American instances of published usage of the word cocktail to describe a mixture of spirits, bitters, and sugar can be traced to the dawn of the 19th century.
+garnish: 'Garnish with lemon zest.'
+source: 'https://iba-world.com/sazerac/'
+tags:
+    - 'IBA Cocktail'
+    - 'The Unforgettables'
+    - Brandy
+abv: 33.25
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: cognac
+        sort: 1
+        name: Cognac
+        amount: 50
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: absinthe
+        sort: 2
+        name: Absinthe
+        amount: 10
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sugar
+        sort: 3
+        name: Sugar
+        amount: 1
+        amount_max: null
+        units: cube
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: peychauds-bitters
+        sort: 4
+        name: 'Peychauds Bitters'
+        amount: 2
+        amount_max: null
+        units: dashes
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: sazerac-1.jpg
+        placeholder_hash: l8cJJwzAdnmJhndoloh5Vpd3OGBVBGME
+        copyright: 'The Spruce Eats'

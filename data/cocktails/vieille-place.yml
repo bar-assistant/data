@@ -1,0 +1,103 @@
+_id: vieille-place
+name: 'Vieille Place'
+instructions: 'Stir all ingredients with ice and strain into an ice-filled glass'
+description: 'A twist on the classic Vieux Carré,  the Vieille Place is a balanced, yet spirit-forward, bittersweet aperitif. Created by Robbie Neskens at Bruut in Hassselt , Belgium, this drink incorporates Bourbon, Suze, Cognac, Dry Vermouth, Simple Syrup, a dash of Amaretto, aswell as both a dash of Peychard & Angostura Bitters.'
+garnish: 'Lemon twist'
+source: 'https://cocktailsdistilled.com/recipe/vieille-place/'
+tags:
+    - Sweet
+    - Bitter
+abv: 23.51
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: bourbon-whiskey
+        sort: 1
+        name: 'Bourbon Whiskey'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: brandy
+        sort: 2
+        name: Brandy
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: suze
+        sort: 3
+        name: Suze
+        amount: 20
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: dry-vermouth
+        sort: 4
+        name: 'Dry Vermouth'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: amaretto
+        sort: 5
+        name: Amaretto
+        amount: 5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 6
+        name: 'Simple Syrup'
+        amount: 10
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: angostura-aromatic-bitters
+        sort: 7
+        name: 'Angostura aromatic bitters'
+        amount: 1
+        amount_max: null
+        units: dash
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: peychauds-bitters
+        sort: 8
+        name: 'Peychauds Bitters'
+        amount: 1
+        amount_max: null
+        units: dash
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: vieille-place-1.jpg
+        placeholder_hash: 2zkOHwh/aoRzhod3mXmYh3iIhxApGHAB
+        copyright: Reddit

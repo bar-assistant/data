@@ -1,0 +1,94 @@
+_id: bloody-mary
+name: 'Bloody Mary'
+instructions: 'Stir gently all the ingredients in a mixing glass with ice, pour into rocks glass.'
+description: 'If requested served with ice, pour into highball glass.'
+garnish: 'Celery, Lemon Wedge (Optional)'
+source: 'https://iba-world.com/bloody-mary/'
+tags:
+    - 'Contemporary Classics'
+    - 'IBA Cocktail'
+    - Savory
+abv: 10.78
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: vodka
+        sort: 1
+        name: Vodka
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: tomato-juice
+        sort: 2
+        name: 'Tomato juice'
+        amount: 90
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: worcestershire-sauce
+        sort: 4
+        name: 'Worcestershire Sauce'
+        amount: 2
+        amount_max: null
+        units: dashes
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: tabasco
+        sort: 5
+        name: Tabasco
+        amount: 1
+        amount_max: null
+        units: dash
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: pepper
+        sort: 6
+        name: Pepper
+        amount: 1
+        amount_max: null
+        units: pinch
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: salt
+        sort: 7
+        name: Salt
+        amount: 1
+        amount_max: null
+        units: pinch
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: bloody-mary-1.jpg
+        placeholder_hash: llgGHwZseIlgdnmuamWHaFeqZzBYB6gC
+        copyright: Ocado

@@ -1,0 +1,68 @@
+_id: tequila-daisy
+name: 'Tequila Daisy'
+instructions: |-
+    1. To prepare a coupe or cocktail glass, rim the edge with sugar.
+    2. Combine all ingredients in a cocktail shaker with ice and shake until chilled.
+    3. Strain into the prepared coupe or cocktail glass.
+    4. Garnish with 3 drops of orange flower water.
+description: "A Tequila Daisy cocktail recipe from one of Punch's Best New Bartenders fine-tunes the ratios of the classic drink."
+garnish: 'sugar (to rim the glass), orange flower water'
+source: 'https://punchdrink.com/recipes/laura-maddoxs-tequila-daisy/'
+tags:
+    - Classics
+    - Sour
+    - Citrusy
+abv: 24
+glass:
+    _id: coupe
+    name: Coupe
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: tequila-blanco
+        sort: 1
+        name: 'Tequila Blanco'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: 'preferably Cascahuín Tahona'
+        optional: false
+        substitutes: {  }
+    -
+        _id: cointreau
+        sort: 2
+        name: Cointreau
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 4
+        name: 'Simple Syrup'
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 0
+        file_name: tequila-daisy-1.jpg
+        placeholder_hash: FCkKDwQSeXhudoeSawe4Vnh5aAFPOMAF
+        copyright: 'Punch Staff | Nitya Jain'

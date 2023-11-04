@@ -1,0 +1,53 @@
+_id: tequila-old-fashioned
+name: 'Tequila Old Fashioned'
+instructions: 'Stir with ice and strain into ice-filled rocks glass.'
+description: null
+garnish: 'Garnish with orange peel squeezed over drink.'
+source: 'https://www.ericscocktailguide.com/recipes/tequila-old-fashioned'
+tags:
+    - 'Old Fashioned'
+    - Sweet
+abv: 26.83
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: tequila-reposado
+        sort: 1
+        name: 'Tequila Reposado'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: agave-syrup
+        sort: 2
+        name: 'Agave Syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: angostura-aromatic-bitters
+        sort: 3
+        name: 'Angostura aromatic bitters'
+        amount: 2
+        amount_max: null
+        units: dashes
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: tequila-old-fashioned-1.jpg
+        placeholder_hash: JSkKHwQ5iHifhIeIlWd5aXiJRwA3BXEC
+        copyright: "Eric's Cocktail Guide"

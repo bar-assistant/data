@@ -1,0 +1,56 @@
+_id: little-italy
+name: 'Little Italy'
+instructions: 'Stir all ingredients with ice for about 20 seconds. Strain into a small chilled cocktail glass and garnish with a cherry or a piece of marinated artichoke heart.'
+description: |-
+    Audrey Sanders, mixology royalty, created this drink as a homage to the New York City’s Little Italy neighborhood. We first read about it in Imbibe magazine, where they recommended garnish with brandied cherries and letting a little of the cherry liquid dribble into the glass – a modification we heartily endorse.
+
+    Not gonna lie – the Little Italy a love-it-or-hate it flavor. If you’re a fan of bitter flavors and you’re looking for an alternative to yet another Negroni, it may just be up your alley. It really is a superb after-dinner drink, where the medicinal overtones can be explained away as part of the history of the digestíf as a post-meal tummy-soother.
+
+    Make sure to have very fresh vermouth on hand for this drink; it’s bitter enough without the acrid tang of old vermouth.
+garnish: null
+source: 'https://punchdrink.com/recipes/little-italy/'
+tags: {  }
+abv: 26.09
+glass:
+    _id: cocktail
+    name: Cocktail
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: rye-whiskey
+        sort: 1
+        name: 'Rye whiskey'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cynar
+        sort: 2
+        name: Cynar
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sweet-vermouth
+        sort: 3
+        name: 'Sweet Vermouth'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 0
+        file_name: little-italy-1.jpg
+        placeholder_hash: NCgGDwL4mHZzm1h5l5eXOLiHe/OXFn8F
+        copyright: 'Punch Staff'

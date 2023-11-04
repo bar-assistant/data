@@ -1,0 +1,66 @@
+_id: golden-dream
+name: 'Golden Dream'
+instructions: 'Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.'
+description: |-
+    The Golden Dream was popular during the 60s and 70s and originated at the Old King Bar in Miami, mixed by Raimundo Alvarez.
+
+    The cocktail was dedicated to actress Joan Crawford and became quite popular at the end of the 1960s on the east coast of the United States. 
+garnish: N/A
+source: 'https://iba-world.com/golden-dream/'
+tags:
+    - 'Contemporary Classics'
+    - 'IBA Cocktail'
+abv: 18.81
+glass:
+    _id: coupe
+    name: Coupe
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: galliano
+        sort: 1
+        name: Galliano
+        amount: 20
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: triple-sec
+        sort: 2
+        name: 'Triple Sec'
+        amount: 20
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: orange-juice
+        sort: 3
+        name: 'Orange juice'
+        amount: 20
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cream
+        sort: 4
+        name: Cream
+        amount: 10
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: golden-dream-1.jpg
+        placeholder_hash: dggGDwD2SLV3hoiJZbo4Z3h4pYBnDEUG
+        copyright: 'Liquor.com / Tim Nusog'

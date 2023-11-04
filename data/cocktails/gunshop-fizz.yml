@@ -1,0 +1,107 @@
+_id: gunshop-fizz
+name: 'Gunshop Fizz'
+instructions: |-
+    1. Combine all the ingredients except the Sanbitter in a mixing glass. Muddle and set aside for two minutes.
+    2. Add ice to mixing glass and shake until chilled.
+    3. Strain into a Collins glass over ice.
+    4. Top with Sanbitter.
+description: 'The Gunshop Fizz was the signature cocktail of the original Rogue Cocktails, self-published in 2009 by Maks Pazuniak and Kirk Estopinal, two bartenders at Cure in New Orleans. It was the drink that first caught everyone’s attention, and no wonder. The improbable Gunshop Fizz uses a full two ounces of Peychaud’s bitters, which is usually used only in dashes. It’s enough to make the same drink’s use of Sanbitter, a bright-red bitter Italian soda, seem almost dull. The rest of the drink includes lemon juice, simple syrup, strawberries, cucumbers and several twists of orange and grapefruit. It was a through-the-looking glass take on the Pimm’s Cup recipe at Chicago’s Violet Hour, where Estopinal had worked.'
+garnish: 'Cucumber slice'
+source: 'https://punchdrink.com/recipes/gunshop-fizz/'
+tags:
+    - Sweet
+    - Fruity
+abv: 14
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: peychauds-bitters
+        sort: 1
+        name: 'Peychauds Bitters'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 2
+        name: 'Lemon juice'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 3
+        name: 'Simple Syrup'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: strawberry
+        sort: 4
+        name: Strawberry
+        amount: 2
+        amount_max: null
+        units: whole
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cucumber
+        sort: 5
+        name: Cucumber
+        amount: 3
+        amount_max: null
+        units: slice
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: grapefruit
+        sort: 6
+        name: Grapefruit
+        amount: 3
+        amount_max: null
+        units: peel
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: orange
+        sort: 7
+        name: Orange
+        amount: 3
+        amount_max: null
+        units: peel
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sanbitter
+        sort: 8
+        name: Sanbitter
+        amount: 1
+        amount_max: null
+        units: topup
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: gunshop-fizz-1.jpg
+        placeholder_hash: mWkOJw6AlXhYiYiIhkeIeHiEyEBKC5QE
+        copyright: 'Punch Staff | Cory James Photo'

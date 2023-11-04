@@ -1,0 +1,78 @@
+_id: the-last-rainstorm
+name: 'The Last Rainstorm'
+instructions: 'Shake all ingredients with ice, then strain into a coupe.'
+description: |-
+    Imagine: a view of a sandy beach shore peeking out between dense green vegetation and hovering tree canopies, the faint scent of salt from the sea suspended in the warm breeze, and that electrifying feeling of energy in the air right before a thunderstorm. You take a sip. Crisp. Cold. Tropical. Revitalizing. This is that drink.
+
+    Chartreuse is the dominant flavor, trailed by a comforting whisper of coconut aroma and the grassy & clean Copalli rum. When recreating, your choice of coconut rum will be pivotal in how the drink turns out; the best coconut rum I can recommend is the Hawaiian-made Koloa rum. More info on this rum can be found here but in short, it’s a fresh, natural, actual RUM that is scented with coconut and not a coconut LIQUEUR like many cloyingly sweet “coconut rums” tend to be.
+
+    This is dangerously easy-drinking for what it is, imbibe responsibly. Chartreuse = 55% Copalli rum = 42%. Koloa coconut rum = 40%.
+garnish: null
+source: 'https://barfaith.com/the-last-rainstorm/'
+tags:
+    - Herbacious
+    - Tiki
+abv: 27
+glass:
+    _id: coupe
+    name: Coupe
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: white-rum
+        sort: 1
+        name: 'White Rum'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: 'Copalli White Rum'
+        optional: false
+        substitutes: {  }
+    -
+        _id: coconut-rum
+        sort: 2
+        name: 'Coconut Rum'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: Koloa
+        optional: false
+        substitutes: {  }
+    -
+        _id: green-chartreuse
+        sort: 3
+        name: 'Green Chartreuse'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 4
+        name: 'Lime juice'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: saline-solution
+        sort: 5
+        name: 'Saline solution'
+        amount: 1
+        amount_max: 2
+        units: drops
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: the-last-rainstorm-1.webp
+        placeholder_hash: cPgNDwIKWZenlYesinh2d4aWp28JB6cL
+        copyright: Barfaith

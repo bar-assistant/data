@@ -1,0 +1,55 @@
+_id: strukani-pelin
+name: 'Štrukani Pelin'
+instructions: |-
+    1. A lemon slice is then squeezed directly into the glass and mixed.
+
+    The amount of lemon juice can vary, sometimes resulting in a drink with equal amounts of both ingredients. More elaborate versions often add orange juice, citrus zest, or spices.
+description: 'Štrukani pelinkovac (or štrukani pelin) is a somewhat novel Croatian drink that combines pelinkovac (traditional herbal liqueur) with lemon juice. In its basic form, the drink is made with pelinkovac that is poured into an ice-filled glass.'
+garnish: 'Lemon wedge'
+source: 'https://www.journal.hr/lifestyle/gastro/antique-pelinkovac-strukani-pelin-jesenski-koktel-cool-pice/'
+tags:
+    - Croatia
+abv: 9.19
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: pelinkovac
+        sort: 1
+        name: Pelinkovac
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 2
+        name: 'Lemon juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: tonic
+        sort: 3
+        name: Tonic
+        amount: 50
+        amount_max: null
+        units: ml
+        note: null
+        optional: true
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: strukani-pelin-1.jpg
+        placeholder_hash: owgOHwbY2YePdpeZhSand1h2R6AZFpcA
+        copyright: Tasteatlas

@@ -1,0 +1,68 @@
+_id: valkyrie
+name: Valkyrie
+instructions: 'Stir with ice and strain into a rocks glass.'
+description: 'After the Snake in the Grass at Temple Bar, bartender Sam Gabrielli wanted to showcase a drink he created called the Valkyrie. Sam described how he was influenced by Evan Harrison&#039;s Peralta with its rye, Cynar, and grapefruit elements.'
+garnish: 'Twist a grapefruit peel over the top and discard'
+source: 'https://cocktailvirgin.blogspot.com/2012/06/valkyrie.html?m=1'
+tags:
+    - Manhattan
+abv: 26.86
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: rye-whiskey
+        sort: 1
+        name: 'Rye whiskey'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: amaro-montenegro
+        sort: 2
+        name: 'Amaro Montenegro'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: pelinkovac
+                name: Pelinkovac
+                amount: null
+                amount_max: null
+                units: null
+    -
+        _id: cynar
+        sort: 3
+        name: Cynar
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: st-germain
+        sort: 4
+        name: St-Germain
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: valkyrie-1.jpg
+        placeholder_hash: 2igKJwYIlqhUi3hze4Zod4d7h4AoB4kB
+        copyright: null

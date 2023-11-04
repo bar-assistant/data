@@ -1,0 +1,72 @@
+_id: modern-medicine
+name: 'Modern Medicine'
+instructions: 'Shake everything except the scotch with ice and strain into a ice filled old fashioned glass, then add a float of Ardberg.'
+description: 'Modern Medicine, the drink, by Jordan Hughes, is just perfect. It’s as if scientists concocted a fusion of a Penicillin and a Paper Plane in a petri dish, to cure whatever is bothering you.'
+garnish: ''
+source: 'https://www.reddit.com/r/cocktails/comments/1436jpq/what_if_scientists_created_a_fusion_of_a/'
+tags:
+    - Smokey
+abv: 17.26
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: bourbon-whiskey
+        sort: 1
+        name: 'Bourbon Whiskey'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: aperol
+        sort: 2
+        name: Aperol
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 4
+        name: 'Simple Syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: islay-scotch-whiskey
+        sort: 5
+        name: 'Islay Scotch Whiskey'
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: modern-medicine-1.jpg
+        placeholder_hash: kigWNwp4d3iAd4h5eXh3iIh4RwSpNpAL
+        copyright: Reddit

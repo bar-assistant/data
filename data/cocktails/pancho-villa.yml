@@ -1,0 +1,96 @@
+_id: pancho-villa
+name: 'Pancho Villa'
+instructions: |-
+    1. Combine all ingredients in a mixing tin and shake with ice.
+    2. Strain into a chilled highball glass over ice.
+    3. Top with soda water.
+    4. Garnish with pineapple leaf, lime zest and lime wheels.
+description: 'This easy-drinking, semi-tropical cocktail recipe by Charles H. Baker is the Philippines’ answer to a Singapore Sling'
+garnish: 'pineapple leaf, lime zest, lime wheels'
+source: 'https://punchdrink.com/recipes/pancho-villa/'
+tags:
+    - Fruity
+abv: 22.1
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: dark-rum
+        sort: 1
+        name: 'Dark Rum'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: gin
+        sort: 2
+        name: Gin
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: apricot-brandy
+        sort: 3
+        name: 'Apricot Brandy'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cherry-heering
+        sort: 4
+        name: 'Cherry heering'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: pineapple-juice
+        sort: 5
+        name: 'Pineapple juice'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 6
+        name: 'Lime juice'
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: club-soda
+        sort: 7
+        name: 'Club soda'
+        amount: 1
+        amount_max: null
+        units: topup
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: pancho-villa-1.jpg
+        placeholder_hash: nSkOLwY0hZezh4p/eaaIaIl5eJA1C4YF
+        copyright: 'Punch Staff | Lizzie Munro'

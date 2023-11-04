@@ -1,0 +1,73 @@
+_id: spicy-fifty
+name: 'Spicy Fifty'
+instructions: 'Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.'
+description: null
+garnish: 'Garnish with a red chilli pepper'
+source: 'https://iba-world.com/spicy-fifty/'
+tags:
+    - 'IBA Cocktail'
+    - 'New Era Drinks'
+abv: 17.78
+glass:
+    _id: cocktail
+    name: Cocktail
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: vodka
+        sort: 1
+        name: Vodka
+        amount: 50
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: elderflower-cordial
+        sort: 2
+        name: 'Elderflower Cordial'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 3
+        name: 'Lime juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: honey-syrup
+        sort: 4
+        name: 'Honey Syrup'
+        amount: 10
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: chilli-pepper
+        sort: 5
+        name: 'Chilli Pepper'
+        amount: 2
+        amount_max: null
+        units: slices
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: spicy-fifty-1.jpg
+        placeholder_hash: ThgODwIFeYluhJeFeRepR5iHaPEGOI8G
+        copyright: MixolopediA

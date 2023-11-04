@@ -1,0 +1,54 @@
+_id: hurricane
+name: Hurricane
+instructions: |-
+    1. Add all ingredients to a shaker with ice and shake vigorously
+    2. Pour into a tall chilled glass full of crushed ice and garnish
+description: 'A surprisingly simple and unique tiki drink that’s long been misunderstood'
+garnish: null
+source: 'https://tuxedono2.com/hurricane-cocktail-recipe'
+tags:
+    - Summer
+abv: 16
+glass:
+    _id: hurricane
+    name: Hurricane
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: dark-rum
+        sort: 1
+        name: 'Dark Rum'
+        amount: 120
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: passionfruit-syrup
+        sort: 2
+        name: 'Passionfruit syrup'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 0
+        file_name: hurricane-1.jpg
+        placeholder_hash: hhgGFwIHuEiFdnp0eoWXaIh1h0A4GHAB
+        copyright: TuxedoNo2

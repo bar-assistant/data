@@ -1,0 +1,52 @@
+_id: brown-bomber
+name: 'Brown Bomber'
+instructions: 'Stir all ingredients with ice and strain into chilled glass.'
+description: 'Similar to white negroni but built with whiskey'
+garnish: 'Lemon zest twist'
+source: 'https://www.youtube.com/watch?v=3cykzF2iV2Y'
+tags:
+    - Negroni
+abv: 25.71
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: bourbon-whiskey
+        sort: 1
+        name: 'Bourbon Whiskey'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lillet-blanc
+        sort: 2
+        name: 'Lillet Blanc'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: suze
+        sort: 3
+        name: Suze
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: brown-bomber-1.jpg
+        placeholder_hash: mBgaHwJniHiAd3h6eXeHd2h4mGAXKXgA
+        copyright: Flickr

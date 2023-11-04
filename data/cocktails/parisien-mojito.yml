@@ -1,0 +1,63 @@
+_id: parisien-mojito
+name: 'Parisien Mojito'
+instructions: 'Lightly MUDDLE mint (just to bruise) in base of glass. Add other ingredients, half fill glass with crushed ice and CHURN (stir) with bar spoon. Fill glass to brim with more crushed ice and churn some more. Serve with straws.'
+description: null
+garnish: null
+source: 'https://www.diffordsguide.com/cocktails/recipe/2712/parisien-mojito'
+tags:
+    - Summer
+    - Mojito
+abv: 22.22
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: muddle
+    name: Muddle
+ingredients:
+    -
+        _id: white-rum
+        sort: 1
+        name: 'White Rum'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: mint
+        sort: 2
+        name: Mint
+        amount: 12
+        amount_max: null
+        units: leaves
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: st-germain
+        sort: 3
+        name: St-Germain
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 4
+        name: 'Lime juice'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: parisien-mojito-1.jpg
+        placeholder_hash: VggOHwY2uIeAdniGemaoZ4d4eAT5h5EP
+        copyright: null

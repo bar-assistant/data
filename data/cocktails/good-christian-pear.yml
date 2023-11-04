@@ -1,0 +1,63 @@
+_id: good-christian-pear
+name: 'Good Christian Pear'
+instructions: '1. Double-strain into a coupe.'
+description: 'David Burnette, South on Main, Little Rock, Arkansas'
+garnish: 'Garnish with a pear slice or lemon wheel.'
+source: 'https://alpenz.com/recipe-RsPGn5chya.html'
+tags:
+    - Fruity
+    - Citrusy
+abv: 16.31
+glass:
+    _id: coupe
+    name: Coupe
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: pear-brandy-williams
+        sort: 1
+        name: 'Pear Brandy (Williams)'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: honey-syrup
+        sort: 2
+        name: 'Honey Syrup'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: absinthe
+        sort: 4
+        name: Absinthe
+        amount: 3
+        amount_max: null
+        units: dash
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 0
+        file_name: good-christian-pear-1.jpg
+        placeholder_hash: ZikGDwIghIbMhXhTZ7epGHWM9cCYH4QK
+        copyright: 'Haus Alpenz | Lee Edwards'

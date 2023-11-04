@@ -1,0 +1,85 @@
+_id: amaretto-sour-jeffrey-morgenthaler
+name: "Amaretto\_Sour (Jeffrey Morgenthaler)"
+instructions: |-
+    1. Combine ingredients in a cocktail shaker and shake without ice or (even better) use an immersion blender to combine and froth.
+    2. Shake well with cracked ice.
+    3. Strain over fresh ice in an old fashioned glass
+description: |-
+    There are two things that impede all other Amaretto Sours from challenging mine. First off, the obvious: they’re too sweet. One does not simply use an everyday sour recipe to make a world-class Amaretto Sour, it must be adjusted for this particular liqueur.
+
+    Second, and this is a big one: amaretto isn’t strong enough on its own to stand up to a bunch of other ingredients. It’s weak. It needs help. And for this, I enlist the assistance of an old friend. One that knows amaretto’s strengths and weaknesses. Or, mainly, its weaknesses. One that works with amaretto, to complete it like Jerry Maguire completes Rene Zellwiger’s character, whatever her name was. And that, my friends, is cask-proof bourbon.
+garnish: 'Garnish with lemon peel and brandied cherries.'
+source: 'https://jeffreymorgenthaler.com/i-make-the-best-amaretto-sour-in-the-world/'
+tags:
+    - Sour
+    - Sweet
+abv: 16.48
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: amaretto
+        sort: 1
+        name: Amaretto
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cask-proof-whiskey
+        sort: 2
+        name: 'Cask-Proof Whiskey'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: bourbon-whiskey
+                name: 'Bourbon Whiskey'
+                amount: null
+                amount_max: null
+                units: null
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 4
+        name: 'Simple Syrup'
+        amount: 1
+        amount_max: null
+        units: barspoon
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: egg-white
+        sort: 5
+        name: 'Egg White'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: true
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: amaretto-sour-jeffrey-morgenthaler-1.jpg
+        placeholder_hash: nikKNwRTpcZkkYSwpomJOaZYZpA4BYYB
+        copyright: 'Punch / Kimberley Hasselbrink'

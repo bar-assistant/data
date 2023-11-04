@@ -1,0 +1,44 @@
+_id: french-connection
+name: 'French Connection'
+instructions: 'Pour all ingredients directly into an old fashioned glass filled with ice cubes. Stir gently.'
+description: 'The cocktail is named for the Gene Hackman film of the same name.'
+garnish: null
+source: 'https://iba-world.com/french-connection/'
+tags:
+    - 'Contemporary Classics'
+    - 'IBA Cocktail'
+    - Brandy
+abv: 29.09
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: cognac
+        sort: 1
+        name: Cognac
+        amount: 35
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: amaretto
+        sort: 2
+        name: Amaretto
+        amount: 35
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: french-connection-1.jpg
+        placeholder_hash: aUkKLwjY11l/hnWMhad3hoiKhjB5BpMF
+        copyright: 'Punch Drink'

@@ -1,0 +1,48 @@
+_id: mimosa
+name: Mimosa
+instructions: |-
+    Pour orange juice into a flute glass and gently pour the sparkling wine. Stir gently.
+
+    Note:
+    Also known as Buck’s Fizz.
+description: null
+garnish: 'Garnish with an orange twist (optional).'
+source: 'https://iba-world.com/mimosa/'
+tags:
+    - 'Contemporary Classics'
+    - 'IBA Cocktail'
+    - Wine
+abv: 5
+glass:
+    _id: champagne
+    name: Champagne
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: orange-juice
+        sort: 1
+        name: 'Orange juice'
+        amount: 75
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: prosecco
+        sort: 2
+        name: Prosecco
+        amount: 75
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: mimosa-1.jpg
+        placeholder_hash: LyoGPwaGWMYyeIdfiUh7eXeH6PItd/oA
+        copyright: 'Inspired Taste'

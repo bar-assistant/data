@@ -1,0 +1,75 @@
+_id: wisconsin-old-fashioned
+name: 'Wisconsin Old Fashioned'
+instructions: |-
+    1. In a chilled old fashioned glass, muddle the sugar, bitters, orange wedge and cherry into a thick paste, careful not to overwork the orange peel.
+    2. Add brandy or Cognac and stir.
+    3. Fill glass with crushed ice and serve.
+description: |-
+    The Wisconsin Old Fashioned is the state’s variation on the classic Old Fashioned cocktail, with brandy and lemon lime soda. The typical Old Fashioned recipe uses bourbon mixed with a muddled sugar cube and bitters. So where did the brandy Old Fashioned come from?
+
+
+    Here’s the theory! (Per Jerry Minnich, at least.) A company of brothers debuted their Korbel brandy at the World’s Fair in 1893 in Chicago, which lots of Wisconsinites attended. A large percentage of Wisconsin at the time was German, and Germans preferred brandy over bourbon. Korbel brandy become a hit, and birthed this state’s funky variation on the classic cocktail. To this day, the drink is often served with Korbel brandy!
+
+
+    - Sweet: Lemon lime soda (like 7 Up or Sprite). This is the default option at bars.
+    - Sour: Sour mix or grapefruit soda (like Squirt).
+    - Press: 50/50 lemon lime soda and soda water (club soda)
+    - Soda: Soda water
+garnish: 'Orange half and 1 cherry'
+source: 'https://jeffreymorgenthaler.com/brandy-old-fashioned/'
+tags:
+    - Brandy
+abv: 33.57
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: muddle
+    name: Muddle
+ingredients:
+    -
+        _id: brandy
+        sort: 1
+        name: Brandy
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 2
+        name: 'Simple Syrup'
+        amount: 5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: orange
+        sort: 3
+        name: Orange
+        amount: 1
+        amount_max: null
+        units: wedge
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cocktail-cherry
+        sort: 4
+        name: 'Cocktail cherry'
+        amount: 1
+        amount_max: null
+        units: whole
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: wisconsin-old-fashioned-1.webp
+        placeholder_hash: 8SgKLwrsZYlvhXd7lEiYh4iHaAE3BoED
+        copyright: 'A Couple Cooks'

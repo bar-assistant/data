@@ -1,0 +1,55 @@
+_id: grasshopper
+name: Grasshopper
+instructions: |-
+    Pour all ingredients into shaker filled with ice.
+    Shake briskly for few seconds. Strain into chilled cocktail glass.
+description: "A Grasshopper is a sweet, mint-flavored, after-dinner drink. The name of the drink derives from its green color, which comes from crème de menthe. A bar in the French Quarter of New Orleans, Louisiana, Tujague's, claims the drink was invented in 1918 by its owner, Philip Guichet. The drink gained popularity during the 1950s and 1960s throughout the American South."
+garnish: 'N/A, optional mint leaf'
+source: 'https://iba-world.com/grasshopper/'
+tags:
+    - 'Contemporary Classics'
+    - 'IBA Cocktail'
+abv: 12
+glass:
+    _id: fizzio
+    name: Fizzio
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: creme-de-cacao-white
+        sort: 1
+        name: 'Crème de Cacao (White)'
+        amount: 20
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: creme-de-menthe
+        sort: 2
+        name: 'Crème de menthe'
+        amount: 20
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cream
+        sort: 3
+        name: Cream
+        amount: 20
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: grasshopper-1.jpg
+        placeholder_hash: 0SgKDwIIqIiPhnaZdyeYOJd2tvWa+70N
+        copyright: 'Liquor.com / Tim Nusog'

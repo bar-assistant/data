@@ -1,0 +1,87 @@
+_id: hugo-spritz
+name: 'Hugo Spritz'
+instructions: 'Combine everything in wine glass with ice'
+description: 'As reported by the magazines Mixology and Der Spiegel, the Hugo was conceived in 2005 by Naturns bar manager Roland Gruber (aka A.K.) at San Zeno Bar, as an alternative to Spritz Veneziano, and quickly spread beyond the borders of South Tyrol. Initially, the recipe provided for the use of lemon balm syrup, then in practice replaced by elderflower syrup, more easily available.'
+garnish: 'Mint sprig and lime wedge'
+source: 'https://en.wikipedia.org/wiki/Hugo_(cocktail)?useskin=vector'
+tags:
+    - Wine
+    - Spritz
+    - Summer
+abv: 11.06
+glass:
+    _id: wine
+    name: Wine
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: prosecco
+        sort: 1
+        name: Prosecco
+        amount: 90
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: champagne
+                name: Champagne
+                amount: null
+                amount_max: null
+                units: null
+            -
+                _id: white-wine
+                name: 'White wine'
+                amount: null
+                amount_max: null
+                units: null
+    -
+        _id: st-germain
+        sort: 2
+        name: St-Germain
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: elderflower-cordial
+                name: 'Elderflower Cordial'
+                amount: null
+                amount_max: null
+                units: null
+    -
+        _id: club-soda
+        sort: 3
+        name: 'Club soda'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: hugo-spritz-1.jpg
+        placeholder_hash: 8ugJFwK8fonFg2iNZPiGltN5VYAUncAP
+        copyright: sipandfeast
+    -
+        sort: 2
+        file_name: hugo-spritz-2.jpg
+        placeholder_hash: kAgKHwAMiMeJdoaDeniIeIeHWIAHgFII
+        copyright: 'Liquor.com / Tim Nusog'
+    -
+        sort: 3
+        file_name: hugo-spritz-3.jpg
+        placeholder_hash: efgFDwLCaKmammavdagmZneopGIH45MP
+        copyright: liveeatlearn
+    -
+        sort: 4
+        file_name: hugo-spritz-4.jpg
+        placeholder_hash: yvcJDwIIuGd6dXl2iGeYiHeGl/CI94QJ
+        copyright: Cocktailclub

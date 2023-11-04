@@ -1,0 +1,53 @@
+_id: manhattan
+name: Manhattan
+instructions: 'Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.'
+description: 'Popular history suggests that the drink originated at the Manhattan Club in New York City in the mid-1870s, where it was invented by Iain Marshall for a banquet hosted by Jennie Jerome (Lady Randolph Churchill, mother of Winston) in honor of presidential candidate Samuel J. Tilden. The success of the banquet made the drink fashionable, later prompting several people to request the drink by referring to the name of the club where it originated—"the Manhattan cocktail". However, Lady Randolph was in France at the time and pregnant, so the story is likely a fiction.'
+garnish: 'Garnish with a cocktail cherry.'
+source: 'https://iba-world.com/manhattan/'
+tags:
+    - 'IBA Cocktail'
+    - 'The Unforgettables'
+abv: 27.35
+glass:
+    _id: cocktail
+    name: Cocktail
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: rye-whiskey
+        sort: 1
+        name: 'Rye whiskey'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: sweet-vermouth
+        sort: 2
+        name: 'Sweet Vermouth'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: angostura-aromatic-bitters
+        sort: 3
+        name: 'Angostura aromatic bitters'
+        amount: 2
+        amount_max: null
+        units: dash
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: manhattan-1.jpg
+        placeholder_hash: pvcJDwIObYVYiYZoV5lppneHd9A5CJ0D
+        copyright: "Sainsbury's Magazine / Toby Scott"

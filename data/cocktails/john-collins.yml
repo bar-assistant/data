@@ -1,0 +1,79 @@
+_id: john-collins
+name: 'John Collins'
+instructions: |-
+    Pour all ingredients directly into a highball filled with ice. Stir gently.
+
+    NOTE:
+
+    Use ‘Old Tom’ Gin for Tom Collins.
+description: "A John Collins is a cocktail which was attested in 1869, but may be older. It is believed to have originated with a headwaiter of that name who worked at Limmer's Old House in Conduit Street in Mayfair, which was a popular London hotel and coffee house around 1790–1817."
+garnish: 'Garnish with a lemon slice and maraschino cherry.'
+source: 'https://iba-world.com/john-collins/'
+tags:
+    - 'IBA Cocktail'
+    - 'The Unforgettables'
+abv: 11.64
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: gin
+        sort: 1
+        name: Gin
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: old-tom-gin
+                name: 'Old Tom Gin'
+                amount: null
+                amount_max: null
+                units: null
+    -
+        _id: lemon-juice
+        sort: 2
+        name: 'Lemon juice'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 3
+        name: 'Simple Syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: club-soda
+        sort: 4
+        name: 'Club soda'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: john-collins-1.jpg
+        placeholder_hash: bOgFLwiKd5dgd4iLeKeGaFh5eWBYCHIH
+        copyright: 'The Spruce Eats'
+    -
+        sort: 2
+        file_name: john-collins-2.jpg
+        placeholder_hash: 0fcNJwQMyHhSeIiXilWHeHeYVzCXBHMJ
+        copyright: 'A Couple Cooks'

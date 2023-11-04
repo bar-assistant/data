@@ -1,0 +1,77 @@
+_id: shliva-sour
+name: 'Shliva Sour'
+instructions: |-
+    1. Add all ingredients to shaker
+    2. Shake for 15sec
+    3. Strain into a glass
+description: ''
+garnish: 'Lemon twist'
+source: null
+tags:
+    - Sour
+    - Fruity
+    - Floral
+abv: 16.2
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: plum-brandy
+        sort: 1
+        name: 'Plum Brandy'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 2
+        name: 'Lemon juice'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: honey-syrup
+        sort: 3
+        name: 'Honey Syrup'
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: st-germain
+        sort: 4
+        name: St-Germain
+        amount: 7.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: egg-white
+        sort: 5
+        name: 'Egg White'
+        amount: 1
+        amount_max: null
+        units: part
+        note: null
+        optional: true
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: shliva-sour-1.jpg
+        placeholder_hash: WzkGHwR5VmcAw6jSfKaqiId4TQkmpWAE
+        copyright: 'Bar Assistant'

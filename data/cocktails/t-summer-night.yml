@@ -1,0 +1,91 @@
+_id: t-summer-night
+name: 'T. Summer Night'
+instructions: |-
+    1. Cut your lime ready for squeeze and garnish and get your mint leaves and mint sprig
+    2. Fill your wine glass with cubed ice
+    3. Smash the mint in your hand and put it in the glass
+    4. Pour your gin, elderflower liqueur, and lime juice over the ice
+    5. Using your bar spoon, stir all the ingredients together well
+    6. Add more ice if needed and fill up with prosecco
+    7. Top up with soda
+    8. Stir gently and garnish with lime and mint sprig
+description: 'A special twist on the Hugo cocktail by Tjuvholmen.&nbsp;This breezy sparkling elderflower cocktail will take you straight to Italy in the summertime. And it couldn&#8217;t be easier to make.&nbsp;Bartender Tip:Add gin and mint for this special twist'
+garnish: null
+source: 'https://cocktailclub.com/cocktails/hugo-summertime'
+tags:
+    - Spritz
+    - Summer
+abv: 11.71
+glass:
+    _id: wine
+    name: Wine
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: prosecco
+        sort: 1
+        name: Prosecco
+        amount: 90
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: st-germain
+        sort: 2
+        name: St-Germain
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: gin
+        sort: 3
+        name: Gin
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: mint
+        sort: 4
+        name: Mint
+        amount: 6
+        amount_max: null
+        units: leaves
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 5
+        name: 'Lime juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: club-soda
+        sort: 6
+        name: 'Club soda'
+        amount: 20
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: t-summer-night-1.jpg
+        placeholder_hash: DwgKDwAK2ldphXiGeka4h4h3hrBY0rAJ
+        copyright: 'Cocktail Club'

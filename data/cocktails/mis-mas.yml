@@ -1,0 +1,45 @@
+_id: mis-mas
+name: 'Miš Maš'
+instructions: |-
+    1. Pour fanta into a glass
+    2. Float red wine on top
+description: 'Popular drink in Croatian coast towns'
+garnish: ''
+source: null
+tags:
+    - Spritz
+    - Wine
+abv: 3.33
+glass:
+    _id: wine
+    name: Wine
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: orange-juice
+        sort: 1
+        name: 'Orange juice'
+        amount: 200
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: red-wine
+        sort: 2
+        name: 'Red wine'
+        amount: 100
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: mis-mas-1.jpg
+        placeholder_hash: HxkSJwiGh4hwd4iJiZeHmHeImOAJCJsE
+        copyright: Coolinarka

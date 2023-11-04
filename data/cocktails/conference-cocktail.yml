@@ -1,0 +1,93 @@
+_id: conference-cocktail
+name: 'Conference Cocktail'
+instructions: |-
+    1. Add all ingredients to a mixing glass with ice
+    2. Stir 20 seconds and strain into a chilled rocks glass with ice.
+description: 'Tiki was jealous of the Old Fashioned build, and the Conference cocktail was born. From Brian Miller at Death & Co.'
+garnish: 'orange twist'
+source: 'https://www.liberandcompany.com/collections/recipes/products/conference-cocktail'
+tags: {  }
+abv: 33.51
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: bourbon-whiskey
+        sort: 1
+        name: 'Bourbon Whiskey'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: brandy
+        sort: 2
+        name: Brandy
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: rye-whiskey
+        sort: 3
+        name: 'Rye whiskey'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: apple-brandy
+        sort: 4
+        name: 'Apple Brandy'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: demerara-syrup
+        sort: 5
+        name: 'Demerara Syrup'
+        amount: 1
+        amount_max: null
+        units: barspoon
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: angostura-aromatic-bitters
+        sort: 6
+        name: 'Angostura aromatic bitters'
+        amount: 2
+        amount_max: null
+        units: dash
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: mole-bitters
+        sort: 7
+        name: 'Mole Bitters'
+        amount: 1
+        amount_max: null
+        units: dash
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: conference-cocktail-1.jpg
+        placeholder_hash: IfgJHwJwdolqhYhjltl4aIdqmJCJBmMF
+        copyright: 'LiberAndCo | Dustin Popp'

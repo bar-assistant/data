@@ -1,0 +1,67 @@
+_id: frozen-mudslide
+name: 'Frozen Mudslide'
+instructions: |-
+    1. In a blender jug, combine all the ingredients
+    2. Blend until smooth
+    3. Served in a tall glass
+description: 'Death and Co. bartender, Devon Tarby, reworked the 1980s mudslide. Incorporating ice cream into the mudslide removes the need for ice resulting in a richer flavour.'
+garnish: 'Garnish with grated dark chocolate'
+source: 'https://stevethebartender.com.au/frozen-mudslide/'
+tags:
+    - Coffee
+    - Sweet
+    - Frozen
+abv: 19.54
+glass:
+    _id: highball
+    name: Highball
+method:
+    _id: blend
+    name: Blend
+ingredients:
+    -
+        _id: coffee-liqueur
+        sort: 1
+        name: 'Coffee liqueur'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: vodka
+        sort: 2
+        name: Vodka
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: baileys-irish-cream
+        sort: 3
+        name: 'Baileys Irish Cream'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: ice-cream
+        sort: 4
+        name: 'Ice cream'
+        amount: 3
+        amount_max: null
+        units: scoops
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 0
+        file_name: frozen-mudslide-1.jpg
+        placeholder_hash: IEkKHwRLqVqPh4ZoeWZ4h4h3eQd4dXAI
+        copyright: 'Steve the Bartender'

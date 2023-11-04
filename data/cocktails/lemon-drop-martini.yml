@@ -1,0 +1,59 @@
+_id: lemon-drop-martini
+name: 'Lemon drop Martini'
+instructions: 'Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.'
+description: "The drink was invented sometime in the 1970s by Norman Jay Hobday, the founder and proprietor of Henry Africa's bar in San Francisco, California. Some variations of the drink exist, such as blueberry and raspberry lemon drops. It is served at some bars and restaurants in the United States, and in such establishments in other areas of the world."
+garnish: 'Garnish with sugar rim around the glass.'
+source: 'https://iba-world.com/lemon-drop-martini/'
+tags:
+    - 'IBA Cocktail'
+    - 'New Era Drinks'
+abv: 24.62
+glass:
+    _id: cocktail
+    name: Cocktail
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: vodka
+        sort: 1
+        name: Vodka
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: vodka-citron
+                name: 'Vodka Citron'
+                amount: null
+                amount_max: null
+                units: null
+    -
+        _id: triple-sec
+        sort: 2
+        name: 'Triple Sec'
+        amount: 20
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 3
+        name: 'Lemon juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: lemon-drop-martini-1.jpg
+        placeholder_hash: mxgKDwI5iHhhmIeaiHamB5mZCQC1hXAJ
+        copyright: 'Basil & Bubbly'

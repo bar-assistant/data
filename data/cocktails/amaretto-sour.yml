@@ -1,0 +1,66 @@
+_id: amaretto-sour
+name: 'Amaretto Sour'
+instructions: |-
+    1. Combine all ingredients and, if using an egg white, dry shake
+    2. Add ice and shake for 10 sec
+    3. Strain into a glass
+description: 'Amaretto is an Italian liqueur that’s typically flavored with almonds or apricot stones. Its distinctive flavor can be incorporated into numerous cocktails, but it’s best known for the Amaretto Sour, a drink that tends to get a bad rap. That’s because, too often, the cocktail is overly sweet and relies on premade sour mix. '
+garnish: 'Spray aromatic bitters over foaming cocktail from atomiser and then garnish with lemon & cherry sail (lemon slice & Luxardo Maraschino cherry on stick)'
+source: ''
+tags:
+    - Sour
+    - Sweet
+abv: 11.11
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: shake
+    name: Shake
+ingredients:
+    -
+        _id: amaretto
+        sort: 1
+        name: Amaretto
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lemon-juice
+        sort: 2
+        name: 'Lemon juice'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: angostura-aromatic-bitters
+        sort: 3
+        name: 'Angostura aromatic bitters'
+        amount: 1
+        amount_max: null
+        units: dash
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: egg-white
+        sort: 4
+        name: 'Egg White'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: true
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: amaretto-sour-1.jpg
+        placeholder_hash: MCkKLwb1nWmIiHedZpZ4pml5p2BICnUD
+        copyright: 'The Spruce Eats'

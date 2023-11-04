@@ -1,0 +1,57 @@
+_id: planters-punch
+name: 'Planter’s Punch'
+instructions: |-
+    Pour all ingredients directly in a small tumbler or a typical terracotta glass.
+    NOTE:
+    Add dilution up to taste, it can be given by water, ice or juices.
+description: 'The cocktail has been said to have originated at the Planters Hotel in Charleston, South Carolina, but actually originated in Jamaica.'
+garnish: 'Garnish with orange zest.'
+source: 'https://iba-world.com/planters-punch/'
+tags:
+    - 'IBA Cocktail'
+    - 'The Unforgettables'
+    - Tiki
+abv: 18.18
+glass:
+    _id: hurricane
+    name: Hurricane
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: jamaican-rum
+        sort: 1
+        name: 'Jamaican Rum'
+        amount: 45
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: lime-juice
+        sort: 2
+        name: 'Lime juice'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 3
+        name: 'Simple Syrup'
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: planters-punch-1.jpg
+        placeholder_hash: DjkKJwaQtEeFeGlXelaXiHloBzZ5FJAH
+        copyright: Wikipedia

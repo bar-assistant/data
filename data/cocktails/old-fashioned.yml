@@ -1,0 +1,77 @@
+_id: old-fashioned
+name: 'Old Fashioned'
+instructions: |-
+    1. Add syrup and bitters to a glass
+    2. Swirl syrup and bitters
+    3. Fill the glass with ice cubes and add whiskey
+    4. Stir gently
+description: |-
+    Developed during the 19th century and given its name in the 1880s, it is an IBA Official Cocktail. It is also one of six basic drinks listed in David A. Embury's The Fine Art of Mixing Drinks.
+
+    Old-Fashioned is as traditional as they come. A simple mix of spirits, sugar, bitters and water, it appears in 1806 as the first printed recipe for a cocktail (“cock tail”). Other alcohols were permitted, but the whiskey or rye version of this combination, over ice, is what we now know as the Old Fashioned, thought to be named later that century after more elaborate new-fangled cocktails entered the canon. During Prohibition, the recipe veered into odd territory, adding fruit and cherries to distract from the available crude spirits. After repeal, it was the imposter version that stuck until the recent cocktail revival brought the original recipe back from the brink of extinction.
+garnish: 'Garnish with an orange slice or zest, and a cocktail cherry.'
+source: 'https://iba-world.com/old-fashioned/'
+tags:
+    - 'IBA Cocktail'
+    - 'The Unforgettables'
+    - 'Old Fashioned'
+abv: 29.27
+glass:
+    _id: lowball
+    name: Lowball
+method:
+    _id: build
+    name: Build
+ingredients:
+    -
+        _id: bourbon-whiskey
+        sort: 1
+        name: 'Bourbon Whiskey'
+        amount: 60
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: simple-syrup
+        sort: 2
+        name: 'Simple Syrup'
+        amount: 15
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes:
+            -
+                _id: sugar
+                name: Sugar
+                amount: null
+                amount_max: null
+                units: null
+    -
+        _id: angostura-aromatic-bitters
+        sort: 3
+        name: 'Angostura aromatic bitters'
+        amount: 2
+        amount_max: null
+        units: dashes
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: water
+        sort: 4
+        name: Water
+        amount: 2
+        amount_max: null
+        units: splash
+        note: null
+        optional: true
+        substitutes: {  }
+images:
+    -
+        sort: 1
+        file_name: old-fashioned-1.jpg
+        placeholder_hash: bzkGJwbxeBWfd2ZecmibZphotlEIGoUA
+        copyright: Epicurious

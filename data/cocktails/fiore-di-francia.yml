@@ -1,0 +1,65 @@
+_id: fiore-di-francia
+name: 'Fiore di Francia'
+instructions: |-
+    1. Combine all the ingredients in a mixing glass, add ice and stir.
+    2. Strain into a coupe.
+    3. Express the lemon peel and discard.
+description: 'In this cocktail recipe Italian amaro, Cynar, joins forces with St-Germain in a nod to the border zone where elderflower grows freely.'
+garnish: null
+source: 'https://punchdrink.com/recipes/fiore-di-francia/'
+tags:
+    - Bitter
+abv: 22.98
+glass:
+    _id: coupe
+    name: Coupe
+method:
+    _id: stir
+    name: Stir
+ingredients:
+    -
+        _id: scotch-whiskey
+        sort: 1
+        name: 'Scotch whiskey'
+        amount: 37.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: st-germain
+        sort: 2
+        name: St-Germain
+        amount: 30
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: cynar
+        sort: 3
+        name: Cynar
+        amount: 22.5
+        amount_max: null
+        units: ml
+        note: null
+        optional: false
+        substitutes: {  }
+    -
+        _id: angostura-aromatic-bitters
+        sort: 4
+        name: 'Angostura aromatic bitters'
+        amount: 1
+        amount_max: null
+        units: dash
+        note: null
+        optional: false
+        substitutes: {  }
+images:
+    -
+        sort: 0
+        file_name: fiore-di-francia-1.jpg
+        placeholder_hash: 0TgKFwSwhVqTl4aLeHd3eXh3iDb4OXUP
+        copyright: 'Punch Staff'
