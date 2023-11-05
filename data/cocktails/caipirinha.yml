@@ -11,43 +11,38 @@ description: |-
 
     **CAIPIROSKA** – Instead of Cachaça use Vodka;
 garnish: null
-source: 'https://iba-world.com/caipirinha/'
+source: https://iba-world.com/caipirinha/
 tags:
-    - 'Contemporary Classics'
-    - 'IBA Cocktail'
+    - Contemporary Classics
+    - IBA Cocktail
     - Citrusy
 abv: 36.36
 glass: Lowball
 method: Muddle
 ingredients:
-    -
-        _id: cachaca
-        sort: 1
-        name: Cachaça
-        amount: 60
-        units: ml
-        substitutes:
-            -
-                _id: vodka
-                name: Vodka
-                amount: null
-                amount_max: null
-                units: null
-    -
-        _id: lime
-        sort: 2
-        name: Lime
-        amount: 4
-        units: wedge
-    -
-        _id: sugar
-        sort: 3
-        name: Sugar
-        amount: 4
-        units: barspoon
+    - _id: cachaca
+      sort: 1
+      name: Cachaça
+      amount: 60
+      units: ml
+      substitutes:
+          - _id: vodka
+            name: Vodka
+            amount: null
+            amount_max: null
+            units: null
+    - _id: lime
+      sort: 2
+      name: Lime
+      amount: 4
+      units: wedge
+    - _id: sugar
+      sort: 3
+      name: Sugar
+      amount: 4
+      units: barspoon
 images:
-    -
-        sort: 1
-        file_name: caipirinha-1.jpg
-        placeholder_hash: JxkWJwJ3h4d/iYeHh3d4h3d4l1A4ynAI
-        copyright: 'Liquor.com / Tim Nusog'
+    - sort: 1
+      file_name: caipirinha-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Liquor.com / Tim Nusog

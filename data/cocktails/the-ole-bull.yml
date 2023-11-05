@@ -1,64 +1,56 @@
 _id: the-ole-bull
-name: 'The Ole Bull'
-instructions: 'Shake ingredients'
+name: The Ole Bull
+instructions: Shake ingredients
 description: null
 garnish: null
-source: 'https://www.reddit.com/r/cocktails/comments/16z9ttn/the_ole_bull_credit_to_death_co/'
+source: https://www.reddit.com/r/cocktails/comments/16z9ttn/the_ole_bull_credit_to_death_co/
 tags:
     - Herbacious
 abv: 18.86
 glass: Cocktail
 method: Shake
 ingredients:
-    -
-        _id: aquavit
-        sort: 1
-        name: Aquavit
-        amount: 45
-        units: ml
-        note: 'Linie Aquavit'
-    -
-        _id: dark-rum
-        sort: 2
-        name: 'Dark Rum'
-        amount: 15
-        units: ml
-        note: 'Goslings Black Seal Rum'
-    -
-        _id: lemon-juice
-        sort: 3
-        name: 'Lemon juice'
-        amount: 22.5
-        units: ml
-    -
-        _id: cinnamon-syrup
-        sort: 4
-        name: 'Cinnamon syrup'
-        amount: 7.5
-        units: ml
-    -
-        _id: creme-de-cacao-white
-        sort: 5
-        name: 'Crème de Cacao (White)'
-        amount: 7.5
-        units: ml
-        note: 'Marie Brizard'
-    -
-        _id: maple-syrup
-        sort: 6
-        name: 'Maple syrup'
-        amount: 7.5
-        units: ml
-    -
-        _id: egg-white
-        sort: 7
-        name: 'Egg White'
-        amount: 1
-        units: whole
-        optional: true
+    - _id: aquavit
+      sort: 1
+      name: Aquavit
+      amount: 45
+      units: ml
+      note: Linie Aquavit
+    - _id: dark-rum
+      sort: 2
+      name: Dark Rum
+      amount: 15
+      units: ml
+      note: Goslings Black Seal Rum
+    - _id: lemon-juice
+      sort: 3
+      name: Lemon juice
+      amount: 22.5
+      units: ml
+    - _id: cinnamon-syrup
+      sort: 4
+      name: Cinnamon syrup
+      amount: 7.5
+      units: ml
+    - _id: creme-de-cacao-white
+      sort: 5
+      name: Crème de Cacao (White)
+      amount: 7.5
+      units: ml
+      note: Marie Brizard
+    - _id: maple-syrup
+      sort: 6
+      name: Maple syrup
+      amount: 7.5
+      units: ml
+    - _id: egg-white
+      sort: 7
+      name: Egg White
+      amount: 1
+      units: whole
+      optional: true
 images:
-    -
-        sort: 1
-        file_name: the-ole-bull-1.jpg
-        placeholder_hash: UxgKDwILiXd0dYeCe4eouFd1pQIGGIMA
-        copyright: Reddit
+    - sort: 1
+      file_name: the-ole-bull-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Reddit

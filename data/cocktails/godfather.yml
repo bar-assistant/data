@@ -3,29 +3,26 @@ name: Godfather
 instructions: |-
     1. Add the blended scotch and amaretto to a mixing glass and stir with ice.
     2. Strain the drink into a lowball glass and fill it with ice. (To take it over the top, add a splash of single malt scotch on top).
-description: 'The Godfather cocktail is a simple Scotch and amaretto drink that’s full of flavor! It pairs nutty sweetness with a spicy whiskey finish.'
-garnish: 'Garnish with a lemon peel.'
-source: 'https://www.acouplecooks.com/godfather-cocktail/'
-tags: {  }
+description: The Godfather cocktail is a simple Scotch and amaretto drink that’s full of flavor! It pairs nutty sweetness with a spicy whiskey finish.
+garnish: Garnish with a lemon peel.
+source: https://www.acouplecooks.com/godfather-cocktail/
+tags: {}
 abv: 30.67
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: scotch-whiskey
-        sort: 1
-        name: 'Scotch whiskey'
-        amount: 60
-        units: ml
-    -
-        _id: amaretto
-        sort: 2
-        name: Amaretto
-        amount: 15
-        units: ml
+    - _id: scotch-whiskey
+      sort: 1
+      name: Scotch whiskey
+      amount: 60
+      units: ml
+    - _id: amaretto
+      sort: 2
+      name: Amaretto
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: godfather-1.webp
-        placeholder_hash: 0xgKJwZfZ4K0iWZTekeXqUdTagOGVnAJ
-        copyright: 'A Couple Cooks'
+    - sort: 1
+      file_name: godfather-1.webp
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: A Couple Cooks

@@ -1,42 +1,37 @@
 _id: algonquin
 name: Algonquin
-instructions: '1. Shake all ingredients with ice and fine strain into chilled glass.'
-description: 'Named for a historic hotel in midtown Manhattan, the classic Algonquin cocktail combines rye whiskey, vermouth and pineapple. At Clyde Common in Portland, Oregon, bartender Banjo Amberg uses Bianco vermouth instead of dry and pineapple gomme syrup instead of fresh juice for a more elegant version of the original. “Nobody likes the Algonquin. It was one of those drinks that was so unpopular that nobody that I know even tried to make it work, like you can do with so many of those forgotten ‘classics,’ ” says Amberg. “With a few adjustments we stumbled upon something truly delicious.”'
-garnish: 'Lemon twist'
-source: 'https://imbibemagazine.com/recipe/algonquin-cocktail-recipe/'
+instructions: 1. Shake all ingredients with ice and fine strain into chilled glass.
+description: Named for a historic hotel in midtown Manhattan, the classic Algonquin cocktail combines rye whiskey, vermouth and pineapple. At Clyde Common in Portland, Oregon, bartender Banjo Amberg uses Bianco vermouth instead of dry and pineapple gomme syrup instead of fresh juice for a more elegant version of the original. “Nobody likes the Algonquin. It was one of those drinks that was so unpopular that nobody that I know even tried to make it work, like you can do with so many of those forgotten ‘classics,’ ” says Amberg. “With a few adjustments we stumbled upon something truly delicious.”
+garnish: Lemon twist
+source: https://imbibemagazine.com/recipe/algonquin-cocktail-recipe/
 tags:
     - Savory
 abv: 19.06
 glass: Cocktail
 method: Shake
 ingredients:
-    -
-        _id: rye-whiskey
-        sort: 1
-        name: 'Rye whiskey'
-        amount: 45
-        units: ml
-    -
-        _id: vermouth-bianco
-        sort: 2
-        name: 'Vermouth Bianco'
-        amount: 22.5
-        units: ml
-    -
-        _id: pineapple-syrup
-        sort: 3
-        name: 'Pineapple Syrup'
-        amount: 22.5
-        units: ml
-    -
-        _id: peychauds-bitters
-        sort: 4
-        name: 'Peychauds Bitters'
-        amount: 1
-        units: dashes
+    - _id: rye-whiskey
+      sort: 1
+      name: Rye whiskey
+      amount: 45
+      units: ml
+    - _id: vermouth-bianco
+      sort: 2
+      name: Vermouth Bianco
+      amount: 22.5
+      units: ml
+    - _id: pineapple-syrup
+      sort: 3
+      name: Pineapple Syrup
+      amount: 22.5
+      units: ml
+    - _id: peychauds-bitters
+      sort: 4
+      name: Peychauds Bitters
+      amount: 1
+      units: dashes
 images:
-    -
-        sort: 1
-        file_name: algonquin-1.jpg
-        placeholder_hash: ixgOLwigaHikhniWd3h4V3lpCFtpoLIH
-        copyright: Imbibe
+    - sort: 1
+      file_name: algonquin-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Imbibe

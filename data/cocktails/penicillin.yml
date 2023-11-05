@@ -6,57 +6,50 @@ instructions: |-
     3. Fill the shaker with ice and shake.
     4. Double-strain into a chilled old fashioned glass with ice.
     5. Float the single malt whiskey on top.
-description: 'The drink was created in 2005 by Australian bartender Sam Ross living in New York at the time. Its name derives from the drug penicillin, discovered by Scottish scientist Alexander Fleming, hinting to the medicinal properties of some of its ingredients, with suggested effects similar to that of a hot toddy which is said to relieve the symptoms of cold and flu.'
-garnish: 'Garnish with candied ginger.'
-source: 'https://iba-world.com/penicillin/'
+description: The drink was created in 2005 by Australian bartender Sam Ross living in New York at the time. Its name derives from the drug penicillin, discovered by Scottish scientist Alexander Fleming, hinting to the medicinal properties of some of its ingredients, with suggested effects similar to that of a hot toddy which is said to relieve the symptoms of cold and flu.
+garnish: Garnish with candied ginger.
+source: https://iba-world.com/penicillin/
 tags:
-    - 'IBA Cocktail'
-    - 'New Era Drinks'
+    - IBA Cocktail
+    - New Era Drinks
     - Smokey
 abv: 19.2
 glass: Lowball
 method: Shake
 ingredients:
-    -
-        _id: scotch-whiskey
-        sort: 1
-        name: 'Scotch whiskey'
-        amount: 60
-        units: ml
-    -
-        _id: islay-scotch-whiskey
-        sort: 2
-        name: 'Islay Scotch Whiskey'
-        amount: 7.5
-        units: ml
-    -
-        _id: lemon-juice
-        sort: 3
-        name: 'Lemon juice'
-        amount: 22.5
-        units: ml
-    -
-        _id: honey-syrup
-        sort: 4
-        name: 'Honey Syrup'
-        amount: 22.5
-        units: ml
-        substitutes:
-            -
-                _id: ginger-syrup
-                name: 'Ginger syrup'
-                amount: null
-                amount_max: null
-                units: null
-    -
-        _id: ginger
-        sort: 5
-        name: Ginger
-        amount: 2
-        units: slices
+    - _id: scotch-whiskey
+      sort: 1
+      name: Scotch whiskey
+      amount: 60
+      units: ml
+    - _id: islay-scotch-whiskey
+      sort: 2
+      name: Islay Scotch Whiskey
+      amount: 7.5
+      units: ml
+    - _id: lemon-juice
+      sort: 3
+      name: Lemon juice
+      amount: 22.5
+      units: ml
+    - _id: honey-syrup
+      sort: 4
+      name: Honey Syrup
+      amount: 22.5
+      units: ml
+      substitutes:
+          - _id: ginger-syrup
+            name: Ginger syrup
+            amount: null
+            amount_max: null
+            units: null
+    - _id: ginger
+      sort: 5
+      name: Ginger
+      amount: 2
+      units: slices
 images:
-    -
-        sort: 1
-        file_name: penicillin-1.jpg
-        placeholder_hash: lAgSJwIIeJhyeIiFe1h3h4h4eDB4CIUJ
-        copyright: Unknown
+    - sort: 1
+      file_name: penicillin-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Unknown

@@ -1,5 +1,5 @@
 _id: the-wardays
-name: 'The Warday’s'
+name: The Warday’s
 instructions: |-
     1. Combine all of the ingredients in a mixing glass.
     2. Add ice and stir for 30-45 sec. or approx. 60 revolutions.
@@ -12,40 +12,35 @@ description: |-
     Notes of aged apples and pears are brought by the Calvados and then enriched by the botanicals of sweet vermouth. Gin contributes a healthy dose of juniper as well as a significant bite of alcohol. Final, modest, addition of yellow Chartreuse introduces a lot more herbal and botanical complexity as well as sweetness to the mix, nicely finishing the cocktail.
 
     The Warday’s is a must try for seasoned cocktail enthusiasts. Rich, complex and delicious to the very last drop.
-garnish: 'Garnish with a lemon twist.'
-source: 'https://www.grouchy-bartender.com/cocktails/blog-post-the-wardays'
-tags: {  }
+garnish: Garnish with a lemon twist.
+source: https://www.grouchy-bartender.com/cocktails/blog-post-the-wardays
+tags: {}
 abv: 28.75
-glass: 'Nick and Nora'
+glass: Nick and Nora
 method: Stir
 ingredients:
-    -
-        _id: apple-brandy
-        sort: 1
-        name: 'Apple Brandy'
-        amount: 30
-        units: ml
-    -
-        _id: gin
-        sort: 2
-        name: Gin
-        amount: 30
-        units: ml
-    -
-        _id: sweet-vermouth
-        sort: 3
-        name: 'Sweet Vermouth'
-        amount: 22.5
-        units: ml
-    -
-        _id: yellow-chartreuse
-        sort: 4
-        name: 'Yellow Chartreuse'
-        amount: 7.5
-        units: ml
+    - _id: apple-brandy
+      sort: 1
+      name: Apple Brandy
+      amount: 30
+      units: ml
+    - _id: gin
+      sort: 2
+      name: Gin
+      amount: 30
+      units: ml
+    - _id: sweet-vermouth
+      sort: 3
+      name: Sweet Vermouth
+      amount: 22.5
+      units: ml
+    - _id: yellow-chartreuse
+      sort: 4
+      name: Yellow Chartreuse
+      amount: 7.5
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: the-wardays-1.jpg
-        placeholder_hash: ygcGFwIKqWaJiXZ1eFiod2d3KVBWAnQG
-        copyright: 'Grouchy Bartender'
+    - sort: 1
+      file_name: the-wardays-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Grouchy Bartender

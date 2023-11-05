@@ -1,13 +1,13 @@
 _id: as-kingston-negroni
-name: 'A.S. Kingston Negroni'
+name: A.S. Kingston Negroni
 instructions: |-
     1. Add all ingredients to a mixing glass with ice and stir until chilled.
     2. Taste occasionally to ensure the coffee bean flavor has infused the drink.
     3. Strain into a rocks glass over a large ice cube.
     4. Garnish with a half orange wheel and lime twist.
-description: 'A Kingston Negroni cocktail recipe that stirs the classic mix of rum, Campari and sweet vermouth with oloroso sherry and coffee beans.'
-garnish: 'half orange wheel, lime twist'
-source: 'https://punchdrink.com/recipes/anthony-schmidts-kingston-negroni/'
+description: A Kingston Negroni cocktail recipe that stirs the classic mix of rum, Campari and sweet vermouth with oloroso sherry and coffee beans.
+garnish: half orange wheel, lime twist
+source: https://punchdrink.com/recipes/anthony-schmidts-kingston-negroni/
 tags:
     - Bitter
     - Citrusy
@@ -16,43 +16,37 @@ abv: 25.76
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: overproof-rum
-        sort: 1
-        name: 'Overproof Rum'
-        amount: 30
-        units: ml
-        note: 'preferably Smith & Cross'
-    -
-        _id: campari
-        sort: 2
-        name: Campari
-        amount: 30
-        units: ml
-    -
-        _id: sweet-vermouth
-        sort: 3
-        name: 'Sweet Vermouth'
-        amount: 22.5
-        units: ml
-        note: 'preferably Carpano Antica'
-    -
-        _id: sherry
-        sort: 4
-        name: Sherry
-        amount: 7.5
-        units: ml
-        note: 'preferably Lustau'
-    -
-        _id: coffee
-        sort: 5
-        name: Coffee
-        amount: 5
-        amount_max: 10
-        units: beans
+    - _id: overproof-rum
+      sort: 1
+      name: Overproof Rum
+      amount: 30
+      units: ml
+      note: preferably Smith & Cross
+    - _id: campari
+      sort: 2
+      name: Campari
+      amount: 30
+      units: ml
+    - _id: sweet-vermouth
+      sort: 3
+      name: Sweet Vermouth
+      amount: 22.5
+      units: ml
+      note: preferably Carpano Antica
+    - _id: sherry
+      sort: 4
+      name: Sherry
+      amount: 7.5
+      units: ml
+      note: preferably Lustau
+    - _id: coffee
+      sort: 5
+      name: Coffee
+      amount: 5
+      amount_max: 10
+      units: beans
 images:
-    -
-        sort: 1
-        file_name: as-kingston-negroni-1.jpg
-        placeholder_hash: pCgSDwKZdnePendxeJiHuHeGB9Q0AEsD
-        copyright: 'Punch Staff | Shannon Sturgis'
+    - sort: 1
+      file_name: as-kingston-negroni-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch Staff | Shannon Sturgis

@@ -1,45 +1,40 @@
 _id: boulevardier
 name: Boulevardier
-instructions: 'Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.'
-description: 'The boulevardier is similar to a Negroni, sharing two of its three ingredients. It is differentiated by its use of bourbon whiskey or rye whiskey as its principal component instead of gin. Paul Clark, writing for the food blog Serious Eats, says, &quot;This isn&#039;t a Negroni. It is, however, the Negroni&#039;s long-lost autumnal cousin.&quot;'
-garnish: 'Garnish with orange zest, optionally a lemon zest.'
-source: 'https://iba-world.com/boulevardier/'
+instructions: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.
+description: The boulevardier is similar to a Negroni, sharing two of its three ingredients. It is differentiated by its use of bourbon whiskey or rye whiskey as its principal component instead of gin. Paul Clark, writing for the food blog Serious Eats, says, &quot;This isn&#039;t a Negroni. It is, however, the Negroni&#039;s long-lost autumnal cousin.&quot;
+garnish: Garnish with orange zest, optionally a lemon zest.
+source: https://iba-world.com/boulevardier/
 tags:
-    - 'IBA Cocktail'
-    - 'The Unforgettables'
+    - IBA Cocktail
+    - The Unforgettables
     - Negroni
 abv: 24.52
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: bourbon-whiskey
-        sort: 1
-        name: 'Bourbon Whiskey'
-        amount: 45
-        units: ml
-        substitutes:
-            -
-                _id: rye-whiskey
-                name: 'Rye whiskey'
-                amount: null
-                amount_max: null
-                units: null
-    -
-        _id: campari
-        sort: 2
-        name: Campari
-        amount: 30
-        units: ml
-    -
-        _id: sweet-vermouth
-        sort: 3
-        name: 'Sweet Vermouth'
-        amount: 30
-        units: ml
+    - _id: bourbon-whiskey
+      sort: 1
+      name: Bourbon Whiskey
+      amount: 45
+      units: ml
+      substitutes:
+          - _id: rye-whiskey
+            name: Rye whiskey
+            amount: null
+            amount_max: null
+            units: null
+    - _id: campari
+      sort: 2
+      name: Campari
+      amount: 30
+      units: ml
+    - _id: sweet-vermouth
+      sort: 3
+      name: Sweet Vermouth
+      amount: 30
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: boulevardier-1.jpg
-        placeholder_hash: TygKFwY4h3e/lJVnand3iYZ7mFYJSZYA
-        copyright: Reddit
+    - sort: 1
+      file_name: boulevardier-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Reddit

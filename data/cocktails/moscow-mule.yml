@@ -1,38 +1,34 @@
 _id: moscow-mule
-name: 'Moscow Mule'
-instructions: 'In a Mule Cup or rocks glass, combine the vodka and ginger beer. Add lime juice and gently stir to involve all ingredients.'
-description: 'The Moscow Mule is a classic cocktail that gained popularity in the mid-20th century. It is known for its distinctive presentation in a copper mug and its refreshing combination of flavors.'
-garnish: 'Garnish with a lime slice'
-source: 'https://iba-world.com/moscow-mule/'
+name: Moscow Mule
+instructions: In a Mule Cup or rocks glass, combine the vodka and ginger beer. Add lime juice and gently stir to involve all ingredients.
+description: The Moscow Mule is a classic cocktail that gained popularity in the mid-20th century. It is known for its distinctive presentation in a copper mug and its refreshing combination of flavors.
+garnish: Garnish with a lime slice
+source: https://iba-world.com/moscow-mule/
 tags:
-    - 'Contemporary Classics'
-    - 'IBA Cocktail'
+    - Contemporary Classics
+    - IBA Cocktail
     - Mule
 abv: 9.35
-glass: 'Copper mug'
+glass: Copper mug
 method: Build
 ingredients:
-    -
-        _id: vodka
-        sort: 1
-        name: Vodka
-        amount: 45
-        units: ml
-    -
-        _id: ginger-ale
-        sort: 2
-        name: 'Ginger ale'
-        amount: 120
-        units: ml
-    -
-        _id: lime-juice
-        sort: 3
-        name: 'Lime juice'
-        amount: 10
-        units: ml
+    - _id: vodka
+      sort: 1
+      name: Vodka
+      amount: 45
+      units: ml
+    - _id: ginger-ale
+      sort: 2
+      name: Ginger ale
+      amount: 120
+      units: ml
+    - _id: lime-juice
+      sort: 3
+      name: Lime juice
+      amount: 10
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: moscow-mule-1.jpg
-        placeholder_hash: JAkGFwigP4bhlYdpiui3pmW3t0EIFpAD
-        copyright: 'Bake It With Love'
+    - sort: 1
+      file_name: moscow-mule-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Bake It With Love

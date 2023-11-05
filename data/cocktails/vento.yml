@@ -7,43 +7,38 @@ instructions: |-
 
     Notes:
     If desired water can be replaced by chamomile infusion in the honey mix.
-description: 'The Ve.n.to is one of the new additions to the IBA (International Bartender Association) cocktail list. And it is a truly unusual one, for it is the first-ever Grappa cocktail that made it into one of the lists of the IBA.'
-garnish: 'Garnish with lemon zest and white grapes.'
-source: 'https://iba-world.com/ve-n-to/'
+description: The Ve.n.to is one of the new additions to the IBA (International Bartender Association) cocktail list. And it is a truly unusual one, for it is the first-ever Grappa cocktail that made it into one of the lists of the IBA.
+garnish: Garnish with lemon zest and white grapes.
+source: https://iba-world.com/ve-n-to/
 tags:
-    - 'IBA Cocktail'
-    - 'New Era Drinks'
+    - IBA Cocktail
+    - New Era Drinks
 abv: 18.46
 glass: Lowball
 method: Shake
 ingredients:
-    -
-        _id: grappa
-        sort: 1
-        name: Grappa
-        amount: 45
-        units: ml
-    -
-        _id: lemon-juice
-        sort: 2
-        name: 'Lemon juice'
-        amount: 22.5
-        units: ml
-    -
-        _id: honey-syrup
-        sort: 3
-        name: 'Honey Syrup'
-        amount: 15
-        units: ml
-    -
-        _id: chamomile-cordial
-        sort: 4
-        name: 'Chamomile cordial'
-        amount: 15
-        units: ml
+    - _id: grappa
+      sort: 1
+      name: Grappa
+      amount: 45
+      units: ml
+    - _id: lemon-juice
+      sort: 2
+      name: Lemon juice
+      amount: 22.5
+      units: ml
+    - _id: honey-syrup
+      sort: 3
+      name: Honey Syrup
+      amount: 15
+      units: ml
+    - _id: chamomile-cordial
+      sort: 4
+      name: Chamomile cordial
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: vento-1.jpg
-        placeholder_hash: ewgGFwD4V2eHeHeKdphnqFd4iLBYCY8B
-        copyright: 'IBA World'
+    - sort: 1
+      file_name: vento-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: IBA World

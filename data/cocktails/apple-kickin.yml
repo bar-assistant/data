@@ -1,11 +1,11 @@
 _id: apple-kickin
-name: "Apple Kickin'"
+name: Apple Kickin'
 instructions: |-
     1. Add all ingredients to a rocks glass with a large format ice cube
     2. Stir for 20 seconds
-description: 'A bold, lightly bitter Old Fashioned variant whose flavor profile is an intriguing blend of fresh apple alongside spiced sugarcane.'
-garnish: 'apple slice'
-source: 'https://www.liberandcompany.com/collections/recipes/products/apple-kickin'
+description: A bold, lightly bitter Old Fashioned variant whose flavor profile is an intriguing blend of fresh apple alongside spiced sugarcane.
+garnish: apple slice
+source: https://www.liberandcompany.com/collections/recipes/products/apple-kickin
 tags:
     - Winter
     - Fruity
@@ -14,39 +14,33 @@ abv: 29.07
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: whiskey
-        sort: 1
-        name: Whiskey
-        amount: 45
-        units: ml
-    -
-        _id: apple-brandy
-        sort: 2
-        name: 'Apple Brandy'
-        amount: 22.5
-        units: ml
-    -
-        _id: demerara-syrup
-        sort: 3
-        name: 'Demerara Syrup'
-        amount: 7.5
-        units: ml
-    -
-        _id: amaro-montenegro
-        sort: 4
-        name: 'Amaro Montenegro'
-        amount: 7.5
-        units: ml
-    -
-        _id: angostura-aromatic-bitters
-        sort: 5
-        name: 'Angostura aromatic bitters'
-        amount: 1
-        units: dash
+    - _id: whiskey
+      sort: 1
+      name: Whiskey
+      amount: 45
+      units: ml
+    - _id: apple-brandy
+      sort: 2
+      name: Apple Brandy
+      amount: 22.5
+      units: ml
+    - _id: demerara-syrup
+      sort: 3
+      name: Demerara Syrup
+      amount: 7.5
+      units: ml
+    - _id: amaro-montenegro
+      sort: 4
+      name: Amaro Montenegro
+      amount: 7.5
+      units: ml
+    - _id: angostura-aromatic-bitters
+      sort: 5
+      name: Angostura aromatic bitters
+      amount: 1
+      units: dash
 images:
-    -
-        sort: 1
-        file_name: apple-kickin-1.jpg
-        placeholder_hash: 3CgGHwQMOFJlaHmXinmjhomn3fJaDZwC
-        copyright: "LiberAndCo | \_Scott Kallstrand"
+    - sort: 1
+      file_name: apple-kickin-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: LiberAndCo |  Scott Kallstrand

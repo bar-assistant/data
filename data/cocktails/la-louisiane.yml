@@ -1,47 +1,41 @@
 _id: la-louisiane
-name: 'La Louisiane'
-instructions: 'Add all ingredients to a cocktail mixing glass (or any other type of glass). Fill the mixing glass with 1 handful ice and stir continuously for 30 seconds until very cold.'
-description: 'The La Louisiane cocktail is an improvement on the Sazerac! Absinthe, rye whiskey and vermouth make this spirit-forward cocktail a stunner.'
-garnish: 'Garnish with a Luxardo cherry.'
-source: 'https://www.acouplecooks.com/la-louisiane-cocktail/'
-tags: {  }
+name: La Louisiane
+instructions: Add all ingredients to a cocktail mixing glass (or any other type of glass). Fill the mixing glass with 1 handful ice and stir continuously for 30 seconds until very cold.
+description: The La Louisiane cocktail is an improvement on the Sazerac! Absinthe, rye whiskey and vermouth make this spirit-forward cocktail a stunner.
+garnish: Garnish with a Luxardo cherry.
+source: https://www.acouplecooks.com/la-louisiane-cocktail/
+tags: {}
 abv: 28.94
 glass: Cocktail
 method: Stir
 ingredients:
-    -
-        _id: rye-whiskey
-        sort: 1
-        name: 'Rye whiskey'
-        amount: 60
-        units: ml
-    -
-        _id: sweet-vermouth
-        sort: 2
-        name: 'Sweet Vermouth'
-        amount: 30
-        units: ml
-    -
-        _id: benedictine
-        sort: 3
-        name: Bénédictine
-        amount: 30
-        units: ml
-    -
-        _id: absinthe
-        sort: 4
-        name: Absinthe
-        amount: 5
-        units: ml
-    -
-        _id: peychauds-bitters
-        sort: 5
-        name: 'Peychauds Bitters'
-        amount: 3
-        units: dashes
+    - _id: rye-whiskey
+      sort: 1
+      name: Rye whiskey
+      amount: 60
+      units: ml
+    - _id: sweet-vermouth
+      sort: 2
+      name: Sweet Vermouth
+      amount: 30
+      units: ml
+    - _id: benedictine
+      sort: 3
+      name: Bénédictine
+      amount: 30
+      units: ml
+    - _id: absinthe
+      sort: 4
+      name: Absinthe
+      amount: 5
+      units: ml
+    - _id: peychauds-bitters
+      sort: 5
+      name: Peychauds Bitters
+      amount: 3
+      units: dashes
 images:
-    -
-        sort: 1
-        file_name: la-louisiane-1.jpg
-        placeholder_hash: mhgWHwSXeIiAdnd0h5iYh3d3dgHICIQL
-        copyright: 'A couple cooks'
+    - sort: 1
+      file_name: la-louisiane-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: A couple cooks

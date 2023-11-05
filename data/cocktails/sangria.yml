@@ -8,59 +8,51 @@ description: |-
     A punch, sangria traditionally consists of red wine and chopped fruit, often with other ingredients or spirits.
 
     Sangria is very popular among foreign tourists in Spain even if locals do not consume the beverage that much. It is commonly served in bars, restaurants, and chiringuitos and at festivities throughout Portugal and Spain.
-garnish: 'Drop fruit chunks into a glass'
-source: 'https://www.acouplecooks.com/gin-gimlet-cocktail/'
+garnish: Drop fruit chunks into a glass
+source: https://www.acouplecooks.com/gin-gimlet-cocktail/
 tags:
     - Wine
 abv: 36.36
 glass: Wine
 method: Build
 ingredients:
-    -
-        _id: red-wine
-        sort: 1
-        name: 'Red wine'
-        amount: 1
-        units: bottle
-    -
-        _id: orange
-        sort: 2
-        name: Orange
-        amount: 1
-        units: whole
-    -
-        _id: apple
-        sort: 3
-        name: Apple
-        amount: 1
-        units: whole
-    -
-        _id: sugar
-        sort: 4
-        name: Sugar
-        amount: 3
-        units: tablespoons
-    -
-        _id: brandy
-        sort: 5
-        name: Brandy
-        amount: 10
-        units: ml
-    -
-        _id: cointreau
-        sort: 6
-        name: Cointreau
-        amount: 10
-        units: ml
-    -
-        _id: lemon
-        sort: 7
-        name: Lemon
-        amount: 1
-        units: whole
+    - _id: red-wine
+      sort: 1
+      name: Red wine
+      amount: 1
+      units: bottle
+    - _id: orange
+      sort: 2
+      name: Orange
+      amount: 1
+      units: whole
+    - _id: apple
+      sort: 3
+      name: Apple
+      amount: 1
+      units: whole
+    - _id: sugar
+      sort: 4
+      name: Sugar
+      amount: 3
+      units: tablespoons
+    - _id: brandy
+      sort: 5
+      name: Brandy
+      amount: 10
+      units: ml
+    - _id: cointreau
+      sort: 6
+      name: Cointreau
+      amount: 10
+      units: ml
+    - _id: lemon
+      sort: 7
+      name: Lemon
+      amount: 1
+      units: whole
 images:
-    -
-        sort: 1
-        file_name: sangria-1.jpg
-        placeholder_hash: 8PcJHwaaxKxvpmabiBWYpWZ3qGgJi4YA
-        copyright: 'A Couple Cooks'
+    - sort: 1
+      file_name: sangria-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: A Couple Cooks

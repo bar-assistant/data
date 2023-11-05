@@ -16,36 +16,30 @@ const processIngredientImages = async () => {
             continue;
         }
 
-        const file = await fs.readFile(dataFolder + '/ingredients/' + ingredientFiles[i].name, 'utf8')
+        const file = await fs.readFile(dataFolder + 'ingredients/' + ingredientFiles[i].name, 'utf8')
         const ing = yml.parse(file)
 
         if (ing.images && Array.from(ing.images).length > 0) {
             await Promise.all(ing.images.map(async img => {
                 const filename = `${dataFolder}ingredients/images/${img.file_name}`
                 const tempFilename = `${tempFolder}${crypto.randomBytes(20).toString('hex')}`
-                console.log(`processing ${filename}...`)
 
-                // sharp(filename)
-                //     .resize(null, 600, {
-                //         withoutEnlargement: true
-                //     })
-                //     .trim()
-                //     .png({
-                //         compressionLevel: 9,
-                //         quality: 80
-                //     })
-                //     .toFile(tempFilename)
-                //     .then(() => fs.rename(tempFilename, `${filename}`));
+                if (img.placeholder_hash == null) {
+                    console.log(`Processing ingredient ${filename}...`)
+                    sharp(filename)
+                        .resize(null, 600, {
+                            withoutEnlargement: true
+                        })
+                        .trim()
+                        .png({
+                            compressionLevel: 9,
+                            quality: 80
+                        })
+                        .toFile(tempFilename)
+                        .then(() => fs.rename(tempFilename, `${filename}`));
 
-                const thumbhash = await import('thumbhash');
-                const buffer = await sharp(filename)
-                    .resize(80, 80)
-                    .raw()
-                    .toBuffer();
-                const pixelArray = new Uint8ClampedArray(buffer);
-
-                const hash = thumbhash.rgbaToThumbHash(80, 80, pixelArray);
-                img.placeholder_hash = btoa(String.fromCharCode(...hash)).replace(/=+$/, '');
+                    img.placeholder_hash = await getHash(filename);
+                }
 
                 return img
             }))
@@ -59,24 +53,69 @@ const processIngredientImages = async () => {
             await fs.writeFile(dataFolder + '/ingredients/' + ingredientFiles[i].name, newYaml)
         }
     }
-
-    // await fs.writeFile(process.cwd() + '/data/base_ingredients.yml', newYaml)
 }
 
 const processCocktailImages = async () => {
-    const folder = process.cwd() + '/data/cocktails/images/';
-    const files = await fs.readdir(folder)
+    const cocktailFiles = await fs.readdir(dataFolder + 'cocktails', {
+        withFileTypes: true
+    });
 
-    files.map(async (filename) => {
-        const tempFilename = `${folder}temp-${filename}`
-        sharp(`${folder}${filename}`)
-            .jpeg({
-                quality: 80
+    for (let i = 0; i < cocktailFiles.length; i++) {
+        if (!cocktailFiles[i].isFile()) {
+            continue;
+        }
+
+        const file = await fs.readFile(dataFolder + '/cocktails/' + cocktailFiles[i].name, 'utf8')
+        const cocktail = yml.parse(file)
+
+        if (cocktail && cocktail.images && Array.from(cocktail.images).length > 0) {
+            await Promise.all(cocktail.images.map(async img => {
+                const filename = `${dataFolder}cocktails/images/${img.file_name}`
+                const tempFilename = `${tempFolder}${crypto.randomBytes(20).toString('hex')}`
+
+                if (img.placeholder_hash == null) {
+                    console.log(`Processing cocktail ${filename}...`)
+                    sharp(filename)
+                        .jpeg({
+                            quality: 80,
+                            mozjpeg: true
+                        })
+                        .resize(null, 1400, {
+                            withoutEnlargement: true
+                        })
+                        .toFile(tempFilename)
+                        .then(() => fs.rename(tempFilename, `${filename}`));
+
+                    img.placeholder_hash = await getHash(filename);
+                }
+
+                return img
+            }))
+
+            const newYaml = yml.stringify(cocktail, {
+                indent: 4,
+                lineWidth: 0,
+                singleQuote: true
             })
-            .toFile(tempFilename)
-            .then(() => fs.rename(tempFilename, `${folder}${filename}`));
-    })
+
+            await fs.writeFile(dataFolder + '/cocktails/' + cocktailFiles[i].name, newYaml)
+        }
+    }
 }
 
-// processCocktailImages()
+const getHash = async (filename) => {
+    console.log(filename)
+    const thumbhash = await import('thumbhash');
+    const buffer = await sharp(filename)
+        .resize(80, 80)
+        .raw()
+        .toBuffer();
+    const pixelArray = new Uint8ClampedArray(buffer);
+
+    const hash = thumbhash.rgbaToThumbHash(80, 80, pixelArray);
+
+    return btoa(String.fromCharCode(...hash)).replace(/=+$/, '');
+}
+
+processCocktailImages()
 processIngredientImages()

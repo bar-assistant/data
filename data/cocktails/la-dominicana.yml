@@ -1,12 +1,12 @@
 _id: la-dominicana
-name: 'La Dominicana'
+name: La Dominicana
 instructions: |-
     1. Whip together a wet cream using a whisk or stand mixer
     2. Add rum and coffee liqueur to a mixing glass and stir over ice
     3. Strain into a cocktail glass and float whipped cream on top
-description: 'A rich, complex, rum soaked upgrade on the White Russian'
-garnish: 'hand-whipped cream'
-source: 'https://tuxedono2.com/la-dominicana-cocktail-recipe'
+description: A rich, complex, rum soaked upgrade on the White Russian
+garnish: hand-whipped cream
+source: https://tuxedono2.com/la-dominicana-cocktail-recipe
 tags:
     - Coffee
     - Sweet
@@ -14,27 +14,23 @@ abv: 25
 glass: Cocktail
 method: Stir
 ingredients:
-    -
-        _id: dark-rum
-        sort: 1
-        name: 'Dark Rum'
-        amount: 45
-        units: ml
-    -
-        _id: coffee-liqueur
-        sort: 2
-        name: 'Coffee liqueur'
-        amount: 45
-        units: ml
-    -
-        _id: cream
-        sort: 3
-        name: Cream
-        amount: 1
-        units: hand-whipped
+    - _id: dark-rum
+      sort: 1
+      name: Dark Rum
+      amount: 45
+      units: ml
+    - _id: coffee-liqueur
+      sort: 2
+      name: Coffee liqueur
+      amount: 45
+      units: ml
+    - _id: cream
+      sort: 3
+      name: Cream
+      amount: 1
+      units: hand-whipped
 images:
-    -
-        sort: 1
-        file_name: la-dominicana-1.jpg
-        placeholder_hash: BQgGBwAHtWmVdIqYZ1jIR7h3mrBoGHYA
-        copyright: TuxedoNo2
+    - sort: 1
+      file_name: la-dominicana-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: TuxedoNo2

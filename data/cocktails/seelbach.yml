@@ -6,46 +6,40 @@ instructions: |-
     3. Top with cold Champagne or other sparkling wine.
     3. Garnish with an orange twist.
 description: "The Seelbach Cocktail may not be a julep, but it doesn't have to be: it's respectable, powerful, and delicious right down to the bottom of the glass."
-garnish: 'Orange twist'
-source: 'https://www.seriouseats.com/seelbach-cocktail-recipe'
-tags: {  }
+garnish: Orange twist
+source: https://www.seriouseats.com/seelbach-cocktail-recipe
+tags: {}
 abv: 18.43
 glass: Champagne
 method: Stir
 ingredients:
-    -
-        _id: bourbon-whiskey
-        sort: 1
-        name: 'Bourbon Whiskey'
-        amount: 30
-        units: ml
-    -
-        _id: cointreau
-        sort: 2
-        name: Cointreau
-        amount: 15
-        units: ml
-    -
-        _id: angostura-aromatic-bitters
-        sort: 3
-        name: 'Angostura aromatic bitters'
-        amount: 5
-        units: dashes
-    -
-        _id: peychauds-bitters
-        sort: 4
-        name: 'Peychauds Bitters'
-        amount: 5
-        units: dashes
-    -
-        _id: champagne
-        sort: 5
-        name: Champagne
-        amount: 90
-        units: ml
+    - _id: bourbon-whiskey
+      sort: 1
+      name: Bourbon Whiskey
+      amount: 30
+      units: ml
+    - _id: cointreau
+      sort: 2
+      name: Cointreau
+      amount: 15
+      units: ml
+    - _id: angostura-aromatic-bitters
+      sort: 3
+      name: Angostura aromatic bitters
+      amount: 5
+      units: dashes
+    - _id: peychauds-bitters
+      sort: 4
+      name: Peychauds Bitters
+      amount: 5
+      units: dashes
+    - _id: champagne
+      sort: 5
+      name: Champagne
+      amount: 90
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: seelbach-1.jpg
-        placeholder_hash: eAgGFwL4J8iGe4R5hqlXqGd4eMBnB3wG
-        copyright: 'The Educated Barfly'
+    - sort: 1
+      file_name: seelbach-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: The Educated Barfly

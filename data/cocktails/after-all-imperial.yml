@@ -1,51 +1,45 @@
 _id: after-all-imperial
-name: 'After All Imperial'
+name: After All Imperial
 instructions: |-
     1. Combine all ingredients, except sparkling wine, in a shaker and shake.
     2. Strain into a collins glass or flute and top with sparkling wine.
     3. Garnish with mint or rosemary
-description: 'A fruity spin on a light, bubbly classic'
-garnish: 'Sprig mint or rosemary for garnish'
-source: 'https://tuxedono2.com/after-all-imperial-cocktail-recipe-3dc66829-73c3-4dab-b867-9bfefccaee15'
+description: A fruity spin on a light, bubbly classic
+garnish: Sprig mint or rosemary for garnish
+source: https://tuxedono2.com/after-all-imperial-cocktail-recipe-3dc66829-73c3-4dab-b867-9bfefccaee15
 tags:
     - Fruity
 abv: 16.8
 glass: Highball
 method: Shake
 ingredients:
-    -
-        _id: apple-brandy
-        sort: 1
-        name: 'Apple Brandy'
-        amount: 45
-        units: ml
-    -
-        _id: peach-liqueur
-        sort: 2
-        name: 'Peach liqueur'
-        amount: 15
-        units: ml
-    -
-        _id: lemon-juice
-        sort: 3
-        name: 'Lemon juice'
-        amount: 15
-        units: ml
-    -
-        _id: angostura-aromatic-bitters
-        sort: 4
-        name: 'Angostura aromatic bitters'
-        amount: 1
-        units: dash
-    -
-        _id: champagne
-        sort: 5
-        name: Champagne
-        amount: 60
-        units: ml
+    - _id: apple-brandy
+      sort: 1
+      name: Apple Brandy
+      amount: 45
+      units: ml
+    - _id: peach-liqueur
+      sort: 2
+      name: Peach liqueur
+      amount: 15
+      units: ml
+    - _id: lemon-juice
+      sort: 3
+      name: Lemon juice
+      amount: 15
+      units: ml
+    - _id: angostura-aromatic-bitters
+      sort: 4
+      name: Angostura aromatic bitters
+      amount: 1
+      units: dash
+    - _id: champagne
+      sort: 5
+      name: Champagne
+      amount: 60
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: after-all-imperial-1.jpg
-        placeholder_hash: SAgKFwIGx3eWhXhle1aoV5h3pyBHSmAF
-        copyright: TuxedoNo2
+    - sort: 1
+      file_name: after-all-imperial-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: TuxedoNo2

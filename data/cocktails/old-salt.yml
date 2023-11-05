@@ -1,11 +1,11 @@
 _id: old-salt
-name: 'Old Salt'
+name: Old Salt
 instructions: |-
     1. Combine all ingredients in a cocktail shaker, but do not shake.
     2. Pour directly over ice into a 10-ounce Collins glass.
-description: 'A cross between the Paloma and Salty Dog cocktails, this gin or tequila drink recipe calls for fluffy grapefruit juice and saline solution.'
-garnish: 'Garnish with an oversized salted grapefruit wedge on top.'
-source: 'https://punchdrink.com/recipes/old-salt/'
+description: A cross between the Paloma and Salty Dog cocktails, this gin or tequila drink recipe calls for fluffy grapefruit juice and saline solution.
+garnish: Garnish with an oversized salted grapefruit wedge on top.
+source: https://punchdrink.com/recipes/old-salt/
 tags:
     - Sour
     - Citrusy
@@ -13,46 +13,39 @@ abv: 8.34
 glass: Highball
 method: Build
 ingredients:
-    -
-        _id: tequila-blanco
-        sort: 1
-        name: 'Tequila Blanco'
-        amount: 45
-        units: ml
-        substitutes:
-            -
-                _id: gin
-                name: Gin
-                amount: null
-                amount_max: null
-                units: null
-    -
-        _id: simple-syrup
-        sort: 2
-        name: 'Simple Syrup'
-        amount: 15
-        units: ml
-    -
-        _id: lime-juice
-        sort: 3
-        name: 'Lime juice'
-        amount: 15
-        units: ml
-    -
-        _id: saline-solution
-        sort: 4
-        name: 'Saline solution'
-        amount: 2
-        units: dash
-    -
-        _id: grapefruit-juice
-        sort: 5
-        name: 'Grapefruit juice'
-        amount: 120
-        units: ml
+    - _id: tequila-blanco
+      sort: 1
+      name: Tequila Blanco
+      amount: 45
+      units: ml
+      substitutes:
+          - _id: gin
+            name: Gin
+            amount: null
+            amount_max: null
+            units: null
+    - _id: simple-syrup
+      sort: 2
+      name: Simple Syrup
+      amount: 15
+      units: ml
+    - _id: lime-juice
+      sort: 3
+      name: Lime juice
+      amount: 15
+      units: ml
+    - _id: saline-solution
+      sort: 4
+      name: Saline solution
+      amount: 2
+      units: dash
+    - _id: grapefruit-juice
+      sort: 5
+      name: Grapefruit juice
+      amount: 120
+      units: ml
 images:
-    -
-        sort: 0
-        file_name: old-salt-1.jpg
-        placeholder_hash: 5RgKDwR/tGiQdnl3qGWXZ4iGB/JmA2oG
-        copyright: 'Punch Staff'
+    - sort: 0
+      file_name: old-salt-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch Staff

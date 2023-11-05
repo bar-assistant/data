@@ -3,35 +3,31 @@ name: Revolver
 instructions: |-
     1. Combine all ingredients over ice and stir around 15 seconds
     2. Strain into a chilled coupe and garnish
-description: 'A San Francisco original, and an exceptional coffee-laced riff on the Manhattan'
-garnish: 'orange peel for garnish'
-source: 'https://tuxedono2.com/revolver-cocktail-recipe'
-tags: {  }
+description: A San Francisco original, and an exceptional coffee-laced riff on the Manhattan
+garnish: orange peel for garnish
+source: https://tuxedono2.com/revolver-cocktail-recipe
+tags: {}
 abv: 29.9
 glass: Cocktail
 method: Stir
 ingredients:
-    -
-        _id: bourbon-whiskey
-        sort: 1
-        name: 'Bourbon Whiskey'
-        amount: 60
-        units: ml
-    -
-        _id: coffee-liqueur
-        sort: 2
-        name: 'Coffee liqueur'
-        amount: 15
-        units: ml
-    -
-        _id: orange-bitters
-        sort: 3
-        name: 'Orange bitters'
-        amount: 2
-        units: dash
+    - _id: bourbon-whiskey
+      sort: 1
+      name: Bourbon Whiskey
+      amount: 60
+      units: ml
+    - _id: coffee-liqueur
+      sort: 2
+      name: Coffee liqueur
+      amount: 15
+      units: ml
+    - _id: orange-bitters
+      sort: 3
+      name: Orange bitters
+      amount: 2
+      units: dash
 images:
-    -
-        sort: 0
-        file_name: revolver-1.jpg
-        placeholder_hash: BQgGBwI7hphyVpiPaNdqhoeHnPPpOZ8M
-        copyright: TuxedoNo2
+    - sort: 0
+      file_name: revolver-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: TuxedoNo2

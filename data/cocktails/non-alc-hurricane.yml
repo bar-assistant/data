@@ -1,13 +1,13 @@
 _id: non-alc-hurricane
-name: 'Non-Alc Hurricane'
+name: Non-Alc Hurricane
 instructions: |-
     1. Add all ingredients, except club soda, to a shaker
     2. Add ice and shake for 10 seconds
     3. Pour into hurricane glass and top with club soda
     4. Garnish with maraschino cherry or orange wheel
-description: 'The Hurricane is a classic New Orleans cocktail that features passionfruit and plenty of rum. It was made famous at Pat O’Briens, a popular New Orleans spot that still attracts visitors to this day. In our non-alcoholic hurricane recipe, we’ll be using passionfruit syrup, as well as grenadine to achieve a fruity, tropical flavor.'
-garnish: 'maraschino cherry or lemon wheel'
-source: 'https://www.liberandcompany.com/collections/recipes/products/na-hurricane'
+description: The Hurricane is a classic New Orleans cocktail that features passionfruit and plenty of rum. It was made famous at Pat O’Briens, a popular New Orleans spot that still attracts visitors to this day. In our non-alcoholic hurricane recipe, we’ll be using passionfruit syrup, as well as grenadine to achieve a fruity, tropical flavor.
+garnish: maraschino cherry or lemon wheel
+source: https://www.liberandcompany.com/collections/recipes/products/na-hurricane
 tags:
     - Virgin
     - Summer
@@ -15,39 +15,33 @@ abv: 1.04
 glass: Hurricane
 method: Shake
 ingredients:
-    -
-        _id: lemon-juice
-        sort: 1
-        name: 'Lemon juice'
-        amount: 30
-        units: ml
-    -
-        _id: passionfruit-syrup
-        sort: 2
-        name: 'Passionfruit syrup'
-        amount: 22.5
-        units: ml
-    -
-        _id: grenadine-syrup
-        sort: 3
-        name: 'Grenadine Syrup'
-        amount: 7.5
-        units: ml
-    -
-        _id: club-soda
-        sort: 4
-        name: 'Club soda'
-        amount: 1
-        units: topup
-    -
-        _id: angostura-aromatic-bitters
-        sort: 5
-        name: 'Angostura aromatic bitters'
-        amount: 3
-        units: dash
+    - _id: lemon-juice
+      sort: 1
+      name: Lemon juice
+      amount: 30
+      units: ml
+    - _id: passionfruit-syrup
+      sort: 2
+      name: Passionfruit syrup
+      amount: 22.5
+      units: ml
+    - _id: grenadine-syrup
+      sort: 3
+      name: Grenadine Syrup
+      amount: 7.5
+      units: ml
+    - _id: club-soda
+      sort: 4
+      name: Club soda
+      amount: 1
+      units: topup
+    - _id: angostura-aromatic-bitters
+      sort: 5
+      name: Angostura aromatic bitters
+      amount: 3
+      units: dash
 images:
-    -
-        sort: 1
-        file_name: non-alc-hurricane-1.jpg
-        placeholder_hash: mSgKDwQ/dni+eHeKeDeHiHV6WQNZTXAB
-        copyright: LiberAndCo
+    - sort: 1
+      file_name: non-alc-hurricane-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: LiberAndCo

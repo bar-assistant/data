@@ -1,44 +1,39 @@
 _id: 20th-century
-name: '20th Century'
+name: 20th Century
 instructions: |-
     1. Combine all ingredients with ice and shake
     2. Strain into a coupe, serve up
-description: 'The 20th Century is a cocktail created in 1937 by a British bartender named C.A. Tuck, and named in honor of the celebrated 20th Century Limited train which ran between New York City and Chicago from 1902 until 1967.'
-garnish: 'Lemon twist'
-source: 'https://en.wikipedia.org/wiki/20th_Century_(cocktail)'
+description: The 20th Century is a cocktail created in 1937 by a British bartender named C.A. Tuck, and named in honor of the celebrated 20th Century Limited train which ran between New York City and Chicago from 1902 until 1967.
+garnish: Lemon twist
+source: https://en.wikipedia.org/wiki/20th_Century_(cocktail)
 tags:
-    - 'Contemporary Classics'
+    - Contemporary Classics
 abv: 20.91
-glass: 'Nick and Nora'
+glass: Nick and Nora
 method: Shake
 ingredients:
-    -
-        _id: gin
-        sort: 1
-        name: Gin
-        amount: 45
-        units: ml
-    -
-        _id: creme-de-cacao-white
-        sort: 2
-        name: 'Crème de Cacao (White)'
-        amount: 22.5
-        units: ml
-    -
-        _id: lillet-blanc
-        sort: 3
-        name: 'Lillet Blanc'
-        amount: 22.5
-        units: ml
-    -
-        _id: lemon-juice
-        sort: 4
-        name: 'Lemon juice'
-        amount: 15
-        units: ml
+    - _id: gin
+      sort: 1
+      name: Gin
+      amount: 45
+      units: ml
+    - _id: creme-de-cacao-white
+      sort: 2
+      name: Crème de Cacao (White)
+      amount: 22.5
+      units: ml
+    - _id: lillet-blanc
+      sort: 3
+      name: Lillet Blanc
+      amount: 22.5
+      units: ml
+    - _id: lemon-juice
+      sort: 4
+      name: Lemon juice
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: 20th-century-1.jpg
-        placeholder_hash: DykODwIIt3iHdnh0i0aniId3dwKIxnYP
-        copyright: 'Imbibe Magazine'
+    - sort: 1
+      file_name: 20th-century-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Imbibe Magazine

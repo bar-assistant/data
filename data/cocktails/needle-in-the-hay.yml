@@ -1,12 +1,12 @@
 _id: needle-in-the-hay
-name: 'Needle in the Hay'
+name: Needle in the Hay
 instructions: |-
     1. Combine the ingredients into your mixing glass
     2.  Stir for 20-30 seconds with ice
     3. Strain over fresh ice into an old fashioned glass
-description: 'The Needle in the Hay was created by Los Angeles-based mixologist Devon Tarby. She was a contributor to the well known cocktail book, Cocktail Codex (from the authors and owners of Death & Co). This Islay whisky cocktail is what you would imagine a Autumn cocktail to be - smoky, sweet maple flavours and undertones of apple from the brandy.'
-garnish: 'Garnish with a twist of lemon'
-source: 'https://stevethebartender.com.au/needle-in-the-hay-smoky-autumn-cocktail-recipe/'
+description: The Needle in the Hay was created by Los Angeles-based mixologist Devon Tarby. She was a contributor to the well known cocktail book, Cocktail Codex (from the authors and owners of Death & Co). This Islay whisky cocktail is what you would imagine a Autumn cocktail to be - smoky, sweet maple flavours and undertones of apple from the brandy.
+garnish: Garnish with a twist of lemon
+source: https://stevethebartender.com.au/needle-in-the-hay-smoky-autumn-cocktail-recipe/
 tags:
     - Smokey
     - Sweet
@@ -14,33 +14,28 @@ abv: 33.42
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: islay-scotch-whiskey
-        sort: 1
-        name: 'Islay Scotch Whiskey'
-        amount: 30
-        units: ml
-    -
-        _id: apple-brandy
-        sort: 2
-        name: 'Apple Brandy'
-        amount: 22.5
-        units: ml
-    -
-        _id: maple-syrup
-        sort: 3
-        name: 'Maple syrup'
-        amount: 1
-        units: barspoon
-    -
-        _id: angostura-aromatic-bitters
-        sort: 4
-        name: 'Angostura aromatic bitters'
-        amount: 2
-        units: dashes
+    - _id: islay-scotch-whiskey
+      sort: 1
+      name: Islay Scotch Whiskey
+      amount: 30
+      units: ml
+    - _id: apple-brandy
+      sort: 2
+      name: Apple Brandy
+      amount: 22.5
+      units: ml
+    - _id: maple-syrup
+      sort: 3
+      name: Maple syrup
+      amount: 1
+      units: barspoon
+    - _id: angostura-aromatic-bitters
+      sort: 4
+      name: Angostura aromatic bitters
+      amount: 2
+      units: dashes
 images:
-    -
-        sort: 1
-        file_name: needle-in-the-hay-1.jpg
-        placeholder_hash: 4igOHwTPdpWUfFalaGh1x4h3BxdbgLAI
-        copyright: 'Steve The Bartender'
+    - sort: 1
+      file_name: needle-in-the-hay-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Steve The Bartender

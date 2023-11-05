@@ -1,5 +1,5 @@
 _id: pisco-sour
-name: 'Pisco Sour'
+name: Pisco Sour
 instructions: |-
     Add all ingredients into a shaker with ice.
     Shake and strain into a chilled goblet glass.
@@ -8,44 +8,39 @@ description: |-
     The Peruvian pisco sour uses Peruvian pisco as the base liquor and adds freshly squeezed lemon juice, simple syrup, ice, egg white, and Angostura bitters.
     The Chilean version is similar, but uses Chilean pisco and Pica lime, and excludes the bitters and egg white.
     Other variants of the cocktail include those created with fruits like pineapple or plants such as coca leaves.
-garnish: 'Few dashes of Amargo or Angostura bitters on top as an aromatic garnish.'
-source: 'https://iba-world.com/pisco-sour/'
+garnish: Few dashes of Amargo or Angostura bitters on top as an aromatic garnish.
+source: https://iba-world.com/pisco-sour/
 tags:
-    - 'Contemporary Classics'
-    - 'IBA Cocktail'
+    - Contemporary Classics
+    - IBA Cocktail
     - Sour
 abv: 17.45
-glass: 'Nick and Nora'
+glass: Nick and Nora
 method: Shake
 ingredients:
-    -
-        _id: pisco
-        sort: 1
-        name: Pisco
-        amount: 60
-        units: ml
-    -
-        _id: lemon-juice
-        sort: 2
-        name: 'Lemon juice'
-        amount: 30
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 3
-        name: 'Simple Syrup'
-        amount: 20
-        units: ml
-    -
-        _id: egg-white
-        sort: 4
-        name: 'Egg White'
-        amount: 1
-        units: drops
-        optional: true
+    - _id: pisco
+      sort: 1
+      name: Pisco
+      amount: 60
+      units: ml
+    - _id: lemon-juice
+      sort: 2
+      name: Lemon juice
+      amount: 30
+      units: ml
+    - _id: simple-syrup
+      sort: 3
+      name: Simple Syrup
+      amount: 20
+      units: ml
+    - _id: egg-white
+      sort: 4
+      name: Egg White
+      amount: 1
+      units: drops
+      optional: true
 images:
-    -
-        sort: 1
-        file_name: pisco-sour-1.jpg
-        placeholder_hash: YwgSFwBqiHd/iYeJd3d3h4d4V5AnEJkF
-        copyright: 'Liquor.com / Tim Nusog'
+    - sort: 1
+      file_name: pisco-sour-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Liquor.com / Tim Nusog

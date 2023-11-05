@@ -1,45 +1,40 @@
 _id: espresso-martini
-name: 'Espresso Martini'
-instructions: 'Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.'
-description: 'It is not a true martini as it contains neither gin nor vermouth, but is one of many drinks that incorporate the term martini into their names.'
+name: Espresso Martini
+instructions: Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.
+description: It is not a true martini as it contains neither gin nor vermouth, but is one of many drinks that incorporate the term martini into their names.
 garnish: null
-source: 'https://iba-world.com/espresso-martini/'
+source: https://iba-world.com/espresso-martini/
 tags:
-    - 'IBA Cocktail'
-    - 'New Era Drinks'
+    - IBA Cocktail
+    - New Era Drinks
     - Sweet
     - Coffee
 abv: 23.11
 glass: Cocktail
 method: Shake
 ingredients:
-    -
-        _id: vodka
-        sort: 1
-        name: Vodka
-        amount: 50
-        units: ml
-    -
-        _id: coffee-liqueur
-        sort: 2
-        name: 'Coffee liqueur'
-        amount: 30
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 3
-        name: 'Simple Syrup'
-        amount: 10
-        units: ml
-    -
-        _id: espresso
-        sort: 4
-        name: Espresso
-        amount: 1
-        units: strong
+    - _id: vodka
+      sort: 1
+      name: Vodka
+      amount: 50
+      units: ml
+    - _id: coffee-liqueur
+      sort: 2
+      name: Coffee liqueur
+      amount: 30
+      units: ml
+    - _id: simple-syrup
+      sort: 3
+      name: Simple Syrup
+      amount: 10
+      units: ml
+    - _id: espresso
+      sort: 4
+      name: Espresso
+      amount: 1
+      units: strong
 images:
-    -
-        sort: 1
-        file_name: espresso-martini-1.jpg
-        placeholder_hash: zygGFwJPqId4Zoh0iUfHKLZp+qVJT5kD
-        copyright: "It's Liv B."
+    - sort: 1
+      file_name: espresso-martini-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: It's Liv B.

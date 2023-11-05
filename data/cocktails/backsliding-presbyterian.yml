@@ -1,48 +1,42 @@
 _id: backsliding-presbyterian
-name: 'Backsliding Presbyterian'
-instructions: 'Shake all ingredients (except club soda) with ice and strain into an ice-filled glass. Top with club soda and garnish.'
-description: 'Tall and bursting with bittersweet orange and ginger flavors, this whiskey highball proves that aged spirits aren’t just for winter sipping.'
-garnish: 'Orange Wedge'
-source: 'https://imbibemagazine.com/recipe/backsliding-presbyterian/'
+name: Backsliding Presbyterian
+instructions: Shake all ingredients (except club soda) with ice and strain into an ice-filled glass. Top with club soda and garnish.
+description: Tall and bursting with bittersweet orange and ginger flavors, this whiskey highball proves that aged spirits aren’t just for winter sipping.
+garnish: Orange Wedge
+source: https://imbibemagazine.com/recipe/backsliding-presbyterian/
 tags:
     - Fruity
 abv: 17.41
 glass: Highball
 method: Shake
 ingredients:
-    -
-        _id: bourbon-whiskey
-        sort: 1
-        name: 'Bourbon Whiskey'
-        amount: 60
-        units: ml
-    -
-        _id: campari
-        sort: 2
-        name: Campari
-        amount: 15
-        units: ml
-    -
-        _id: ginger-syrup
-        sort: 3
-        name: 'Ginger syrup'
-        amount: 22.5
-        units: ml
-    -
-        _id: lime-juice
-        sort: 4
-        name: 'Lime juice'
-        amount: 30
-        units: ml
-    -
-        _id: club-soda
-        sort: 5
-        name: 'Club soda'
-        amount: 1
-        units: top
+    - _id: bourbon-whiskey
+      sort: 1
+      name: Bourbon Whiskey
+      amount: 60
+      units: ml
+    - _id: campari
+      sort: 2
+      name: Campari
+      amount: 15
+      units: ml
+    - _id: ginger-syrup
+      sort: 3
+      name: Ginger syrup
+      amount: 22.5
+      units: ml
+    - _id: lime-juice
+      sort: 4
+      name: Lime juice
+      amount: 30
+      units: ml
+    - _id: club-soda
+      sort: 5
+      name: Club soda
+      amount: 1
+      units: top
 images:
-    -
-        sort: 1
-        file_name: backsliding-presbyterian-1.webp
-        placeholder_hash: KykKHwbaWYhvdnl5dyh46YeFhwC3B4AK
-        copyright: 'LiberAndCo | Juliet Beletic'
+    - sort: 1
+      file_name: backsliding-presbyterian-1.webp
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: LiberAndCo | Juliet Beletic

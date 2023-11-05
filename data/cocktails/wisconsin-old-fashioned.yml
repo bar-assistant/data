@@ -1,5 +1,5 @@
 _id: wisconsin-old-fashioned
-name: 'Wisconsin Old Fashioned'
+name: Wisconsin Old Fashioned
 instructions: |-
     1. In a chilled old fashioned glass, muddle the sugar, bitters, orange wedge and cherry into a thick paste, careful not to overwork the orange peel.
     2. Add brandy or Cognac and stir.
@@ -15,41 +15,36 @@ description: |-
     - Sour: Sour mix or grapefruit soda (like Squirt).
     - Press: 50/50 lemon lime soda and soda water (club soda)
     - Soda: Soda water
-garnish: 'Orange half and 1 cherry'
-source: 'https://jeffreymorgenthaler.com/brandy-old-fashioned/'
+garnish: Orange half and 1 cherry
+source: https://jeffreymorgenthaler.com/brandy-old-fashioned/
 tags:
     - Brandy
 abv: 33.57
 glass: Lowball
 method: Muddle
 ingredients:
-    -
-        _id: brandy
-        sort: 1
-        name: Brandy
-        amount: 60
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 2
-        name: 'Simple Syrup'
-        amount: 5
-        units: ml
-    -
-        _id: orange
-        sort: 3
-        name: Orange
-        amount: 1
-        units: wedge
-    -
-        _id: cocktail-cherry
-        sort: 4
-        name: 'Cocktail cherry'
-        amount: 1
-        units: whole
+    - _id: brandy
+      sort: 1
+      name: Brandy
+      amount: 60
+      units: ml
+    - _id: simple-syrup
+      sort: 2
+      name: Simple Syrup
+      amount: 5
+      units: ml
+    - _id: orange
+      sort: 3
+      name: Orange
+      amount: 1
+      units: wedge
+    - _id: cocktail-cherry
+      sort: 4
+      name: Cocktail cherry
+      amount: 1
+      units: whole
 images:
-    -
-        sort: 1
-        file_name: wisconsin-old-fashioned-1.webp
-        placeholder_hash: 8SgKLwrsZYlvhXd7lEiYh4iHaAE3BoED
-        copyright: 'A Couple Cooks'
+    - sort: 1
+      file_name: wisconsin-old-fashioned-1.webp
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: A Couple Cooks

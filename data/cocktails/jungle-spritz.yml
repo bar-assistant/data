@@ -1,44 +1,39 @@
 _id: jungle-spritz
-name: 'Jungle Spritz'
+name: Jungle Spritz
 instructions: |-
     1. Add all ingredients except soda to a glass filled with ice
     2. Stir to combine and top with soda
-description: 'A refreshing apertivo inspired by the classic tiki drink, the Jungle Bird.'
-garnish: 'Lime wedge and pineapple leaves'
-source: 'https://www.liberandcompany.com/collections/recipes/products/jungle-spritz'
+description: A refreshing apertivo inspired by the classic tiki drink, the Jungle Bird.
+garnish: Lime wedge and pineapple leaves
+source: https://www.liberandcompany.com/collections/recipes/products/jungle-spritz
 tags:
     - Spritz
 abv: 11.65
 glass: Wine
 method: Build
 ingredients:
-    -
-        _id: prosecco
-        sort: 1
-        name: Prosecco
-        amount: 90
-        units: ml
-    -
-        _id: campari
-        sort: 2
-        name: Campari
-        amount: 45
-        units: ml
-    -
-        _id: pineapple-juice
-        sort: 3
-        name: 'Pineapple juice'
-        amount: 30
-        units: ml
-    -
-        _id: club-soda
-        sort: 4
-        name: 'Club soda'
-        amount: 1
-        units: topup
+    - _id: prosecco
+      sort: 1
+      name: Prosecco
+      amount: 90
+      units: ml
+    - _id: campari
+      sort: 2
+      name: Campari
+      amount: 45
+      units: ml
+    - _id: pineapple-juice
+      sort: 3
+      name: Pineapple juice
+      amount: 30
+      units: ml
+    - _id: club-soda
+      sort: 4
+      name: Club soda
+      amount: 1
+      units: topup
 images:
-    -
-        sort: 1
-        file_name: jungle-spritz-1.jpg
-        placeholder_hash: 2hgKFwYBiZZ3Z3WVO9cXR4Z2iRBMJ5AL
-        copyright: 'LiberAndCo | Juliet Beletic'
+    - sort: 1
+      file_name: jungle-spritz-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: LiberAndCo | Juliet Beletic

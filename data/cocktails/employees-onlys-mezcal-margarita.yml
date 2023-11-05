@@ -1,5 +1,5 @@
 _id: employees-onlys-mezcal-margarita
-name: 'Employees Only’s Mezcal Margarita'
+name: Employees Only’s Mezcal Margarita
 instructions: |-
     1. Add all ingredients to a shaker, and add ice.
     2. Shake until chilled and strain into ice-filled tumbler glass.
@@ -8,40 +8,35 @@ description: |-
 
     Now, the mezcal-spiked version is a regular after-hours feature at EO, where the rest of the staff shares his love of the classic.
 garnish: null
-source: 'https://punchdrink.com/recipes/employees-onlys-mezcal-margarita/'
+source: https://punchdrink.com/recipes/employees-onlys-mezcal-margarita/
 tags:
     - Citrusy
     - Margarita
 abv: 20
 method: Shake
 ingredients:
-    -
-        _id: mezcal
-        sort: 1
-        name: Mezcal
-        amount: 60
-        units: ml
-    -
-        _id: lime-juice
-        sort: 2
-        name: 'Lime juice'
-        amount: 30
-        units: ml
-    -
-        _id: agave-syrup
-        sort: 3
-        name: 'Agave Syrup'
-        amount: 15
-        units: ml
-    -
-        _id: cointreau
-        sort: 4
-        name: Cointreau
-        amount: 15
-        units: ml
+    - _id: mezcal
+      sort: 1
+      name: Mezcal
+      amount: 60
+      units: ml
+    - _id: lime-juice
+      sort: 2
+      name: Lime juice
+      amount: 30
+      units: ml
+    - _id: agave-syrup
+      sort: 3
+      name: Agave Syrup
+      amount: 15
+      units: ml
+    - _id: cointreau
+      sort: 4
+      name: Cointreau
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 0
-        file_name: employees-onlys-mezcal-margarita-1.jpg
-        placeholder_hash: tPgFFwKU9oiKiHVmiMh4d5d7dmA4A3gD
-        copyright: 'Punch Staff | Lizzie Munro'
+    - sort: 0
+      file_name: employees-onlys-mezcal-margarita-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch Staff | Lizzie Munro

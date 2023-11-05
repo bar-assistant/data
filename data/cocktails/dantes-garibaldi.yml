@@ -1,11 +1,11 @@
 _id: dantes-garibaldi
-name: 'Dante’s Garibaldi'
+name: Dante’s Garibaldi
 instructions: |-
     1. Build the Campari and orange juice in a small highball glass filled with ice.
     2. Stir and garnish with the orange wedge.
-description: 'The flagship drink at Dante is named after Italian revolutionary Giuseppe Garibaldi, who was a central figure in the unification of Italy. Its two ingredients—Campari from the north acting as a nod to the red shirts worn by Garibaldi’s freedom fighters and bright orange representing Sicily to the south—are symbolic of its heritage.'
-garnish: 'Orange wedge'
-source: 'https://punchdrink.com/recipes/dantes-garibaldi/'
+description: The flagship drink at Dante is named after Italian revolutionary Giuseppe Garibaldi, who was a central figure in the unification of Italy. Its two ingredients—Campari from the north acting as a nod to the red shirts worn by Garibaldi’s freedom fighters and bright orange representing Sicily to the south—are symbolic of its heritage.
+garnish: Orange wedge
+source: https://punchdrink.com/recipes/dantes-garibaldi/
 tags:
     - Bitter
     - Citrusy
@@ -13,21 +13,18 @@ abv: 6.2
 glass: Highball
 method: Build
 ingredients:
-    -
-        _id: campari
-        sort: 1
-        name: Campari
-        amount: 45
-        units: ml
-    -
-        _id: orange-juice
-        sort: 2
-        name: 'Orange juice'
-        amount: 120
-        units: ml
+    - _id: campari
+      sort: 1
+      name: Campari
+      amount: 45
+      units: ml
+    - _id: orange-juice
+      sort: 2
+      name: Orange juice
+      amount: 120
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: dantes-garibaldi-1.jpg
-        placeholder_hash: aVkOTxL3R3iJdYl6hoiHeIh3mHCICXQH
-        copyright: 'Punch Staff'
+    - sort: 1
+      file_name: dantes-garibaldi-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch Staff

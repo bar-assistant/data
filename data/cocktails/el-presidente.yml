@@ -1,48 +1,42 @@
 _id: el-presidente
-name: 'El Presidente'
+name: El Presidente
 instructions: 'Add all ingredients to a mixing glass with ice and stir until well-chilled. '
-description: 'The El Presidente earned its acclaim in Havana during the 1920s through the 1940s during the American Prohibition. It quickly became the preferred drink of the Cuban upper class.'
+description: The El Presidente earned its acclaim in Havana during the 1920s through the 1940s during the American Prohibition. It quickly became the preferred drink of the Cuban upper class.
 garnish: null
-source: 'https://www.liquor.com/recipes/el-presidente/'
-tags: {  }
+source: https://www.liquor.com/recipes/el-presidente/
+tags: {}
 abv: 26.17
 glass: Cocktail
 method: Stir
 ingredients:
-    -
-        _id: white-rum
-        sort: 1
-        name: 'White Rum'
-        amount: 45
-        units: ml
-    -
-        _id: dry-vermouth
-        sort: 2
-        name: 'Dry Vermouth'
-        amount: 22.5
-        units: ml
-        substitutes:
-            -
-                _id: lillet-blanc
-                name: 'Lillet Blanc'
-                amount: null
-                amount_max: null
-                units: null
-    -
-        _id: orange-curacao
-        sort: 3
-        name: 'Orange Curaçao'
-        amount: 7.5
-        units: ml
-    -
-        _id: grenadine-syrup
-        sort: 4
-        name: 'Grenadine Syrup'
-        amount: 1
-        units: teaspoon
+    - _id: white-rum
+      sort: 1
+      name: White Rum
+      amount: 45
+      units: ml
+    - _id: dry-vermouth
+      sort: 2
+      name: Dry Vermouth
+      amount: 22.5
+      units: ml
+      substitutes:
+          - _id: lillet-blanc
+            name: Lillet Blanc
+            amount: null
+            amount_max: null
+            units: null
+    - _id: orange-curacao
+      sort: 3
+      name: Orange Curaçao
+      amount: 7.5
+      units: ml
+    - _id: grenadine-syrup
+      sort: 4
+      name: Grenadine Syrup
+      amount: 1
+      units: teaspoon
 images:
-    -
-        sort: 1
-        file_name: el-presidente-1.jpg
-        placeholder_hash: 8ecFFwTnd2iHeXeIdvoniHd3RICWBHQJ
-        copyright: 'A Couple Cooks'
+    - sort: 1
+      file_name: el-presidente-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: A Couple Cooks

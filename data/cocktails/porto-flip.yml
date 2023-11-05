@@ -1,39 +1,35 @@
 _id: porto-flip
-name: 'Porto Flip'
-instructions: 'Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.'
+name: Porto Flip
+instructions: Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.
 description: 'The Porto Flip was first recorded by Jerry Thomas in his 1862 book The Bartender’s Guide: How to Mix Drinks; A Bon Vivant’s Companion. albeit under the name &quot;Coffee Cocktail&quot;, named for its appearance rather than its ingredients.'
-garnish: 'Sprinkle with ground nutmeg.'
-source: 'https://iba-world.com/porto-flip/'
+garnish: Sprinkle with ground nutmeg.
+source: https://iba-world.com/porto-flip/
 tags:
-    - 'IBA Cocktail'
-    - 'The Unforgettables'
+    - IBA Cocktail
+    - The Unforgettables
     - Wine
     - Flip
 abv: 14.6
 glass: Coupe
 method: Shake
 ingredients:
-    -
-        _id: brandy
-        sort: 1
-        name: Brandy
-        amount: 15
-        units: ml
-    -
-        _id: red-wine
-        sort: 2
-        name: 'Red wine'
-        amount: 45
-        units: ml
-    -
-        _id: egg
-        sort: 3
-        name: Egg
-        amount: 1
-        units: yolk
+    - _id: brandy
+      sort: 1
+      name: Brandy
+      amount: 15
+      units: ml
+    - _id: red-wine
+      sort: 2
+      name: Red wine
+      amount: 45
+      units: ml
+    - _id: egg
+      sort: 3
+      name: Egg
+      amount: 1
+      units: yolk
 images:
-    -
-        sort: 1
-        file_name: porto-flip-1.jpg
-        placeholder_hash: b+cJBwJjZ4dwdndldZh4h5iGVsCGBIwN
-        copyright: 'Liquor.com / Tim Nusog'
+    - sort: 1
+      file_name: porto-flip-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Liquor.com / Tim Nusog

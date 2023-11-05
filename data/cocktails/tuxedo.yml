@@ -1,49 +1,43 @@
 _id: tuxedo
 name: Tuxedo
-instructions: 'Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.'
-description: 'Related to the martini, the Tuxedo has had many variations since its inception in the 1880s. The cocktail is named after the Tuxedo Club in Orange County, New York where it was first mixed. Tuxedo Park, the planned community where the club was built, is itself a derivation of the Lenape word tucseto. The form of menswear by the same name originated at the same country club around the same time.'
-garnish: 'Garnish with cherry and lemon zest'
-source: 'https://iba-world.com/tuxedo/'
+instructions: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.
+description: Related to the martini, the Tuxedo has had many variations since its inception in the 1880s. The cocktail is named after the Tuxedo Club in Orange County, New York where it was first mixed. Tuxedo Park, the planned community where the club was built, is itself a derivation of the Lenape word tucseto. The form of menswear by the same name originated at the same country club around the same time.
+garnish: Garnish with cherry and lemon zest
+source: https://iba-world.com/tuxedo/
 tags:
-    - 'IBA Cocktail'
-    - 'The Unforgettables'
+    - IBA Cocktail
+    - The Unforgettables
 abv: 24.14
 glass: Cocktail
 method: Stir
 ingredients:
-    -
-        _id: gin
-        sort: 1
-        name: Gin
-        amount: 30
-        units: ml
-    -
-        _id: dry-vermouth
-        sort: 2
-        name: 'Dry Vermouth'
-        amount: 30
-        units: ml
-    -
-        _id: maraschino
-        sort: 3
-        name: Maraschino
-        amount: 1
-        units: teaspoon
-    -
-        _id: absinthe
-        sort: 4
-        name: Absinthe
-        amount: 2
-        units: teaspoon
-    -
-        _id: orange-bitters
-        sort: 5
-        name: 'Orange bitters'
-        amount: 3
-        units: dashes
+    - _id: gin
+      sort: 1
+      name: Gin
+      amount: 30
+      units: ml
+    - _id: dry-vermouth
+      sort: 2
+      name: Dry Vermouth
+      amount: 30
+      units: ml
+    - _id: maraschino
+      sort: 3
+      name: Maraschino
+      amount: 1
+      units: teaspoon
+    - _id: absinthe
+      sort: 4
+      name: Absinthe
+      amount: 2
+      units: teaspoon
+    - _id: orange-bitters
+      sort: 5
+      name: Orange bitters
+      amount: 3
+      units: dashes
 images:
-    -
-        sort: 1
-        file_name: tuxedo-1.jpg
-        placeholder_hash: kQgKJwQJaIiLhXVmhkm2h4dohvJ3CG8J
-        copyright: Punch
+    - sort: 1
+      file_name: tuxedo-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch

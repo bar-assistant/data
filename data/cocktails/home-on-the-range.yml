@@ -1,5 +1,5 @@
 _id: home-on-the-range
-name: 'Home on the Range'
+name: Home on the Range
 instructions: |-
     1. Add all ingredients into a rocks glass
     2. Stir to combine
@@ -12,39 +12,34 @@ description: |-
 
     Not only is it ultra simple with fewer things to wash, the extra potency to start sets the mood and anchors your palate for the rest of the drink as you slowly sip. I personally looove the super spirit-forward libations, and this intensity actually helps keep me from drinking it too quickly (often a problem for me for cocktails!). Something about the more rustic nature of it compared to a carefully chilled stirred&strained cocktail just really hits the spot for me.
 garnish: null
-source: 'https://barfaith.com/home-on-the-range/'
-tags: {  }
+source: https://barfaith.com/home-on-the-range/
+tags: {}
 abv: 31.63
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: bourbon-whiskey
-        sort: 1
-        name: 'Bourbon Whiskey'
-        amount: 60
-        units: ml
-    -
-        _id: cointreau
-        sort: 2
-        name: Cointreau
-        amount: 7.5
-        units: ml
-    -
-        _id: sweet-vermouth
-        sort: 3
-        name: 'Sweet Vermouth'
-        amount: 7.5
-        units: ml
-    -
-        _id: angostura-aromatic-bitters
-        sort: 4
-        name: 'Angostura aromatic bitters'
-        amount: 3
-        units: dashes
+    - _id: bourbon-whiskey
+      sort: 1
+      name: Bourbon Whiskey
+      amount: 60
+      units: ml
+    - _id: cointreau
+      sort: 2
+      name: Cointreau
+      amount: 7.5
+      units: ml
+    - _id: sweet-vermouth
+      sort: 3
+      name: Sweet Vermouth
+      amount: 7.5
+      units: ml
+    - _id: angostura-aromatic-bitters
+      sort: 4
+      name: Angostura aromatic bitters
+      amount: 3
+      units: dashes
 images:
-    -
-        sort: 1
-        file_name: home-on-the-range-1.webp
-        placeholder_hash: MQgKDwIKZ6RsZ3m7mTqZ6IaGeAEYRZAF
-        copyright: Barfaith
+    - sort: 1
+      file_name: home-on-the-range-1.webp
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Barfaith

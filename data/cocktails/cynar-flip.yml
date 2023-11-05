@@ -1,12 +1,12 @@
 _id: cynar-flip
-name: 'Cynar Flip'
+name: Cynar Flip
 instructions: |-
     1. Dry shake the whole egg in a cocktail shaker
     2. Add Cynar, simple syrup, and ice before shaking again
     3. Strain into a cocktail glass and drop several dashes of the bitters into the foam
-description: 'A magnificent application of Cynar in the holiday canon'
-garnish: 'Angostura bitters for garnish'
-source: 'https://tuxedono2.com/cynar-flip-cocktail-recipe'
+description: A magnificent application of Cynar in the holiday canon
+garnish: Angostura bitters for garnish
+source: https://tuxedono2.com/cynar-flip-cocktail-recipe
 tags:
     - Flip
     - Bitter
@@ -15,27 +15,23 @@ abv: 13.2
 glass: Wine
 method: Shake
 ingredients:
-    -
-        _id: cynar
-        sort: 1
-        name: Cynar
-        amount: 60
-        units: ml
-    -
-        _id: egg
-        sort: 2
-        name: Egg
-        amount: 1
-        units: whole
-    -
-        _id: simple-syrup
-        sort: 3
-        name: 'Simple Syrup'
-        amount: 2
-        units: barspoon
+    - _id: cynar
+      sort: 1
+      name: Cynar
+      amount: 60
+      units: ml
+    - _id: egg
+      sort: 2
+      name: Egg
+      amount: 1
+      units: whole
+    - _id: simple-syrup
+      sort: 3
+      name: Simple Syrup
+      amount: 2
+      units: barspoon
 images:
-    -
-        sort: 1
-        file_name: cynar-flip-1.jpg
-        placeholder_hash: BwgGDwIIuIhzc4mEiFjIN9eCibBHB3gH
-        copyright: TuxedoNo2
+    - sort: 1
+      file_name: cynar-flip-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: TuxedoNo2

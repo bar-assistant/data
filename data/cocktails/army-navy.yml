@@ -1,11 +1,11 @@
 _id: army-navy
-name: 'Army & Navy'
+name: Army & Navy
 instructions: |-
     1. Combine all ingredients in a cocktail shaker with ice and shake until chilled.
     2. Strain into a chilled coupe or cocktail glass.
-description: 'The Army & Navy is a tropical gin cocktail recipe made with gin, lemon juice, orgeat and Angostura bitters.'
+description: The Army & Navy is a tropical gin cocktail recipe made with gin, lemon juice, orgeat and Angostura bitters.
 garnish: null
-source: 'https://punchdrink.com/recipes/army-navy/'
+source: https://punchdrink.com/recipes/army-navy/
 tags:
     - Sour
     - Citrusy
@@ -13,33 +13,28 @@ abv: 18.39
 glass: Coupe
 method: Shake
 ingredients:
-    -
-        _id: gin
-        sort: 1
-        name: Gin
-        amount: 60
-        units: ml
-    -
-        _id: lemon-juice
-        sort: 2
-        name: 'Lemon juice'
-        amount: 22.5
-        units: ml
-    -
-        _id: orgeat-syrup
-        sort: 3
-        name: 'Orgeat Syrup'
-        amount: 22.5
-        units: ml
-    -
-        _id: angostura-aromatic-bitters
-        sort: 4
-        name: 'Angostura aromatic bitters'
-        amount: 1
-        units: dash
+    - _id: gin
+      sort: 1
+      name: Gin
+      amount: 60
+      units: ml
+    - _id: lemon-juice
+      sort: 2
+      name: Lemon juice
+      amount: 22.5
+      units: ml
+    - _id: orgeat-syrup
+      sort: 3
+      name: Orgeat Syrup
+      amount: 22.5
+      units: ml
+    - _id: angostura-aromatic-bitters
+      sort: 4
+      name: Angostura aromatic bitters
+      amount: 1
+      units: dash
 images:
-    -
-        sort: 0
-        file_name: army-navy-1.jpg
-        placeholder_hash: JikOJwZVZ3dgdXaqaFiYGIhza/dXh38F
-        copyright: 'Punch Staff'
+    - sort: 0
+      file_name: army-navy-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch Staff

@@ -1,50 +1,44 @@
 _id: how-bout-them-salty-apples
-name: 'How Bout Them Salty Apples'
+name: How Bout Them Salty Apples
 instructions: |-
     1. Stir ingredients with ice for 30 seconds
     2. Serve over large rock
-description: 'This drink was made by our friend @anushu802 on Instagram. This is the perfect Fall drink- bitter, sweet, complex, and incorporates apples and Bonal.'
-garnish: 'apple fan'
-source: 'https://www.liberandcompany.com/collections/recipes/products/how-bout-them-salty-apples'
+description: This drink was made by our friend @anushu802 on Instagram. This is the perfect Fall drink- bitter, sweet, complex, and incorporates apples and Bonal.
+garnish: apple fan
+source: https://www.liberandcompany.com/collections/recipes/products/how-bout-them-salty-apples
 tags:
     - Autumn
 abv: 25.75
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: apple-brandy
-        sort: 1
-        name: 'Apple Brandy'
-        amount: 45
-        units: ml
-    -
-        _id: sweet-vermouth
-        sort: 2
-        name: 'Sweet Vermouth'
-        amount: 15
-        units: ml
-    -
-        _id: cynar
-        sort: 3
-        name: Cynar
-        amount: 15
-        units: ml
-    -
-        _id: demerara-syrup
-        sort: 4
-        name: 'Demerara Syrup'
-        amount: 1
-        units: barspoon
-    -
-        _id: allspice-dram
-        sort: 5
-        name: 'Allspice dram'
-        amount: 1
-        units: barspoon
+    - _id: apple-brandy
+      sort: 1
+      name: Apple Brandy
+      amount: 45
+      units: ml
+    - _id: sweet-vermouth
+      sort: 2
+      name: Sweet Vermouth
+      amount: 15
+      units: ml
+    - _id: cynar
+      sort: 3
+      name: Cynar
+      amount: 15
+      units: ml
+    - _id: demerara-syrup
+      sort: 4
+      name: Demerara Syrup
+      amount: 1
+      units: barspoon
+    - _id: allspice-dram
+      sort: 5
+      name: Allspice dram
+      amount: 1
+      units: barspoon
 images:
-    -
-        sort: 1
-        file_name: how-bout-them-salty-apples-1.jpg
-        placeholder_hash: kSgWFwR7h4hgZ3eHiJiGeXl26hA2DmAD
-        copyright: 'LiberAndCo | @anushu802'
+    - sort: 1
+      file_name: how-bout-them-salty-apples-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: LiberAndCo | @anushu802

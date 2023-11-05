@@ -1,59 +1,52 @@
 _id: paloma
 name: Paloma
-instructions: 'Fill a highball glass two-thirds full with ice. Slowly pour in about 2 oz. grapefruit soda, filling glass about one-third full. Add 1½ oz. blanco tequila, ½ oz. lime juice, ¼ oz. grapefruit juice, and a pinch of kosher salt. Top with remaining grapefruit soda, stir gently, and garnish with a grapefruit wedge or slice.'
+instructions: Fill a highball glass two-thirds full with ice. Slowly pour in about 2 oz. grapefruit soda, filling glass about one-third full. Add 1½ oz. blanco tequila, ½ oz. lime juice, ¼ oz. grapefruit juice, and a pinch of kosher salt. Top with remaining grapefruit soda, stir gently, and garnish with a grapefruit wedge or slice.
 description: |-
     The Paloma is about as easy as drinks get—and it should be easy drinking too. It’s a refreshing cooler of grapefruit soda and tequila, a combination that tastes best when brightened with a quick squeeze of fresh lime and grapefruit juice. (Don’t skip the garnish; the aroma is essential.) While there are modern versions of the Paloma recipe made exclusively with fresh juice, they require a sweetener, usually simple syrup, which adds an additional step; grapefruit soda is the traditional move, and it simplifies the method a bit.
 
     I’ve tested this drink with numerous sodas and my favorite is Ting, which has a spicy punch of grapefruit flavor that balances tequila well. Squirt and Jarritos Toronja are also classic choices. Different brands vary, so you may find you need to adjust the lime juice depending on the sweetness of your soda. Adding the soda at the beginning and the end of the process, rather than all at once, ensures the drink will mix easily; the less stirring, the more your highball will stay bubbly.
 
     Blanco tequila has fresh herbal flavors that aren’t hidden behind barrel aging; this isn’t the time to use a reposado tequila. But do pick a 100% agave option that’s good enough to sip on its own; there’s not a ton to hide behind here. I recommend 123 Blanco Organic Tequila Uno, Tequila Ocho, Tapatio Blanco, or Siembra Valles, among others. Mezcal Palomas are also delicious; the mezcal adds earthy richness and a touch of smoke. Wondering how to finish up a bottle? Check out our collections of tequila cocktails and mezcal cocktails.
-garnish: 'Grapefruit wedge or slice'
-source: 'https://www.epicurious.com/recipes/food/views/paloma-cocktail'
-tags: {  }
+garnish: Grapefruit wedge or slice
+source: https://www.epicurious.com/recipes/food/views/paloma-cocktail
+tags: {}
 abv: 8.73
 glass: Highball
 method: Build
 ingredients:
-    -
-        _id: tequila-blanco
-        sort: 1
-        name: 'Tequila Blanco'
-        amount: 45
-        units: ml
-        substitutes:
-            -
-                _id: tequila-reposado
-                name: 'Tequila Reposado'
-                amount: null
-                amount_max: null
-                units: null
-    -
-        _id: lime-juice
-        sort: 2
-        name: 'Lime juice'
-        amount: 15
-        units: ml
-    -
-        _id: grapefruit-juice
-        sort: 3
-        name: 'Grapefruit juice'
-        amount: 7.5
-        units: ml
-    -
-        _id: grapefruit-soda
-        sort: 4
-        name: 'Grapefruit soda'
-        amount: 120
-        units: ml
-    -
-        _id: salt
-        sort: 5
-        name: Salt
-        amount: 1
-        units: pinch
+    - _id: tequila-blanco
+      sort: 1
+      name: Tequila Blanco
+      amount: 45
+      units: ml
+      substitutes:
+          - _id: tequila-reposado
+            name: Tequila Reposado
+            amount: null
+            amount_max: null
+            units: null
+    - _id: lime-juice
+      sort: 2
+      name: Lime juice
+      amount: 15
+      units: ml
+    - _id: grapefruit-juice
+      sort: 3
+      name: Grapefruit juice
+      amount: 7.5
+      units: ml
+    - _id: grapefruit-soda
+      sort: 4
+      name: Grapefruit soda
+      amount: 120
+      units: ml
+    - _id: salt
+      sort: 5
+      name: Salt
+      amount: 1
+      units: pinch
 images:
-    -
-        sort: 1
-        file_name: paloma-1.webp
-        placeholder_hash: q2kGHwiPiIhkh3hveAaJqHeGSKYJdYgA
-        copyright: Epicurious
+    - sort: 1
+      file_name: paloma-1.webp
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Epicurious

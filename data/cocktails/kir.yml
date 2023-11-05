@@ -6,32 +6,29 @@ instructions: |-
     Note:
 
     KIR ROYAL – Use Champagne instead of white wine
-description: 'In France it is usually drunk as an apéritif before a meal or snack. It was originally made with Bourgogne Aligoté, a white wine of Burgundy, but today various white wines are used throughout France, according to the region and the barkeeper. Many prefer a white Chardonnay-based Burgundy, such as Chablis.'
+description: In France it is usually drunk as an apéritif before a meal or snack. It was originally made with Bourgogne Aligoté, a white wine of Burgundy, but today various white wines are used throughout France, according to the region and the barkeeper. Many prefer a white Chardonnay-based Burgundy, such as Chablis.
 garnish: null
-source: 'https://iba-world.com/kir/'
+source: https://iba-world.com/kir/
 tags:
-    - 'Contemporary Classics'
-    - 'IBA Cocktail'
+    - Contemporary Classics
+    - IBA Cocktail
     - Wine
 abv: 11.27
 glass: Champagne
 method: Build
 ingredients:
-    -
-        _id: white-wine
-        sort: 1
-        name: 'White wine'
-        amount: 90
-        units: ml
-    -
-        _id: creme-de-cassis
-        sort: 2
-        name: 'Crème de cassis'
-        amount: 10
-        units: ml
+    - _id: white-wine
+      sort: 1
+      name: White wine
+      amount: 90
+      units: ml
+    - _id: creme-de-cassis
+      sort: 2
+      name: Crème de cassis
+      amount: 10
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: kir-1.jpg
-        placeholder_hash: CwgKDwJoh3iQd4h/hyiHyHh2h/NYCY4J
-        copyright: 'Liquor.com / Tim Nusog'
+    - sort: 1
+      file_name: kir-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Liquor.com / Tim Nusog

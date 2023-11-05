@@ -1,51 +1,45 @@
 _id: negroni
 name: Negroni
-instructions: 'Pour all ingredients directly into a chilled old fashioned glass filled with ice, Stir gently.'
-description: 'A traditionally made Negroni is stirred, not shaken; it is built over ice in an old-fashioned or rocks glass and garnished with a slice of orange. Outside of Italy, an orange peel is often used in place of an orange slice.'
-garnish: 'Garnish with a half orange slice.'
-source: 'https://iba-world.com/negroni/'
+instructions: Pour all ingredients directly into a chilled old fashioned glass filled with ice, Stir gently.
+description: A traditionally made Negroni is stirred, not shaken; it is built over ice in an old-fashioned or rocks glass and garnished with a slice of orange. Outside of Italy, an orange peel is often used in place of an orange slice.
+garnish: Garnish with a half orange slice.
+source: https://iba-world.com/negroni/
 tags:
-    - 'IBA Cocktail'
-    - 'The Unforgettables'
+    - IBA Cocktail
+    - The Unforgettables
     - Negroni
     - Bitter
 abv: 25.15
 glass: Lowball
 method: Build
 ingredients:
-    -
-        _id: gin
-        sort: 1
-        name: Gin
-        amount: 30
-        units: ml
-    -
-        _id: campari
-        sort: 2
-        name: Campari
-        amount: 30
-        units: ml
-    -
-        _id: sweet-vermouth
-        sort: 3
-        name: 'Sweet Vermouth'
-        amount: 30
-        units: ml
-        substitutes:
-            -
-                _id: cocchi-di-torino
-                name: 'Cocchi di Torino'
-                amount: null
-                amount_max: null
-                units: null
+    - _id: gin
+      sort: 1
+      name: Gin
+      amount: 30
+      units: ml
+    - _id: campari
+      sort: 2
+      name: Campari
+      amount: 30
+      units: ml
+    - _id: sweet-vermouth
+      sort: 3
+      name: Sweet Vermouth
+      amount: 30
+      units: ml
+      substitutes:
+          - _id: cocchi-di-torino
+            name: Cocchi di Torino
+            amount: null
+            amount_max: null
+            units: null
 images:
-    -
-        sort: 1
-        file_name: negroni-1.jpg
-        placeholder_hash: 4jgGHwa8FpkhYKvMl0vHaSR3TIcHNnIA
-        copyright: 'Kitchen Swagger'
-    -
-        sort: 2
-        file_name: negroni-2.jpg
-        placeholder_hash: 3hcGFwbpvqh/l4ibc3eqo2eI1mIJLZkA
-        copyright: Reddit
+    - sort: 1
+      file_name: negroni-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Kitchen Swagger
+    - sort: 2
+      file_name: negroni-2.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Reddit

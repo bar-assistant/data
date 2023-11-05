@@ -1,13 +1,13 @@
 _id: artichoke-hold
-name: 'Artichoke Hold'
+name: Artichoke Hold
 instructions: |-
     1. Add all ingredients to a cocktail shaker.
     2. Add a small amount of ice and shake lightly.
     3. Strain over crushed ice into a rocks glass.
     4. Top with more crushed ice.
-description: 'The warm funk of Smith & Cross rum creates a heavy base for the bittersweet co-mingling of amaro and elderflower in this cocktail recipe.'
-garnish: 'Mint sprig'
-source: 'https://punchdrink.com/recipes/artichoke-hold/'
+description: The warm funk of Smith & Cross rum creates a heavy base for the bittersweet co-mingling of amaro and elderflower in this cocktail recipe.
+garnish: Mint sprig
+source: https://punchdrink.com/recipes/artichoke-hold/
 tags:
     - Tiki
     - Floral
@@ -16,39 +16,33 @@ abv: 13.43
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: jamaican-rum
-        sort: 1
-        name: 'Jamaican Rum'
-        amount: 22.5
-        units: ml
-    -
-        _id: cynar
-        sort: 2
-        name: Cynar
-        amount: 22.5
-        units: ml
-    -
-        _id: st-germain
-        sort: 3
-        name: St-Germain
-        amount: 15
-        units: ml
-    -
-        _id: lime-juice
-        sort: 4
-        name: 'Lime juice'
-        amount: 22.5
-        units: ml
-    -
-        _id: orgeat-syrup
-        sort: 5
-        name: 'Orgeat Syrup'
-        amount: 15
-        units: ml
+    - _id: jamaican-rum
+      sort: 1
+      name: Jamaican Rum
+      amount: 22.5
+      units: ml
+    - _id: cynar
+      sort: 2
+      name: Cynar
+      amount: 22.5
+      units: ml
+    - _id: st-germain
+      sort: 3
+      name: St-Germain
+      amount: 15
+      units: ml
+    - _id: lime-juice
+      sort: 4
+      name: Lime juice
+      amount: 22.5
+      units: ml
+    - _id: orgeat-syrup
+      sort: 5
+      name: Orgeat Syrup
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: artichoke-hold-1.jpg
-        placeholder_hash: 6BgSHwQxYIWIdHl2d4iHmHZ4ODB2FpAG
-        copyright: 'Punch Staff'
+    - sort: 1
+      file_name: artichoke-hold-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch Staff

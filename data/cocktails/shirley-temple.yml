@@ -1,39 +1,35 @@
 _id: shirley-temple
-name: 'Shirley Temple'
+name: Shirley Temple
 instructions: |-
     1. Fill a Collins glass with cubed ice.
     2. Add the grenadine and lime juice.
     3. Top with the ginger ale and gently stir to combine.
-description: "The cocktail may have been invented by a bartender at Chasen's, a restaurant in West Hollywood, California, to serve then-child actress Shirley Temple."
-garnish: 'Garnish with two skewered Luxardo maraschino cherries.'
-source: 'https://en.wikipedia.org/wiki/Shirley_Temple_(drink)'
+description: The cocktail may have been invented by a bartender at Chasen's, a restaurant in West Hollywood, California, to serve then-child actress Shirley Temple.
+garnish: Garnish with two skewered Luxardo maraschino cherries.
+source: https://en.wikipedia.org/wiki/Shirley_Temple_(drink)
 tags:
     - Virgin
 abv: 0
 glass: Highball
 method: Build
 ingredients:
-    -
-        _id: ginger-ale
-        sort: 1
-        name: 'Ginger ale'
-        amount: 150
-        units: ml
-    -
-        _id: lime-juice
-        sort: 2
-        name: 'Lime juice'
-        amount: 10
-        units: ml
-    -
-        _id: grenadine-syrup
-        sort: 3
-        name: 'Grenadine Syrup'
-        amount: 5
-        units: ml
+    - _id: ginger-ale
+      sort: 1
+      name: Ginger ale
+      amount: 150
+      units: ml
+    - _id: lime-juice
+      sort: 2
+      name: Lime juice
+      amount: 10
+      units: ml
+    - _id: grenadine-syrup
+      sort: 3
+      name: Grenadine Syrup
+      amount: 5
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: shirley-temple-1.webp
-        placeholder_hash: MBgGDwSqqWV9Z3hkhweJ53lpV3AWBXoC
-        copyright: Spruce
+    - sort: 1
+      file_name: shirley-temple-1.webp
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Spruce

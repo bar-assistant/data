@@ -1,41 +1,37 @@
 _id: tango-nuevo
-name: 'Tango Nuevo'
+name: Tango Nuevo
 instructions: |-
     1. Combine all ingredients except the garnishes in a mixing glass and stir briefly, 10-20 seconds
     2. Strain into a rocks glass over one large rock
     3. Sprinkle a bit of salt on top and garnish with lemon twist
-description: 'An offbeat little drink with a confectionary angle'
+description: An offbeat little drink with a confectionary angle
 garnish: |-
     pinch smoked sea salt for garnish
 
     lemon twist for garnish
-source: 'https://tuxedono2.com/tango-nuevo-cocktail-recipe'
-tags: {  }
+source: https://tuxedono2.com/tango-nuevo-cocktail-recipe
+tags: {}
 abv: 23.33
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: dark-rum
-        sort: 1
-        name: 'Dark Rum'
-        amount: 45
-        units: ml
-    -
-        _id: honey-syrup
-        sort: 2
-        name: 'Honey Syrup'
-        amount: 15
-        units: ml
-    -
-        _id: coffee-liqueur
-        sort: 3
-        name: 'Coffee liqueur'
-        amount: 15
-        units: ml
+    - _id: dark-rum
+      sort: 1
+      name: Dark Rum
+      amount: 45
+      units: ml
+    - _id: honey-syrup
+      sort: 2
+      name: Honey Syrup
+      amount: 15
+      units: ml
+    - _id: coffee-liqueur
+      sort: 3
+      name: Coffee liqueur
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: tango-nuevo-1.jpg
-        placeholder_hash: QxgGFwQJmaZjeIeBfHeHuFd5l0AnCHQC
-        copyright: TuxedoNo2
+    - sort: 1
+      file_name: tango-nuevo-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: TuxedoNo2

@@ -4,44 +4,39 @@ instructions: |-
     1. Add all ingredients into a shaker with ice.
     2. Shake and strain into a chilled cocktail glass
 description: 'The true Margarita—a blend of fresh lime juice, tequila and orange liqueur with an optional sweetener—is a potent, well-built entry in the cocktail canon. Plenty claim credit for its invention: a restaurateur based south of Tijuana in the 1930s, a socialite in Acapulco in the 1940s. Others believe it evolved as a south-of-the-border twist on the then-popular Daisy (the Spanish word for “daisy” is “Margarita,” after all), dreamed up during Prohibition when Americans would travel abroad to drink. The Margarita was named Esquire’s cocktail of the month in December 1953, and it has hardly flagged in popularity since, rising in stature alongside tequila, which got a pop-culture boost from the Eagles (“Tequila Sunrise”), Rolling Stones (the Cocaine and Tequila Sunrise Tour of ’72), and of course, Jimmy Buffet (“Margaritaville”).'
-garnish: 'Half salt rim (Optional)'
-source: 'https://iba-world.com/margarita/'
+garnish: Half salt rim (Optional)
+source: https://iba-world.com/margarita/
 tags:
-    - 'Contemporary Classics'
-    - 'IBA Cocktail'
+    - Contemporary Classics
+    - IBA Cocktail
     - Margarita
 abv: 25.14
 glass: Margarita
 method: Shake
 ingredients:
-    -
-        _id: tequila-blanco
-        sort: 1
-        name: 'Tequila Blanco'
-        amount: 60
-        units: ml
-    -
-        _id: triple-sec
-        sort: 2
-        name: 'Triple Sec'
-        amount: 22.5
-        units: ml
-    -
-        _id: lime-juice
-        sort: 3
-        name: 'Lime juice'
-        amount: 22.5
-        units: ml
-    -
-        _id: agave-syrup
-        sort: 4
-        name: 'Agave Syrup'
-        amount: 1
-        units: barspoon
-        optional: true
+    - _id: tequila-blanco
+      sort: 1
+      name: Tequila Blanco
+      amount: 60
+      units: ml
+    - _id: triple-sec
+      sort: 2
+      name: Triple Sec
+      amount: 22.5
+      units: ml
+    - _id: lime-juice
+      sort: 3
+      name: Lime juice
+      amount: 22.5
+      units: ml
+    - _id: agave-syrup
+      sort: 4
+      name: Agave Syrup
+      amount: 1
+      units: barspoon
+      optional: true
 images:
-    -
-        sort: 1
-        file_name: margarita-1.jpg
-        placeholder_hash: GAgODwJVh4h/d4d2iXeId4h4iPtm/cYJ
-        copyright: Punch
+    - sort: 1
+      file_name: margarita-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch

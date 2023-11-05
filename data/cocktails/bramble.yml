@@ -7,51 +7,45 @@ instructions: |-
     2. Shake well with ice
     3. Strain into chilled old fashioned glass filled with crushed ice
     4. Pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.
-description: 'The Bramble was created in London, in 1984, by Dick Bradsell. At the time, Bradsell worked at a bar in Soho called Fred&#039;s Club, and he wanted to create a British cocktail. Memories of going blackberrying in his childhood on the Isle of Wight provided the inspiration for the Bramble.'
-garnish: 'Garnish optionally with a lemon slice and blackberries.'
-source: 'https://iba-world.com/bramble/'
+description: The Bramble was created in London, in 1984, by Dick Bradsell. At the time, Bradsell worked at a bar in Soho called Fred&#039;s Club, and he wanted to create a British cocktail. Memories of going blackberrying in his childhood on the Isle of Wight provided the inspiration for the Bramble.
+garnish: Garnish optionally with a lemon slice and blackberries.
+source: https://iba-world.com/bramble/
 tags:
-    - 'IBA Cocktail'
-    - 'New Era Drinks'
+    - IBA Cocktail
+    - New Era Drinks
     - Fruity
 abv: 20.66
 glass: Lowball
 method: Shake
 ingredients:
-    -
-        _id: gin
-        sort: 1
-        name: Gin
-        amount: 50
-        units: ml
-    -
-        _id: lemon-juice
-        sort: 2
-        name: 'Lemon juice'
-        amount: 25
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 3
-        name: 'Simple Syrup'
-        amount: 12
-        units: ml
-    -
-        _id: creme-de-mure
-        sort: 4
-        name: 'Crème de mûre'
-        amount: 15
-        units: ml
-        substitutes:
-            -
-                _id: creme-de-cassis
-                name: 'Crème de cassis'
-                amount: null
-                amount_max: null
-                units: null
+    - _id: gin
+      sort: 1
+      name: Gin
+      amount: 50
+      units: ml
+    - _id: lemon-juice
+      sort: 2
+      name: Lemon juice
+      amount: 25
+      units: ml
+    - _id: simple-syrup
+      sort: 3
+      name: Simple Syrup
+      amount: 12
+      units: ml
+    - _id: creme-de-mure
+      sort: 4
+      name: Crème de mûre
+      amount: 15
+      units: ml
+      substitutes:
+          - _id: creme-de-cassis
+            name: Crème de cassis
+            amount: null
+            amount_max: null
+            units: null
 images:
-    -
-        sort: 1
-        file_name: bramble-1.jpg
-        placeholder_hash: 00gGFwYQuVdYeIahfRWrpXh5VAm5WIAH
-        copyright: Anders
+    - sort: 1
+      file_name: bramble-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Anders

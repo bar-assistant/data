@@ -1,59 +1,52 @@
 _id: brandy-crusta
-name: 'Brandy Crusta'
-instructions: 'Mix together all ingredients with ice cubes in a mixing glass and strain into prepared slim cocktail glass.'
+name: Brandy Crusta
+instructions: Mix together all ingredients with ice cubes in a mixing glass and strain into prepared slim cocktail glass.
 description: |-
     The cocktail, named for the crust of sugar on the rim, was invented by Joseph Santini, a bartender in New Orleans at his bar, Jewel of the South.
 
     Jerry Thomas was the first to publish the recipe in his 1862 cocktail manual.
-garnish: 'Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.'
-source: 'https://iba-world.com/brandy-crusta/'
+garnish: Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.
+source: https://iba-world.com/brandy-crusta/
 tags:
-    - 'IBA Cocktail'
-    - 'The Unforgettables'
+    - IBA Cocktail
+    - The Unforgettables
     - Brandy
 abv: 26.13
-glass: 'Nick and Nora'
+glass: Nick and Nora
 method: Stir
 ingredients:
-    -
-        _id: brandy
-        sort: 1
-        name: Brandy
-        amount: 52
-        units: ml
-    -
-        _id: maraschino
-        sort: 2
-        name: Maraschino
-        amount: 7
-        units: ml
-    -
-        _id: orange-curacao
-        sort: 3
-        name: 'Orange Curaçao'
-        amount: 1
-        units: barspoon
-    -
-        _id: lemon-juice
-        sort: 4
-        name: 'Lemon juice'
-        amount: 15
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 5
-        name: 'Simple Syrup'
-        amount: 1
-        units: barspoon
-    -
-        _id: angostura-aromatic-bitters
-        sort: 6
-        name: 'Angostura aromatic bitters'
-        amount: 2
-        units: dashes
+    - _id: brandy
+      sort: 1
+      name: Brandy
+      amount: 52
+      units: ml
+    - _id: maraschino
+      sort: 2
+      name: Maraschino
+      amount: 7
+      units: ml
+    - _id: orange-curacao
+      sort: 3
+      name: Orange Curaçao
+      amount: 1
+      units: barspoon
+    - _id: lemon-juice
+      sort: 4
+      name: Lemon juice
+      amount: 15
+      units: ml
+    - _id: simple-syrup
+      sort: 5
+      name: Simple Syrup
+      amount: 1
+      units: barspoon
+    - _id: angostura-aromatic-bitters
+      sort: 6
+      name: Angostura aromatic bitters
+      amount: 2
+      units: dashes
 images:
-    -
-        sort: 1
-        file_name: brandy-crusta-1.jpg
-        placeholder_hash: WDkKHwQ5d4hviIiId0h6N5l4OfE3BnsB
-        copyright: Mangosalsa
+    - sort: 1
+      file_name: brandy-crusta-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Mangosalsa

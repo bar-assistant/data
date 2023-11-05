@@ -10,37 +10,33 @@ description: |-
     The nickname “American” was born when Primo Carnera, a giant Italian boxer, became world heavyweight champion at Madison Square Garden in New York.  When Carnera returned to Italy with the title, he was greeted with this very Italian cocktail which, for the occasion, was called “Americano”.
 
     The Americano entered the IBA Cocktail List only in 1987 but, in reality, it was a cocktail that spread all over Italy during the 1930s.
-garnish: 'Garnish with half orange slice and a lemon zest.'
-source: 'https://iba-world.com/americano/'
+garnish: Garnish with half orange slice and a lemon zest.
+source: https://iba-world.com/americano/
 tags:
-    - 'IBA Cocktail'
-    - 'The Unforgettables'
+    - IBA Cocktail
+    - The Unforgettables
     - Bitter
 abv: 19.55
 glass: Highball
 method: Build
 ingredients:
-    -
-        _id: campari
-        sort: 1
-        name: Campari
-        amount: 30
-        units: ml
-    -
-        _id: sweet-vermouth
-        sort: 2
-        name: 'Sweet Vermouth'
-        amount: 30
-        units: ml
-    -
-        _id: club-soda
-        sort: 3
-        name: 'Club soda'
-        amount: 1
-        units: Topup
+    - _id: campari
+      sort: 1
+      name: Campari
+      amount: 30
+      units: ml
+    - _id: sweet-vermouth
+      sort: 2
+      name: Sweet Vermouth
+      amount: 30
+      units: ml
+    - _id: club-soda
+      sort: 3
+      name: Club soda
+      amount: 1
+      units: Topup
 images:
-    -
-        sort: 1
-        file_name: americano-1.jpg
-        placeholder_hash: DFkKHwgMqJiIhXmIiVaYiIh2tYBYCYgE
-        copyright: 'Liquor.com / Tim Nusog'
+    - sort: 1
+      file_name: americano-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Liquor.com / Tim Nusog

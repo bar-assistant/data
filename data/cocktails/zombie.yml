@@ -6,74 +6,64 @@ instructions: |-
     3. Serve in a tall tumbler glass.
 
     Donn’s Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup
-description: "It first appeared in late 1934, invented by Donn Beach at his Hollywood Don the Beachcomber restaurant. It was popularized on the East coast soon afterwards at the 1939 New York World's Fair."
-garnish: 'Garnish with mint leaves.'
-source: 'https://iba-world.com/zombie/'
+description: It first appeared in late 1934, invented by Donn Beach at his Hollywood Don the Beachcomber restaurant. It was popularized on the East coast soon afterwards at the 1939 New York World's Fair.
+garnish: Garnish with mint leaves.
+source: https://iba-world.com/zombie/
 tags:
-    - 'Contemporary Classics'
-    - 'IBA Cocktail'
+    - Contemporary Classics
+    - IBA Cocktail
     - Tiki
 abv: 23.41
 glass: Highball
 method: Blend
 ingredients:
-    -
-        _id: jamaican-rum
-        sort: 1
-        name: 'Jamaican Rum'
-        amount: 45
-        units: ml
-    -
-        _id: gold-rum
-        sort: 2
-        name: 'Gold Rum'
-        amount: 45
-        units: ml
-    -
-        _id: demerara-rum
-        sort: 3
-        name: 'Demerara Rum'
-        amount: 30
-        units: ml
-    -
-        _id: lime-juice
-        sort: 4
-        name: 'Lime juice'
-        amount: 20
-        units: ml
-    -
-        _id: falernum
-        sort: 5
-        name: Falernum
-        amount: 15
-        units: ml
-    -
-        _id: donns-mix
-        sort: 6
-        name: "Donn's Mix"
-        amount: 15
-        units: ml
-    -
-        _id: grenadine-syrup
-        sort: 7
-        name: 'Grenadine Syrup'
-        amount: 1
-        units: tsp
-    -
-        _id: angostura-aromatic-bitters
-        sort: 8
-        name: 'Angostura aromatic bitters'
-        amount: 1
-        units: dash
-    -
-        _id: pernod
-        sort: 9
-        name: Pernod
-        amount: 6
-        units: drops
+    - _id: jamaican-rum
+      sort: 1
+      name: Jamaican Rum
+      amount: 45
+      units: ml
+    - _id: gold-rum
+      sort: 2
+      name: Gold Rum
+      amount: 45
+      units: ml
+    - _id: demerara-rum
+      sort: 3
+      name: Demerara Rum
+      amount: 30
+      units: ml
+    - _id: lime-juice
+      sort: 4
+      name: Lime juice
+      amount: 20
+      units: ml
+    - _id: falernum
+      sort: 5
+      name: Falernum
+      amount: 15
+      units: ml
+    - _id: donns-mix
+      sort: 6
+      name: Donn's Mix
+      amount: 15
+      units: ml
+    - _id: grenadine-syrup
+      sort: 7
+      name: Grenadine Syrup
+      amount: 1
+      units: tsp
+    - _id: angostura-aromatic-bitters
+      sort: 8
+      name: Angostura aromatic bitters
+      amount: 1
+      units: dash
+    - _id: pernod
+      sort: 9
+      name: Pernod
+      amount: 6
+      units: drops
 images:
-    -
-        sort: 1
-        file_name: zombie-1.jpg
-        placeholder_hash: rhgKJwT2O5R5lnmGeXeIh3iImXB4CHEG
-        copyright: 'Punch Drink'
+    - sort: 1
+      file_name: zombie-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch Drink

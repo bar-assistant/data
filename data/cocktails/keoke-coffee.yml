@@ -1,52 +1,46 @@
 _id: keoke-coffee
-name: 'Keoke Coffee'
+name: Keoke Coffee
 instructions: |-
     1. In a preheated Irish Coffee glass, add crème de cacao, brandy and brown sugar syrup.
     2. Top up with hot coffee, leaving room for cream.
     3. Finish with a generous float of whipped cream.
-description: 'An updated take on the Keoke Coffee cocktail recipe, which adds brandy to the mix and gets served in an Irish Coffee glass.'
-garnish: 'Garnish with ground cinnamon.'
-source: 'https://punchdrink.com/recipes/keoke-coffee/'
+description: An updated take on the Keoke Coffee cocktail recipe, which adds brandy to the mix and gets served in an Irish Coffee glass.
+garnish: Garnish with ground cinnamon.
+source: https://punchdrink.com/recipes/keoke-coffee/
 tags:
     - Coffee
     - Hot
 abv: 12.66
-glass: 'Glass mug'
+glass: Glass mug
 method: Build
 ingredients:
-    -
-        _id: coffee
-        sort: 1
-        name: Coffee
-        amount: 60
-        units: ml
-    -
-        _id: creme-de-cacao-dark
-        sort: 2
-        name: 'Crème de Cacao (Dark)'
-        amount: 22.5
-        units: ml
-    -
-        _id: brandy
-        sort: 3
-        name: Brandy
-        amount: 22.5
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 4
-        name: 'Simple Syrup'
-        amount: 1
-        units: barspoon
-    -
-        _id: cream
-        sort: 5
-        name: Cream
-        amount: 1
-        units: float
+    - _id: coffee
+      sort: 1
+      name: Coffee
+      amount: 60
+      units: ml
+    - _id: creme-de-cacao-dark
+      sort: 2
+      name: Crème de Cacao (Dark)
+      amount: 22.5
+      units: ml
+    - _id: brandy
+      sort: 3
+      name: Brandy
+      amount: 22.5
+      units: ml
+    - _id: simple-syrup
+      sort: 4
+      name: Simple Syrup
+      amount: 1
+      units: barspoon
+    - _id: cream
+      sort: 5
+      name: Cream
+      amount: 1
+      units: float
 images:
-    -
-        sort: 1
-        file_name: keoke-coffee-1.jpg
-        placeholder_hash: EPgJHwhgiHilk3dshKlod7aEJflpkp8G
-        copyright: 'Punch Staff'
+    - sort: 1
+      file_name: keoke-coffee-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch Staff

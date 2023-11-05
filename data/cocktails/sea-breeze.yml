@@ -1,37 +1,33 @@
 _id: sea-breeze
-name: 'Sea Breeze'
-instructions: 'Build all ingredients in a highball glass filled with ice.'
-description: 'The cocktail is usually consumed during summer months. The drink may be shaken in order to create a foamy surface.'
-garnish: 'Garnish with orange zest and cherry'
-source: 'https://iba-world.com/sea-breeze/'
+name: Sea Breeze
+instructions: Build all ingredients in a highball glass filled with ice.
+description: The cocktail is usually consumed during summer months. The drink may be shaken in order to create a foamy surface.
+garnish: Garnish with orange zest and cherry
+source: https://iba-world.com/sea-breeze/
 tags:
-    - 'Contemporary Classics'
-    - 'IBA Cocktail'
+    - Contemporary Classics
+    - IBA Cocktail
 abv: 7.66
 glass: Highball
 method: Build
 ingredients:
-    -
-        _id: vodka
-        sort: 1
-        name: Vodka
-        amount: 40
-        units: ml
-    -
-        _id: cranberry-juice
-        sort: 2
-        name: 'Cranberry juice'
-        amount: 120
-        units: ml
-    -
-        _id: grapefruit-juice
-        sort: 3
-        name: 'Grapefruit juice'
-        amount: 30
-        units: ml
+    - _id: vodka
+      sort: 1
+      name: Vodka
+      amount: 40
+      units: ml
+    - _id: cranberry-juice
+      sort: 2
+      name: Cranberry juice
+      amount: 120
+      units: ml
+    - _id: grapefruit-juice
+      sort: 3
+      name: Grapefruit juice
+      amount: 30
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: sea-breeze-1.jpg
-        placeholder_hash: I0kKRxL7SIZZmIerdVhKuHWoePU4B40B
-        copyright: 'Liquor.com / Tim Nusog'
+    - sort: 1
+      file_name: sea-breeze-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Liquor.com / Tim Nusog

@@ -1,5 +1,5 @@
 _id: bees-knees
-name: 'Bee’s Knees'
+name: Bee’s Knees
 instructions: |-
     1. Stir honey with lemon and orange juices until it dissolves
     2. Add gin and shake with ice
@@ -16,43 +16,38 @@ description: |-
     The Bee's Knees was invented by Frank Meier, an Austrian-born, part Jewish bartender who was the first head bartender at the Ritz in Paris in 1921, when its Cafe Parisian opened its doors.
 
     The name comes from prohibition-era slang meaning "the best".
-garnish: 'Optionally garnish with a lemon or orange zest.'
-source: 'https://iba-world.com/bees-knees/'
+garnish: Optionally garnish with a lemon or orange zest.
+source: https://iba-world.com/bees-knees/
 tags:
-    - 'IBA Cocktail'
-    - 'New Era Drinks'
+    - IBA Cocktail
+    - New Era Drinks
 abv: 16
 glass: Coupe
 method: Shake
 ingredients:
-    -
-        _id: gin
-        sort: 1
-        name: Gin
-        amount: 60
-        units: ml
-    -
-        _id: honey-syrup
-        sort: 2
-        name: 'Honey Syrup'
-        amount: 15
-        units: ml
-    -
-        _id: lemon-juice
-        sort: 3
-        name: 'Lemon juice'
-        amount: 22.5
-        units: ml
-    -
-        _id: orange-juice
-        sort: 4
-        name: 'Orange juice'
-        amount: 22.5
-        units: ml
-        optional: true
+    - _id: gin
+      sort: 1
+      name: Gin
+      amount: 60
+      units: ml
+    - _id: honey-syrup
+      sort: 2
+      name: Honey Syrup
+      amount: 15
+      units: ml
+    - _id: lemon-juice
+      sort: 3
+      name: Lemon juice
+      amount: 22.5
+      units: ml
+    - _id: orange-juice
+      sort: 4
+      name: Orange juice
+      amount: 22.5
+      units: ml
+      optional: true
 images:
-    -
-        sort: 1
-        file_name: bees-knees-1.jpg
-        placeholder_hash: lAgKHwIEq5WRlGmSeDiVh4SbR4QJVpgA
-        copyright: 'Kitchen Swagger'
+    - sort: 1
+      file_name: bees-knees-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Kitchen Swagger

@@ -4,9 +4,9 @@ instructions: |-
     1. Combine all ingredients in a shaker and shake
     2. Double strain into large, chilled glass filled with ice.
     3. Optionally top with soda.
-description: 'The 212 is a delectable cocktail in a big, beautiful, reddish-pink package. It’s a simple summer diddy that wins hearts with a kiss of bitterness and a big splash of earthy fruit. The recipe was originally conceived by Aisha Sharpe and Willy Shine of the cocktail consultancy Contemporary Cocktails, who created menus and drinks for NYC hot spots. It later found its way into the fabulous PDT Cocktail Book, and a wider distribution of eyes and tongues. The name is both a reference to Manhattan’s most popular area code as well as the ratios in the drink, which if you ask us, is pretty freaking clever.'
-garnish: 'grapefruit peel or orange peel for garnish'
-source: 'https://tuxedono2.com/212-cocktail-recipe'
+description: The 212 is a delectable cocktail in a big, beautiful, reddish-pink package. It’s a simple summer diddy that wins hearts with a kiss of bitterness and a big splash of earthy fruit. The recipe was originally conceived by Aisha Sharpe and Willy Shine of the cocktail consultancy Contemporary Cocktails, who created menus and drinks for NYC hot spots. It later found its way into the fabulous PDT Cocktail Book, and a wider distribution of eyes and tongues. The name is both a reference to Manhattan’s most popular area code as well as the ratios in the drink, which if you ask us, is pretty freaking clever.
+garnish: grapefruit peel or orange peel for garnish
+source: https://tuxedono2.com/212-cocktail-recipe
 tags:
     - Bitter
     - Citrusy
@@ -15,34 +15,29 @@ abv: 14.56
 glass: Highball
 method: Shake
 ingredients:
-    -
-        _id: tequila-reposado
-        sort: 1
-        name: 'Tequila Reposado'
-        amount: 60
-        units: ml
-    -
-        _id: aperol
-        sort: 2
-        name: Aperol
-        amount: 30
-        units: ml
-    -
-        _id: grapefruit-juice
-        sort: 3
-        name: 'Grapefruit juice'
-        amount: 60
-        units: ml
-    -
-        _id: club-soda
-        sort: 4
-        name: 'Club soda'
-        amount: 1
-        units: Topup
-        optional: true
+    - _id: tequila-reposado
+      sort: 1
+      name: Tequila Reposado
+      amount: 60
+      units: ml
+    - _id: aperol
+      sort: 2
+      name: Aperol
+      amount: 30
+      units: ml
+    - _id: grapefruit-juice
+      sort: 3
+      name: Grapefruit juice
+      amount: 60
+      units: ml
+    - _id: club-soda
+      sort: 4
+      name: Club soda
+      amount: 1
+      units: Topup
+      optional: true
 images:
-    -
-        sort: 1
-        file_name: 212-1.webp
-        placeholder_hash: jSgKJwYWlneQlop4eoaXB5h8hXA4B4cD
-        copyright: TuxedoNo2
+    - sort: 1
+      file_name: 212-1.webp
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: TuxedoNo2

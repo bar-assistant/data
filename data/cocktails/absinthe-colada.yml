@@ -1,12 +1,12 @@
 _id: absinthe-colada
-name: 'Absinthe Colada'
+name: Absinthe Colada
 instructions: |-
     1. Add all ingredients to a cocktail shaker
     2. Add ice and shake hard for 10 seconds
     3. Strain into a hurricane glass filled with crushed ice
-description: "Mint and coconut are an excellent pairing that's underused in cocktails. This piña colada variant from Maison Premiere in Brooklyn employs mint in two ways in this boldly flavored cocktail."
-garnish: 'fresh mint'
-source: 'https://www.liberandcompany.com/collections/recipes/products/absinthe-colada'
+description: Mint and coconut are an excellent pairing that's underused in cocktails. This piña colada variant from Maison Premiere in Brooklyn employs mint in two ways in this boldly flavored cocktail.
+garnish: fresh mint
+source: https://www.liberandcompany.com/collections/recipes/products/absinthe-colada
 tags:
     - Tiki
     - Summer
@@ -15,39 +15,33 @@ abv: 16
 glass: Hurricane
 method: Shake
 ingredients:
-    -
-        _id: absinthe
-        sort: 1
-        name: Absinthe
-        amount: 30
-        units: ml
-    -
-        _id: rhum-agricole
-        sort: 2
-        name: 'Rhum agricole'
-        amount: 15
-        units: ml
-    -
-        _id: pineapple-juice
-        sort: 3
-        name: 'Pineapple juice'
-        amount: 30
-        units: ml
-    -
-        _id: coconut-syrup
-        sort: 4
-        name: 'Coconut Syrup'
-        amount: 22.5
-        units: ml
-    -
-        _id: creme-de-menthe
-        sort: 5
-        name: 'Crème de menthe'
-        amount: 1
-        units: barspoon
+    - _id: absinthe
+      sort: 1
+      name: Absinthe
+      amount: 30
+      units: ml
+    - _id: rhum-agricole
+      sort: 2
+      name: Rhum agricole
+      amount: 15
+      units: ml
+    - _id: pineapple-juice
+      sort: 3
+      name: Pineapple juice
+      amount: 30
+      units: ml
+    - _id: coconut-syrup
+      sort: 4
+      name: Coconut Syrup
+      amount: 22.5
+      units: ml
+    - _id: creme-de-menthe
+      sort: 5
+      name: Crème de menthe
+      amount: 1
+      units: barspoon
 images:
-    -
-        sort: 1
-        file_name: absinthe-colada-1.jpg
-        placeholder_hash: WCgGFwQ7UK3ExlZsmXplhYpyntQHal8C
-        copyright: LiberAndCo
+    - sort: 1
+      file_name: absinthe-colada-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: LiberAndCo

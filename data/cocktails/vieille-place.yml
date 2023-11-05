@@ -1,9 +1,9 @@
 _id: vieille-place
-name: 'Vieille Place'
-instructions: 'Stir all ingredients with ice and strain into an ice-filled glass'
-description: 'A twist on the classic Vieux Carré,  the Vieille Place is a balanced, yet spirit-forward, bittersweet aperitif. Created by Robbie Neskens at Bruut in Hassselt , Belgium, this drink incorporates Bourbon, Suze, Cognac, Dry Vermouth, Simple Syrup, a dash of Amaretto, aswell as both a dash of Peychard & Angostura Bitters.'
-garnish: 'Lemon twist'
-source: 'https://cocktailsdistilled.com/recipe/vieille-place/'
+name: Vieille Place
+instructions: Stir all ingredients with ice and strain into an ice-filled glass
+description: A twist on the classic Vieux Carré,  the Vieille Place is a balanced, yet spirit-forward, bittersweet aperitif. Created by Robbie Neskens at Bruut in Hassselt , Belgium, this drink incorporates Bourbon, Suze, Cognac, Dry Vermouth, Simple Syrup, a dash of Amaretto, aswell as both a dash of Peychard & Angostura Bitters.
+garnish: Lemon twist
+source: https://cocktailsdistilled.com/recipe/vieille-place/
 tags:
     - Sweet
     - Bitter
@@ -11,57 +11,48 @@ abv: 23.51
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: bourbon-whiskey
-        sort: 1
-        name: 'Bourbon Whiskey'
-        amount: 30
-        units: ml
-    -
-        _id: brandy
-        sort: 2
-        name: Brandy
-        amount: 30
-        units: ml
-    -
-        _id: suze
-        sort: 3
-        name: Suze
-        amount: 20
-        units: ml
-    -
-        _id: dry-vermouth
-        sort: 4
-        name: 'Dry Vermouth'
-        amount: 15
-        units: ml
-    -
-        _id: amaretto
-        sort: 5
-        name: Amaretto
-        amount: 5
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 6
-        name: 'Simple Syrup'
-        amount: 10
-        units: ml
-    -
-        _id: angostura-aromatic-bitters
-        sort: 7
-        name: 'Angostura aromatic bitters'
-        amount: 1
-        units: dash
-    -
-        _id: peychauds-bitters
-        sort: 8
-        name: 'Peychauds Bitters'
-        amount: 1
-        units: dash
+    - _id: bourbon-whiskey
+      sort: 1
+      name: Bourbon Whiskey
+      amount: 30
+      units: ml
+    - _id: brandy
+      sort: 2
+      name: Brandy
+      amount: 30
+      units: ml
+    - _id: suze
+      sort: 3
+      name: Suze
+      amount: 20
+      units: ml
+    - _id: dry-vermouth
+      sort: 4
+      name: Dry Vermouth
+      amount: 15
+      units: ml
+    - _id: amaretto
+      sort: 5
+      name: Amaretto
+      amount: 5
+      units: ml
+    - _id: simple-syrup
+      sort: 6
+      name: Simple Syrup
+      amount: 10
+      units: ml
+    - _id: angostura-aromatic-bitters
+      sort: 7
+      name: Angostura aromatic bitters
+      amount: 1
+      units: dash
+    - _id: peychauds-bitters
+      sort: 8
+      name: Peychauds Bitters
+      amount: 1
+      units: dash
 images:
-    -
-        sort: 1
-        file_name: vieille-place-1.jpg
-        placeholder_hash: 2zkOHwh/aoRzhod3mXmYh3iIhxApGHAB
-        copyright: Reddit
+    - sort: 1
+      file_name: vieille-place-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Reddit

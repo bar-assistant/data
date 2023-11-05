@@ -3,41 +3,36 @@ name: Affinity
 instructions: |-
     1. Stir all of the ingredients with ice to chill
     2. Strain into a chilled glass
-description: 'This off-the-radar classic cocktail was originally made with equal measures of Scotch whisky, dry vermouth, and sweet vermouth. At Bramble in Edinburgh, co-owner Jason Scott has developed, well, an affinity for the Affinity, brushing up the original recipe by using a Highland single malt (Glenmorangie 10 year old) and swapping in Byrrh Grand Quinquina for the sweet vermouth. The crowning touch? Bramble ages its mixture in barrels; they originally used small casks custom-made for the cocktails by Glenmorangie and are currently using 50-liter barrels that previously held oloroso sherry, aging the cocktail for between three and nine months and using a solera system for consistency. Until you can get to Edinburgh to try one of Bramble’s barrel-aged Affinity cocktails in person, here’s the base recipe, which should give you a delicious taste of the possibilities.'
-garnish: 'Cherry and lemon twist'
-source: 'https://imbibemagazine.com/recipe/affinity-cocktail/'
-tags: {  }
+description: This off-the-radar classic cocktail was originally made with equal measures of Scotch whisky, dry vermouth, and sweet vermouth. At Bramble in Edinburgh, co-owner Jason Scott has developed, well, an affinity for the Affinity, brushing up the original recipe by using a Highland single malt (Glenmorangie 10 year old) and swapping in Byrrh Grand Quinquina for the sweet vermouth. The crowning touch? Bramble ages its mixture in barrels; they originally used small casks custom-made for the cocktails by Glenmorangie and are currently using 50-liter barrels that previously held oloroso sherry, aging the cocktail for between three and nine months and using a solera system for consistency. Until you can get to Edinburgh to try one of Bramble’s barrel-aged Affinity cocktails in person, here’s the base recipe, which should give you a delicious taste of the possibilities.
+garnish: Cherry and lemon twist
+source: https://imbibemagazine.com/recipe/affinity-cocktail/
+tags: {}
 abv: 21.22
 glass: Cocktail
 method: Stir
 ingredients:
-    -
-        _id: scotch-whiskey
-        sort: 1
-        name: 'Scotch whiskey'
-        amount: 30
-        units: ml
-    -
-        _id: sweet-vermouth
-        sort: 2
-        name: 'Sweet Vermouth'
-        amount: 30
-        units: ml
-    -
-        _id: dry-vermouth
-        sort: 3
-        name: 'Dry Vermouth'
-        amount: 30
-        units: ml
-    -
-        _id: angostura-aromatic-bitters
-        sort: 4
-        name: 'Angostura aromatic bitters'
-        amount: 1
-        units: dashes
+    - _id: scotch-whiskey
+      sort: 1
+      name: Scotch whiskey
+      amount: 30
+      units: ml
+    - _id: sweet-vermouth
+      sort: 2
+      name: Sweet Vermouth
+      amount: 30
+      units: ml
+    - _id: dry-vermouth
+      sort: 3
+      name: Dry Vermouth
+      amount: 30
+      units: ml
+    - _id: angostura-aromatic-bitters
+      sort: 4
+      name: Angostura aromatic bitters
+      amount: 1
+      units: dashes
 images:
-    -
-        sort: 1
-        file_name: affinity-1.jpg
-        placeholder_hash: izgGFwRPGHSAWJdSlxqW2YhouQV2aWAG
-        copyright: 'John Valls'
+    - sort: 1
+      file_name: affinity-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: John Valls

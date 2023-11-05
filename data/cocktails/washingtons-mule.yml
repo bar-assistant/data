@@ -1,51 +1,45 @@
 _id: washingtons-mule
-name: "Washington's Mule"
+name: Washington's Mule
 instructions: |-
     1. Combine syrup, brandy, lime juice, and bitters with ice in a cocktail shaker for a short shake. 
     2. Strain over ice into a highball glass.
     3. Top with soda water and stir.
-description: 'An autumnal and all-American version of the Moscow Mule.'
-garnish: "Lime\_wedge"
-source: 'https://www.liberandcompany.com/collections/recipes/products/washingtons-mule'
+description: An autumnal and all-American version of the Moscow Mule.
+garnish: Lime wedge
+source: https://www.liberandcompany.com/collections/recipes/products/washingtons-mule
 tags:
     - Mule
 abv: 19.98
 glass: Highball
 method: Shake
 ingredients:
-    -
-        _id: apple-brandy
-        sort: 1
-        name: 'Apple Brandy'
-        amount: 60
-        units: ml
-    -
-        _id: lime-juice
-        sort: 2
-        name: 'Lime juice'
-        amount: 22.5
-        units: ml
-    -
-        _id: ginger-syrup
-        sort: 3
-        name: 'Ginger syrup'
-        amount: 15
-        units: ml
-    -
-        _id: angostura-aromatic-bitters
-        sort: 4
-        name: 'Angostura aromatic bitters'
-        amount: 3
-        units: dash
-    -
-        _id: club-soda
-        sort: 5
-        name: 'Club soda'
-        amount: 1
-        units: topup
+    - _id: apple-brandy
+      sort: 1
+      name: Apple Brandy
+      amount: 60
+      units: ml
+    - _id: lime-juice
+      sort: 2
+      name: Lime juice
+      amount: 22.5
+      units: ml
+    - _id: ginger-syrup
+      sort: 3
+      name: Ginger syrup
+      amount: 15
+      units: ml
+    - _id: angostura-aromatic-bitters
+      sort: 4
+      name: Angostura aromatic bitters
+      amount: 3
+      units: dash
+    - _id: club-soda
+      sort: 5
+      name: Club soda
+      amount: 1
+      units: topup
 images:
-    -
-        sort: 1
-        file_name: washingtons-mule-1.jpg
-        placeholder_hash: GRgOHwJHyHmylYhwaWmlZ3iISGB2MpAG
-        copyright: 'LiberAndCo | Juliet Beletic'
+    - sort: 1
+      file_name: washingtons-mule-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: LiberAndCo | Juliet Beletic

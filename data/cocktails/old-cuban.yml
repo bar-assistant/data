@@ -1,55 +1,48 @@
 _id: old-cuban
-name: 'Old Cuban'
-instructions: 'Pour all ingredients into cocktail shaker except the wine, shake well with ice, strain into chilled elegant cocktail glass. Top up with the sparkling wine.'
+name: Old Cuban
+instructions: Pour all ingredients into cocktail shaker except the wine, shake well with ice, strain into chilled elegant cocktail glass. Top up with the sparkling wine.
 description: null
-garnish: 'Garnish with mint springs.'
-source: 'https://iba-world.com/old-cuban/'
+garnish: Garnish with mint springs.
+source: https://iba-world.com/old-cuban/
 tags:
-    - 'IBA Cocktail'
-    - 'New Era Drinks'
+    - IBA Cocktail
+    - New Era Drinks
 abv: 12.97
 glass: Coupe
 method: Shake
 ingredients:
-    -
-        _id: dark-rum
-        sort: 1
-        name: 'Dark Rum'
-        amount: 45
-        units: ml
-    -
-        _id: lime-juice
-        sort: 2
-        name: 'Lime juice'
-        amount: 22.5
-        units: ml
-    -
-        _id: mint
-        sort: 3
-        name: Mint
-        amount: 6
-        units: sprigs
-    -
-        _id: simple-syrup
-        sort: 4
-        name: 'Simple Syrup'
-        amount: 30
-        units: ml
-    -
-        _id: angostura-aromatic-bitters
-        sort: 5
-        name: 'Angostura aromatic bitters'
-        amount: 2
-        units: dashes
-    -
-        _id: champagne
-        sort: 6
-        name: Champagne
-        amount: 60
-        units: ml
+    - _id: dark-rum
+      sort: 1
+      name: Dark Rum
+      amount: 45
+      units: ml
+    - _id: lime-juice
+      sort: 2
+      name: Lime juice
+      amount: 22.5
+      units: ml
+    - _id: mint
+      sort: 3
+      name: Mint
+      amount: 6
+      units: sprigs
+    - _id: simple-syrup
+      sort: 4
+      name: Simple Syrup
+      amount: 30
+      units: ml
+    - _id: angostura-aromatic-bitters
+      sort: 5
+      name: Angostura aromatic bitters
+      amount: 2
+      units: dashes
+    - _id: champagne
+      sort: 6
+      name: Champagne
+      amount: 60
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: old-cuban-1.jpg
-        placeholder_hash: yxgOLwQHiHh9dId2iTiXaId3Z9A3J4sA
-        copyright: 'NYT Cooking'
+    - sort: 1
+      file_name: old-cuban-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: NYT Cooking

@@ -1,9 +1,9 @@
 _id: adonis
 name: Adonis
-instructions: 'Stir all ingredients with ice and strain into chilled glass.'
-description: 'The cocktail was created in honor of the 1884 musical Adonis after the show reached the milestone of more than 500 shows on Broadway.'
-garnish: 'Orange zest and peel'
-source: 'https://en.wikipedia.org/wiki/Adonis_(cocktail)'
+instructions: Stir all ingredients with ice and strain into chilled glass.
+description: The cocktail was created in honor of the 1884 musical Adonis after the show reached the milestone of more than 500 shows on Broadway.
+garnish: Orange zest and peel
+source: https://en.wikipedia.org/wiki/Adonis_(cocktail)
 tags:
     - Wine
     - Aperitif
@@ -11,27 +11,23 @@ abv: 14.56
 glass: Coupe
 method: Stir
 ingredients:
-    -
-        _id: sherry
-        sort: 1
-        name: Sherry
-        amount: 60
-        units: ml
-    -
-        _id: sweet-vermouth
-        sort: 2
-        name: 'Sweet Vermouth'
-        amount: 30
-        units: ml
-    -
-        _id: orange-bitters
-        sort: 3
-        name: 'Orange bitters'
-        amount: 2
-        units: dashes
+    - _id: sherry
+      sort: 1
+      name: Sherry
+      amount: 60
+      units: ml
+    - _id: sweet-vermouth
+      sort: 2
+      name: Sweet Vermouth
+      amount: 30
+      units: ml
+    - _id: orange-bitters
+      sort: 3
+      name: Orange bitters
+      amount: 2
+      units: dashes
 images:
-    -
-        sort: 1
-        file_name: adonis-1.jpg
-        placeholder_hash: GAgGDwJXeYhFe5Z8lqeHV1atQLCSBl4E
-        copyright: 'Liquor.com / Tim Nusog'
+    - sort: 1
+      file_name: adonis-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Liquor.com / Tim Nusog

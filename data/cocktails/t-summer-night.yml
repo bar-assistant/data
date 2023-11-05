@@ -1,5 +1,5 @@
 _id: t-summer-night
-name: 'T. Summer Night'
+name: T. Summer Night
 instructions: |-
     1. Cut your lime ready for squeeze and garnish and get your mint leaves and mint sprig
     2. Fill your wine glass with cubed ice
@@ -9,9 +9,9 @@ instructions: |-
     6. Add more ice if needed and fill up with prosecco
     7. Top up with soda
     8. Stir gently and garnish with lime and mint sprig
-description: 'A special twist on the Hugo cocktail by Tjuvholmen. This breezy sparkling elderflower cocktail will take you straight to Italy in the summertime. And it couldn&#8217;t be easier to make. Bartender Tip:Add gin and mint for this special twist'
+description: A special twist on the Hugo cocktail by Tjuvholmen. This breezy sparkling elderflower cocktail will take you straight to Italy in the summertime. And it couldn&#8217;t be easier to make. Bartender Tip:Add gin and mint for this special twist
 garnish: null
-source: 'https://cocktailclub.com/cocktails/hugo-summertime'
+source: https://cocktailclub.com/cocktails/hugo-summertime
 tags:
     - Spritz
     - Summer
@@ -19,45 +19,38 @@ abv: 11.71
 glass: Wine
 method: Build
 ingredients:
-    -
-        _id: prosecco
-        sort: 1
-        name: Prosecco
-        amount: 90
-        units: ml
-    -
-        _id: st-germain
-        sort: 2
-        name: St-Germain
-        amount: 30
-        units: ml
-    -
-        _id: gin
-        sort: 3
-        name: Gin
-        amount: 15
-        units: ml
-    -
-        _id: mint
-        sort: 4
-        name: Mint
-        amount: 6
-        units: leaves
-    -
-        _id: lime-juice
-        sort: 5
-        name: 'Lime juice'
-        amount: 15
-        units: ml
-    -
-        _id: club-soda
-        sort: 6
-        name: 'Club soda'
-        amount: 20
-        units: ml
+    - _id: prosecco
+      sort: 1
+      name: Prosecco
+      amount: 90
+      units: ml
+    - _id: st-germain
+      sort: 2
+      name: St-Germain
+      amount: 30
+      units: ml
+    - _id: gin
+      sort: 3
+      name: Gin
+      amount: 15
+      units: ml
+    - _id: mint
+      sort: 4
+      name: Mint
+      amount: 6
+      units: leaves
+    - _id: lime-juice
+      sort: 5
+      name: Lime juice
+      amount: 15
+      units: ml
+    - _id: club-soda
+      sort: 6
+      name: Club soda
+      amount: 20
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: t-summer-night-1.jpg
-        placeholder_hash: DwgKDwAK2ldphXiGeka4h4h3hrBY0rAJ
-        copyright: 'Cocktail Club'
+    - sort: 1
+      file_name: t-summer-night-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Cocktail Club

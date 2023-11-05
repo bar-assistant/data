@@ -1,39 +1,35 @@
 _id: absinthe-frappe
-name: 'Absinthe Frappé'
+name: Absinthe Frappé
 instructions: |-
     1. Combine syrup and absinthe in a shaker filled with ice
     2. Shake for 10 seconds
     3. Strain into a chilled glass filled with crushed ice
-description: 'A dreamy classic that makes absinthe approachable and surprisingly refreshing.'
-garnish: 'Fresh mint'
-source: 'https://www.liberandcompany.com/collections/recipes/products/absinthe-frappe'
+description: A dreamy classic that makes absinthe approachable and surprisingly refreshing.
+garnish: Fresh mint
+source: https://www.liberandcompany.com/collections/recipes/products/absinthe-frappe
 tags:
     - Herbacious
 abv: 12
 glass: Highball
 method: Shake
 ingredients:
-    -
-        _id: absinthe
-        sort: 1
-        name: Absinthe
-        amount: 45
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 2
-        name: 'Simple Syrup'
-        amount: 15
-        units: ml
-    -
-        _id: club-soda
-        sort: 3
-        name: 'Club soda'
-        amount: 60
-        units: ml
+    - _id: absinthe
+      sort: 1
+      name: Absinthe
+      amount: 45
+      units: ml
+    - _id: simple-syrup
+      sort: 2
+      name: Simple Syrup
+      amount: 15
+      units: ml
+    - _id: club-soda
+      sort: 3
+      name: Club soda
+      amount: 60
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: absinthe-frappe-1.jpg
-        placeholder_hash: NQgGDwBwJIVgZmV5dIpneJiFdqAYCZoA
-        copyright: "LiberAndCo | ﻿Juliet\_﻿﻿Beletic"
+    - sort: 1
+      file_name: absinthe-frappe-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: LiberAndCo | ﻿Juliet ﻿﻿Beletic

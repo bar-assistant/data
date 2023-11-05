@@ -4,9 +4,9 @@ instructions: |-
     1. Add all ingredients to a cocktail shaker
     2. Add ice and shake hard for 10 seconds
     3. Strain into a rocks glass filled with crushed ice
-description: "Winner of 1967's International Bartender's Association World Cocktail Championship - The Saturn is ready for its comeback!"
-garnish: 'Saturn + rings!'
-source: 'https://www.liberandcompany.com/collections/recipes/products/saturn'
+description: Winner of 1967's International Bartender's Association World Cocktail Championship - The Saturn is ready for its comeback!
+garnish: Saturn + rings!
+source: https://www.liberandcompany.com/collections/recipes/products/saturn
 tags:
     - Summer
     - Tropical
@@ -14,39 +14,33 @@ abv: 18.29
 glass: Lowball
 method: Shake
 ingredients:
-    -
-        _id: gin
-        sort: 1
-        name: Gin
-        amount: 60
-        units: ml
-    -
-        _id: lemon-juice
-        sort: 2
-        name: 'Lemon juice'
-        amount: 22.5
-        units: ml
-    -
-        _id: passionfruit-syrup
-        sort: 3
-        name: 'Passionfruit syrup'
-        amount: 15
-        units: ml
-    -
-        _id: orgeat-syrup
-        sort: 4
-        name: 'Orgeat Syrup'
-        amount: 7.5
-        units: ml
-    -
-        _id: falernum
-        sort: 5
-        name: Falernum
-        amount: 1
-        units: barspoon
+    - _id: gin
+      sort: 1
+      name: Gin
+      amount: 60
+      units: ml
+    - _id: lemon-juice
+      sort: 2
+      name: Lemon juice
+      amount: 22.5
+      units: ml
+    - _id: passionfruit-syrup
+      sort: 3
+      name: Passionfruit syrup
+      amount: 15
+      units: ml
+    - _id: orgeat-syrup
+      sort: 4
+      name: Orgeat Syrup
+      amount: 7.5
+      units: ml
+    - _id: falernum
+      sort: 5
+      name: Falernum
+      amount: 1
+      units: barspoon
 images:
-    -
-        sort: 1
-        file_name: saturn-1.jpg
-        placeholder_hash: 2ggKLwQdc6ePqXaCmZhot4d6hjB2B2AK
-        copyright: 'LiberAndCo | Subtle Tiki'
+    - sort: 1
+      file_name: saturn-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: LiberAndCo | Subtle Tiki

@@ -4,43 +4,38 @@ instructions: |-
     Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.
     Note:
     If egg white is used shake vigorously.
-description: "Its origins are subject to speculation. It has been proposed that it gets its name from either the South Side district of the city of Chicago, Illinois, or from the Southside Sportsmen's Club on Long Island."
-garnish: 'Garnish with mint springs.'
-source: 'https://iba-world.com/southside/'
+description: Its origins are subject to speculation. It has been proposed that it gets its name from either the South Side district of the city of Chicago, Illinois, or from the Southside Sportsmen's Club on Long Island.
+garnish: Garnish with mint springs.
+source: https://iba-world.com/southside/
 tags:
-    - 'IBA Cocktail'
-    - 'New Era Drinks'
+    - IBA Cocktail
+    - New Era Drinks
 abv: 18.29
-glass: 'Nick and Nora'
+glass: Nick and Nora
 method: Shake
 ingredients:
-    -
-        _id: gin
-        sort: 1
-        name: Gin
-        amount: 60
-        units: ml
-    -
-        _id: lemon-juice
-        sort: 2
-        name: 'Lemon juice'
-        amount: 30
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 3
-        name: 'Simple Syrup'
-        amount: 15
-        units: ml
-    -
-        _id: mint
-        sort: 4
-        name: Mint
-        amount: 5
-        units: sprigs
+    - _id: gin
+      sort: 1
+      name: Gin
+      amount: 60
+      units: ml
+    - _id: lemon-juice
+      sort: 2
+      name: Lemon juice
+      amount: 30
+      units: ml
+    - _id: simple-syrup
+      sort: 3
+      name: Simple Syrup
+      amount: 15
+      units: ml
+    - _id: mint
+      sort: 4
+      name: Mint
+      amount: 5
+      units: sprigs
 images:
-    -
-        sort: 1
-        file_name: southside-1.jpg
-        placeholder_hash: cwgKDwJldmdgZ3iHeYeIiIiKi/lpUmAC
-        copyright: 'Limoncello Kitchen'
+    - sort: 1
+      file_name: southside-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Limoncello Kitchen

@@ -1,13 +1,13 @@
 _id: rome-with-a-view
-name: 'Rome With a View'
+name: Rome With a View
 instructions: |-
     1. Add Campari, dry vermouth, lime juice and simple syrup to a cocktail shaker.
     2. Add ice and shake until chilled.
     3. Strain over ice into a Collins glass.
     4. Top with soda water and garnish with an orange wheel.
-description: "Michael McIlroy's Rome With a View cocktail recipe falls somewhere between an afternoon appropriate Collins and an Americano."
-garnish: 'orange wheel'
-source: 'https://punchdrink.com/recipes/rome-with-a-view/'
+description: Michael McIlroy's Rome With a View cocktail recipe falls somewhere between an afternoon appropriate Collins and an Americano.
+garnish: orange wheel
+source: https://punchdrink.com/recipes/rome-with-a-view/
 tags:
     - Cooler
     - Sour
@@ -16,49 +16,41 @@ abv: 9.17
 glass: Highball
 method: Shake
 ingredients:
-    -
-        _id: campari
-        sort: 1
-        name: Campari
-        amount: 30
-        units: ml
-    -
-        _id: dry-vermouth
-        sort: 2
-        name: 'Dry Vermouth'
-        amount: 30
-        units: ml
-    -
-        _id: lime-juice
-        sort: 3
-        name: 'Lime juice'
-        amount: 30
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 4
-        name: 'Simple Syrup'
-        amount: 22.5
-        units: ml
-    -
-        _id: club-soda
-        sort: 5
-        name: 'Club soda'
-        amount: 1
-        units: topup
+    - _id: campari
+      sort: 1
+      name: Campari
+      amount: 30
+      units: ml
+    - _id: dry-vermouth
+      sort: 2
+      name: Dry Vermouth
+      amount: 30
+      units: ml
+    - _id: lime-juice
+      sort: 3
+      name: Lime juice
+      amount: 30
+      units: ml
+    - _id: simple-syrup
+      sort: 4
+      name: Simple Syrup
+      amount: 22.5
+      units: ml
+    - _id: club-soda
+      sort: 5
+      name: Club soda
+      amount: 1
+      units: topup
 images:
-    -
-        sort: 1
-        file_name: rome-with-a-view-1.webp
-        placeholder_hash: ZGkKFwirZ4h/eHdshQdnqHZzu6AIB4YA
-        copyright: 'Sips From Scripts'
-    -
-        sort: 2
-        file_name: rome-with-a-view-2.jpg
-        placeholder_hash: iDgKJwoIpoh0ioh5h0eniHd3iFB3CHUG
-        copyright: 'Grouchy Bartender'
-    -
-        sort: 3
-        file_name: rome-with-a-view-3.jpg
-        placeholder_hash: MkkOPw74WGd5h3eHh5hnd4h4d4BoB4cG
-        copyright: 'Punch Staff | Lizzie Munro'
+    - sort: 1
+      file_name: rome-with-a-view-1.webp
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Sips From Scripts
+    - sort: 2
+      file_name: rome-with-a-view-2.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Grouchy Bartender
+    - sort: 3
+      file_name: rome-with-a-view-3.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch Staff | Lizzie Munro

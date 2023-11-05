@@ -15,37 +15,33 @@ description: |-
     **Alexander’s Sister**: Use crème de menthe instead of crème de cacao
 
     **Alejandro**: Replace cognac with rum
-garnish: 'Sprinkle ground nutmeg on top.'
-source: 'https://iba-world.com/alexander/'
+garnish: Sprinkle ground nutmeg on top.
+source: https://iba-world.com/alexander/
 tags:
-    - 'IBA Cocktail'
-    - 'The Unforgettables'
+    - IBA Cocktail
+    - The Unforgettables
     - Savory
 abv: 17.33
 glass: Coupe
 method: Shake
 ingredients:
-    -
-        _id: cognac
-        sort: 1
-        name: Cognac
-        amount: 30
-        units: ml
-    -
-        _id: creme-de-cacao-dark
-        sort: 2
-        name: 'Crème de Cacao (Dark)'
-        amount: 30
-        units: ml
-    -
-        _id: cream
-        sort: 3
-        name: Cream
-        amount: 30
-        units: ml
+    - _id: cognac
+      sort: 1
+      name: Cognac
+      amount: 30
+      units: ml
+    - _id: creme-de-cacao-dark
+      sort: 2
+      name: Crème de Cacao (Dark)
+      amount: 30
+      units: ml
+    - _id: cream
+      sort: 3
+      name: Cream
+      amount: 30
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: alexander-1.jpg
-        placeholder_hash: kAcKDwAHqIefdHh6hUioJ7d0pPNmB5kF
-        copyright: 'Liquor.com / Tim Nusog'
+    - sort: 1
+      file_name: alexander-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Liquor.com / Tim Nusog

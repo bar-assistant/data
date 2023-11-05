@@ -1,41 +1,36 @@
 _id: palmetto-no-2
-name: 'Palmetto No. 2'
-instructions: '1. Strain into a coupe.'
+name: Palmetto No. 2
+instructions: 1. Strain into a coupe.
 description: null
-garnish: 'Garnish with an orange peel.'
-source: 'https://alpenz.com/recipe-yubeBzov2U.html'
-tags: {  }
+garnish: Garnish with an orange peel.
+source: https://alpenz.com/recipe-yubeBzov2U.html
+tags: {}
 abv: 24.29
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: gold-rum
-        sort: 1
-        name: 'Gold Rum'
-        amount: 30
-        units: ml
-    -
-        _id: sweet-vermouth
-        sort: 2
-        name: 'Sweet Vermouth'
-        amount: 30
-        units: ml
-    -
-        _id: orange-bitters
-        sort: 3
-        name: 'Orange bitters'
-        amount: 1
-        units: dash
-    -
-        _id: angostura-aromatic-bitters
-        sort: 4
-        name: 'Angostura aromatic bitters'
-        amount: 1
-        units: dash
+    - _id: gold-rum
+      sort: 1
+      name: Gold Rum
+      amount: 30
+      units: ml
+    - _id: sweet-vermouth
+      sort: 2
+      name: Sweet Vermouth
+      amount: 30
+      units: ml
+    - _id: orange-bitters
+      sort: 3
+      name: Orange bitters
+      amount: 1
+      units: dash
+    - _id: angostura-aromatic-bitters
+      sort: 4
+      name: Angostura aromatic bitters
+      amount: 1
+      units: dash
 images:
-    -
-        sort: 1
-        file_name: palmetto-no-2-1.jpg
-        placeholder_hash: axgKFwTyd3dyjXeFd/hIp0mMhfGXGY8J
-        copyright: 'Haus Alpenz'
+    - sort: 1
+      file_name: palmetto-no-2-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Haus Alpenz

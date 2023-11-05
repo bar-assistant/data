@@ -1,5 +1,5 @@
 _id: cable-car
-name: 'Cable Car'
+name: Cable Car
 instructions: |-
     1. Start with rimming your cocktail glass with cinnamon and sugar!
     2. Put your glass to the side and add ice to your shaker.
@@ -19,40 +19,35 @@ description: |-
     Similar to a Sidecar or Brandy Crusta, the Cable Car includes an orange liqueur in addition to simple syrup for sweetness--specifically, orange curacao. using Bol's or something similar can make the drink heavy, so it's better to use a dry curacao. Abou-Ganim uses Marie Brizard Orange Curacao in the original recipe. Grand Marnier or maybe Cointreau would also work great.
 
     Another aspect that made the Cable Car a classic is the way it was presented. Abou-Ganim uses a mixture of cinnamon and sugar to give the drink a punchier sweetness and a present hint of spice.
-garnish: 'Cinnamon and sugar rim'
-source: 'https://www.drinkexistence.com/cable-car-cocktail/'
-tags: {  }
+garnish: Cinnamon and sugar rim
+source: https://www.drinkexistence.com/cable-car-cocktail/
+tags: {}
 abv: 19.2
 glass: Coupe
 method: Shake
 ingredients:
-    -
-        _id: dark-rum
-        sort: 1
-        name: 'Dark Rum'
-        amount: 45
-        units: ml
-    -
-        _id: cointreau
-        sort: 2
-        name: Cointreau
-        amount: 22.5
-        units: ml
-    -
-        _id: lemon-juice
-        sort: 3
-        name: 'Lemon juice'
-        amount: 30
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 4
-        name: 'Simple Syrup'
-        amount: 15
-        units: ml
+    - _id: dark-rum
+      sort: 1
+      name: Dark Rum
+      amount: 45
+      units: ml
+    - _id: cointreau
+      sort: 2
+      name: Cointreau
+      amount: 22.5
+      units: ml
+    - _id: lemon-juice
+      sort: 3
+      name: Lemon juice
+      amount: 30
+      units: ml
+    - _id: simple-syrup
+      sort: 4
+      name: Simple Syrup
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: cable-car-1.webp
-        placeholder_hash: kQgKHwIZd4d2dHaeiAeWeKlzd8CHBWoH
-        copyright: 'Liquor.com / Tim Nusog'
+    - sort: 1
+      file_name: cable-car-1.webp
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Liquor.com / Tim Nusog

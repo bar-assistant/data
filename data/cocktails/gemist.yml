@@ -3,7 +3,7 @@ name: Gemišt
 instructions: |-
     Combine cold ingredients in a glass.
     Ingredient amounts are usually eyeballed depending on the glass.
-description: 'Coming from a german word "gemischt", meaning mixed. Popular in Balkan countries, especially with homemade dry white wines.'
+description: Coming from a german word "gemischt", meaning mixed. Popular in Balkan countries, especially with homemade dry white wines.
 garnish: null
 source: null
 tags:
@@ -13,21 +13,18 @@ abv: 6
 glass: Lowball
 method: Build
 ingredients:
-    -
-        _id: white-wine
-        sort: 1
-        name: 'White wine'
-        amount: 150
-        units: ml
-    -
-        _id: club-soda
-        sort: 2
-        name: 'Club soda'
-        amount: 100
-        units: ml
+    - _id: white-wine
+      sort: 1
+      name: White wine
+      amount: 150
+      units: ml
+    - _id: club-soda
+      sort: 2
+      name: Club soda
+      amount: 100
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: gemist-1.jpg
-        placeholder_hash: 4BgOFwKJdpmwiImHiHiHh3l2eQeGh5AI
-        copyright: null
+    - sort: 1
+      file_name: gemist-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: null

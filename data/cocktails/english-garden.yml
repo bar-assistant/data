@@ -1,12 +1,12 @@
 _id: english-garden
-name: 'English Garden'
+name: English Garden
 instructions: |-
     1. Combine all the ingredients into your cocktail shaker
     2. Shake with ice for 12-15 seconds
     3. Strain over fresh ice into a high ball
-description: 'The English Garden brings together some classic pairings for St-Germain Elderflower liqueur - gin, apple, lime &amp; cucumber. Served long, this one is filled with quintessential English flavours.'
-garnish: 'Garnish with cucumber'
-source: 'https://stevethebartender.com.au/english-garden-cocktail-recipe/'
+description: The English Garden brings together some classic pairings for St-Germain Elderflower liqueur - gin, apple, lime &amp; cucumber. Served long, this one is filled with quintessential English flavours.
+garnish: Garnish with cucumber
+source: https://stevethebartender.com.au/english-garden-cocktail-recipe/
 tags:
     - Herbacious
     - Fruity
@@ -14,33 +14,28 @@ abv: 14.22
 glass: Highball
 method: Shake
 ingredients:
-    -
-        _id: gin
-        sort: 1
-        name: Gin
-        amount: 45
-        units: ml
-    -
-        _id: st-germain
-        sort: 2
-        name: St-Germain
-        amount: 30
-        units: ml
-    -
-        _id: apple-juice
-        sort: 3
-        name: 'Apple Juice'
-        amount: 50
-        units: ml
-    -
-        _id: lime-juice
-        sort: 4
-        name: 'Lime juice'
-        amount: 10
-        units: ml
+    - _id: gin
+      sort: 1
+      name: Gin
+      amount: 45
+      units: ml
+    - _id: st-germain
+      sort: 2
+      name: St-Germain
+      amount: 30
+      units: ml
+    - _id: apple-juice
+      sort: 3
+      name: Apple Juice
+      amount: 50
+      units: ml
+    - _id: lime-juice
+      sort: 4
+      name: Lime juice
+      amount: 10
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: english-garden-1.jpg
-        placeholder_hash: ligKHwRbp1iQd2ZYiEV0d4mKlwaJmKAI
-        copyright: 'Steve the Bartender'
+    - sort: 1
+      file_name: english-garden-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Steve the Bartender

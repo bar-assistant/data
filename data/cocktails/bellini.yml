@@ -15,30 +15,27 @@ description: |-
 
     **TINTORETTO** – Fresh Pomegranate Juice.
 garnish: N/A
-source: 'https://iba-world.com/bellini/'
+source: https://iba-world.com/bellini/
 tags:
-    - 'Contemporary Classics'
-    - 'IBA Cocktail'
+    - Contemporary Classics
+    - IBA Cocktail
     - Fruity
 abv: 6.11
 glass: Champagne
 method: Stir
 ingredients:
-    -
-        _id: prosecco
-        sort: 1
-        name: Prosecco
-        amount: 100
-        units: ml
-    -
-        _id: white-peach-puree
-        sort: 2
-        name: 'White Peach Puree'
-        amount: 50
-        units: ml
+    - _id: prosecco
+      sort: 1
+      name: Prosecco
+      amount: 100
+      units: ml
+    - _id: white-peach-puree
+      sort: 2
+      name: White Peach Puree
+      amount: 50
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: bellini-1.jpg
-        placeholder_hash: LjkKHwhiVWN8V3WfhpmnaYd6lyQEaFMA
-        copyright: 'Olive & Mango'
+    - sort: 1
+      file_name: bellini-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Olive & Mango

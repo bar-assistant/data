@@ -1,48 +1,42 @@
 _id: sang-amer
-name: 'Sang Amer'
-instructions: '1. Reverse dry shake (shake hard with ice first and then remove the ice and shake hard again) to achieve a frothy layer. Pour into an ice-filled glass. Garnish.'
-description: 'For something light to whet the appetite, mix together this tequila aperitif cocktail from Chemin &#224; la Mer in New Orleans.'
-garnish: 'Blood orange wedge'
-source: 'https://imbibemagazine.com/recipe/sang-amer-tequila-aperitif-cocktail/'
-tags: {  }
+name: Sang Amer
+instructions: 1. Reverse dry shake (shake hard with ice first and then remove the ice and shake hard again) to achieve a frothy layer. Pour into an ice-filled glass. Garnish.
+description: For something light to whet the appetite, mix together this tequila aperitif cocktail from Chemin &#224; la Mer in New Orleans.
+garnish: Blood orange wedge
+source: https://imbibemagazine.com/recipe/sang-amer-tequila-aperitif-cocktail/
+tags: {}
 abv: 13.81
 glass: Highball
 method: Stir
 ingredients:
-    -
-        _id: tequila-blanco
-        sort: 1
-        name: 'Tequila Blanco'
-        amount: 30
-        units: ml
-    -
-        _id: campari
-        sort: 2
-        name: Campari
-        amount: 15
-        units: ml
-    -
-        _id: aperol
-        sort: 3
-        name: Aperol
-        amount: 15
-        units: ml
-    -
-        _id: blood-orange-juice
-        sort: 4
-        name: 'Blood Orange Juice'
-        amount: 45
-        units: ml
-        substitutes:
-            -
-                _id: orange-juice
-                name: 'Orange juice'
-                amount: null
-                amount_max: null
-                units: null
+    - _id: tequila-blanco
+      sort: 1
+      name: Tequila Blanco
+      amount: 30
+      units: ml
+    - _id: campari
+      sort: 2
+      name: Campari
+      amount: 15
+      units: ml
+    - _id: aperol
+      sort: 3
+      name: Aperol
+      amount: 15
+      units: ml
+    - _id: blood-orange-juice
+      sort: 4
+      name: Blood Orange Juice
+      amount: 45
+      units: ml
+      substitutes:
+          - _id: orange-juice
+            name: Orange juice
+            amount: null
+            amount_max: null
+            units: null
 images:
-    -
-        sort: 1
-        file_name: sang-amer-1.jpg
-        placeholder_hash: ZSgODwS+iGbxZnmJhGemV7h0h5AVCVcC
-        copyright: 'Sang Amer tequila aperitif cocktail'
+    - sort: 1
+      file_name: sang-amer-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Sang Amer tequila aperitif cocktail

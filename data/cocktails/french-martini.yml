@@ -1,40 +1,36 @@
 _id: french-martini
-name: 'French Martini'
-instructions: 'Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.'
+name: French Martini
+instructions: Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.
 description: |-
     It was invented in the 1980s at one of Keith McNally's New York City bars. It next appeared on the drinks menu at McNally's Balthazar in SoHo in 1996. The cocktail was produced during the 1980s–1990s cocktail renaissance.
 
     It is not a true martini, but is one of many drinks that incorporate the term martini into their names. The key ingredient that makes a martini "French" is Chambord, a black raspberry liqueur that has been produced in France since 1685.
-garnish: 'Squeeze oil from lemon peel onto the drink.'
-source: 'https://iba-world.com/french-martini/'
+garnish: Squeeze oil from lemon peel onto the drink.
+source: https://iba-world.com/french-martini/
 tags:
-    - 'IBA Cocktail'
-    - 'New Era Drinks'
+    - IBA Cocktail
+    - New Era Drinks
 abv: 21.84
 glass: Fizzio
 method: Shake
 ingredients:
-    -
-        _id: vodka
-        sort: 1
-        name: Vodka
-        amount: 45
-        units: ml
-    -
-        _id: chambord
-        sort: 2
-        name: Chambord
-        amount: 15
-        units: ml
-    -
-        _id: pineapple-juice
-        sort: 3
-        name: 'Pineapple juice'
-        amount: 15
-        units: ml
+    - _id: vodka
+      sort: 1
+      name: Vodka
+      amount: 45
+      units: ml
+    - _id: chambord
+      sort: 2
+      name: Chambord
+      amount: 15
+      units: ml
+    - _id: pineapple-juice
+      sort: 3
+      name: Pineapple juice
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: french-martini-1.jpg
-        placeholder_hash: yAcGDwIHloZ5o5eFeTbWCceSydPyHyoM
-        copyright: 'Supergolden Bakes'
+    - sort: 1
+      file_name: french-martini-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Supergolden Bakes

@@ -1,44 +1,39 @@
 _id: bitter-giuseppe
-name: 'Bitter Giuseppe'
+name: Bitter Giuseppe
 instructions: |-
     1. Stir all the ingredients together in a mixing glass with ice until chilled.
     2. Strain into a rocks glass over a single large ice cube and garnish.
-description: "First featured on an early menu at the Violet Hour in Chicago, Stephen Cole's Bitter Giuseppe cocktail has become a modern classic over the years, with iterations popping up on menus at places like Cure in New Orleans, Elske and Ludlow Liquors in Chicago."
-garnish: 'Lemon peel'
-source: 'https://imbibemagazine.com/recipe/bitter-giuseppe-cocktail/'
+description: First featured on an early menu at the Violet Hour in Chicago, Stephen Cole's Bitter Giuseppe cocktail has become a modern classic over the years, with iterations popping up on menus at places like Cure in New Orleans, Elske and Ludlow Liquors in Chicago.
+garnish: Lemon peel
+source: https://imbibemagazine.com/recipe/bitter-giuseppe-cocktail/
 tags:
     - Bitter
 abv: 13.44
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: cynar
-        sort: 1
-        name: Cynar
-        amount: 60
-        units: ml
-    -
-        _id: sweet-vermouth
-        sort: 2
-        name: 'Sweet Vermouth'
-        amount: 30
-        units: ml
-    -
-        _id: lemon-juice
-        sort: 3
-        name: 'Lemon juice'
-        amount: 7.5
-        units: ml
-    -
-        _id: orange-bitters
-        sort: 4
-        name: 'Orange bitters'
-        amount: 6
-        units: dashes
+    - _id: cynar
+      sort: 1
+      name: Cynar
+      amount: 60
+      units: ml
+    - _id: sweet-vermouth
+      sort: 2
+      name: Sweet Vermouth
+      amount: 30
+      units: ml
+    - _id: lemon-juice
+      sort: 3
+      name: Lemon juice
+      amount: 7.5
+      units: ml
+    - _id: orange-bitters
+      sort: 4
+      name: Orange bitters
+      amount: 6
+      units: dashes
 images:
-    -
-        sort: 1
-        file_name: bitter-giuseppe-1.jpg
-        placeholder_hash: kCgKFwKPi5iEaYdTl3hmeHl5yIEDCzUE
-        copyright: 'Punch | Emma Janzen.'
+    - sort: 1
+      file_name: bitter-giuseppe-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch | Emma Janzen.

@@ -1,45 +1,40 @@
 _id: monte-mule-recipe
-name: 'Monte Mule Recipe'
+name: Monte Mule Recipe
 instructions: |-
     1. Add the ingredients to a rocks glass, then add crushed ice.
     2. Stir to chill.
     3. Garnish.
-description: 'The classic Moscow Mule recipe gets an Italian twist via the addition of Amaro Montenegro.'
-garnish: 'mint sprig'
-source: 'https://imbibemagazine.com/recipe/monte-mule-recipe/'
+description: The classic Moscow Mule recipe gets an Italian twist via the addition of Amaro Montenegro.
+garnish: mint sprig
+source: https://imbibemagazine.com/recipe/monte-mule-recipe/
 tags:
     - Mule
 abv: 15
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: vodka
-        sort: 1
-        name: Vodka
-        amount: 30
-        units: ml
-    -
-        _id: amaro-montenegro
-        sort: 2
-        name: 'Amaro Montenegro'
-        amount: 30
-        units: ml
-    -
-        _id: ginger-ale
-        sort: 3
-        name: 'Ginger ale'
-        amount: 30
-        units: ml
-    -
-        _id: lime-juice
-        sort: 4
-        name: 'Lime juice'
-        amount: 15
-        units: ml
+    - _id: vodka
+      sort: 1
+      name: Vodka
+      amount: 30
+      units: ml
+    - _id: amaro-montenegro
+      sort: 2
+      name: Amaro Montenegro
+      amount: 30
+      units: ml
+    - _id: ginger-ale
+      sort: 3
+      name: Ginger ale
+      amount: 30
+      units: ml
+    - _id: lime-juice
+      sort: 4
+      name: Lime juice
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: monte-mule-recipe-1.jpg
-        placeholder_hash: pFoKJwI/WIiFeYh1iWiHiHd5WWB4+NQE
-        copyright: 'Imbibe | Galdones Photography'
+    - sort: 1
+      file_name: monte-mule-recipe-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Imbibe | Galdones Photography

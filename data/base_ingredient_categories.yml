@@ -2,6 +2,9 @@
   name: 'Uncategorized'
   description: null
 -
+  name: 'Amaro'
+  description: 'Herbal and bittersweet liqueurs that originated in Italy'
+-
   name: 'Spirits'
   description: 'Alcoholic drinks produced by distillation of grains, fruits, vegetables, or sugar, that have already gone through alcoholic fermentation.'
 -
@@ -18,10 +21,19 @@
   description: 'Condiment that is a thick, viscous liquid consisting primarily of a solution of sugar in water, containing a large amount of dissolved sugars but showing little tendency to deposit crystals.'
 -
   name: 'Wines'
-  description: null
+  description: 'Alcoholic beverage made from fermented grapes or other fruits'
 -
   name: 'Bitters'
-  description: null
+  description: 'Concentrated flavoring agents'
 -
   name: 'Beverages'
+  description: null
+-
+  name: 'Crème de'
+  description: 'A crème liqueur is a liqueur that has a great deal of additional sugar added to the point that it has a near-syrup consistency.'
+-
+  name: 'Fortified wine'
+  description: 'Wine to which a distilled spirit or other spices has been added'
+-
+  name: 'Spices'
   description: null

@@ -1,12 +1,12 @@
 _id: whiskey-peach-smash
-name: "Whiskey Peach\_Smash"
+name: Whiskey Peach Smash
 instructions: |-
     1. Muddle the fruit and lemon wedges with the Curaçao.
     2. Add the mint leaves and the bourbon.
     3. Shake well and strain into a double rocks glass filled with ice.
-description: "A riff on the OG Whiskey Smash, Dale DeGroff's Whiskey Peach Smash recipe adds fresh fruit and citrus to energize the classic formula."
-garnish: 'Garnish with a peach slice and a mint sprig'
-source: 'https://punchdrink.com/recipes/whiskey-peach-smash/'
+description: A riff on the OG Whiskey Smash, Dale DeGroff's Whiskey Peach Smash recipe adds fresh fruit and citrus to energize the classic formula.
+garnish: Garnish with a peach slice and a mint sprig
+source: https://punchdrink.com/recipes/whiskey-peach-smash/
 tags:
     - Smash
     - Summer
@@ -14,39 +14,33 @@ abv: 32
 glass: Lowball
 method: Shake
 ingredients:
-    -
-        _id: bourbon-whiskey
-        sort: 1
-        name: 'Bourbon Whiskey'
-        amount: 60
-        units: ml
-    -
-        _id: dry-curacao
-        sort: 2
-        name: 'Dry Curaçao'
-        amount: 30
-        units: ml
-    -
-        _id: peach
-        sort: 3
-        name: Peach
-        amount: 2
-        units: slice
-    -
-        _id: lemon
-        sort: 4
-        name: Lemon
-        amount: 3
-        units: wedges
-    -
-        _id: mint
-        sort: 5
-        name: Mint
-        amount: 4
-        units: leaves
+    - _id: bourbon-whiskey
+      sort: 1
+      name: Bourbon Whiskey
+      amount: 60
+      units: ml
+    - _id: dry-curacao
+      sort: 2
+      name: Dry Curaçao
+      amount: 30
+      units: ml
+    - _id: peach
+      sort: 3
+      name: Peach
+      amount: 2
+      units: slice
+    - _id: lemon
+      sort: 4
+      name: Lemon
+      amount: 3
+      units: wedges
+    - _id: mint
+      sort: 5
+      name: Mint
+      amount: 4
+      units: leaves
 images:
-    -
-        sort: 0
-        file_name: whiskey-peach-smash-1.jpg
-        placeholder_hash: CAgGDwJVl3d7hniweQept5ZdOEAIl4AE
-        copyright: 'Punch Staff'
+    - sort: 0
+      file_name: whiskey-peach-smash-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch Staff

@@ -1,37 +1,33 @@
 _id: tequila-sunrise
-name: 'Tequila Sunrise'
-instructions: 'Pour tequila and orange juice directly into highball glass filled with ice cubes. Add the grenadine syrup to create chromatic effect (sunrise), do not stir.'
-description: 'The original tequila sunrise contained tequila, creme de cassis, lime juice, and soda water, and was served at the Arizona Biltmore Hotel where it was created by Gene Sulit in the 1930s or 1940s.'
-garnish: 'Garnish with half orange slice or an orange zest'
-source: 'https://iba-world.com/tequila-sunrise/'
+name: Tequila Sunrise
+instructions: Pour tequila and orange juice directly into highball glass filled with ice cubes. Add the grenadine syrup to create chromatic effect (sunrise), do not stir.
+description: The original tequila sunrise contained tequila, creme de cassis, lime juice, and soda water, and was served at the Arizona Biltmore Hotel where it was created by Gene Sulit in the 1930s or 1940s.
+garnish: Garnish with half orange slice or an orange zest
+source: https://iba-world.com/tequila-sunrise/
 tags:
-    - 'Contemporary Classics'
-    - 'IBA Cocktail'
+    - Contemporary Classics
+    - IBA Cocktail
 abv: 10.91
 glass: Highball
 method: Build
 ingredients:
-    -
-        _id: tequila-blanco
-        sort: 1
-        name: 'Tequila Blanco'
-        amount: 45
-        units: ml
-    -
-        _id: orange-juice
-        sort: 2
-        name: 'Orange juice'
-        amount: 90
-        units: ml
-    -
-        _id: grenadine-syrup
-        sort: 3
-        name: 'Grenadine Syrup'
-        amount: 15
-        units: ml
+    - _id: tequila-blanco
+      sort: 1
+      name: Tequila Blanco
+      amount: 45
+      units: ml
+    - _id: orange-juice
+      sort: 2
+      name: Orange juice
+      amount: 90
+      units: ml
+    - _id: grenadine-syrup
+      sort: 3
+      name: Grenadine Syrup
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: tequila-sunrise-1.jpg
-        placeholder_hash: JIsKTwzAqpiKenmaiViJyYZkOqCJBYYK
-        copyright: 'Homemade Hooplah'
+    - sort: 1
+      file_name: tequila-sunrise-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Homemade Hooplah

@@ -1,13 +1,13 @@
 _id: happy-bastard
-name: 'Happy Bastard'
+name: Happy Bastard
 instructions: |+
     1. Combine all ingredients, except tonic, in a mixing tin and shake with ice.
     2. Strain into a Collins glass over ice.
     3. Top with tonic.
 
-description: 'A lighter take on the Suffering Bastard cocktail recipe that calls on cucumber tonic water in place of ginger beer.'
-garnish: 'Garnish with lemon wheel.'
-source: 'https://punchdrink.com/recipes/happy-bastard/'
+description: A lighter take on the Suffering Bastard cocktail recipe that calls on cucumber tonic water in place of ginger beer.
+garnish: Garnish with lemon wheel.
+source: https://punchdrink.com/recipes/happy-bastard/
 tags:
     - Summer
     - Herbacious
@@ -16,45 +16,38 @@ abv: 13.33
 glass: Highball
 method: Shake
 ingredients:
-    -
-        _id: gin
-        sort: 1
-        name: Gin
-        amount: 30
-        units: ml
-    -
-        _id: brandy
-        sort: 2
-        name: Brandy
-        amount: 22.5
-        units: ml
-    -
-        _id: st-germain
-        sort: 3
-        name: St-Germain
-        amount: 7.5
-        units: ml
-    -
-        _id: ginger-syrup
-        sort: 4
-        name: 'Ginger syrup'
-        amount: 15
-        units: ml
-    -
-        _id: lemon-juice
-        sort: 5
-        name: 'Lemon juice'
-        amount: 15
-        units: ml
-    -
-        _id: tonic
-        sort: 6
-        name: Tonic
-        amount: 45
-        units: ml
+    - _id: gin
+      sort: 1
+      name: Gin
+      amount: 30
+      units: ml
+    - _id: brandy
+      sort: 2
+      name: Brandy
+      amount: 22.5
+      units: ml
+    - _id: st-germain
+      sort: 3
+      name: St-Germain
+      amount: 7.5
+      units: ml
+    - _id: ginger-syrup
+      sort: 4
+      name: Ginger syrup
+      amount: 15
+      units: ml
+    - _id: lemon-juice
+      sort: 5
+      name: Lemon juice
+      amount: 15
+      units: ml
+    - _id: tonic
+      sort: 6
+      name: Tonic
+      amount: 45
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: happy-bastard-1.jpg
-        placeholder_hash: WwgODwIblpdwWZeYe1Z3eYaICPda9qcD
-        copyright: 'Punch Staff'
+    - sort: 1
+      file_name: happy-bastard-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch Staff

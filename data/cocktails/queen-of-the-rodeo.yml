@@ -1,48 +1,42 @@
 _id: queen-of-the-rodeo
-name: 'Queen of the Rodeo'
-instructions: '1. Add all of the ingredients to a shaker along with ice and shake. Strain into a chilled glass. Garnish.'
-description: 'This "gussied-up" Cosmo recipe replaces Cointreau and cranberry juice for a mix of grenadine, maraschino liqueur, and grapefruit juice.'
-garnish: 'Lime wheel, a dusting of edible pink glitter (optional)'
-source: 'https://imbibemagazine.com/recipe/queen-of-the-rodeo-cosmo-recipe/'
+name: Queen of the Rodeo
+instructions: 1. Add all of the ingredients to a shaker along with ice and shake. Strain into a chilled glass. Garnish.
+description: This "gussied-up" Cosmo recipe replaces Cointreau and cranberry juice for a mix of grenadine, maraschino liqueur, and grapefruit juice.
+garnish: Lime wheel, a dusting of edible pink glitter (optional)
+source: https://imbibemagazine.com/recipe/queen-of-the-rodeo-cosmo-recipe/
 tags:
     - Sweet
 abv: 17.25
 glass: Coupe
 method: Stir
 ingredients:
-    -
-        _id: vodka
-        sort: 1
-        name: Vodka
-        amount: 60
-        units: ml
-    -
-        _id: maraschino
-        sort: 2
-        name: Maraschino
-        amount: 7.5
-        units: ml
-    -
-        _id: lime-juice
-        sort: 3
-        name: 'Lime juice'
-        amount: 22.5
-        units: ml
-    -
-        _id: grapefruit-juice
-        sort: 4
-        name: 'Grapefruit juice'
-        amount: 22.5
-        units: ml
-    -
-        _id: grenadine-syrup
-        sort: 5
-        name: 'Grenadine Syrup'
-        amount: 15
-        units: ml
+    - _id: vodka
+      sort: 1
+      name: Vodka
+      amount: 60
+      units: ml
+    - _id: maraschino
+      sort: 2
+      name: Maraschino
+      amount: 7.5
+      units: ml
+    - _id: lime-juice
+      sort: 3
+      name: Lime juice
+      amount: 22.5
+      units: ml
+    - _id: grapefruit-juice
+      sort: 4
+      name: Grapefruit juice
+      amount: 22.5
+      units: ml
+    - _id: grenadine-syrup
+      sort: 5
+      name: Grenadine Syrup
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: queen-of-the-rodeo-1.jpg
-        placeholder_hash: rSgODwKriHeQeIeVZyeIR4ZoOPY6JH0A
-        copyright: Imbibe
+    - sort: 1
+      file_name: queen-of-the-rodeo-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Imbibe

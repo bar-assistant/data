@@ -1,9 +1,9 @@
 _id: mis-mas
-name: 'Miš Maš'
+name: Miš Maš
 instructions: |-
     1. Pour fanta into a glass
     2. Float red wine on top
-description: 'Popular drink in Croatian coast towns. Pronounced "Mish Mash"'
+description: Popular drink in Croatian coast towns. Pronounced "Mish Mash"
 garnish: null
 source: null
 tags:
@@ -13,21 +13,18 @@ abv: 3.33
 glass: Wine
 method: Build
 ingredients:
-    -
-        _id: orange-soda
-        sort: 1
-        name: 'Orange Soda'
-        amount: 200
-        units: ml
-    -
-        _id: red-wine
-        sort: 2
-        name: 'Red wine'
-        amount: 100
-        units: ml
+    - _id: orange-soda
+      sort: 1
+      name: Orange Soda
+      amount: 200
+      units: ml
+    - _id: red-wine
+      sort: 2
+      name: Red wine
+      amount: 100
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: mis-mas-1.jpg
-        placeholder_hash: HxkSJwiGh4hwd4iJiZeHmHeImOAJCJsE
-        copyright: Coolinarka
+    - sort: 1
+      file_name: mis-mas-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Coolinarka

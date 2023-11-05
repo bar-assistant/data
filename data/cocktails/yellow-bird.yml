@@ -1,50 +1,44 @@
 _id: yellow-bird
-name: 'Yellow Bird'
-instructions: 'Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass.'
+name: Yellow Bird
+instructions: Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass.
 description: null
 garnish: null
-source: 'https://iba-world.com/yellow-bird/'
+source: https://iba-world.com/yellow-bird/
 tags:
-    - 'IBA Cocktail'
-    - 'New Era Drinks'
+    - IBA Cocktail
+    - New Era Drinks
 abv: 25.97
 glass: Coupe
 method: Shake
 ingredients:
-    -
-        _id: white-rum
-        sort: 1
-        name: 'White Rum'
-        amount: 30
-        units: ml
-    -
-        _id: galliano
-        sort: 2
-        name: Galliano
-        amount: 15
-        units: ml
-        substitutes:
-            -
-                _id: drambuie
-                name: Drambuie
-                amount: null
-                amount_max: null
-                units: null
-    -
-        _id: triple-sec
-        sort: 3
-        name: 'Triple Sec'
-        amount: 15
-        units: ml
-    -
-        _id: lime-juice
-        sort: 4
-        name: 'Lime juice'
-        amount: 15
-        units: ml
+    - _id: white-rum
+      sort: 1
+      name: White Rum
+      amount: 30
+      units: ml
+    - _id: galliano
+      sort: 2
+      name: Galliano
+      amount: 15
+      units: ml
+      substitutes:
+          - _id: drambuie
+            name: Drambuie
+            amount: null
+            amount_max: null
+            units: null
+    - _id: triple-sec
+      sort: 3
+      name: Triple Sec
+      amount: 15
+      units: ml
+    - _id: lime-juice
+      sort: 4
+      name: Lime juice
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: yellow-bird-1.jpg
-        placeholder_hash: GOoJLwJViHiHiXhqigaXuGeFavY2CpMC
-        copyright: 'Cooking to Entertain'
+    - sort: 1
+      file_name: yellow-bird-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Cooking to Entertain

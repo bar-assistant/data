@@ -1,9 +1,9 @@
 _id: negroski
 name: Negroski
-instructions: 'Stir all ingredients with ice and strain into ice-filled glass'
-description: 'A vodka-based Negroni.'
-garnish: 'Orange slice'
-source: 'https://www.diffordsguide.com/cocktails/recipe/1325/milano'
+instructions: Stir all ingredients with ice and strain into ice-filled glass
+description: A vodka-based Negroni.
+garnish: Orange slice
+source: https://www.diffordsguide.com/cocktails/recipe/1325/milano
 tags:
     - Negroni
     - Bitter
@@ -11,27 +11,23 @@ abv: 23.06
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: vodka
-        sort: 1
-        name: Vodka
-        amount: 30
-        units: ml
-    -
-        _id: campari
-        sort: 2
-        name: Campari
-        amount: 30
-        units: ml
-    -
-        _id: sweet-vermouth
-        sort: 3
-        name: 'Sweet Vermouth'
-        amount: 30
-        units: ml
+    - _id: vodka
+      sort: 1
+      name: Vodka
+      amount: 30
+      units: ml
+    - _id: campari
+      sort: 2
+      name: Campari
+      amount: 30
+      units: ml
+    - _id: sweet-vermouth
+      sort: 3
+      name: Sweet Vermouth
+      amount: 30
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: negroski-1.jpg
-        placeholder_hash: JpoKNwq6qJkMuIpEh3iJl2p1dwV3Q/AK
-        copyright: agratefulmeal
+    - sort: 1
+      file_name: negroski-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: agratefulmeal

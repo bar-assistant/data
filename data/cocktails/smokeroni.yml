@@ -1,9 +1,9 @@
 _id: smokeroni
 name: SmokeRoni
-instructions: 'Stir all ingredients in an ice-filled mixing glass and strain over large ice'
-description: 'Created at The House Of Machines in Cape Town, the SmokeRoni is an Agave Negroni riff that really brings the smoke to the glass. Combining Montelobos Mezcal, Tequila, Sweet Vermouth & Campari this is a drink that captures the depth that you’ve been missing'
-garnish: 'Orange peel'
-source: 'https://cocktailsdistilled.com/recipe/smokeroni/'
+instructions: Stir all ingredients in an ice-filled mixing glass and strain over large ice
+description: Created at The House Of Machines in Cape Town, the SmokeRoni is an Agave Negroni riff that really brings the smoke to the glass. Combining Montelobos Mezcal, Tequila, Sweet Vermouth & Campari this is a drink that captures the depth that you’ve been missing
+garnish: Orange peel
+source: https://cocktailsdistilled.com/recipe/smokeroni/
 tags:
     - Negroni
     - Smokey
@@ -12,33 +12,28 @@ abv: 23.06
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: mezcal
-        sort: 1
-        name: Mezcal
-        amount: 15
-        units: ml
-    -
-        _id: tequila-blanco
-        sort: 2
-        name: 'Tequila Blanco'
-        amount: 15
-        units: ml
-    -
-        _id: sweet-vermouth
-        sort: 3
-        name: 'Sweet Vermouth'
-        amount: 30
-        units: ml
-    -
-        _id: campari
-        sort: 4
-        name: Campari
-        amount: 30
-        units: ml
+    - _id: mezcal
+      sort: 1
+      name: Mezcal
+      amount: 15
+      units: ml
+    - _id: tequila-blanco
+      sort: 2
+      name: Tequila Blanco
+      amount: 15
+      units: ml
+    - _id: sweet-vermouth
+      sort: 3
+      name: Sweet Vermouth
+      amount: 30
+      units: ml
+    - _id: campari
+      sort: 4
+      name: Campari
+      amount: 30
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: smokeroni-1.jpg
-        placeholder_hash: ZfcJJwrYaHiTdXiGhQiniGh1qDA2CnIC
-        copyright: 'A Couple Cooks'
+    - sort: 1
+      file_name: smokeroni-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: A Couple Cooks

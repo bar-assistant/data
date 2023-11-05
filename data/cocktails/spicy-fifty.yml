@@ -1,49 +1,43 @@
 _id: spicy-fifty
-name: 'Spicy Fifty'
-instructions: 'Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.'
+name: Spicy Fifty
+instructions: Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.
 description: null
-garnish: 'Garnish with a red chilli pepper'
-source: 'https://iba-world.com/spicy-fifty/'
+garnish: Garnish with a red chilli pepper
+source: https://iba-world.com/spicy-fifty/
 tags:
-    - 'IBA Cocktail'
-    - 'New Era Drinks'
+    - IBA Cocktail
+    - New Era Drinks
 abv: 17.78
 glass: Cocktail
 method: Shake
 ingredients:
-    -
-        _id: vodka
-        sort: 1
-        name: Vodka
-        amount: 50
-        units: ml
-    -
-        _id: elderflower-cordial
-        sort: 2
-        name: 'Elderflower Cordial'
-        amount: 15
-        units: ml
-    -
-        _id: lime-juice
-        sort: 3
-        name: 'Lime juice'
-        amount: 15
-        units: ml
-    -
-        _id: honey-syrup
-        sort: 4
-        name: 'Honey Syrup'
-        amount: 10
-        units: ml
-    -
-        _id: chilli-pepper
-        sort: 5
-        name: 'Chilli Pepper'
-        amount: 2
-        units: slices
+    - _id: vodka
+      sort: 1
+      name: Vodka
+      amount: 50
+      units: ml
+    - _id: elderflower-cordial
+      sort: 2
+      name: Elderflower Cordial
+      amount: 15
+      units: ml
+    - _id: lime-juice
+      sort: 3
+      name: Lime juice
+      amount: 15
+      units: ml
+    - _id: honey-syrup
+      sort: 4
+      name: Honey Syrup
+      amount: 10
+      units: ml
+    - _id: chilli-pepper
+      sort: 5
+      name: Chilli Pepper
+      amount: 2
+      units: slices
 images:
-    -
-        sort: 1
-        file_name: spicy-fifty-1.jpg
-        placeholder_hash: ThgODwIFeYluhJeFeRepR5iHaPEGOI8G
-        copyright: MixolopediA
+    - sort: 1
+      file_name: spicy-fifty-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: MixolopediA

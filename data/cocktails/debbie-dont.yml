@@ -1,50 +1,44 @@
 _id: debbie-dont
-name: "Debbie, Don't"
+name: Debbie, Don't
 instructions: |-
     1. Combine all ingredients over ice and shake
     2. Strain into a chilled cocktail glass, serve up
-description: 'An adventurous modern cocktail for those with a limited bar'
+description: An adventurous modern cocktail for those with a limited bar
 garnish: null
-source: 'https://tuxedono2.com/debbie-don-t-cocktail-recipe'
-tags: {  }
+source: https://tuxedono2.com/debbie-don-t-cocktail-recipe
+tags: {}
 abv: 16.98
 glass: Coupe
 method: Shake
 ingredients:
-    -
-        _id: tequila-reposado
-        sort: 1
-        name: 'Tequila Reposado'
-        amount: 30
-        units: ml
-    -
-        _id: amaro-averna
-        sort: 2
-        name: 'Amaro Averna'
-        amount: 30
-        units: ml
-        substitutes:
-            -
-                _id: pelinkovac
-                name: Pelinkovac
-                amount: null
-                amount_max: null
-                units: null
-    -
-        _id: lemon-juice
-        sort: 3
-        name: 'Lemon juice'
-        amount: 22.5
-        units: ml
-    -
-        _id: maple-syrup
-        sort: 4
-        name: 'Maple syrup'
-        amount: 15
-        units: ml
+    - _id: tequila-reposado
+      sort: 1
+      name: Tequila Reposado
+      amount: 30
+      units: ml
+    - _id: amaro-averna
+      sort: 2
+      name: Amaro Averna
+      amount: 30
+      units: ml
+      substitutes:
+          - _id: pelinkovac
+            name: Pelinkovac
+            amount: null
+            amount_max: null
+            units: null
+    - _id: lemon-juice
+      sort: 3
+      name: Lemon juice
+      amount: 22.5
+      units: ml
+    - _id: maple-syrup
+      sort: 4
+      name: Maple syrup
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: debbie-dont-1.jpg
-        placeholder_hash: AwgGDwIGpnmGiXZ2eHeIF8eKdtBHB4wD
-        copyright: TuxedoNo2
+    - sort: 1
+      file_name: debbie-dont-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: TuxedoNo2

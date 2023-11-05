@@ -1,99 +1,85 @@
 _id: zombie-apocalypse
-name: 'Zombie Apocalypse'
+name: Zombie Apocalypse
 instructions: |-
     1. Add all ingredients to a cocktail shaker
     2. Add a small amount of ice and shake until chilled
     3. Strain over crushed ice into a chilled glass
-description: "A spooky, autumnal zombie riff that's perfect for a Halloween night! We added activated charcoal, which has hardly any taste, to produce the black color."
-garnish: 'Cherry, grated nutmeg, star anise'
-source: 'https://www.liberandcompany.com/collections/recipes/products/zombie-apocalypse'
+description: A spooky, autumnal zombie riff that's perfect for a Halloween night! We added activated charcoal, which has hardly any taste, to produce the black color.
+garnish: Cherry, grated nutmeg, star anise
+source: https://www.liberandcompany.com/collections/recipes/products/zombie-apocalypse
 tags:
     - Tiki
 abv: 18.43
 glass: Highball
 method: Shake
 ingredients:
-    -
-        _id: jamaican-rum
-        sort: 1
-        name: 'Jamaican Rum'
-        amount: 22.5
-        units: ml
-    -
-        _id: gold-rum
-        sort: 2
-        name: 'Gold Rum'
-        amount: 22.5
-        units: ml
-    -
-        _id: apple-brandy
-        sort: 3
-        name: 'Apple Brandy'
-        amount: 45
-        units: ml
-    -
-        _id: grenadine-syrup
-        sort: 4
-        name: 'Grenadine Syrup'
-        amount: 15
-        units: ml
-    -
-        _id: pineapple-syrup
-        sort: 5
-        name: 'Pineapple Syrup'
-        amount: 15
-        units: ml
-    -
-        _id: passionfruit-syrup
-        sort: 6
-        name: 'Passionfruit syrup'
-        amount: 15
-        units: ml
-    -
-        _id: cointreau
-        sort: 7
-        name: Cointreau
-        amount: 15
-        units: ml
-    -
-        _id: falernum
-        sort: 8
-        name: Falernum
-        amount: 7.5
-        units: ml
-    -
-        _id: lime-juice
-        sort: 9
-        name: 'Lime juice'
-        amount: 22.5
-        units: ml
-    -
-        _id: cinnamon-syrup
-        sort: 10
-        name: 'Cinnamon syrup'
-        amount: 7.5
-        units: ml
-    -
-        _id: absinthe
-        sort: 11
-        name: Absinthe
-        amount: 1
-        units: dash
-    -
-        _id: angostura-aromatic-bitters
-        sort: 12
-        name: 'Angostura aromatic bitters'
-        amount: 2
-        units: dash
-    -
-        _id: activated-charcoal
-        sort: 13
-        name: 'Activated charcoal'
-        amount: 1
-        units: capsule
+    - _id: jamaican-rum
+      sort: 1
+      name: Jamaican Rum
+      amount: 22.5
+      units: ml
+    - _id: gold-rum
+      sort: 2
+      name: Gold Rum
+      amount: 22.5
+      units: ml
+    - _id: apple-brandy
+      sort: 3
+      name: Apple Brandy
+      amount: 45
+      units: ml
+    - _id: grenadine-syrup
+      sort: 4
+      name: Grenadine Syrup
+      amount: 15
+      units: ml
+    - _id: pineapple-syrup
+      sort: 5
+      name: Pineapple Syrup
+      amount: 15
+      units: ml
+    - _id: passionfruit-syrup
+      sort: 6
+      name: Passionfruit syrup
+      amount: 15
+      units: ml
+    - _id: cointreau
+      sort: 7
+      name: Cointreau
+      amount: 15
+      units: ml
+    - _id: falernum
+      sort: 8
+      name: Falernum
+      amount: 7.5
+      units: ml
+    - _id: lime-juice
+      sort: 9
+      name: Lime juice
+      amount: 22.5
+      units: ml
+    - _id: cinnamon-syrup
+      sort: 10
+      name: Cinnamon syrup
+      amount: 7.5
+      units: ml
+    - _id: absinthe
+      sort: 11
+      name: Absinthe
+      amount: 1
+      units: dash
+    - _id: angostura-aromatic-bitters
+      sort: 12
+      name: Angostura aromatic bitters
+      amount: 2
+      units: dash
+    - _id: activated-charcoal
+      sort: 13
+      name: Activated charcoal
+      amount: 1
+      units: capsule
 images:
-    -
-        sort: 1
-        file_name: zombie-apocalypse-1.jpg
-        placeholder_hash: 1RgGFwQKu8hidolFaCiKR3hb+l4gnUQA
-        copyright: LiberAndCo
+    - sort: 1
+      file_name: zombie-apocalypse-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: LiberAndCo

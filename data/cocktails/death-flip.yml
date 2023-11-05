@@ -1,51 +1,45 @@
 _id: death-flip
-name: 'Death Flip'
-instructions: '1. Combine all ingredients in a mixing tin and shake with ice. Strain into a sour glass.'
+name: Death Flip
+instructions: 1. Combine all ingredients in a mixing tin and shake with ice. Strain into a sour glass.
 description: |-
     When this cocktail first appeared on the menu at the Black Pearl in Melbourne, in 2010, no ingredients were listed. And if you asked what was in the drink, the bartender would not tell you. The only thing offering the customer a hint as to what they were getting into was the ominous description: “You don’t wanna meet this cocktail in a dark alley.”
 
     Of course, plenty of people stepped up to take the bait, and many ended up liking the cocktail—something that likely wouldn’t have happened if the ingredients were listed: tequila, yellow Chartreuse, Jägermeister and a whole egg. To date, it is the only flip to become a modern classic.
-garnish: 'Garnish with freshly grated nutmeg.'
-source: 'https://punchdrink.com/recipes/death-flip/'
+garnish: Garnish with freshly grated nutmeg.
+source: https://punchdrink.com/recipes/death-flip/
 tags:
     - Flip
 abv: 30.69
 glass: Coupe
 method: Shake
 ingredients:
-    -
-        _id: tequila-blanco
-        sort: 1
-        name: 'Tequila Blanco'
-        amount: 30
-        units: ml
-    -
-        _id: yellow-chartreuse
-        sort: 2
-        name: 'Yellow Chartreuse'
-        amount: 15
-        units: ml
-    -
-        _id: jagermeister
-        sort: 3
-        name: Jägermeister
-        amount: 15
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 4
-        name: 'Simple Syrup'
-        amount: 1
-        units: dash
-    -
-        _id: egg
-        sort: 5
-        name: Egg
-        amount: 1
-        units: whole
+    - _id: tequila-blanco
+      sort: 1
+      name: Tequila Blanco
+      amount: 30
+      units: ml
+    - _id: yellow-chartreuse
+      sort: 2
+      name: Yellow Chartreuse
+      amount: 15
+      units: ml
+    - _id: jagermeister
+      sort: 3
+      name: Jägermeister
+      amount: 15
+      units: ml
+    - _id: simple-syrup
+      sort: 4
+      name: Simple Syrup
+      amount: 1
+      units: dash
+    - _id: egg
+      sort: 5
+      name: Egg
+      amount: 1
+      units: whole
 images:
-    -
-        sort: 1
-        file_name: death-flip-1.jpg
-        placeholder_hash: 5/cJHwQcT2q8Q3i3iTemmVh1eHAnBXgB
-        copyright: Punch
+    - sort: 1
+      file_name: death-flip-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch

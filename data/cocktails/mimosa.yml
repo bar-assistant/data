@@ -6,31 +6,28 @@ instructions: |-
     Note:
     Also known as Buck’s Fizz.
 description: null
-garnish: 'Garnish with an orange twist (optional).'
-source: 'https://iba-world.com/mimosa/'
+garnish: Garnish with an orange twist (optional).
+source: https://iba-world.com/mimosa/
 tags:
-    - 'Contemporary Classics'
-    - 'IBA Cocktail'
+    - Contemporary Classics
+    - IBA Cocktail
     - Wine
 abv: 5
 glass: Champagne
 method: Build
 ingredients:
-    -
-        _id: orange-juice
-        sort: 1
-        name: 'Orange juice'
-        amount: 75
-        units: ml
-    -
-        _id: prosecco
-        sort: 2
-        name: Prosecco
-        amount: 75
-        units: ml
+    - _id: orange-juice
+      sort: 1
+      name: Orange juice
+      amount: 75
+      units: ml
+    - _id: prosecco
+      sort: 2
+      name: Prosecco
+      amount: 75
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: mimosa-1.jpg
-        placeholder_hash: LyoGPwaGWMYyeIdfiUh7eXeH6PItd/oA
-        copyright: 'Inspired Taste'
+    - sort: 1
+      file_name: mimosa-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Inspired Taste

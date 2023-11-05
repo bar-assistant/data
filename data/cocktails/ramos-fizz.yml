@@ -1,79 +1,69 @@
 _id: ramos-fizz
-name: 'Ramos Fizz'
+name: Ramos Fizz
 instructions: |-
     1. Pour all ingredients except soda water in a cocktail shaker with ice.
     2. Shake for two minutes.
     3. Double strain in a glass.
     4. Pour the drink back in the shaker, and hard shake without ice for one minute.
     5. Strain into a highball glass, top up with soda.
-description: 'Created by New Orleans bar owner Henry C. Ramos, this cocktail was originally known as the New Orleans Fizz, which Ramos served at his Imperial Cabinet Saloon around 1888 or so. Ramos personally dictated that the drink be shaken for anywhere from two to twelve full minutes—depending on whom you ask—to achieve a fluffy, meringue-like texture. His bar, and many others of the day, achieved this yeoman’s task by creating bartender relays, where lines of “shaker men” would pull off the athletic endeavor. By 1915’s Mardi Gras season, the drink was so popular that Ramos needed thirty shaker men behind his bar. This stunningly gorgeous cocktail remains no easy task for modern drink makers, so today’s bartenders have begun utilizing paint shaker–like devices and whipped cream canisters as a sort of cheat. But if you have two strong arms, you can shake up a fine drink.'
+description: Created by New Orleans bar owner Henry C. Ramos, this cocktail was originally known as the New Orleans Fizz, which Ramos served at his Imperial Cabinet Saloon around 1888 or so. Ramos personally dictated that the drink be shaken for anywhere from two to twelve full minutes—depending on whom you ask—to achieve a fluffy, meringue-like texture. His bar, and many others of the day, achieved this yeoman’s task by creating bartender relays, where lines of “shaker men” would pull off the athletic endeavor. By 1915’s Mardi Gras season, the drink was so popular that Ramos needed thirty shaker men behind his bar. This stunningly gorgeous cocktail remains no easy task for modern drink makers, so today’s bartenders have begun utilizing paint shaker–like devices and whipped cream canisters as a sort of cheat. But if you have two strong arms, you can shake up a fine drink.
 garnish: null
-source: 'https://iba-world.com/ramos-fizz/'
+source: https://iba-world.com/ramos-fizz/
 tags:
-    - 'IBA Cocktail'
-    - 'The Unforgettables'
+    - IBA Cocktail
+    - The Unforgettables
     - Fizz
 abv: 7.32
 glass: Highball
 method: Shake
 ingredients:
-    -
-        _id: gin
-        sort: 1
-        name: Gin
-        amount: 45
-        units: ml
-    -
-        _id: lime-juice
-        sort: 2
-        name: 'Lime juice'
-        amount: 15
-        units: ml
-    -
-        _id: lemon-juice
-        sort: 3
-        name: 'Lemon juice'
-        amount: 15
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 4
-        name: 'Simple Syrup'
-        amount: 30
-        units: ml
-    -
-        _id: cream
-        sort: 5
-        name: Cream
-        amount: 60
-        units: ml
-    -
-        _id: egg-white
-        sort: 6
-        name: 'Egg White'
-        amount: 30
-        units: ml
-    -
-        _id: orange-flower-water
-        sort: 7
-        name: 'Orange Flower Water'
-        amount: 3
-        units: dashes
-    -
-        _id: vanilla-extract
-        sort: 8
-        name: 'Vanilla Extract'
-        amount: 2
-        units: drops
-    -
-        _id: club-soda
-        sort: 9
-        name: 'Club soda'
-        amount: 1
-        units: topup
+    - _id: gin
+      sort: 1
+      name: Gin
+      amount: 45
+      units: ml
+    - _id: lime-juice
+      sort: 2
+      name: Lime juice
+      amount: 15
+      units: ml
+    - _id: lemon-juice
+      sort: 3
+      name: Lemon juice
+      amount: 15
+      units: ml
+    - _id: simple-syrup
+      sort: 4
+      name: Simple Syrup
+      amount: 30
+      units: ml
+    - _id: cream
+      sort: 5
+      name: Cream
+      amount: 60
+      units: ml
+    - _id: egg-white
+      sort: 6
+      name: Egg White
+      amount: 30
+      units: ml
+    - _id: orange-flower-water
+      sort: 7
+      name: Orange Flower Water
+      amount: 3
+      units: dashes
+    - _id: vanilla-extract
+      sort: 8
+      name: Vanilla Extract
+      amount: 2
+      units: drops
+    - _id: club-soda
+      sort: 9
+      name: Club soda
+      amount: 1
+      units: topup
 images:
-    -
-        sort: 1
-        file_name: ramos-fizz-1.jpg
-        placeholder_hash: 1PcRDwIItVmTZohniYaIWJiIpvRVal8G
-        copyright: 'Punch |  Lizzie Munro'
+    - sort: 1
+      file_name: ramos-fizz-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch |  Lizzie Munro

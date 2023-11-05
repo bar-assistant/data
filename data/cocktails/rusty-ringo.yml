@@ -1,38 +1,34 @@
 _id: rusty-ringo
-name: 'Rusty Ringo'
+name: Rusty Ringo
 instructions: |-
     1. Combine all ingredients in a mixing glass with ice and stir for 60 rotations.
     2. Strain into a rocks glass over a large ice cube.
     3. Garnish with gold leaf.
-description: "From New York's Bar Goto, a modern interpretation of the Rusty Nail cocktail recipe made with calvados, Scotch and Drambuie liqueur."
-garnish: 'gold leaf'
-source: 'https://punchdrink.com/recipes/rusty-ringo/'
-tags: {  }
+description: From New York's Bar Goto, a modern interpretation of the Rusty Nail cocktail recipe made with calvados, Scotch and Drambuie liqueur.
+garnish: gold leaf
+source: https://punchdrink.com/recipes/rusty-ringo/
+tags: {}
 abv: 33.33
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: apple-brandy
-        sort: 1
-        name: 'Apple Brandy'
-        amount: 52.5
-        units: ml
-    -
-        _id: scotch-whiskey
-        sort: 2
-        name: 'Scotch whiskey'
-        amount: 7.5
-        units: ml
-    -
-        _id: drambuie
-        sort: 3
-        name: Drambuie
-        amount: 15
-        units: ml
+    - _id: apple-brandy
+      sort: 1
+      name: Apple Brandy
+      amount: 52.5
+      units: ml
+    - _id: scotch-whiskey
+      sort: 2
+      name: Scotch whiskey
+      amount: 7.5
+      units: ml
+    - _id: drambuie
+      sort: 3
+      name: Drambuie
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 0
-        file_name: rusty-ringo-1.jpg
-        placeholder_hash: 0GkGHwQhd6aDeIdwilh4SZiHKTMHoHMD
-        copyright: 'Punch Staff'
+    - sort: 0
+      file_name: rusty-ringo-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Punch Staff

@@ -1,51 +1,45 @@
 _id: new-york-sour
-name: 'New York Sour'
-instructions: 'Pour all ingredients into the shaker. Shake vigorously with ice.  Strain into a chilled rocks glass filled with ice. Float the wine on top.'
-description: 'Largely similar to the whiskey sour, the New York sour adds a float of dry red wine to the drink.'
-garnish: 'Garnish with lemon or orange zest with cherry.'
-source: 'https://iba-world.com/new-york-sour/'
+name: New York Sour
+instructions: Pour all ingredients into the shaker. Shake vigorously with ice.  Strain into a chilled rocks glass filled with ice. Float the wine on top.
+description: Largely similar to the whiskey sour, the New York sour adds a float of dry red wine to the drink.
+garnish: Garnish with lemon or orange zest with cherry.
+source: https://iba-world.com/new-york-sour/
 tags:
-    - 'IBA Cocktail'
-    - 'New Era Drinks'
+    - IBA Cocktail
+    - New Era Drinks
     - Sour
 abv: 16.09
 glass: Lowball
 method: Shake
 ingredients:
-    -
-        _id: whiskey
-        sort: 1
-        name: Whiskey
-        amount: 60
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 2
-        name: 'Simple Syrup'
-        amount: 22.5
-        units: ml
-    -
-        _id: lemon-juice
-        sort: 3
-        name: 'Lemon juice'
-        amount: 30
-        units: ml
-    -
-        _id: egg-white
-        sort: 4
-        name: 'Egg White'
-        amount: 1
-        units: drops
-        optional: true
-    -
-        _id: red-wine
-        sort: 5
-        name: 'Red wine'
-        amount: 15
-        units: ml
+    - _id: whiskey
+      sort: 1
+      name: Whiskey
+      amount: 60
+      units: ml
+    - _id: simple-syrup
+      sort: 2
+      name: Simple Syrup
+      amount: 22.5
+      units: ml
+    - _id: lemon-juice
+      sort: 3
+      name: Lemon juice
+      amount: 30
+      units: ml
+    - _id: egg-white
+      sort: 4
+      name: Egg White
+      amount: 1
+      units: drops
+      optional: true
+    - _id: red-wine
+      sort: 5
+      name: Red wine
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: new-york-sour-1.jpg
-        placeholder_hash: ZhgOFwJ4hoh/iHeIiJhniIeFaEEIJoUA
-        copyright: 'Kitchen Swagger'
+    - sort: 1
+      file_name: new-york-sour-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Kitchen Swagger

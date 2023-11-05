@@ -1,44 +1,39 @@
 _id: gin-gimlet
-name: 'Gin Gimlet'
+name: Gin Gimlet
 instructions: |-
     1. Add gin, lime juice, and syrup to a cocktail shaker. Fill with ice and shake until cold.
     2. Strain into glass and top with a splash of soda water, if desired.
-description: 'The word "gimlet" used in this sense is first attested in 1928. The most obvious derivation is from the tool for drilling small holes, a word also used figuratively to describe something as sharp or piercing. Thus, the cocktail may have been named for its "penetrating" effects on the drinker.'
-garnish: 'Garnish with a lime wheel'
-source: 'https://www.acouplecooks.com/gin-gimlet-cocktail/'
-tags: {  }
+description: The word "gimlet" used in this sense is first attested in 1928. The most obvious derivation is from the tool for drilling small holes, a word also used figuratively to describe something as sharp or piercing. Thus, the cocktail may have been named for its "penetrating" effects on the drinker.
+garnish: Garnish with a lime wheel
+source: https://www.acouplecooks.com/gin-gimlet-cocktail/
+tags: {}
 abv: 21.33
 glass: Coupe
 method: Shake
 ingredients:
-    -
-        _id: gin
-        sort: 1
-        name: Gin
-        amount: 60
-        units: ml
-    -
-        _id: lime-juice
-        sort: 2
-        name: 'Lime juice'
-        amount: 15
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 3
-        name: 'Simple Syrup'
-        amount: 15
-        units: ml
-    -
-        _id: club-soda
-        sort: 4
-        name: 'Club soda'
-        amount: 1
-        units: splash
-        optional: true
+    - _id: gin
+      sort: 1
+      name: Gin
+      amount: 60
+      units: ml
+    - _id: lime-juice
+      sort: 2
+      name: Lime juice
+      amount: 15
+      units: ml
+    - _id: simple-syrup
+      sort: 3
+      name: Simple Syrup
+      amount: 15
+      units: ml
+    - _id: club-soda
+      sort: 4
+      name: Club soda
+      amount: 1
+      units: splash
+      optional: true
 images:
-    -
-        sort: 1
-        file_name: gin-gimlet-1.jpg
-        placeholder_hash: C/gJDwI0l4jChndYbgaa6FaKVQBEVUAI
-        copyright: 'A Couple Cooks'
+    - sort: 1
+      file_name: gin-gimlet-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: A Couple Cooks

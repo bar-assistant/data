@@ -1,44 +1,39 @@
 _id: mint-julep
-name: 'Mint Julep'
-instructions: 'In Julep Stainless Steel Cup gently muddle the mint with sugar and water. Fill the glass with cracked ice, add the Bourbon and stir well until the cup frosts.'
+name: Mint Julep
+instructions: In Julep Stainless Steel Cup gently muddle the mint with sugar and water. Fill the glass with cracked ice, add the Bourbon and stir well until the cup frosts.
 description: null
-garnish: 'Garnish with a mint sprig.'
-source: 'https://iba-world.com/mint-julep/'
+garnish: Garnish with a mint sprig.
+source: https://iba-world.com/mint-julep/
 tags:
-    - 'Contemporary Classics'
-    - 'IBA Cocktail'
+    - Contemporary Classics
+    - IBA Cocktail
     - Julep
 abv: 36.36
 glass: Julep
 method: Build
 ingredients:
-    -
-        _id: bourbon-whiskey
-        sort: 1
-        name: 'Bourbon Whiskey'
-        amount: 60
-        units: ml
-    -
-        _id: mint
-        sort: 2
-        name: Mint
-        amount: 4
-        units: sprigs
-    -
-        _id: sugar
-        sort: 3
-        name: Sugar
-        amount: 1
-        units: tsp
-    -
-        _id: water
-        sort: 4
-        name: Water
-        amount: 2
-        units: tsp
+    - _id: bourbon-whiskey
+      sort: 1
+      name: Bourbon Whiskey
+      amount: 60
+      units: ml
+    - _id: mint
+      sort: 2
+      name: Mint
+      amount: 4
+      units: sprigs
+    - _id: sugar
+      sort: 3
+      name: Sugar
+      amount: 1
+      units: tsp
+    - _id: water
+      sort: 4
+      name: Water
+      amount: 2
+      units: tsp
 images:
-    -
-        sort: 1
-        file_name: mint-julep-1.jpg
-        placeholder_hash: 0jgKJwRGe8VgZoiaiiiHhpeXd1BYBXED
-        copyright: 'Liquor.com / Tim Nusog'
+    - sort: 1
+      file_name: mint-julep-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Liquor.com / Tim Nusog

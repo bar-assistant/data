@@ -1,49 +1,43 @@
 _id: smooth-kiss
-name: 'Smooth Kiss'
+name: Smooth Kiss
 instructions: |-
     1. Shake all ingredients except the soda water.
     2. Top up with soda water
 description: null
-garnish: 'Dehydrated apple, rose bud'
-source: 'https://botanica.hr/index.php?route=recipe/recipe&recipe_id=105'
-tags: {  }
+garnish: Dehydrated apple, rose bud
+source: https://botanica.hr/index.php?route=recipe/recipe&recipe_id=105
+tags: {}
 abv: 14.22
 glass: Wine
 method: Shake
 ingredients:
-    -
-        _id: tequila-blanco
-        sort: 1
-        name: 'Tequila Blanco'
-        amount: 40
-        units: ml
-    -
-        _id: apple-juice
-        sort: 2
-        name: 'Apple Juice'
-        amount: 20
-        units: ml
-    -
-        _id: lime-juice
-        sort: 3
-        name: 'Lime juice'
-        amount: 20
-        units: ml
-    -
-        _id: rose-syrup
-        sort: 4
-        name: 'Rose syrup'
-        amount: 10
-        units: ml
-    -
-        _id: club-soda
-        sort: 5
-        name: 'Club soda'
-        amount: 1
-        units: topup
+    - _id: tequila-blanco
+      sort: 1
+      name: Tequila Blanco
+      amount: 40
+      units: ml
+    - _id: apple-juice
+      sort: 2
+      name: Apple Juice
+      amount: 20
+      units: ml
+    - _id: lime-juice
+      sort: 3
+      name: Lime juice
+      amount: 20
+      units: ml
+    - _id: rose-syrup
+      sort: 4
+      name: Rose syrup
+      amount: 10
+      units: ml
+    - _id: club-soda
+      sort: 5
+      name: Club soda
+      amount: 1
+      units: topup
 images:
-    -
-        sort: 1
-        file_name: smooth-kiss-1.jpg
-        placeholder_hash: oUkKNwpYt2dad4e7mQWlt2iHePqIp48H
-        copyright: Botanica
+    - sort: 1
+      file_name: smooth-kiss-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Botanica

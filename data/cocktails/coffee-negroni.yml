@@ -1,9 +1,9 @@
 _id: coffee-negroni
-name: 'Coffee Negroni'
-instructions: 'Stir all ingredients in an ice-filled mixing glass, then strain into an ice-filled rocks glass'
-description: 'It’s commonly been said that the only thing better than a Negroni is a Coffee Negroni. And considering the drink is an equal part mix of Coffee Liqueur, Campari & Gin, we’ve got to agree.'
-garnish: 'Orange twist'
-source: 'https://cocktailsdistilled.com/recipe/coffee-negroni/'
+name: Coffee Negroni
+instructions: Stir all ingredients in an ice-filled mixing glass, then strain into an ice-filled rocks glass
+description: It’s commonly been said that the only thing better than a Negroni is a Coffee Negroni. And considering the drink is an equal part mix of Coffee Liqueur, Campari & Gin, we’ve got to agree.
+garnish: Orange twist
+source: https://cocktailsdistilled.com/recipe/coffee-negroni/
 tags:
     - Negroni
     - Coffee
@@ -11,27 +11,23 @@ abv: 23.61
 glass: Lowball
 method: Stir
 ingredients:
-    -
-        _id: gin
-        sort: 1
-        name: Gin
-        amount: 30
-        units: ml
-    -
-        _id: campari
-        sort: 2
-        name: Campari
-        amount: 30
-        units: ml
-    -
-        _id: coffee-liqueur
-        sort: 3
-        name: 'Coffee liqueur'
-        amount: 30
-        units: ml
+    - _id: gin
+      sort: 1
+      name: Gin
+      amount: 30
+      units: ml
+    - _id: campari
+      sort: 2
+      name: Campari
+      amount: 30
+      units: ml
+    - _id: coffee-liqueur
+      sort: 3
+      name: Coffee liqueur
+      amount: 30
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: coffee-negroni-1.jpg
-        placeholder_hash: oSgOHwRjh3afh3hYdrloaJqXiAFXCHAE
-        copyright: null
+    - sort: 1
+      file_name: coffee-negroni-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: null

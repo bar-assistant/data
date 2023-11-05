@@ -4,41 +4,36 @@ instructions: |-
     1. Combine all ingredients with ice and stir
     2. Strain into a cocktail glass, serve up
     3. Garnish with one big basil leaf
-description: 'Our in-house version of a tequila Negroni'
-garnish: 'basil leaf or orange peel for garnish'
-source: 'https://tuxedono2.com/telekinesis-cocktail-recipe'
-tags: {  }
+description: Our in-house version of a tequila Negroni
+garnish: basil leaf or orange peel for garnish
+source: https://tuxedono2.com/telekinesis-cocktail-recipe
+tags: {}
 abv: 28.19
-glass: 'Nick and Nora'
+glass: Nick and Nora
 method: Stir
 ingredients:
-    -
-        _id: tequila-blanco
-        sort: 1
-        name: 'Tequila Blanco'
-        amount: 45
-        units: ml
-    -
-        _id: campari
-        sort: 2
-        name: Campari
-        amount: 15
-        units: ml
-    -
-        _id: sweet-vermouth
-        sort: 3
-        name: 'Sweet Vermouth'
-        amount: 15
-        units: ml
-    -
-        _id: yellow-chartreuse
-        sort: 4
-        name: 'Yellow Chartreuse'
-        amount: 15
-        units: ml
+    - _id: tequila-blanco
+      sort: 1
+      name: Tequila Blanco
+      amount: 45
+      units: ml
+    - _id: campari
+      sort: 2
+      name: Campari
+      amount: 15
+      units: ml
+    - _id: sweet-vermouth
+      sort: 3
+      name: Sweet Vermouth
+      amount: 15
+      units: ml
+    - _id: yellow-chartreuse
+      sort: 4
+      name: Yellow Chartreuse
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: telekinesis-1.jpg
-        placeholder_hash: BAgGDwIIuHd2h3eHeFeoOKeJhXBHCHkF
-        copyright: TuxedoNo2
+    - sort: 1
+      file_name: telekinesis-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: TuxedoNo2

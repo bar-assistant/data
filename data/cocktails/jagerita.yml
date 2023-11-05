@@ -1,42 +1,37 @@
 _id: jagerita
 name: Jägerita
-instructions: 'Shake ingredients over cracked ice and strain into a chilled cocktail glass.'
-description: 'I know it’s a frat boy drink, but unless you’ve had it coming out of your nose at 4 in the morning and can’t physically drink the stuff, there’s no way you can look me in the eye and tell me that you don’t like Jägermeister because you’re a liar and I won’t believe you. Shoot it, sip it, I’ll take it any way I can get it. I even had my eyes opened one late night at Simon Difford’s house (hi, Simon!) when David Cordoba mixed up one of his famous Jägeritas and I practically begged him for the recipe.'
-garnish: 'pineapple wedge'
-source: 'https://jeffreymorgenthaler.com/my-five-favorite-guilty-pleasure-drinks/'
+instructions: Shake ingredients over cracked ice and strain into a chilled cocktail glass.
+description: I know it’s a frat boy drink, but unless you’ve had it coming out of your nose at 4 in the morning and can’t physically drink the stuff, there’s no way you can look me in the eye and tell me that you don’t like Jägermeister because you’re a liar and I won’t believe you. Shoot it, sip it, I’ll take it any way I can get it. I even had my eyes opened one late night at Simon Difford’s house (hi, Simon!) when David Cordoba mixed up one of his famous Jägeritas and I practically begged him for the recipe.
+garnish: pineapple wedge
+source: https://jeffreymorgenthaler.com/my-five-favorite-guilty-pleasure-drinks/
 tags:
     - Margarita
 abv: 19.56
 glass: Cocktail
 method: Shake
 ingredients:
-    -
-        _id: jagermeister
-        sort: 1
-        name: Jägermeister
-        amount: 60
-        units: ml
-    -
-        _id: cointreau
-        sort: 2
-        name: Cointreau
-        amount: 30
-        units: ml
-    -
-        _id: lime-juice
-        sort: 3
-        name: 'Lime juice'
-        amount: 30
-        units: ml
-    -
-        _id: simple-syrup
-        sort: 4
-        name: 'Simple Syrup'
-        amount: 15
-        units: ml
+    - _id: jagermeister
+      sort: 1
+      name: Jägermeister
+      amount: 60
+      units: ml
+    - _id: cointreau
+      sort: 2
+      name: Cointreau
+      amount: 30
+      units: ml
+    - _id: lime-juice
+      sort: 3
+      name: Lime juice
+      amount: 30
+      units: ml
+    - _id: simple-syrup
+      sort: 4
+      name: Simple Syrup
+      amount: 15
+      units: ml
 images:
-    -
-        sort: 1
-        file_name: jagerita-1.jpg
-        placeholder_hash: 4RgKDwKFaIhhlYhvh2iXZ6mMhwhGjaAC
-        copyright: Reddit
+    - sort: 1
+      file_name: jagerita-1.jpg
+      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      copyright: Reddit
