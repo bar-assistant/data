@@ -1,0 +1,13 @@
+_id: armagnac
+_parent_id: brandy
+name: Armagnac
+description: Armagnac is a type of brandy produced in the Gascony region of southwestern France. It is one of the oldest and most traditional types of brandy, with a production history dating back several centuries. Armagnac is distinct from another well-known French brandy, Cognac, which is produced in the Charente region.
+strength: 40
+origin: France
+color: '#d16616'
+category: Spirits
+images:
+    - sort: 1
+      file_name: armagnac-1.png
+      placeholder_hash: XmmKFQY6OFdyfo90OKeMcKoIOIhwhnaZiA
+      copyright: DC

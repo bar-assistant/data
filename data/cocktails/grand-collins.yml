@@ -1,59 +1,39 @@
 _id: grand-collins
 name: 'Grand Collins'
-instructions: "Place ice cubes in a highball glass and add Grand Marnier®, and then fresh lemon juice.\_Top up with soda water and stir."
+instructions: 'Place ice cubes in a highball glass and add Grand Marnier®, and then fresh lemon juice. Top up with soda water and stir.'
 description: 'A riff on a Tom Collins, the Grand Collins playfully swaps out Old Tom Gin for Grand Marnier, creating an intriguing, layered flavour profile to match its lively effervescence.'
 garnish: 'Orange zest and a raspberry'
 source: 'https://cocktailsdistilled.com/recipe/grand-collins/'
 tags:
     - Sweet
 abv: 22.22
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: stir
-    name: Stir
+glass: Highball
+method: Stir
 ingredients:
     -
         _id: grand-marnier
         sort: 1
         name: 'Grand Marnier'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 2
         name: 'Lemon juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 3
         name: 'Simple Syrup'
         amount: 1
-        amount_max: null
         units: barspoon
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: club-soda
         sort: 4
         name: 'Club soda'
         amount: 1
-        amount_max: null
         units: topup
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

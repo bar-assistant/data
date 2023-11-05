@@ -1,0 +1,12 @@
+_id: amer-picon
+name: Amer Picon
+description: Amer Picon is a bitter, citrus-infused liqueur, and might best be thought of as a distant cousin to the Italian amaro family. The French term “Amer” literally means “bitter,” and Amers are thus a category in the French spirits world, with many variations that are all bitter and flavored with fruit, herbs and spices.
+strength: 21
+origin: France
+color: '#451709'
+category: Amaro
+images:
+    - sort: 1
+      file_name: amer-picon-1.png
+      placeholder_hash: HSmOJQYeF0d4iIBIh4h2cJcHBwd6eoiIeA
+      copyright: Picon

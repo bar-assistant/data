@@ -2,59 +2,39 @@ _id: hemingway-special
 name: 'Hemingway Special'
 instructions: 'Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.'
 description: 'Ernest Hemingway, who stayed in Cuba, tried the Floridita''s signature drink, the Floridita Daiquiri, and said "That''s good but I prefer it without sugar and double rum," which became a cocktail now known as the Hemingway Daiquiri or the Papa Doble. This recipe was later modified further, adding grapefruit juice to the mix, at which point the drink was dubbed the "Hemingway Special".'
-garnish: N/A
+garnish: null
 source: 'https://iba-world.com/hemingway-special/'
 tags:
     - 'Contemporary Classics'
     - 'IBA Cocktail'
 abv: 17.72
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: dark-rum
         sort: 1
         name: 'Dark Rum'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grapefruit-juice
         sort: 2
         name: 'Grapefruit juice'
         amount: 40
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: maraschino
         sort: 3
         name: Maraschino
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 4
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -9,83 +9,51 @@ source: 'https://tuxedono2.com/halekulani-cocktail-recipe'
 tags:
     - Tiki
 abv: 13.84
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: bourbon-whiskey
         sort: 1
         name: 'Bourbon Whiskey'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: demerara-syrup
         sort: 2
         name: 'Demerara Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grenadine-syrup
         sort: 3
         name: 'Grenadine Syrup'
         amount: 1
-        amount_max: null
         units: tsp
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: pineapple-juice
         sort: 4
         name: 'Pineapple juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-juice
         sort: 5
         name: 'Orange juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 6
         name: 'Lemon juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: angostura-aromatic-bitters
         sort: 7
         name: 'Angostura aromatic bitters'
         amount: 1
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

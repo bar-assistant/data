@@ -12,43 +12,27 @@ tags:
     - Sweet
     - Citrusy
 abv: 14.75
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: build
-    name: Build
+glass: Highball
+method: Build
 ingredients:
     -
         _id: vodka
         sort: 1
         name: Vodka
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-juice
         sort: 2
         name: 'Orange juice'
         amount: 90
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: galliano
         sort: 3
         name: Galliano
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

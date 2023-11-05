@@ -6,32 +6,21 @@ garnish: 'Orange twist'
 source: 'https://imbibemagazine.com/recipe/shade-thrower-boulevardier/'
 tags: {  }
 abv: 27.24
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: stir
-    name: Stir
+glass: Lowball
+method: Stir
 ingredients:
     -
         _id: bourbon-whiskey
         sort: 1
         name: 'Bourbon Whiskey'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: amaro-averna
         sort: 2
         name: 'Amaro Averna'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: pelinkovac
@@ -44,21 +33,13 @@ ingredients:
         sort: 3
         name: 'Sweet Vermouth'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: aperol
         sort: 4
         name: Aperol
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

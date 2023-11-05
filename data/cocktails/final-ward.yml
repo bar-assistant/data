@@ -14,53 +14,33 @@ tags:
     - Citrusy
     - Herbacious
 abv: 25.4
-glass:
-    _id: nick-and-nora
-    name: 'Nick and Nora'
-method:
-    _id: shake
-    name: Shake
+glass: 'Nick and Nora'
+method: Shake
 ingredients:
     -
         _id: rye-whiskey
         sort: 1
         name: 'Rye whiskey'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: green-chartreuse
         sort: 2
         name: 'Green Chartreuse'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: maraschino
         sort: 3
         name: Maraschino
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 4
         name: 'Lemon juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

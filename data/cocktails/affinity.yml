@@ -7,60 +7,34 @@ description: 'This off-the-radar classic cocktail was originally made with equal
 garnish: 'Cherry and lemon twist'
 source: 'https://imbibemagazine.com/recipe/affinity-cocktail/'
 tags: {  }
-abv: 16.25
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: stir
-    name: Stir
+abv: 21.22
+glass: Cocktail
+method: Stir
 ingredients:
     -
         _id: scotch-whiskey
         sort: 1
         name: 'Scotch whiskey'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
-        _id: vermouth-amaro
+        _id: sweet-vermouth
         sort: 2
-        name: 'Vermouth Amaro'
+        name: 'Sweet Vermouth'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes:
-            -
-                _id: sweet-vermouth
-                name: 'Sweet Vermouth'
-                amount: null
-                amount_max: null
-                units: null
     -
         _id: dry-vermouth
         sort: 3
         name: 'Dry Vermouth'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: angostura-aromatic-bitters
         sort: 4
         name: 'Angostura aromatic bitters'
         amount: 1
-        amount_max: null
         units: dashes
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

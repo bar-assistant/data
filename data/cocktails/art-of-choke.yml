@@ -11,73 +11,45 @@ tags:
     - Citrusy
     - Herbacious
 abv: 22.83
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: muddle
-    name: Muddle
+glass: Lowball
+method: Muddle
 ingredients:
     -
         _id: white-rum
         sort: 1
         name: 'White Rum'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cynar
         sort: 2
         name: Cynar
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: green-chartreuse
         sort: 3
         name: 'Green Chartreuse'
         amount: 1
-        amount_max: null
         units: barspoon
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: demerara-syrup
         sort: 4
         name: 'Demerara Syrup'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 5
         name: 'Lime juice'
         amount: 1
-        amount_max: null
         units: barspoon
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: mint
         sort: 6
         name: Mint
         amount: 1
-        amount_max: null
         units: sprig
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

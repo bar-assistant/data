@@ -2,61 +2,41 @@ _id: brasserie-special
 name: 'Brasserie Special'
 instructions: |-
     1. Add all ingredients to a cocktail shaker
-    2. Add ice and shake hard for 20 seconds
-    3. Strain into a chilled coupe
+    2. Add ice and shake hard for 20 seconds
+    3. Strain into a chilled coupe
 description: 'Bring a bottle of whiskey to the island with this passionfruit-based sour. From the Café Royal Cocktail Book, the Brasserie Special showcases how versatile passion fruit syrup is, and how whiskey can go tiki!'
 garnish: null
 source: 'https://www.liberandcompany.com/collections/recipes/products/brasserie-special'
 tags:
     - Tropical
 abv: 22.15
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: bourbon-whiskey
         sort: 1
         name: 'Bourbon Whiskey'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 2
         name: 'Lemon juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cointreau
         sort: 3
         name: Cointreau
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: passionfruit-syrup
         sort: 4
         name: 'Passionfruit syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

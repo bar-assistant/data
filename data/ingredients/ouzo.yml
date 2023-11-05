@@ -1,0 +1,12 @@
+_id: ouzo
+name: Ouzo
+description: Dry anise-flavored aperitif that is widely consumed in Greece.
+strength: 35
+origin: Greece
+color: '#ffffff'
+category: Liqueurs
+images:
+    - sort: 1
+      file_name: ouzo-1.png
+      placeholder_hash: LymOHQgPp2d/hYeGZ1iAdQbICAiIiHiIhw
+      copyright: null

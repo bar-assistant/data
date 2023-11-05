@@ -7,63 +7,39 @@ source: 'https://www.reddit.com/r/cocktails/comments/131qe97/made_a_low_abv_cock
 tags:
     - Virgin
 abv: 5.83
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: shake
-    name: Shake
+glass: Lowball
+method: Shake
 ingredients:
     -
         _id: grapefruit-juice
         sort: 1
         name: 'Grapefruit juice'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cynar
         sort: 2
         name: Cynar
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: dry-curacao
         sort: 3
         name: 'Dry Curaçao'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: mezcal
         sort: 4
         name: Mezcal
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: club-soda
         sort: 5
         name: 'Club soda'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -11,22 +11,15 @@ tags:
     - 'Contemporary Classics'
     - 'IBA Cocktail'
 abv: 17.6
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: shake
-    name: Shake
+glass: Cocktail
+method: Shake
 ingredients:
     -
         _id: vodka
         sort: 1
         name: Vodka
         amount: 40
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: vodka-citron
@@ -39,31 +32,19 @@ ingredients:
         sort: 2
         name: Cointreau
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 3
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cranberry-juice
         sort: 4
         name: 'Cranberry juice'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -1,0 +1,15 @@
+_id: galliano
+name: Galliano
+description: |-
+    Galliano is sweet with vanilla-anise flavour and subtle citrus and woodsy herbal undernotes.
+
+    Galliano L'Autentico is a popular Italian liqueur with a golden yellow color. The unique herbal flavor medley is dominated by vanilla and anise, though its taste is complex. Developed in the late 19th century, Galliano is used in a variety of cocktails and is a staple in well-rounded bars today. Its most famous cocktails are the Harvey Wallbanger and golden Cadillac from the 1970s. While it's great for those retro drinks and many others, it also makes a nice digestif to enjoy after a meal.
+strength: 42.3
+origin: Italy
+color: '#caa701'
+category: Liqueurs
+images:
+    - sort: 1
+      file_name: galliano-1.png
+      placeholder_hash: KRqGLQBLBOmEdneHh1d/iQ5XCDiGd4d3iA
+      copyright: Galliano

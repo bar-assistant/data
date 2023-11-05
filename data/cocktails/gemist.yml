@@ -1,40 +1,30 @@
 _id: gemist
 name: Gemišt
-instructions: 'Natoči mrzloga u čašu'
-description: 'Gemišt (germanizam od riječi gemischt = miješano) naziv je koji se u kontinentalnoj Hrvatskoj rabi za alkoholno piće koje se priprema od suhog bijelog vina i gazirane mineralne vode u različitim omjerima.'
-garnish: ''
+instructions: |-
+    Combine cold ingredients in a glass.
+    Ingredient amounts are usually eyeballed depending on the glass.
+description: 'Coming from a german word "gemischt", meaning mixed. Popular in Balkan countries, especially with homemade dry white wines.'
+garnish: null
 source: null
 tags:
     - Spritz
     - Wine
 abv: 6
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: build
-    name: Build
+glass: Lowball
+method: Build
 ingredients:
     -
         _id: white-wine
         sort: 1
         name: 'White wine'
         amount: 150
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: club-soda
         sort: 2
         name: 'Club soda'
         amount: 100
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

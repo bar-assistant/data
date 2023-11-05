@@ -10,63 +10,39 @@ tags:
     - Brandy
     - Tiki
 abv: 25.76
-glass:
-    _id: tiki
-    name: Tiki
-method:
-    _id: shake
-    name: Shake
+glass: Tiki
+method: Shake
 ingredients:
     -
         _id: cognac
         sort: 1
         name: Cognac
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: gin
         sort: 2
         name: Gin
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 3
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: angostura-aromatic-bitters
         sort: 4
         name: 'Angostura aromatic bitters'
         amount: 2
-        amount_max: null
         units: dashes
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: ginger-ale
         sort: 5
         name: 'Ginger ale'
         amount: 1
-        amount_max: null
         units: topup
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

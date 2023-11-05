@@ -10,53 +10,33 @@ tags:
     - Margarita
     - Light
 abv: 18.08
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: shake
-    name: Shake
+glass: Lowball
+method: Shake
 ingredients:
     -
         _id: tequila-blanco
         sort: 1
         name: 'Tequila Blanco'
         amount: 60
-        amount_max: 0
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 2
         name: 'Lime juice'
         amount: 22.5
-        amount_max: 0
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orgeat-syrup
         sort: 3
         name: 'Orgeat Syrup'
         amount: 22.5
-        amount_max: 0
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: rose-water
         sort: 4
         name: 'Rose water'
         amount: 2
-        amount_max: 0
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

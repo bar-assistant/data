@@ -1,6 +1,6 @@
 _id: new-york-sour
 name: 'New York Sour'
-instructions: "Pour all ingredients into the shaker. Shake vigorously with ice.\_ Strain into a chilled rocks glass filled with ice. Float the wine on top."
+instructions: 'Pour all ingredients into the shaker. Shake vigorously with ice.  Strain into a chilled rocks glass filled with ice. Float the wine on top.'
 description: 'Largely similar to the whiskey sour, the New York sour adds a float of dry red wine to the drink.'
 garnish: 'Garnish with lemon or orange zest with cherry.'
 source: 'https://iba-world.com/new-york-sour/'
@@ -9,63 +9,40 @@ tags:
     - 'New Era Drinks'
     - Sour
 abv: 16.09
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: shake
-    name: Shake
+glass: Lowball
+method: Shake
 ingredients:
     -
         _id: whiskey
         sort: 1
         name: Whiskey
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 2
         name: 'Simple Syrup'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 3
         name: 'Lemon juice'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: egg-white
         sort: 4
         name: 'Egg White'
         amount: 1
-        amount_max: null
         units: drops
-        note: null
         optional: true
-        substitutes: {  }
     -
         _id: red-wine
         sort: 5
         name: 'Red wine'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

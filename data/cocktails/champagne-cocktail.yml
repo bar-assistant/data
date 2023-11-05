@@ -9,63 +9,40 @@ tags:
     - 'IBA Cocktail'
     - Wine
 abv: 13.78
-glass:
-    _id: champagne
-    name: Champagne
-method:
-    _id: build
-    name: Build
+glass: Champagne
+method: Build
 ingredients:
     -
         _id: champagne
         sort: 1
         name: Champagne
         amount: 90
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cognac
         sort: 2
         name: Cognac
         amount: 10
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: angostura-aromatic-bitters
         sort: 3
         name: 'Angostura aromatic bitters'
         amount: 2
-        amount_max: null
         units: dashes
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grand-marnier
         sort: 4
         name: 'Grand Marnier'
         amount: 1
-        amount_max: null
         units: drops
-        note: null
         optional: true
-        substitutes: {  }
     -
         _id: sugar
         sort: 5
         name: Sugar
         amount: 1
-        amount_max: null
         units: cube
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

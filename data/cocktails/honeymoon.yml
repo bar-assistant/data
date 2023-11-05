@@ -9,42 +9,27 @@ source: 'https://tuxedono2.com/honeymoon-cocktail-recipe'
 tags:
     - Brandy
 abv: 27.43
-glass:
-    _id: nick-and-nora
-    name: 'Nick and Nora'
-method:
-    _id: shake
-    name: Shake
+glass: 'Nick and Nora'
+method: Shake
 ingredients:
     -
         _id: apple-brandy
         sort: 1
         name: 'Apple Brandy'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cointreau
         sort: 2
         name: Cointreau
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: benedictine
         sort: 3
         name: Bénédictine
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: drambuie
@@ -57,11 +42,7 @@ ingredients:
         sort: 4
         name: 'Lemon juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

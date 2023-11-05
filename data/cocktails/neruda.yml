@@ -1,59 +1,39 @@
 _id: neruda
 name: Neruda
 instructions: 'Shake the first 3 ingredients together, then pour into an ice-filled glass and top with chilled soda water. Garnish.'
-description: "This spirit-free highball skips the booze but not the flavor. “It’s\_a liquid play on a Sour Patch candy,” says Lore\_head bartender Marina Markovic. “It’s sweet,\_refreshing, and gives just enough kick.”"
+description: 'This spirit-free highball skips the booze but not the flavor. “It’s a liquid play on a Sour Patch candy,” says Lore head bartender Marina Markovic. “It’s sweet, refreshing, and gives just enough kick.”'
 garnish: cherries
 source: 'https://imbibemagazine.com/recipe/neruda-a-spirit-free-highball/'
 tags:
     - Virgin
 abv: 0
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: shake
-    name: Shake
+glass: Highball
+method: Shake
 ingredients:
     -
         _id: grenadine-syrup
         sort: 1
         name: 'Grenadine Syrup'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 2
         name: 'Lime juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cinnamon-syrup
         sort: 3
         name: 'Cinnamon syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: club-soda
         sort: 4
         name: 'Club soda'
         amount: 1
-        amount_max: null
         units: topup
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -1,0 +1,12 @@
+_id: maple-syrup
+name: Maple syrup
+description: Maple syrup is a syrup made from the sap of maple trees.
+strength: 0
+origin: Canada
+color: '#bb6f44'
+category: Syrups
+images:
+    - sort: 1
+      file_name: maple-syrup-1.png
+      placeholder_hash: HDqGHQo5gG9Xt7Qpi3awSgeJBEqZZ3V4hw
+      copyright: null

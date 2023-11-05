@@ -1,0 +1,12 @@
+_id: pineapple-juice
+name: Pineapple juice
+description: Juice from pineapple fruit.
+strength: 0
+origin: null
+color: '#eadb34'
+category: Juices
+images:
+    - sort: 1
+      file_name: pineapple-juice-1.png
+      placeholder_hash: KByGFQJK/Wh6hnd4iJ9/p/OTP5iHeHiHdw
+      copyright: null

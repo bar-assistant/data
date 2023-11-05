@@ -11,63 +11,39 @@ source: 'https://www.liberandcompany.com/collections/recipes/products/coronado-p
 tags:
     - Tropical
 abv: 10.33
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: shake
-    name: Shake
+glass: Highball
+method: Shake
 ingredients:
     -
         _id: tequila-blanco
         sort: 1
         name: 'Tequila Blanco'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: aperol
         sort: 2
         name: Aperol
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 3
         name: 'Lemon juice'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: passionfruit-syrup
         sort: 4
         name: 'Passionfruit syrup'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: coconut-water
         sort: 5
         name: 'Coconut water'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -13,66 +13,42 @@ tags:
     - 'New Era Drinks'
     - Tiki
 abv: 16.11
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: gold-rum
         sort: 1
         name: 'Gold Rum'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: galliano
         sort: 2
         name: Galliano
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: pineapple-juice
         sort: 3
         name: 'Pineapple juice'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 4
         name: 'Lime juice'
         amount: 1
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: prosecco
         sort: 5
         name: Prosecco
         amount: 1
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1
-        file_name: barracuda-1.jpg
-        placeholder_hash: bCkKDwILhpmHh4Z4mIeHd4iHF5COtKAI
-        copyright: 'Ape Time'
+        file_name: barracuda-1.webp
+        placeholder_hash: IwkGFwI4iXZ5mngQmTe0OZRrGfQiQz8D
+        copyright: 'The Shaken Cocktail'

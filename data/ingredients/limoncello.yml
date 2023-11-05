@@ -1,0 +1,15 @@
+_id: limoncello
+name: Limoncello
+description: |-
+    Italian lemon liqueur mainly produced in Southern Italy, especially in the region around the Gulf of Naples, the Amalfi Coast, and Sicily. It is the second-most popular liqueur in Italy and is traditionally served chilled as an after-dinner digestivo. It is also a popular homemade liqueur, with various recipes available online and in print.
+
+    Limoncello is made from the zest of lemons and usually has a slightly turbid appearance, which originates from the presence of small essential oil droplets suspended in the drink.
+strength: 26
+origin: Italy
+color: '#ffff00'
+category: Liqueurs
+images:
+    - sort: 1
+      file_name: limoncello-1.webp
+      placeholder_hash: 5xuGDQAsloiPg3eWh7lwkfw3F2eAg4WHhw
+      copyright: null

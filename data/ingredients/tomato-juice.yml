@@ -1,0 +1,12 @@
+_id: tomato-juice
+name: Tomato juice
+description: Juice made from tomatoes.
+strength: 0
+origin: null
+color: '#f16624'
+category: Juices
+images:
+    - sort: 1
+      file_name: tomato-juice-1.png
+      placeholder_hash: YfuGDQZK+3qId3eIeA+tRnCIP5iIiHeHeA
+      copyright: null

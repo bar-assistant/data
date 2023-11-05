@@ -1,0 +1,12 @@
+_id: cynar
+name: Cynar
+description: Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.
+strength: 16.5
+origin: Italy
+color: '#5c0805'
+category: Amaro
+images:
+    - sort: 1
+      file_name: cynar-1.png
+      placeholder_hash: VWmKHQoeHUdQeIOJFxifcfQZBgaJiYiIiA
+      copyright: Cynar

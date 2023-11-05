@@ -3,40 +3,28 @@ name: 'Miš Maš'
 instructions: |-
     1. Pour fanta into a glass
     2. Float red wine on top
-description: 'Popular drink in Croatian coast towns'
-garnish: ''
+description: 'Popular drink in Croatian coast towns. Pronounced "Mish Mash"'
+garnish: null
 source: null
 tags:
     - Spritz
     - Wine
 abv: 3.33
-glass:
-    _id: wine
-    name: Wine
-method:
-    _id: build
-    name: Build
+glass: Wine
+method: Build
 ingredients:
     -
-        _id: orange-juice
+        _id: orange-soda
         sort: 1
-        name: 'Orange juice'
+        name: 'Orange Soda'
         amount: 200
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: red-wine
         sort: 2
         name: 'Red wine'
         amount: 100
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

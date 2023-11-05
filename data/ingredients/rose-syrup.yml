@@ -1,0 +1,12 @@
+_id: rose-syrup
+name: Rose syrup
+description: Pure sugar syrup made from the natural aroma of rose.
+strength: 0
+origin: Worldwide
+color: '#b11f30'
+category: Syrups
+images:
+    - sort: 1
+      file_name: rose-syrup-1.png
+      placeholder_hash: 5oiOLRYPamiAeoO4uGd/evWnBwd1dXVVVw
+      copyright: null

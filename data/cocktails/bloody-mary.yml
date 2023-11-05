@@ -9,83 +9,51 @@ tags:
     - 'IBA Cocktail'
     - Savory
 abv: 10.78
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: build
-    name: Build
+glass: Highball
+method: Build
 ingredients:
     -
         _id: vodka
         sort: 1
         name: Vodka
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: tomato-juice
         sort: 2
         name: 'Tomato juice'
         amount: 90
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 3
         name: 'Lemon juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: worcestershire-sauce
         sort: 4
         name: 'Worcestershire Sauce'
         amount: 2
-        amount_max: null
         units: dashes
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: tabasco
         sort: 5
         name: Tabasco
         amount: 1
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: pepper
         sort: 6
         name: Pepper
         amount: 1
-        amount_max: null
         units: pinch
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: salt
         sort: 7
         name: Salt
         amount: 1
-        amount_max: null
         units: pinch
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

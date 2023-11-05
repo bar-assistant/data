@@ -1,0 +1,18 @@
+_id: demerara-rum
+_parent_id: white-rum
+name: Demerara Rum
+description: |-
+    Demerara rum is a type of dark rum produced on the banks of the Demerara River in Guyana, a country on the northern coast of South America. All Demerara rum is distilled in Guyana, regardless of where it may be aged and bottled. There is only one remaining active distiller in Guyana, Demerara Distillers Limited (DDL).
+
+    Despite sharing the name, demerara rum is not necessarily made with demerara sugar.
+
+    While the vast majority of rum sold today is produced using molasses, Demerara rum is produced using sugarcane juice or “backend,” as it is sometimes called. This gives the rum a flavor profile that is more fruity and grassy than molasses-based rums.
+strength: 40
+origin: South America
+color: '#ca5210'
+category: Spirits
+images:
+    - sort: 1
+      file_name: demerara-rum-1.png
+      placeholder_hash: XDmODQIsh3iAeH+4V4l1n4wHOIiAhHN2hw
+      copyright: El Dorado

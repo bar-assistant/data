@@ -6,52 +6,33 @@ garnish: null
 source: 'https://punchdrink.com/recipes/greta-garbo/'
 tags: {  }
 abv: 20.65
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: white-rum
         sort: 1
         name: 'White Rum'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 2
         name: 'Lime juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 3
         name: 'Simple Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: absinthe
         sort: 4
         name: Absinthe
         amount: 5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: ouzo
@@ -64,11 +45,7 @@ ingredients:
         sort: 5
         name: Maraschino
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -1,0 +1,12 @@
+_id: water
+name: Water
+description: It's water.
+strength: 0
+origin: Worldwide
+color: '#fff'
+category: Beverages
+images:
+    - sort: 1
+      file_name: water-1.png
+      placeholder_hash: 9heKFQYPiohZeKf1VkpekOQGCAh4eHeHdw
+      copyright: null

@@ -10,53 +10,33 @@ source: 'https://punchdrink.com/recipes/metexa/'
 tags:
     - Citrusy
 abv: 19.25
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: stir
-    name: Stir
+glass: Cocktail
+method: Stir
 ingredients:
     -
         _id: cocchi-aperitivo-americano
         sort: 1
         name: 'Cocchi Aperitivo Americano'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: tequila-blanco
         sort: 2
         name: 'Tequila Blanco'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: swedish-punsch
         sort: 3
         name: 'Swedish punsch'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grapefruit
         sort: 4
         name: Grapefruit
         amount: 1
-        amount_max: null
         units: peel
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

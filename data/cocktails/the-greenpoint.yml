@@ -10,63 +10,39 @@ garnish: 'lemon twist'
 source: 'https://punchdrink.com/recipes/greenpoint/'
 tags: {  }
 abv: 30.28
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: stir
-    name: Stir
+glass: Coupe
+method: Stir
 ingredients:
     -
         _id: rye-whiskey
         sort: 1
         name: 'Rye whiskey'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sweet-vermouth
         sort: 2
         name: 'Sweet Vermouth'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: yellow-chartreuse
         sort: 3
         name: 'Yellow Chartreuse'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: angostura-aromatic-bitters
         sort: 4
         name: 'Angostura aromatic bitters'
         amount: 1
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-bitters
         sort: 5
         name: 'Orange bitters'
         amount: 1
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

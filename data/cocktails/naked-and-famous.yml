@@ -2,38 +2,27 @@ _id: naked-and-famous
 name: 'Naked and Famous'
 instructions: 'Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.'
 description: 'The Naked and Famous cocktail is "the bastard love child of a classic Last Word and a Paper Plane, conceived in the mountains of Oaxaca.". First created at the well renowned New York City bar, Death & Co. (also featured in the cocktail book of the same name).'
-garnish: N/A
+garnish: null
 source: 'https://iba-world.com/naked-and-famous/'
 tags:
     - 'IBA Cocktail'
     - 'New Era Drinks'
 abv: 18.2
-glass:
-    _id: nick-and-nora
-    name: 'Nick and Nora'
-method:
-    _id: shake
-    name: Shake
+glass: 'Nick and Nora'
+method: Shake
 ingredients:
     -
         _id: mezcal
         sort: 1
         name: Mezcal
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: yellow-chartreuse
         sort: 2
         name: 'Yellow Chartreuse'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: drambuie
@@ -46,21 +35,13 @@ ingredients:
         sort: 3
         name: Aperol
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 4
         name: 'Lime juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

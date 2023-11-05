@@ -8,53 +8,34 @@ garnish: 'Garnish with a lime wheel'
 source: 'https://www.acouplecooks.com/gin-gimlet-cocktail/'
 tags: {  }
 abv: 21.33
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 2
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 3
         name: 'Simple Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: club-soda
         sort: 4
         name: 'Club soda'
         amount: 1
-        amount_max: null
         units: splash
-        note: null
         optional: true
-        substitutes: {  }
 images:
     -
         sort: 1

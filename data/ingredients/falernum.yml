@@ -1,0 +1,12 @@
+_id: falernum
+name: Falernum
+description: Liqueur with flavors of ginger, lime, and almond, and frequently cloves or allspice. It may be thought of as a spicier version of orgeat syrup.
+strength: 11
+origin: Caribbean
+color: '#f4f2e5'
+category: Liqueurs
+images:
+    - sort: 1
+      file_name: falernum-1.png
+      placeholder_hash: rgiGDQAeVmeed18UZ3pEkDUFBwd1dXZmaA
+      copyright: John D Taylor

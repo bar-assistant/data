@@ -1,0 +1,15 @@
+_id: rose-wine
+name: Rosé wine
+description: |-
+    Rosé wine is a type of wine that falls between red and white wine, characterized by its pink or blush color. It is typically made from red grape varieties, where the grape skins are in contact with the grape juice for a shorter period compared to red wine production. The result is a wine with a range of pink hues, from pale salmon to deep rose, depending on the grape variety and winemaking process.
+
+    Rosé wines can exhibit a diverse array of flavors, ranging from light and crisp to more full-bodied and fruit-forward. They are known for their refreshing qualities and are often enjoyed chilled. Rosé wines can be produced in various regions around the world and are popular choices for warm-weather drinking and versatile food pairings.
+strength: 17
+origin: null
+color: '#bf573d'
+category: Wines
+images:
+    - sort: 1
+      file_name: rose-wine-1.png
+      placeholder_hash: oAqHDQQe3kB5hmeHhyCWB2J5BydycoV1eA
+      copyright: Lark Hill

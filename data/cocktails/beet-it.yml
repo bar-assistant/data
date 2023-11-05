@@ -1,0 +1,47 @@
+_id: beet-it
+name: 'Beet It'
+instructions: |-
+    1. Pour all of the ingredients into a shaker.
+    2. Add ice, give it a good shake and strain.
+    3. Serve up, into a coupe or martini glass.
+    4. Top with drops of olive oil.
+
+    **Note:** No prebottled beet juice will live up to freshly juiced beets. If you don't have your own juicer at home, the best option is to swing by your local fresh juice shop and have them make you a fresh batch. A 16-oz. to-go cup will make 16 cocktails. Natural grocery stores carry decent bottled beet juice, but they generally add acid in the form of lemon juice and citric acid as a preservative, in which case you can pull back on the amount of lime juice to keep the cocktail balanced.
+description: "According to Chris D'Apice, beverage director of San Diego's Books &amp; Records, this mezcal beet cocktail drinks like an earthy, vegetal Margarita. Garnishing the cocktail with drops of olive oil enhances its savory character while also giving it a velvety mouthfeel."
+garnish: 'Drops of olive oil'
+source: 'https://imbibemagazine.com/recipe/beet-it-a-mezcal-beet-cocktail/'
+tags: {  }
+abv: 13.47
+glass: Coupe
+method: Shake
+ingredients:
+    -
+        _id: mezcal
+        sort: 1
+        name: Mezcal
+        amount: 60
+        units: ml
+    -
+        _id: beet-juice
+        sort: 2
+        name: 'Beet juice'
+        amount: 30
+        units: ml
+    -
+        _id: lime-juice
+        sort: 3
+        name: 'Lime juice'
+        amount: 30
+        units: ml
+    -
+        _id: agave-syrup
+        sort: 4
+        name: 'Agave Syrup'
+        amount: 22.5
+        units: ml
+images:
+    -
+        sort: 1
+        file_name: beet-it-1.jpg
+        placeholder_hash: LggGDwLkjFagnXikOMeZgsQmdvSWG38G
+        copyright: 'Imbibe Magazine | Kimberly Motos'

@@ -11,22 +11,15 @@ garnish: 'Half a passion fruit on top'
 source: 'Douglas Ankrah, The Townhouse | London'
 tags: {  }
 abv: 16.36
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: vanilla-vodka
         sort: 1
         name: 'Vanilla Vodka'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: vodka
@@ -39,39 +32,25 @@ ingredients:
         sort: 2
         name: Passoã
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 3
         name: 'Simple Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 4
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: champagne
         sort: 5
         name: Champagne
         amount: 60
-        amount_max: null
         units: ml
-        note: null
         optional: true
         substitutes:
             -

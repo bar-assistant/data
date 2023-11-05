@@ -1,0 +1,13 @@
+_id: sloe-gin
+_parent_id: gin
+name: Sloe Gin
+description: Sloe gin is a red liqueur made with gin and sloes. Sloes are the fruit (drupe) of Prunus spinosa, the blackthorn plant, a relative of the plum.
+strength: 40
+origin: UK
+color: '#d74536'
+category: Spirits
+images:
+    - sort: 1
+      file_name: sloe-gin-1.png
+      placeholder_hash: ZTiODQYPVyaAe4WZmGiPifiYBxeDg3MzSA
+      copyright: Monkey 47

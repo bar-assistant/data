@@ -1,0 +1,12 @@
+_id: yellow-chartreuse
+name: Yellow Chartreuse
+description: Yellow Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is a milder and slightly sweeter version of Green Chartreuse, another famous liqueur produced by the same monks. Yellow Chartreuse is characterized by its yellow color and a complex flavor profile derived from a secret blend of 130 herbs and botanicals. It has a sweet and honeyed taste with herbal, floral, and spicy notes.
+strength: 40
+origin: France
+color: '#fbfb4b'
+category: Liqueurs
+images:
+    - sort: 1
+      file_name: yellow-chartreuse-1.png
+      placeholder_hash: nyyGVQIeCRiNdnOpZ0iPgvQnBxeFhXNTWA
+      copyright: null

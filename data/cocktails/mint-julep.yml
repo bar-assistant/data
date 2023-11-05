@@ -9,53 +9,33 @@ tags:
     - 'IBA Cocktail'
     - Julep
 abv: 36.36
-glass:
-    _id: julep
-    name: Julep
-method:
-    _id: build
-    name: Build
+glass: Julep
+method: Build
 ingredients:
     -
         _id: bourbon-whiskey
         sort: 1
         name: 'Bourbon Whiskey'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: mint
         sort: 2
         name: Mint
         amount: 4
-        amount_max: null
         units: sprigs
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sugar
         sort: 3
         name: Sugar
         amount: 1
-        amount_max: null
         units: tsp
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: water
         sort: 4
         name: Water
         amount: 2
-        amount_max: null
         units: tsp
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

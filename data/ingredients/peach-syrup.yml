@@ -1,0 +1,12 @@
+_id: peach-syrup
+name: Peach syrup
+description: Peach Simple Syrup is a 3-ingredient homemade add-in that’s used to sweeten all of your favorite cocktails, lemonades, and teas! Ready in just 45 minutes!
+strength: 0
+origin: Worldwide
+color: '#f3da76'
+category: Syrups
+images:
+    - sort: 1
+      file_name: peach-syrup-1.png
+      placeholder_hash: bDmKNQoeJoiBaXBmWIh/jvi4CQmJiXiIhw
+      copyright: Monin

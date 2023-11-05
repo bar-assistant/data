@@ -9,63 +9,39 @@ source: 'https://imbibemagazine.com/recipe/the-rosita-cocktail-recipe/'
 tags:
     - Negroni
 abv: 25.22
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: stir
-    name: Stir
+glass: Lowball
+method: Stir
 ingredients:
     -
         _id: tequila-reposado
         sort: 1
         name: 'Tequila Reposado'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sweet-vermouth
         sort: 2
         name: 'Sweet Vermouth'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: dry-vermouth
         sort: 3
         name: 'Dry Vermouth'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: campari
         sort: 4
         name: Campari
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: angostura-aromatic-bitters
         sort: 5
         name: 'Angostura aromatic bitters'
         amount: 1
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

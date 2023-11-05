@@ -1,0 +1,12 @@
+_id: orange-curacao
+name: Orange Curaçao
+description: Liqueur flavored with the dried peel of the bitter orange laraha, a citrus fruit grown on the Dutch island of Curaçao. Curaçao is used by liqueur makers overt the world as a generic name for orange-flavoured liqueurs.
+strength: 20
+origin: Netherlands
+color: '#edaa53'
+category: Liqueurs
+images:
+    - sort: 1
+      file_name: orange-curacao-1.png
+      placeholder_hash: XYqCDQI6WYZ2emdHCPSFNS0JCIeAdIeYeA
+      copyright: null

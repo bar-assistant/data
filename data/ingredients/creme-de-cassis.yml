@@ -1,0 +1,12 @@
+_id: creme-de-cassis
+name: Crème de cassis
+description: Crème de Cassis is a sweet liqueur made from blackcurrants. It has a deep red-purple color and a rich, fruity flavor with a combination of sweetness and tartness. The liqueur is often used as a key ingredient in cocktails, with the Kir and Kir Royale being classic examples. Crème de Cassis can also be enjoyed on its own over ice or used in culinary applications to add a burst of blackcurrant flavor to desserts or sauces.
+strength: 25
+origin: France
+color: '#2c1227'
+category: Crème de
+images:
+    - sort: 1
+      file_name: creme-de-cassis-1.png
+      placeholder_hash: 0ReKBQAtxwOIeHd4eDB2CmTICBiIiHeHdw
+      copyright: Giffard

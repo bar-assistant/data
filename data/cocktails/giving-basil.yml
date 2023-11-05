@@ -10,63 +10,39 @@ source: 'https://imbibemagazine.com/recipe/giving-basil-from-the-jones-assembly/
 tags:
     - Herbacious
 abv: 16
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: italicus-rosolio-di-bergamotto
         sort: 2
         name: 'Italicus Rosolio di Bergamotto'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orgeat-syrup
         sort: 3
         name: 'Orgeat Syrup'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 4
         name: 'Lime juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: basil
         sort: 5
         name: Basil
         amount: 4
-        amount_max: null
         units: leaves
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

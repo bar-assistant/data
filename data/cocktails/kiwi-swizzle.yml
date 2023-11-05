@@ -11,73 +11,45 @@ tags:
     - Citrusy
     - Swizzle
 abv: 21.72
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: muddle
-    name: Muddle
+glass: Highball
+method: Muddle
 ingredients:
     -
         _id: white-rum
         sort: 1
         name: 'White Rum'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: green-chartreuse
         sort: 2
         name: 'Green Chartreuse'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: pineapple-juice
         sort: 3
         name: 'Pineapple juice'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 4
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: demerara-syrup
         sort: 5
         name: 'Demerara Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: kiwi
         sort: 6
         name: Kiwi
         amount: 1
-        amount_max: null
         units: whole
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

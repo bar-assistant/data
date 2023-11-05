@@ -9,33 +9,21 @@ tags:
     - 'The Unforgettables'
     - Brandy
 abv: 28.57
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: stir
-    name: Stir
+glass: Cocktail
+method: Stir
 ingredients:
     -
         _id: cognac
         sort: 1
         name: Cognac
         amount: 50
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: creme-de-menthe
         sort: 2
         name: 'Crème de menthe'
         amount: 20
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

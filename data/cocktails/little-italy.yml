@@ -11,43 +11,27 @@ garnish: null
 source: 'https://punchdrink.com/recipes/little-italy/'
 tags: {  }
 abv: 26.09
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: stir
-    name: Stir
+glass: Cocktail
+method: Stir
 ingredients:
     -
         _id: rye-whiskey
         sort: 1
         name: 'Rye whiskey'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cynar
         sort: 2
         name: Cynar
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sweet-vermouth
         sort: 3
         name: 'Sweet Vermouth'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 0

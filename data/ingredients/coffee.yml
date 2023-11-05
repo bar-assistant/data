@@ -1,0 +1,12 @@
+_id: coffee
+name: Coffee
+description: Coffee is a beverage made from roasted coffee beans. The beans are ground and brewed with hot water to produce a flavorful and aromatic drink. Coffee is enjoyed worldwide and comes in various styles, including espresso, drip coffee, and specialty beverages. It contains caffeine, a natural stimulant, and is often consumed for its energizing effects and rich, complex taste.
+strength: 0
+origin: Africa
+color: '#654332'
+category: Beverages
+images:
+    - sort: 1
+      file_name: coffee-1.png
+      placeholder_hash: MwiKDQI611hziorzeBePhfFIKGh0d3CGVw
+      copyright: CC License

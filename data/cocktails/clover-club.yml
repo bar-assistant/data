@@ -13,63 +13,41 @@ tags:
     - 'IBA Cocktail'
     - 'The Unforgettables'
 abv: 18.4
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 45
-        amount_max: 0
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: raspberry-syrup
         sort: 2
         name: 'Raspberry Syrup'
         amount: 15
-        amount_max: 0
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 3
         name: 'Lemon juice'
         amount: 15
-        amount_max: 0
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: egg-white
         sort: 4
         name: 'Egg White'
         amount: 1
-        amount_max: 0
         units: drops
-        note: null
         optional: true
-        substitutes: {  }
     -
         _id: dry-vermouth
         sort: 5
         name: 'Dry Vermouth'
         amount: 15
-        amount_max: 0
         units: ml
-        note: null
         optional: true
-        substitutes: {  }
 images:
     -
         sort: 1

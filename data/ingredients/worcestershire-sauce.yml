@@ -1,0 +1,12 @@
+_id: worcestershire-sauce
+name: Worcestershire Sauce
+description: Fermented liquid condiment created in the city of Worcester
+strength: 0
+origin: null
+color: null
+category: Uncategorized
+images:
+    - sort: 1
+      file_name: worcestershire-sauce-1.png
+      placeholder_hash: 1jiODQYPh0hwioh3uLdwhX9XBxdycnMzRw
+      copyright: null

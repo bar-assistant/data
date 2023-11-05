@@ -11,53 +11,34 @@ tags:
     - 'IBA Cocktail'
     - Margarita
 abv: 25.14
-glass:
-    _id: margarita
-    name: Margarita
-method:
-    _id: shake
-    name: Shake
+glass: Margarita
+method: Shake
 ingredients:
     -
         _id: tequila-blanco
         sort: 1
         name: 'Tequila Blanco'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: triple-sec
         sort: 2
         name: 'Triple Sec'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 3
         name: 'Lime juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: agave-syrup
         sort: 4
         name: 'Agave Syrup'
         amount: 1
-        amount_max: null
         units: barspoon
-        note: null
         optional: true
-        substitutes: {  }
 images:
     -
         sort: 1

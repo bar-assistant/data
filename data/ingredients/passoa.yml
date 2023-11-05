@@ -1,0 +1,12 @@
+_id: passoa
+name: Passoã
+description: Liqueur with passion fruit being the main ingredient.
+strength: 17
+origin: France
+color: '#ea5f4c'
+category: Liqueurs
+images:
+    - sort: 1
+      file_name: passoa-1.png
+      placeholder_hash: iwiGHQIth8iAfHxliDeAfSB4Byd1hYZneA
+      copyright: null

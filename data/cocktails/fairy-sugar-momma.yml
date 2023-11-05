@@ -6,71 +6,42 @@ garnish: null
 source: 'https://www.reddit.com/r/cocktails/comments/12lv3c5/absinthe_anyone_made_a_fairy_sugar_momma_and_a/'
 tags: {  }
 abv: 9.88
-glass:
-    _id: nick-and-nora
-    name: 'Nick and Nora'
-method:
-    _id: shake
-    name: Shake
+glass: 'Nick and Nora'
+method: Shake
 ingredients:
     -
         _id: absinthe
         sort: 1
         name: Absinthe
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: pineapple-juice
         sort: 2
         name: 'Pineapple juice'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 3
         name: 'Lime juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orgeat-syrup
         sort: 4
         name: 'Orgeat Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: campari
         sort: 5
         name: Campari
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1
         file_name: fairy-sugar-momma-1.jpg
         placeholder_hash: UhgKDwI8end6d4ZQaXiJaImYVNUJdJYA
-        copyright: Reddit
-    -
-        sort: 2
-        file_name: fairy-sugar-momma-2.jpg
-        placeholder_hash: WRgKDwJ0l3WGdnhwmKeIeniJeAG2VXAJ
         copyright: Reddit

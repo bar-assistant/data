@@ -13,63 +13,39 @@ tags:
     - Floral
     - Sweet
 abv: 13.43
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: stir
-    name: Stir
+glass: Lowball
+method: Stir
 ingredients:
     -
         _id: jamaican-rum
         sort: 1
         name: 'Jamaican Rum'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cynar
         sort: 2
         name: Cynar
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: st-germain
         sort: 3
         name: St-Germain
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 4
         name: 'Lime juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orgeat-syrup
         sort: 5
         name: 'Orgeat Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

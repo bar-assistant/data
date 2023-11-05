@@ -1,10 +1,9 @@
 _id: the-wardays
 name: 'The Warday’s'
 instructions: |-
-    • Combine all of the ingredients in a mixing glass.
-    • Add ice and stir for 30-45 sec. or approx. 60 revolutions.
-    • Strain into a chilled cocktail glass.
-    • Garnish with a lemon twist.
+    1. Combine all of the ingredients in a mixing glass.
+    2. Add ice and stir for 30-45 sec. or approx. 60 revolutions.
+    3. Strain into a chilled cocktail glass.
 description: |-
     The Warday’s is an interesting booze filled cocktail with complex roots and I knew immediately I have to make one after listening to the VinePair’s Cocktail College episode with Eryn Reece.
 
@@ -13,57 +12,37 @@ description: |-
     Notes of aged apples and pears are brought by the Calvados and then enriched by the botanicals of sweet vermouth. Gin contributes a healthy dose of juniper as well as a significant bite of alcohol. Final, modest, addition of yellow Chartreuse introduces a lot more herbal and botanical complexity as well as sweetness to the mix, nicely finishing the cocktail.
 
     The Warday’s is a must try for seasoned cocktail enthusiasts. Rich, complex and delicious to the very last drop.
-garnish: null
+garnish: 'Garnish with a lemon twist.'
 source: 'https://www.grouchy-bartender.com/cocktails/blog-post-the-wardays'
 tags: {  }
 abv: 28.75
-glass:
-    _id: nick-and-nora
-    name: 'Nick and Nora'
-method:
-    _id: stir
-    name: Stir
+glass: 'Nick and Nora'
+method: Stir
 ingredients:
     -
         _id: apple-brandy
         sort: 1
         name: 'Apple Brandy'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: gin
         sort: 2
         name: Gin
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sweet-vermouth
         sort: 3
         name: 'Sweet Vermouth'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: yellow-chartreuse
         sort: 4
         name: 'Yellow Chartreuse'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

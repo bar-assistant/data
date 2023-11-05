@@ -1,0 +1,7 @@
+_id: apple-juice
+name: 'Apple Juice'
+description: 'Juice made from apples.'
+strength: 0
+origin: Worldwide
+color: '#e9e0b5'
+category: Juices

@@ -1,0 +1,12 @@
+_id: baileys-irish-cream
+name: Baileys Irish Cream
+description: Baileys Irish Cream is an Irish cream liqueur, an alcoholic drink flavoured with cream, cocoa and Irish whiskey. It is made by Diageo at Nangor Road, in Dublin, Ireland and in Mallusk, Northern Ireland. It is the original Irish cream, invented by a team headed by Tom Jago in 1971 for Gilbeys of Ireland.
+strength: 17
+origin: Ireland
+color: '#efe6dc'
+category: Liqueurs
+images:
+    - sort: 1
+      file_name: baileys-irish-cream-1.png
+      placeholder_hash: UiiODQIeSDiAa3mmiAhxdQAXBzeCg3JTaA
+      copyright: Baileys

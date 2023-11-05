@@ -8,43 +8,27 @@ tags:
     - 'Contemporary Classics'
     - 'IBA Cocktail'
 abv: 7.66
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: build
-    name: Build
+glass: Highball
+method: Build
 ingredients:
     -
         _id: vodka
         sort: 1
         name: Vodka
         amount: 40
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cranberry-juice
         sort: 2
         name: 'Cranberry juice'
         amount: 120
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grapefruit-juice
         sort: 3
         name: 'Grapefruit juice'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

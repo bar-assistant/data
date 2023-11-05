@@ -1,0 +1,12 @@
+_id: sherry
+name: Sherry
+description: Sherry is a fortified wine that originates from the Jerez region in southwestern Spain. It is made from white grapes, primarily the Palomino grape variety, and is known for its unique production process, diverse styles, and complex flavors. Sherry has a protected designation of origin (DO) status, meaning that only wines produced in the designated region can be labeled as Sherry.
+strength: 17
+origin: Spain
+color: '#8c4122'
+category: Wines
+images:
+    - sort: 1
+      file_name: sherry-1.png
+      placeholder_hash: SSiGDQIeNwiDe3hliAh4haBHBxeEhIVleA
+      copyright: Lustau

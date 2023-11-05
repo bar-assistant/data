@@ -1,0 +1,12 @@
+_id: amaro-averna
+name: Amaro Averna
+description: Amaro Averna is the most popular cocktail amaro in the amber, bittersweet style that makes up much of the “common” amari stocked on shelves. Because of this, Averna is often one of the easiest bottles to procure, and may be used as a substitute in a pinch for other harder to find styles like Montenegro, Ramazzotti, and Ciociaro. Most folks will tell you that “each amaro is different” and effectively—yes—this is true, but many amari will substitute for one-another just fine, with the understanding that the drink will be subtly different.
+strength: 29
+origin: Italy
+color: '#603724'
+category: Amaro
+images:
+    - sort: 1
+      file_name: amaro-averna-1.png
+      placeholder_hash: 5FmKHQQPNQh5d4h4dwWSdfGXBwd6eoiIeA
+      copyright: Averna

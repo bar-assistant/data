@@ -1,0 +1,12 @@
+_id: plum-brandy
+name: Plum Brandy
+description: Plum brandy, often known as slivovitz or "šljivovica", is a fruit brandy made from fermented and distilled plums. This type of brandy is popular in various cultures and regions, including Eastern Europe and the Balkans, where it holds cultural significance. The production process typically involves fermenting ripe plums, distilling the fermented mash, and then aging the resulting spirit in wooden barrels. Plum brandy can vary in color, flavor, and aroma, influenced by factors such as the type of plums used, the distillation process, and the length of aging. It is enjoyed as a sipping spirit, a digestive after meals, or as a key ingredient in traditional cocktails and culinary recipes.
+strength: 38
+origin: Balkan
+color: '#fff8ec'
+category: Spirits
+images:
+    - sort: 1
+      file_name: plum-brandy-1.jpg
+      placeholder_hash: OQiGBQAewz+rUIAJeMpv7PvmCBhzdHRUZw
+      copyright: null

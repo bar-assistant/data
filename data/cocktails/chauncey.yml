@@ -10,63 +10,39 @@ garnish: 'lemon or orange twist'
 source: 'https://punchdrink.com/recipes/chauncey/'
 tags: {  }
 abv: 28.68
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: stir
-    name: Stir
+glass: Cocktail
+method: Stir
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cognac
         sort: 2
         name: Cognac
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: rye-whiskey
         sort: 3
         name: 'Rye whiskey'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sweet-vermouth
         sort: 4
         name: 'Sweet Vermouth'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-bitters
         sort: 5
         name: 'Orange bitters'
         amount: 2
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 0

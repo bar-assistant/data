@@ -11,63 +11,39 @@ source: 'https://www.liberandcompany.com/collections/recipes/products/tropical-p
 tags:
     - Summer
 abv: 8.73
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: shake
-    name: Shake
+glass: Highball
+method: Shake
 ingredients:
     -
         _id: whiskey
         sort: 1
         name: Whiskey
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: aperol
         sort: 2
         name: Aperol
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 3
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: passionfruit-syrup
         sort: 4
         name: 'Passionfruit syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: club-soda
         sort: 5
         name: 'Club soda'
         amount: 90
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

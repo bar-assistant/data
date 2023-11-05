@@ -1,0 +1,13 @@
+_id: blue-curacao
+_parent_id: orange-curacao
+name: Blue Curaçao
+description: Curaçao with added blue dye. Blue Curaçao has a sweet and slightly bitter orange flavor with citrus undertones. It is a versatile mixer, adding both color and a distinct citrusy taste to a variety of drinks, including tropical cocktails like the Blue Lagoon and the Blue Margarita.
+strength: 20
+origin: Netherlands
+color: '#0192fe'
+category: Liqueurs
+images:
+    - sort: 1
+      file_name: blue-curacao-1.png
+      placeholder_hash: 6JWRXRIeeHiAiHeoiIdweAiHCAiJiYdnaA
+      copyright: Monin

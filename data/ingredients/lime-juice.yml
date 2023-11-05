@@ -1,0 +1,12 @@
+_id: lime-juice
+name: Lime juice
+description: Freshly squeezed lime juice.
+strength: 0
+origin: null
+color: '#e9f1d7'
+category: Juices
+images:
+    - sort: 1
+      file_name: lime-juice-1.png
+      placeholder_hash: uPiBBQBK+1t3Z3eIeAeICESWP5eIiHeHeA
+      copyright: null

@@ -1,0 +1,12 @@
+_id: saline-solution
+name: Saline solution
+description: null
+strength: 0
+origin: null
+color: '#ffffff'
+category: Uncategorized
+images:
+    - sort: 1
+      file_name: saline-solution-1.jpg
+      placeholder_hash: s/eBBQAjhgqHd3d3eMB1aY93CKd4h4eIeA
+      copyright: null

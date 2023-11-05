@@ -14,52 +14,33 @@ tags:
     - 'New Era Drinks'
     - Smokey
 abv: 19.2
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: shake
-    name: Shake
+glass: Lowball
+method: Shake
 ingredients:
     -
         _id: scotch-whiskey
         sort: 1
         name: 'Scotch whiskey'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: islay-scotch-whiskey
         sort: 2
         name: 'Islay Scotch Whiskey'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 3
         name: 'Lemon juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: honey-syrup
         sort: 4
         name: 'Honey Syrup'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: ginger-syrup
@@ -72,19 +53,10 @@ ingredients:
         sort: 5
         name: Ginger
         amount: 2
-        amount_max: null
         units: slices
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1
         file_name: penicillin-1.jpg
         placeholder_hash: lAgSJwIIeJhyeIiFe1h3h4h4eDB4CIUJ
         copyright: Unknown
-    -
-        sort: 2
-        file_name: penicillin-2.jpg
-        placeholder_hash: GikKHwQKqYeidoiCaye3x4Z5mAU4mHAG
-        copyright: null

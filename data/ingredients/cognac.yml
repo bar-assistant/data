@@ -1,0 +1,18 @@
+_id: cognac
+_parent_id: brandy
+name: Cognac
+description: |-
+    Cognac is a high-quality French brandy produced in the Cognac region, located in the Charente department. It is renowned for its refined and complex flavor profile, resulting from a meticulous production process. Cognac is made exclusively from white grapes, primarily Ugni Blanc, Folle Blanche, and Colombard, which are fermented and distilled using traditional copper pot stills.
+
+    Cognac's aging process plays a crucial role in its development, as it absorbs characteristics from the oak barrels, contributing notes of vanilla, caramel, and spices. The region's unique maritime climate, with a mix of oceanic and continental influences, further enhances the maturation process.
+
+    Cognac is renowned for its smooth and elegant taste, with a harmonious balance of fruity, floral, and oaky elements. It is often enjoyed as a sipping spirit and is a key ingredient in classic cocktails like the Sidecar and Brandy Alexander. The production of Cognac is strictly regulated, ensuring that only spirits meeting specific criteria can bear the prestigious Cognac label.
+strength: 40
+origin: France
+color: '#7b1c0a'
+category: Spirits
+images:
+    - sort: 1
+      file_name: cognac-1.png
+      placeholder_hash: HVmODQQ7dXiXh390Z1hwi3UHJ4eAhIaYiA
+      copyright: Hennessy

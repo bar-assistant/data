@@ -11,73 +11,45 @@ tags:
     - Sour
     - Citrusy
 abv: 14.77
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: shake
-    name: Shake
+glass: Lowball
+method: Shake
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: campari
         sort: 2
         name: Campari
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: vermouth-bianco
         sort: 3
         name: 'Vermouth Bianco'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-juice
         sort: 4
         name: 'Orange juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 5
         name: 'Lemon juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: egg-white
         sort: 6
         name: 'Egg White'
         amount: 1
-        amount_max: null
         units: part
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 0

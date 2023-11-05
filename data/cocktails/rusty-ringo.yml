@@ -9,43 +9,27 @@ garnish: 'gold leaf'
 source: 'https://punchdrink.com/recipes/rusty-ringo/'
 tags: {  }
 abv: 33.33
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: stir
-    name: Stir
+glass: Lowball
+method: Stir
 ingredients:
     -
         _id: apple-brandy
         sort: 1
         name: 'Apple Brandy'
         amount: 52.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: scotch-whiskey
         sort: 2
         name: 'Scotch whiskey'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: drambuie
         sort: 3
         name: Drambuie
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 0

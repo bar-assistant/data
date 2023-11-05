@@ -9,43 +9,27 @@ source: 'https://tuxedono2.com/diki-diki-cocktail-recipe'
 tags:
     - Brandy
 abv: 23.36
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: apple-brandy
         sort: 1
         name: 'Apple Brandy'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: swedish-punsch
         sort: 2
         name: 'Swedish punsch'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grapefruit-juice
         sort: 3
         name: 'Grapefruit juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

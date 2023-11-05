@@ -1,0 +1,19 @@
+_id: egg
+name: Egg
+description: |-
+    Chicken eggs are a versatile and commonly consumed food product, used in various culinary applications for their nutritional content and cooking properties.
+
+    Whole egg is commonly used in "flip" style of cocktails.
+
+    The term "flip" refers to a category of cocktails that traditionally includes a combination of spirits, sweeteners, and a whole egg. Flips are characterized by their smooth and frothy texture, achieved by vigorously shaking or "flipping" the ingredients, which incorporates air and emulsifies the egg.
+
+    The ingredients are shaken together without ice first (a "dry shake") to emulsify the egg, and then ice is added for a second round of shaking to chill the mixture. The final drink is strained into a glass, and a sprinkle of nutmeg on top is a common finishing touch.
+strength: 0
+origin: Worldwide
+color: '#e19f26'
+category: Uncategorized
+images:
+    - sort: 1
+      file_name: egg-1.png
+      placeholder_hash: H4uGBQIrxHdfmIhnSD+z4QJLJ2iNfHBmZw
+      copyright: null

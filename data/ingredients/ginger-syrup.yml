@@ -1,0 +1,15 @@
+_id: ginger-syrup
+name: Ginger syrup
+description: |-
+    Syrup infused with ginger root.
+
+    This ginger syrup is fantastic in cocktails, but it also makes an out-of-this-world ginger ale. To make ginger ale, simply fill an ice-filled glass a third of the way with the syrup, top with soda water and a squeeze of lime, stir and enjoy.
+strength: 0
+origin: Worldwide
+color: '#c6972c'
+category: Syrups
+images:
+    - sort: 1
+      file_name: ginger-syrup-1.png
+      placeholder_hash: 9BiGHQAeTEiQdHGYt4d/iaL2CAiJiXdnaA
+      copyright: Monin

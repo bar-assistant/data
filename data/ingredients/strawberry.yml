@@ -1,0 +1,12 @@
+_id: strawberry
+name: Strawberry
+description: null
+strength: 0
+origin: null
+color: '#990202'
+category: Fruits and vegetables
+images:
+    - sort: 1
+      file_name: strawberry-1.jpg
+      placeholder_hash: 4ZmGDQorv1ZHl0bFiodvpABaJGhzdnCGSg
+      copyright: null

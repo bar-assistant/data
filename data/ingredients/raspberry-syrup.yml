@@ -1,0 +1,12 @@
+_id: raspberry-syrup
+name: Raspberry Syrup
+description: Fruit syrup made from raspberries.
+strength: 0
+origin: null
+color: '#b71f23'
+category: Syrups
+images:
+    - sort: 1
+      file_name: raspberry-syrup-1.png
+      placeholder_hash: 5ZiWJRYeiHiAiIeoiHmfmPeJBwd5eXdnaA
+      copyright: Monin

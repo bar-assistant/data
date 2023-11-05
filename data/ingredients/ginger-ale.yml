@@ -1,0 +1,12 @@
+_id: ginger-ale
+name: Ginger ale
+description: Ginger ale is a non-alcoholic carbonated beverage flavored with ginger. It is known for its fizzy and slightly spicy taste, derived from the natural or artificial ginger flavorings used in its production. Ginger ale is often consumed on its own as a refreshing soft drink, and it is also a common mixer in various cocktails. There are both commercial and homemade versions of ginger ale, with variations that may include additional ingredients such as citrus or sweeteners.
+strength: 0
+origin: Worldwide
+color: '#edcdb6'
+category: Beverages
+images:
+    - sort: 1
+      file_name: ginger-ale-1.png
+      placeholder_hash: LiqGHQIeCBiEeYamV5h/gvpHBRV1dYVldw
+      copyright: Fever Tree

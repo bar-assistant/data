@@ -12,53 +12,33 @@ tags:
     - Sweet
     - Frozen
 abv: 19.54
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: blend
-    name: Blend
+glass: Highball
+method: Blend
 ingredients:
     -
         _id: coffee-liqueur
         sort: 1
         name: 'Coffee liqueur'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: vodka
         sort: 2
         name: Vodka
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: baileys-irish-cream
         sort: 3
         name: 'Baileys Irish Cream'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: ice-cream
         sort: 4
         name: 'Ice cream'
         amount: 3
-        amount_max: null
         units: scoops
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 0

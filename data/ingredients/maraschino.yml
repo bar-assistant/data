@@ -1,0 +1,15 @@
+_id: maraschino
+name: Maraschino
+description: |-
+    Liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.
+
+    The Luxardo family, an Italian producer, is particularly well-known for its Maraschino liqueur.
+strength: 32
+origin: Croatia
+color: '#ffffff'
+category: Liqueurs
+images:
+    - sort: 1
+      file_name: maraschino-1.png
+      placeholder_hash: KQiKBQIPB1h4h4iYd6mAiwO3BgZ4eHd3iA
+      copyright: Maraska

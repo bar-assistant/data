@@ -1,0 +1,13 @@
+_id: irish-whiskey
+_parent_id: whiskey
+name: Irish whiskey
+description: Produced in Ireland, often made from a mix of malted and unmalted barley and aged for a minimum period in wooden casks. Styles include single malt, single pot still, blended Irish whiskey, and others.
+strength: 40
+origin: Ireland
+color: '#d54a06'
+category: Spirits
+images:
+    - sort: 1
+      file_name: irish-whiskey-1.png
+      placeholder_hash: 4gmKFQQPbUeQZZRoaE/8bwVnBweJiXiIiA
+      copyright: Jameson

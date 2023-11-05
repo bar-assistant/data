@@ -20,53 +20,33 @@ tags:
     - 'The Unforgettables'
     - Herbacious
 abv: 24.32
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: shake
-    name: Shake
+glass: Cocktail
+method: Shake
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: maraschino
         sort: 2
         name: Maraschino
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 3
         name: 'Lemon juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: creme-de-violette
         sort: 4
         name: 'Crème de Violette'
         amount: 1
-        amount_max: null
         units: barspoon
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

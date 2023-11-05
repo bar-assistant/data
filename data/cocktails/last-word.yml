@@ -8,53 +8,33 @@ tags:
     - 'IBA Cocktail'
     - 'The Unforgettables'
 abv: 25.4
-glass:
-    _id: nick-and-nora
-    name: 'Nick and Nora'
-method:
-    _id: shake
-    name: Shake
+glass: 'Nick and Nora'
+method: Shake
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: green-chartreuse
         sort: 2
         name: 'Green Chartreuse'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: maraschino
         sort: 3
         name: Maraschino
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 4
         name: 'Lime juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1
@@ -66,8 +46,3 @@ images:
         file_name: last-word-2.jpg
         placeholder_hash: DwgOBwIUqIekhXhpega3d4h3OABtxaAN
         copyright: 'Gastronomer Lifestyle'
-    -
-        sort: 3
-        file_name: last-word-3.jpg
-        placeholder_hash: VAgKDwINtomnd4dziie3eIiItzoNcaAN
-        copyright: 'A Serious Eats / Vicky Wasik'

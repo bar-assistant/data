@@ -1,7 +1,7 @@
 _id: tonico-di-corte
 name: 'Tonico di Corte'
 instructions: |-
-    1. Add tonic, Italicus, and gin to a highball glass filled with ice
+    1. Add tonic, Italicus, and gin to a highball glass filled with ice
     2. Top with soda water and stir
 description: 'Put a little dinamismo in your G&T!'
 garnish: 'dehydrated lime wheel'
@@ -9,53 +9,33 @@ source: 'https://www.liberandcompany.com/collections/recipes/products/tonico-di-
 tags:
     - Bitter
 abv: 18
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: shake
-    name: Shake
+glass: Highball
+method: Shake
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: tonic
         sort: 2
         name: Tonic
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: italicus-rosolio-di-bergamotto
         sort: 3
         name: 'Italicus Rosolio di Bergamotto'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: club-soda
         sort: 4
         name: 'Club soda'
         amount: 1
-        amount_max: null
         units: topup
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

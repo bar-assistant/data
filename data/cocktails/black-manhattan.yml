@@ -11,53 +11,33 @@ tags:
     - Bitter
     - Spicy
 abv: 30.28
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: stir
-    name: Stir
+glass: Cocktail
+method: Stir
 ingredients:
     -
         _id: rye-whiskey
         sort: 1
         name: 'Rye whiskey'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: amaro-averna
         sort: 2
         name: 'Amaro Averna'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: angostura-aromatic-bitters
         sort: 3
         name: 'Angostura aromatic bitters'
         amount: 1
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-bitters
         sort: 4
         name: 'Orange bitters'
         amount: 1
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 0

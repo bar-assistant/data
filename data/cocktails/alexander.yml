@@ -22,43 +22,27 @@ tags:
     - 'The Unforgettables'
     - Savory
 abv: 17.33
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: cognac
         sort: 1
         name: Cognac
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: creme-de-cacao-dark
         sort: 2
         name: 'Crème de Cacao (Dark)'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cream
         sort: 3
         name: Cream
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

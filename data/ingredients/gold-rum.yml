@@ -1,0 +1,16 @@
+_id: gold-rum
+_parent_id: white-rum
+name: Gold Rum
+description: |-
+    Gold rum, also referred to as amber or golden rum, is a type of rum that falls between light and dark rum in terms of color and flavor. It is a versatile and widely used category of rum with characteristics that make it suitable for various cocktails and sipping neat.
+
+    While not aged as long as dark rum, gold rum often undergoes some degree of aging in barrels. The aging contributes to the development of color, flavor, and a smoother texture.
+strength: 40
+origin: Caribbean
+color: '#c79141'
+category: Spirits
+images:
+    - sort: 1
+      file_name: gold-rum-1.png
+      placeholder_hash: ZUmKFQYP9leCh4VHuFd/f/G3BgZ4eIeHhw
+      copyright: Bacardi

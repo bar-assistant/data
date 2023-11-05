@@ -13,53 +13,33 @@ tags:
     - Citrusy
     - Savory
 abv: 24.25
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: build
-    name: Build
+glass: Highball
+method: Build
 ingredients:
     -
         _id: arrack
         sort: 1
         name: Arrack
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 2
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 3
         name: 'Simple Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-bitters
         sort: 4
         name: 'Orange bitters'
         amount: 1
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

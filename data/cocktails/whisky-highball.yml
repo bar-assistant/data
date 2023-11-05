@@ -13,32 +13,21 @@ source: 'https://cocktailclub.com/cocktails/whisky-highball-2'
 tags:
     - Citrusy
 abv: 29.09
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: build
-    name: Build
+glass: Highball
+method: Build
 ingredients:
     -
         _id: whiskey
         sort: 1
         name: Whiskey
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: club-soda
         sort: 2
         name: 'Club soda'
         amount: 120
-        amount_max: null
         units: topup
-        note: null
-        optional: false
         substitutes:
             -
                 _id: ginger-ale
@@ -51,11 +40,8 @@ ingredients:
         sort: 3
         name: 'Lemon juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
         optional: true
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -11,43 +11,27 @@ tags:
     - Coffee
     - Sweet
 abv: 25
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: stir
-    name: Stir
+glass: Cocktail
+method: Stir
 ingredients:
     -
         _id: dark-rum
         sort: 1
         name: 'Dark Rum'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: coffee-liqueur
         sort: 2
         name: 'Coffee liqueur'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cream
         sort: 3
         name: Cream
         amount: 1
-        amount_max: null
         units: hand-whipped
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -9,53 +9,33 @@ garnish: 'basil leaf or orange peel for garnish'
 source: 'https://tuxedono2.com/telekinesis-cocktail-recipe'
 tags: {  }
 abv: 28.19
-glass:
-    _id: nick-and-nora
-    name: 'Nick and Nora'
-method:
-    _id: stir
-    name: Stir
+glass: 'Nick and Nora'
+method: Stir
 ingredients:
     -
         _id: tequila-blanco
         sort: 1
         name: 'Tequila Blanco'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: campari
         sort: 2
         name: Campari
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sweet-vermouth
         sort: 3
         name: 'Sweet Vermouth'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: yellow-chartreuse
         sort: 4
         name: 'Yellow Chartreuse'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

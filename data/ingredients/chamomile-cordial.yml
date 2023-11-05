@@ -1,0 +1,12 @@
+_id: chamomile-cordial
+name: Chamomile cordial
+description: Herbal juice made from chamomile.
+strength: 0
+origin: null
+color: '#e2dccc'
+category: Juices
+images:
+    - sort: 1
+      file_name: chamomile-cordial-1.png
+      placeholder_hash: tgiCBQBK+1qId3eIeE+dNmCHP5iIiHeHeA
+      copyright: null

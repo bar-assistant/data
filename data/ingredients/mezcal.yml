@@ -1,0 +1,22 @@
+_id: mezcal
+_parent_id: tequila-blanco
+name: Mezcal
+description: |-
+    Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.
+
+    The traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.
+
+    Mezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.
+
+    Unlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.
+
+    Mezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.
+strength: 40
+origin: Mexico
+color: '#ffffff'
+category: Spirits
+images:
+    - sort: 1
+      file_name: mezcal-1.png
+      placeholder_hash: 3pmFLQgP/lZaho2FR1hkrwloCgqHh4d3dw
+      copyright: Del Maguey

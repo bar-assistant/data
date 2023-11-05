@@ -1,0 +1,12 @@
+_id: lillet-rouge
+name: Lillet Rouge
+description: Lillet Rouge is a French aromatized wine and a member of the Lillet family of aperitifs. It is known for its rich and robust flavor profile, offering a combination of red and dark fruit notes with a slightly spicy and bitter undertone.
+strength: 17.5
+origin: France
+color: '#a71703'
+category: Fortified wine
+images:
+    - sort: 1
+      file_name: lillet-rouge-1.png
+      placeholder_hash: 6jiKDQYPUYiDd4BnN2x/k/aHBAR7e4eHiA
+      copyright: Lillet

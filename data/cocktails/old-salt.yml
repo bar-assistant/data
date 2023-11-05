@@ -10,22 +10,15 @@ tags:
     - Sour
     - Citrusy
 abv: 8.34
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: build
-    name: Build
+glass: Highball
+method: Build
 ingredients:
     -
         _id: tequila-blanco
         sort: 1
         name: 'Tequila Blanco'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: gin
@@ -38,41 +31,25 @@ ingredients:
         sort: 2
         name: 'Simple Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 3
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: saline-solution
         sort: 4
         name: 'Saline solution'
         amount: 2
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grapefruit-juice
         sort: 5
         name: 'Grapefruit juice'
         amount: 120
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 0

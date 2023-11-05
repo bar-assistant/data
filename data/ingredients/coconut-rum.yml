@@ -1,0 +1,12 @@
+_id: coconut-rum
+name: Coconut Rum
+description: Coconut rum is a flavored rum that incorporates the sweet and tropical taste of coconut. It is a popular and versatile spirit used in various cocktails, providing a distinct coconut flavor to mixed drinks. Coconut rum is typically made by infusing or flavoring rum with natural or artificial coconut extracts. It is often enjoyed in tropical and beach-themed cocktails, where its coconut notes complement other fruity or citrusy ingredients. Coconut rum is a key component in cocktails like Piña Colada and Coconut Mojito, adding a hint of the tropics to the overall flavor profile.
+strength: 40
+origin: Tropical
+color: '#fbf9f4'
+category: Spirits
+images:
+    - sort: 1
+      file_name: coconut-rum-1.png
+      placeholder_hash: 8/eFBQAeSEePgnWqZwmoiNBqCBiCgoJDWA
+      copyright: Koloa

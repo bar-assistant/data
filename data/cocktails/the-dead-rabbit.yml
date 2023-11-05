@@ -1,0 +1,65 @@
+_id: the-dead-rabbit
+name: 'The Dead Rabbit'
+instructions: |-
+    1. In a shaker, add all the ingredients.
+    2. Vigorously dry shake for 30 seconds (without ice).
+    3. Add a scoop of ice to the shaker and shake for another 30 seconds.
+    3. Double strain into a coupe.
+
+    Note: For the Halloween edition, add 2 bags of Celestial Raspberry tea during the steep for that spooky black color.
+description: 'Arbella in Chicago envisions a Halloween cocktail as a mezcal sour with the juicy sweetness of raspberry balanced by the bitterness of Cynar.'
+garnish: null
+source: 'https://imbibemagazine.com/recipe/the-dead-rabbit-mezcal-sour/'
+tags: {  }
+abv: 13.18
+glass: Coupe
+method: Shake
+ingredients:
+    -
+        _id: mezcal
+        sort: 1
+        name: Mezcal
+        amount: 30
+        units: ml
+    -
+        _id: tequila-blanco
+        sort: 2
+        name: 'Tequila Blanco'
+        amount: 22.5
+        units: ml
+    -
+        _id: cynar
+        sort: 3
+        name: Cynar
+        amount: 7.5
+        units: ml
+    -
+        _id: raspberry-syrup
+        sort: 4
+        name: 'Raspberry Syrup'
+        amount: 22.5
+        units: ml
+    -
+        _id: raspberry-syrup
+        sort: 4
+        name: 'Raspberry Syrup'
+        amount: 22.5
+        units: ml
+    -
+        _id: lime-juice
+        sort: 6
+        name: 'Lime juice'
+        amount: 30
+        units: ml
+    -
+        _id: egg-white
+        sort: 7
+        name: 'Egg White'
+        amount: 1
+        units: whole
+images:
+    -
+        sort: 1
+        file_name: the-dead-rabbit-1.jpg
+        placeholder_hash: lBgKDwRyiXlwd3iVeFZ7Z4iHBggmcHkA
+        copyright: 'Imbibe Magazine | Mistey Nguyen'

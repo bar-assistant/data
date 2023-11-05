@@ -9,63 +9,39 @@ source: 'https://www.liberandcompany.com/collections/recipes/products/how-bout-t
 tags:
     - Autumn
 abv: 25.75
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: stir
-    name: Stir
+glass: Lowball
+method: Stir
 ingredients:
     -
         _id: apple-brandy
         sort: 1
         name: 'Apple Brandy'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sweet-vermouth
         sort: 2
         name: 'Sweet Vermouth'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cynar
         sort: 3
         name: Cynar
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: demerara-syrup
         sort: 4
         name: 'Demerara Syrup'
         amount: 1
-        amount_max: null
         units: barspoon
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: allspice-dram
         sort: 5
         name: 'Allspice dram'
         amount: 1
-        amount_max: null
         units: barspoon
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

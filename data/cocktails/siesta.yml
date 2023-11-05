@@ -4,70 +4,46 @@ instructions: 'Shake with ice and strain into a chilled coupe'
 description: |-
     This spin on the Hemingway Daiquiri was created in 2006 by Katie Stipe (who&#039;s at New York&#039;s Vandaag now.) Tequila adds warmth to bitter Campari; it&#039;s a luxurious cocktail that&#039;s a bit like sipping candied grapefruit peel.
 
-    &quot;Katie describes this drink as her first &quot;Aha!&quot; moment when she took a favorite classic cocktail, the Hemingway Daiquiri, and used it as a template to create something new.&quot; (Source: Jim Meehan&#039;s PDT Cocktail Book.)
+    &quot;Katie describes this drink as her first &quot;Aha!&quot; moment when she took a favorite classic cocktail, the Hemingway Daiquiri, and used it as a template to create something new.&quot; (Source: Jim Meehan&#039;s PDT Cocktail Book.)
 
     For those that might need two cocktails today, you can check out the Hemingway Daiquiri mentioned above, in last year&#039;s Advent of Cocktails, here: AoC 2021, Dec 12: Hemingway Daiquiri
 garnish: 'Lime wheel'
 source: 'https://www.amazon.com/PDT-Cocktail-Book-Bartenders-Celebrated/dp/1402779232/'
 tags: {  }
 abv: 14.13
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: tequila-blanco
         sort: 1
         name: 'Tequila Blanco'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: campari
         sort: 2
         name: Campari
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 3
         name: 'Lime juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 4
         name: 'Simple Syrup'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grapefruit-juice
         sort: 5
         name: 'Grapefruit juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

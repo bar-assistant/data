@@ -10,43 +10,27 @@ tags:
     - Wine
     - Flip
 abv: 14.6
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: brandy
         sort: 1
         name: Brandy
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: red-wine
         sort: 2
         name: 'Red wine'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: egg
         sort: 3
         name: Egg
         amount: 1
-        amount_max: null
         units: yolk
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

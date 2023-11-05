@@ -13,32 +13,21 @@ tags:
     - 'IBA Cocktail'
     - Tiki
 abv: 18.82
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: shake
-    name: Shake
+glass: Lowball
+method: Shake
 ingredients:
     -
         _id: gold-rum
         sort: 1
         name: 'Gold Rum'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: rhum-agricole
         sort: 2
         name: 'Rhum agricole'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: dark-rum
@@ -51,59 +40,33 @@ ingredients:
         sort: 3
         name: 'Orange Curaçao'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orgeat-syrup
         sort: 4
         name: 'Orgeat Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 5
         name: 'Lime juice'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 6
         name: 'Simple Syrup'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1
-        file_name: mai-tai-1.webp
-        placeholder_hash: SQgKJwIHqJeHd4eBfHaHmHeJh3AoZ3AG
-        copyright: TuxedoNo2
-    -
-        sort: 2
-        file_name: mai-tai-2.jpg
-        placeholder_hash: XkoKHwalendwe3mRiGloZol6NwgHZFAF
-        copyright: null
-    -
-        sort: 3
-        file_name: mai-tai-3.jpg
-        placeholder_hash: cikKNwT1bJh3iYepZrdop2h4yIA4DYUA
-        copyright: null
-    -
-        sort: 4
-        file_name: mai-tai-4.jpg
+        file_name: mai-tai-1.jpg
         placeholder_hash: kDkOLwZHmHeQeHh2eqZ4h3eIiARniHAI
         copyright: Reddit
+    -
+        sort: 2
+        file_name: mai-tai-2.webp
+        placeholder_hash: SQgKJwIHqJeHd4eBfHaHmHeJh3AoZ3AG
+        copyright: TuxedoNo2

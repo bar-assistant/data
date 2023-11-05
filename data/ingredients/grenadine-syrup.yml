@@ -1,0 +1,12 @@
+_id: grenadine-syrup
+name: Grenadine Syrup
+description: Fruit syrup made from pomegranates.
+strength: 0
+origin: Worldwide
+color: '#bb0014'
+category: Syrups
+images:
+    - sort: 1
+      file_name: grenadine-syrup-1.png
+      placeholder_hash: YziaDQQeiHiAiHeoh62vqvmZBwd5eXdnaA
+      copyright: Monin

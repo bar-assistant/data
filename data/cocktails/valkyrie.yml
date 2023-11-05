@@ -7,32 +7,21 @@ source: 'https://cocktailvirgin.blogspot.com/2012/06/valkyrie.html?m=1'
 tags:
     - Manhattan
 abv: 26.86
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: stir
-    name: Stir
+glass: Lowball
+method: Stir
 ingredients:
     -
         _id: rye-whiskey
         sort: 1
         name: 'Rye whiskey'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: amaro-montenegro
         sort: 2
         name: 'Amaro Montenegro'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: pelinkovac
@@ -45,21 +34,13 @@ ingredients:
         sort: 3
         name: Cynar
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: st-germain
         sort: 4
         name: St-Germain
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -10,53 +10,33 @@ tags:
     - Sweet
     - Summer
 abv: 23.27
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: white-rum
         sort: 1
         name: 'White Rum'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 2
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grenadine-syrup
         sort: 3
         name: 'Grenadine Syrup'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 4
         name: 'Simple Syrup'
         amount: 1
-        amount_max: null
         units: barspoon
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

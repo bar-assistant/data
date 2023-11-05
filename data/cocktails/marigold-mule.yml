@@ -7,53 +7,33 @@ source: 'https://www.patrontequila.com/global-en/cocktails/patron-silver/marigol
 tags:
     - Mule
 abv: 11.57
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: build
-    name: Build
+glass: Lowball
+method: Build
 ingredients:
     -
         _id: tequila-blanco
         sort: 1
         name: 'Tequila Blanco'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: st-germain
         sort: 2
         name: St-Germain
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 3
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: ginger-ale
         sort: 4
         name: 'Ginger ale'
         amount: 90
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

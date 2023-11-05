@@ -4,59 +4,39 @@ instructions: |-
     1. Add all ingredients into a cocktail shaker
     2. Shake with ice and strain into a chilled cocktail glass
 description: "The origin of the cocktail is usually credited to Harry MacElhone at Harry's New York Bar in Paris in the 1930s as a derivative of the sidecar. However, competing theories exist that claim the cocktail was created at The Berkeley in approximately 1921, or in French brothels as an apéritif for consumption by the prostitutes."
-garnish: N/A
+garnish: null
 source: 'https://iba-world.com/between-the-sheets/'
 tags:
     - 'IBA Cocktail'
     - 'The Unforgettables'
 abv: 26.18
-glass:
-    _id: fizzio
-    name: Fizzio
-method:
-    _id: shake
-    name: Shake
+glass: Fizzio
+method: Shake
 ingredients:
     -
         _id: white-rum
         sort: 1
         name: 'White Rum'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cognac
         sort: 2
         name: Cognac
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: triple-sec
         sort: 3
         name: 'Triple Sec'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 4
         name: 'Lemon juice'
         amount: 20
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

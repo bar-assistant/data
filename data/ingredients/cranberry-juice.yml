@@ -1,0 +1,12 @@
+_id: cranberry-juice
+name: Cranberry juice
+description: Juice made from cranberries.
+strength: 0
+origin: null
+color: '#9c0024'
+category: Juices
+images:
+    - sort: 1
+      file_name: cranberry-juice-1.png
+      placeholder_hash: EhmHFQJL6H93d4eIeM+J97daL4mIiHeHeA
+      copyright: null

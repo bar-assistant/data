@@ -6,53 +6,33 @@ garnish: 'Orange twist, rosemary sprig'
 source: 'https://imbibemagazine.com/recipe/whitechapel-italian-gt/'
 tags: {  }
 abv: 30.76
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: build
-    name: Build
+glass: Highball
+method: Build
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: campari
         sort: 2
         name: Campari
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sweet-vermouth
         sort: 3
         name: 'Sweet Vermouth'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: tonic
         sort: 4
         name: Tonic
         amount: 1
-        amount_max: null
         units: topup
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 0

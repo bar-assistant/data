@@ -11,43 +11,27 @@ tags:
     - Julep
     - Herbacious
 abv: 32.32
-glass:
-    _id: julep
-    name: Julep
-method:
-    _id: muddle
-    name: Muddle
+glass: Julep
+method: Muddle
 ingredients:
     -
         _id: irish-whiskey
         sort: 1
         name: 'Irish whiskey'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 2
         name: 'Simple Syrup'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: basil
         sort: 3
         name: Basil
         amount: 1
-        amount_max: null
         units: sprig
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -8,33 +8,21 @@ garnish: 'Garnish with a lemon peel.'
 source: 'https://www.acouplecooks.com/godfather-cocktail/'
 tags: {  }
 abv: 30.67
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: stir
-    name: Stir
+glass: Lowball
+method: Stir
 ingredients:
     -
         _id: scotch-whiskey
         sort: 1
         name: 'Scotch whiskey'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: amaretto
         sort: 2
         name: Amaretto
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

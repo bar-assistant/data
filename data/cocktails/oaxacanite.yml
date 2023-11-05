@@ -10,63 +10,39 @@ source: 'https://stevethebartender.com.au/oaxacanite-cocktail-recipe/'
 tags:
     - Smokey
 abv: 18.48
-glass:
-    _id: nick-and-nora
-    name: 'Nick and Nora'
-method:
-    _id: shake
-    name: Shake
+glass: 'Nick and Nora'
+method: Shake
 ingredients:
     -
         _id: mezcal
         sort: 1
         name: Mezcal
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: tequila-blanco
         sort: 2
         name: 'Tequila Blanco'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: honey-syrup
         sort: 3
         name: 'Honey Syrup'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 4
         name: 'Lime juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: angostura-aromatic-bitters
         sort: 5
         name: 'Angostura aromatic bitters'
         amount: 2
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 0

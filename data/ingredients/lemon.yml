@@ -1,0 +1,12 @@
+_id: lemon
+name: Lemon
+description: Lemon is a citrus fruit known for its bright yellow color and tart flavor.
+strength: 0
+origin: null
+color: '#fdf26f'
+category: Fruits and vegetables
+images:
+    - sort: 1
+      file_name: lemon-1.png
+      placeholder_hash: pyyGFQIrVlCljoS2qOPuoAktSnhyhoB2VQ
+      copyright: CC License

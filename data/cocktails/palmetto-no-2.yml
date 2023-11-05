@@ -6,53 +6,33 @@ garnish: 'Garnish with an orange peel.'
 source: 'https://alpenz.com/recipe-yubeBzov2U.html'
 tags: {  }
 abv: 24.29
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: stir
-    name: Stir
+glass: Lowball
+method: Stir
 ingredients:
     -
         _id: gold-rum
         sort: 1
         name: 'Gold Rum'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sweet-vermouth
         sort: 2
         name: 'Sweet Vermouth'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-bitters
         sort: 3
         name: 'Orange bitters'
         amount: 1
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: angostura-aromatic-bitters
         sort: 4
         name: 'Angostura aromatic bitters'
         amount: 1
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -1,0 +1,16 @@
+_id: rhum-agricole
+_parent_id: white-rum
+name: Rhum agricole
+description: |-
+    Rhum Agricole is a style of rum that is made from fresh sugarcane juice rather than molasses, which is the byproduct of sugar production. The term "agricole" is French for "agricultural," highlighting the agricultural origin of the sugarcane used in the production.
+
+    Rhum Agricole is particularly associated with regions like Martinique and Guadeloupe, where the production of this style of rum has a long and established tradition. The distinctive character of Rhum Agricole has contributed to its popularity among rum enthusiasts and mixologists seeking unique and flavorful spirits.
+strength: 50
+origin: Caribbean
+color: '#ffffff'
+category: Spirits
+images:
+    - sort: 1
+      file_name: rhum-agricole-1.png
+      placeholder_hash: rjiKDQgebjV4hl/IVgKDUIMHBgZ3d4d3eA
+      copyright: La Mauny

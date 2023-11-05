@@ -1,7 +1,7 @@
 _id: moscow-mule
 name: 'Moscow Mule'
 instructions: 'In a Mule Cup or rocks glass, combine the vodka and ginger beer. Add lime juice and gently stir to involve all ingredients.'
-description: null
+description: 'The Moscow Mule is a classic cocktail that gained popularity in the mid-20th century. It is known for its distinctive presentation in a copper mug and its refreshing combination of flavors.'
 garnish: 'Garnish with a lime slice'
 source: 'https://iba-world.com/moscow-mule/'
 tags:
@@ -9,43 +9,27 @@ tags:
     - 'IBA Cocktail'
     - Mule
 abv: 9.35
-glass:
-    _id: copper-mug
-    name: 'Copper mug'
-method:
-    _id: build
-    name: Build
+glass: 'Copper mug'
+method: Build
 ingredients:
     -
         _id: vodka
         sort: 1
         name: Vodka
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: ginger-ale
         sort: 2
         name: 'Ginger ale'
         amount: 120
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 3
         name: 'Lime juice'
         amount: 10
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

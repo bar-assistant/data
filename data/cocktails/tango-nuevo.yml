@@ -12,43 +12,27 @@ garnish: |-
 source: 'https://tuxedono2.com/tango-nuevo-cocktail-recipe'
 tags: {  }
 abv: 23.33
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: stir
-    name: Stir
+glass: Lowball
+method: Stir
 ingredients:
     -
         _id: dark-rum
         sort: 1
         name: 'Dark Rum'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: honey-syrup
         sort: 2
         name: 'Honey Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: coffee-liqueur
         sort: 3
         name: 'Coffee liqueur'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

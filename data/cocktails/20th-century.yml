@@ -9,53 +9,33 @@ source: 'https://en.wikipedia.org/wiki/20th_Century_(cocktail)'
 tags:
     - 'Contemporary Classics'
 abv: 20.91
-glass:
-    _id: nick-and-nora
-    name: 'Nick and Nora'
-method:
-    _id: shake
-    name: Shake
+glass: 'Nick and Nora'
+method: Shake
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: creme-de-cacao-white
         sort: 2
         name: 'Crème de Cacao (White)'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lillet-blanc
         sort: 3
         name: 'Lillet Blanc'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 4
         name: 'Lemon juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

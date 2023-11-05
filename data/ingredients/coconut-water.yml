@@ -1,0 +1,12 @@
+_id: coconut-water
+name: Coconut water
+description: Coconut water (also coconut juice) is the clear liquid inside young coconuts (fruits of the coconut palm).
+strength: 0
+origin: Indonesia
+color: '#f5f3ef'
+category: Beverages
+images:
+    - sort: 1
+      file_name: coconut-water-1.png
+      placeholder_hash: MmaJLQwPOEd/iIiHd1mPifSYCAh2dnh4iA
+      copyright: Mojo

@@ -1,0 +1,15 @@
+_id: sweet-vermouth
+name: Sweet Vermouth
+description: |-
+    Sweet vermouth, often simply referred to as "vermouth," is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.
+
+    Vermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.
+strength: 18
+origin: Worldwide
+color: '#8e4201'
+category: Fortified wine
+images:
+    - sort: 1
+      file_name: sweet-vermouth-1.png
+      placeholder_hash: XxiOFQIPiAdzeXRZeAh0dZCXCQmGhod3dw
+      copyright: Cocchi

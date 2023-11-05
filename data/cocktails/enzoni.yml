@@ -7,63 +7,39 @@ source: 'https://www.reddit.com/r/cocktails/comments/10cogce/enzoni/'
 tags:
     - Negroni
 abv: 16
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: shake
-    name: Shake
+glass: Lowball
+method: Shake
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: campari
         sort: 2
         name: Campari
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 3
         name: 'Lemon juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 4
         name: 'Simple Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: green-grapes
         sort: 5
         name: 'Green grapes'
         amount: 5
-        amount_max: null
         units: whole
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

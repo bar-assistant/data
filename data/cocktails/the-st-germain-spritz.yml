@@ -10,43 +10,27 @@ tags:
     - Spritz
     - Floral
 abv: 8.18
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: stir
-    name: Stir
+glass: Highball
+method: Stir
 ingredients:
     -
         _id: champagne
         sort: 1
         name: Champagne
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: st-germain
         sort: 2
         name: St-Germain
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: club-soda
         sort: 3
         name: 'Club soda'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -1,0 +1,13 @@
+_id: honey-syrup
+_parent_id: simple-syrup
+name: Honey Syrup
+description: Syrup made from dissolving honey in water.
+strength: 0
+origin: Worldwide
+color: '#f2a900'
+category: Syrups
+images:
+    - sort: 1
+      file_name: honey-syrup-1.png
+      placeholder_hash: 7GqOZQweiGiAiHeol3iPePeHBwd5eXdnaA
+      copyright: Monin

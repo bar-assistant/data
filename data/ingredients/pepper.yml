@@ -1,0 +1,12 @@
+_id: pepper
+name: Pepper
+description: Black pepper
+strength: 0
+origin: null
+color: null
+category: Spices
+images:
+    - sort: 1
+      file_name: pepper-1.png
+      placeholder_hash: jyiCBQA6p6eNl40EWIpar6j1aGeGh4CHVw
+      copyright: null

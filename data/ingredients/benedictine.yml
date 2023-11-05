@@ -1,0 +1,12 @@
+_id: benedictine
+name: Bénédictine
+description: Herbal liqueur flavored with twenty-seven flowers, berries, herbs, roots, and spices. The liqueur has a complex flavor profile with notes of honey, citrus, herbs, and spices. Bénédictine is often enjoyed as a sipping liqueur and is also used as an ingredient in various cocktails, including classic drinks like the Bénédictine and Brandy. The production of Bénédictine dates back to the 19th century, and the liqueur is known for its unique and distinctive taste.
+strength: 40
+origin: France
+color: '#f39100'
+category: Liqueurs
+images:
+    - sort: 1
+      file_name: benedictine-1.png
+      placeholder_hash: VVmGFQQ5B/eLeX5RmAWePJCLB4hwhYiJeA
+      copyright: Bénédictine

@@ -12,53 +12,34 @@ tags:
     - Citrusy
     - Summer
 abv: 14.56
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: shake
-    name: Shake
+glass: Highball
+method: Shake
 ingredients:
     -
         _id: tequila-reposado
         sort: 1
         name: 'Tequila Reposado'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: aperol
         sort: 2
         name: Aperol
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grapefruit-juice
         sort: 3
         name: 'Grapefruit juice'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: club-soda
         sort: 4
         name: 'Club soda'
         amount: 1
-        amount_max: null
         units: Topup
-        note: null
         optional: true
-        substitutes: {  }
 images:
     -
         sort: 1

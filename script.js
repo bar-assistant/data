@@ -7,23 +7,35 @@ const dataFolder = process.cwd() + '/data/';
 const tempFolder = process.cwd() + '/data/temp/';
 
 const processIngredientImages = async () => {
-    const file = await fs.readFile(dataFolder + '/base_ingredients.yml', 'utf8')
-    const fileIngredients = yml.parse(file)
+    const ingredientFiles = await fs.readdir(dataFolder + 'ingredients', {
+        withFileTypes: true
+    });
 
-    await Promise.all(fileIngredients.map(async ing => {
-        if (Array.from(ing.images).length > 0) {
-            ing.images.map(async img => {
-                const filename = `${dataFolder}${img.resource_path}`
+    for (let i = 0; i < ingredientFiles.length; i++) {
+        if (!ingredientFiles[i].isFile()) {
+            continue;
+        }
+
+        const file = await fs.readFile(dataFolder + '/ingredients/' + ingredientFiles[i].name, 'utf8')
+        const ing = yml.parse(file)
+
+        if (ing.images && Array.from(ing.images).length > 0) {
+            await Promise.all(ing.images.map(async img => {
+                const filename = `${dataFolder}ingredients/images/${img.file_name}`
                 const tempFilename = `${tempFolder}${crypto.randomBytes(20).toString('hex')}`
+                console.log(`processing ${filename}...`)
 
-                sharp(filename)
-                    .resize(null, 600, {
-                        withoutEnlargement: true
-                    })
-                    .trim()
-                    .png()
-                    .toFile(tempFilename)
-                    .then(() => fs.rename(tempFilename, `${filename}`));
+                // sharp(filename)
+                //     .resize(null, 600, {
+                //         withoutEnlargement: true
+                //     })
+                //     .trim()
+                //     .png({
+                //         compressionLevel: 9,
+                //         quality: 80
+                //     })
+                //     .toFile(tempFilename)
+                //     .then(() => fs.rename(tempFilename, `${filename}`));
 
                 const thumbhash = await import('thumbhash');
                 const buffer = await sharp(filename)
@@ -36,22 +48,23 @@ const processIngredientImages = async () => {
                 img.placeholder_hash = btoa(String.fromCharCode(...hash)).replace(/=+$/, '');
 
                 return img
+            }))
+
+            const newYaml = yml.stringify(ing, {
+                indent: 4,
+                lineWidth: 0,
+                singleQuote: true
             })
+
+            await fs.writeFile(dataFolder + '/ingredients/' + ingredientFiles[i].name, newYaml)
         }
+    }
 
-        return ing;
-    }))
-
-    const newYaml = yml.stringify(fileIngredients, {
-        lineWidth: 0,
-        singleQuote: true
-    })
-
-    await fs.writeFile(process.cwd() + '/data/base_ingredients.yml', newYaml)
+    // await fs.writeFile(process.cwd() + '/data/base_ingredients.yml', newYaml)
 }
 
 const processCocktailImages = async () => {
-    const folder = process.cwd() + '/data/cocktails/';
+    const folder = process.cwd() + '/data/cocktails/images/';
     const files = await fs.readdir(folder)
 
     files.map(async (filename) => {

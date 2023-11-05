@@ -1,0 +1,13 @@
+_id: orgeat-syrup
+_parent_id: simple-syrup
+name: Orgeat Syrup
+description: Sweet syrup made from almonds, sugar, and rose water or orange flower water.
+strength: 0
+origin: null
+color: '#d9ca9f'
+category: Syrups
+images:
+    - sort: 1
+      file_name: orgeat-syrup-1.png
+      placeholder_hash: sxiGHQAelmdgd3TIqXmP1/LIBwd5eXdnaA
+      copyright: Monin

@@ -1,0 +1,12 @@
+_id: tabasco
+name: Tabasco
+description: Hot sauce made from vinegar, tabasco peppers, and salt.
+strength: 0
+origin: null
+color: null
+category: Uncategorized
+images:
+    - sort: 1
+      file_name: tabasco-1.png
+      placeholder_hash: o7mGHQwtZ4eAjntpeIiPg/g4F2eAg3R1iA
+      copyright: null

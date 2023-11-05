@@ -1,90 +1,59 @@
 _id: illegal
 name: Illegal
-instructions: "Pour all ingredients into the shaker. Shake vigorously with ice.\_ Strain into a chilled cocktail glass, or “on the rocks” in a traditional clay or terracotta mug."
+instructions: 'Pour all ingredients into the shaker. Shake vigorously with ice.  Strain into a chilled cocktail glass, or “on the rocks” in a traditional clay or terracotta mug.'
 description: null
-garnish: N/A
+garnish: null
 source: 'https://iba-world.com/illegal/'
 tags:
     - 'IBA Cocktail'
     - 'New Era Drinks'
 abv: 16.12
-glass:
-    _id: fizzio
-    name: Fizzio
-method:
-    _id: shake
-    name: Shake
+glass: Fizzio
+method: Shake
 ingredients:
     -
         _id: mezcal
         sort: 1
         name: Mezcal
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: white-rum
         sort: 2
         name: 'White Rum'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: falernum
         sort: 3
         name: Falernum
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: maraschino
         sort: 4
         name: Maraschino
         amount: 1
-        amount_max: null
         units: teaspoon
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 5
         name: 'Lime juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 6
         name: 'Simple Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: egg-white
         sort: 7
         name: 'Egg White'
         amount: 1
-        amount_max: null
         units: drops
-        note: null
         optional: true
-        substitutes: {  }
 images:
     -
         sort: 1

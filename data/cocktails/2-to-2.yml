@@ -2,73 +2,49 @@ _id: 2-to-2
 name: '2 to 2'
 instructions: |-
     1. Add all ingredients to a cocktail shaker
-    2. Add ice and shake hard for 10 seconds
-    3. Strain into a chilled glass
+    2. Add ice and shake hard for 10 seconds
+    3. Strain into a chilled glass
     4. Garnish with an orange peel
 description: "A bittersweet cocktail that's more accessible than its ingredient list may suggest."
-garnish: 'orange peel'
+garnish: 'Orange peel'
 source: 'https://www.liberandcompany.com/collections/recipes/products/2-to-2'
 tags:
     - Citrusy
     - Summer
 abv: 12.11
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: shake
-    name: Shake
+glass: Cocktail
+method: Shake
 ingredients:
     -
         _id: aperol
         sort: 1
         name: Aperol
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: absinthe
         sort: 2
         name: Absinthe
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 3
         name: 'Lemon juice'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 4
         name: 'Simple Syrup'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-bitters
         sort: 5
         name: 'Orange bitters'
         amount: 1
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

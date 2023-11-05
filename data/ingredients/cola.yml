@@ -1,0 +1,12 @@
+_id: cola
+name: Cola
+description: Cola is a carbonated soft drink flavored with vanilla, cinnamon, citrus oils and other flavorings.
+strength: 0
+origin: Worldwide
+color: '#411919'
+category: Beverages
+images:
+    - sort: 1
+      file_name: cola-1.png
+      placeholder_hash: G5mOHQoei1R8h3BYeGeMcMUIBQZ1dneHeA
+      copyright: Coca Cola

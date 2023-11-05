@@ -13,33 +13,21 @@ tags:
     - 'IBA Cocktail'
     - Wine
 abv: 5
-glass:
-    _id: champagne
-    name: Champagne
-method:
-    _id: build
-    name: Build
+glass: Champagne
+method: Build
 ingredients:
     -
         _id: orange-juice
         sort: 1
         name: 'Orange juice'
         amount: 75
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: prosecco
         sort: 2
         name: Prosecco
         amount: 75
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

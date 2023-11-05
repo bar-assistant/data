@@ -1,0 +1,12 @@
+_id: sugar
+name: Sugar
+description: White sugar
+strength: 0
+origin: null
+color: null
+category: Uncategorized
+images:
+    - sort: 1
+      file_name: sugar-1.png
+      placeholder_hash: dwiCBQA4qpOOhGwCh1NwNQVICJiIiHF2hg
+      copyright: null

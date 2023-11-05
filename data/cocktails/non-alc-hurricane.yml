@@ -12,63 +12,39 @@ tags:
     - Virgin
     - Summer
 abv: 1.04
-glass:
-    _id: hurricane
-    name: Hurricane
-method:
-    _id: shake
-    name: Shake
+glass: Hurricane
+method: Shake
 ingredients:
     -
         _id: lemon-juice
         sort: 1
         name: 'Lemon juice'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: passionfruit-syrup
         sort: 2
         name: 'Passionfruit syrup'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grenadine-syrup
         sort: 3
         name: 'Grenadine Syrup'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: club-soda
         sort: 4
         name: 'Club soda'
         amount: 1
-        amount_max: null
         units: topup
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: angostura-aromatic-bitters
         sort: 5
         name: 'Angostura aromatic bitters'
         amount: 3
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -1,7 +1,7 @@
 _id: washingtons-mule
 name: "Washington's Mule"
 instructions: |-
-    1. Combine syrup, brandy, lime juice, and bitters with ice in a cocktail shaker for a short shake. 
+    1. Combine syrup, brandy, lime juice, and bitters with ice in a cocktail shaker for a short shake. 
     2. Strain over ice into a highball glass.
     3. Top with soda water and stir.
 description: 'An autumnal and all-American version of the Moscow Mule.'
@@ -10,63 +10,39 @@ source: 'https://www.liberandcompany.com/collections/recipes/products/washington
 tags:
     - Mule
 abv: 19.98
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: shake
-    name: Shake
+glass: Highball
+method: Shake
 ingredients:
     -
         _id: apple-brandy
         sort: 1
         name: 'Apple Brandy'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 2
         name: 'Lime juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: ginger-syrup
         sort: 3
         name: 'Ginger syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: angostura-aromatic-bitters
         sort: 4
         name: 'Angostura aromatic bitters'
         amount: 3
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: club-soda
         sort: 5
         name: 'Club soda'
         amount: 1
-        amount_max: null
         units: topup
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

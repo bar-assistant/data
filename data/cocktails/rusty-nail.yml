@@ -16,33 +16,21 @@ tags:
     - 'IBA Cocktail'
     - 'The Unforgettables'
 abv: 36.36
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: build
-    name: Build
+glass: Lowball
+method: Build
 ingredients:
     -
         _id: scotch-whiskey
         sort: 1
         name: 'Scotch whiskey'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: drambuie
         sort: 2
         name: Drambuie
         amount: 25
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

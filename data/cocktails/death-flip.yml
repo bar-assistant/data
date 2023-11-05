@@ -10,63 +10,39 @@ source: 'https://punchdrink.com/recipes/death-flip/'
 tags:
     - Flip
 abv: 30.69
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: tequila-blanco
         sort: 1
         name: 'Tequila Blanco'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: yellow-chartreuse
         sort: 2
         name: 'Yellow Chartreuse'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: jagermeister
         sort: 3
         name: Jägermeister
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 4
         name: 'Simple Syrup'
         amount: 1
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: egg
         sort: 5
         name: Egg
         amount: 1
-        amount_max: null
         units: whole
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

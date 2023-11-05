@@ -1,0 +1,12 @@
+_id: lime
+name: Lime
+description: Lime is a citrus fruit known for its small size, vibrant green color, and tart flavor.
+strength: 0
+origin: null
+color: '#c9f27b'
+category: Fruits and vegetables
+images:
+    - sort: 1
+      file_name: lime-1.png
+      placeholder_hash: YuuFBQI7N81UaiDWuGKMsAVXSWeVaJCGWQ
+      copyright: CC License

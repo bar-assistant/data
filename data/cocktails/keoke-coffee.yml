@@ -11,63 +11,39 @@ tags:
     - Coffee
     - Hot
 abv: 12.66
-glass:
-    _id: glass-mug
-    name: 'Glass mug'
-method:
-    _id: build
-    name: Build
+glass: 'Glass mug'
+method: Build
 ingredients:
     -
         _id: coffee
         sort: 1
         name: Coffee
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: creme-de-cacao-dark
         sort: 2
         name: 'Crème de Cacao (Dark)'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: brandy
         sort: 3
         name: Brandy
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 4
         name: 'Simple Syrup'
         amount: 1
-        amount_max: null
         units: barspoon
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cream
         sort: 5
         name: Cream
         amount: 1
-        amount_max: null
         units: float
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -1,49 +1,33 @@
 _id: rum-old-fashioned
 name: 'Rum Old Fashioned'
-instructions: "Add all\_ingredients to a stirring glass, fill with ice, stir and strain."
+instructions: 'Add all ingredients to a stirring glass, fill with ice, stir and strain.'
 description: "The oldest recipe for this cocktail appeared in cocktail guides around 1860 and called for it to be made with gin. A couple of decades later it was made with bourbon, apparently by James E. Pepper, bartender and esteemed bourbon aristocrat, at the Pendennis Club in Louisville, Kentucky. You'll love how delicious the Old Fashioned tastes when made with Reserva Exclusiva. It almost seems like the foundation of the Old Fashioned was laid out with this rum in mind. An incredible mix of rich, bitter and citrusy makes our version of rum a choice for all fans of the old fashion."
 garnish: 'Orange peel'
 source: 'https://rondiplomatico.com/cocktail-list/old-fashioned/'
 tags:
     - 'Old Fashioned'
 abv: 30.52
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: stir
-    name: Stir
+glass: Lowball
+method: Stir
 ingredients:
     -
         _id: dark-rum
         sort: 1
         name: 'Dark Rum'
         amount: 50
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 2
         name: 'Simple Syrup'
         amount: 5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: angostura-aromatic-bitters
         sort: 3
         name: 'Angostura aromatic bitters'
         amount: 3
-        amount_max: null
         units: dashes
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

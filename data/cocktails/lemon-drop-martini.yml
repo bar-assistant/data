@@ -8,22 +8,15 @@ tags:
     - 'IBA Cocktail'
     - 'New Era Drinks'
 abv: 24.62
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: shake
-    name: Shake
+glass: Cocktail
+method: Shake
 ingredients:
     -
         _id: vodka
         sort: 1
         name: Vodka
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: vodka-citron
@@ -36,21 +29,13 @@ ingredients:
         sort: 2
         name: 'Triple Sec'
         amount: 20
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 3
         name: 'Lemon juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

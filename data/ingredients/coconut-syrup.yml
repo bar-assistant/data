@@ -1,0 +1,12 @@
+_id: coconut-syrup
+name: Coconut Syrup
+description: Syrup infused with coconut flavor
+strength: 0
+origin: Tropical
+color: '#ffffff'
+category: Syrups
+images:
+    - sort: 1
+      file_name: coconut-syrup-1.png
+      placeholder_hash: c/iJDQIeR6d/iId2eHhwj8YICQmJiXiIhw
+      copyright: Monin

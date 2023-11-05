@@ -11,73 +11,46 @@ tags:
     - Citrusy
     - Fruity
 abv: 9.7
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: build
-    name: Build
+glass: Highball
+method: Build
 ingredients:
     -
         _id: tequila-reposado
         sort: 1
         name: 'Tequila Reposado'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-juice
         sort: 2
         name: 'Orange juice'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 3
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 4
         name: 'Lemon juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grapefruit-juice
         sort: 5
         name: 'Grapefruit juice'
         amount: 90
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: salt
         sort: 6
         name: Salt
         amount: 2
-        amount_max: null
         units: pinch
-        note: null
         optional: true
-        substitutes: {  }
 images:
     -
         sort: 1

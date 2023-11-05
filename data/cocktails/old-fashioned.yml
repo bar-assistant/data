@@ -16,32 +16,21 @@ tags:
     - 'The Unforgettables'
     - 'Old Fashioned'
 abv: 29.27
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: build
-    name: Build
+glass: Lowball
+method: Build
 ingredients:
     -
         _id: bourbon-whiskey
         sort: 1
         name: 'Bourbon Whiskey'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 2
         name: 'Simple Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: sugar
@@ -54,21 +43,14 @@ ingredients:
         sort: 3
         name: 'Angostura aromatic bitters'
         amount: 2
-        amount_max: null
         units: dashes
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: water
         sort: 4
         name: Water
         amount: 2
-        amount_max: null
         units: splash
-        note: null
         optional: true
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -10,53 +10,33 @@ tags:
     - Sweet
     - Coffee
 abv: 23.11
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: shake
-    name: Shake
+glass: Cocktail
+method: Shake
 ingredients:
     -
         _id: vodka
         sort: 1
         name: Vodka
         amount: 50
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: coffee-liqueur
         sort: 2
         name: 'Coffee liqueur'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 3
         name: 'Simple Syrup'
         amount: 10
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: espresso
         sort: 4
         name: Espresso
         amount: 1
-        amount_max: null
         units: strong
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

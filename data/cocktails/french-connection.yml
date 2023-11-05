@@ -9,33 +9,21 @@ tags:
     - 'IBA Cocktail'
     - Brandy
 abv: 29.09
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: build
-    name: Build
+glass: Lowball
+method: Build
 ingredients:
     -
         _id: cognac
         sort: 1
         name: Cognac
         amount: 35
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: amaretto
         sort: 2
         name: Amaretto
         amount: 35
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

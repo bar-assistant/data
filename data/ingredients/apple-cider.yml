@@ -1,0 +1,17 @@
+_id: apple-cider
+name: Apple Cider
+description: |-
+    Apple cider is a beverage made from the pressed and fermented juice of apples. The process typically involves crushing apples to extract their juice, which is then fermented by natural yeasts or added commercial yeast to convert the sugars into alcohol. The fermentation process can take place over several weeks, resulting in hard apple cider, which contains alcohol.
+
+    However, the term "apple cider" can also refer to a non-alcoholic beverage, particularly in the United States and parts of Canada. In this context, apple cider is the fresh, unfiltered, and unpasteurized juice of apples. It is often characterized by its cloudy appearance due to the presence of apple solids and sediment.
+
+    The flavor of apple cider can vary depending on the apple varieties used and whether any additional spices, such as cinnamon or cloves, are added. It is a popular beverage in the fall, especially in regions with apple orchards, and is often enjoyed hot or cold. Some people also use apple cider as a base for other drinks or as an ingredient in cooking and baking.
+strength: 8
+origin: Worldwide
+color: '#eae1b0'
+category: Beverages
+images:
+    - sort: 1
+      file_name: apple-cider-1.png
+      placeholder_hash: ayqGDQIeBxmOYXCMmCWgXf0ZBxeDhHRUdw
+      copyright: Somersby

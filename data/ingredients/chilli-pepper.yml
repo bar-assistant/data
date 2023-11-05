@@ -1,0 +1,12 @@
+_id: chilli-pepper
+name: Chilli Pepper
+description: Chili peppers are known for their pungent and spicy flavor, attributed to the compound capsaicin. They come in various shapes, sizes, and colors, ranging from mild to extremely hot varieties.
+strength: 0
+origin: null
+color: '#f23506'
+category: Fruits and vegetables
+images:
+    - sort: 1
+      file_name: chilli-pepper-1.png
+      placeholder_hash: GcqCBQIlV5yNWaCao99sFUBoamhweGapeg
+      copyright: CC License

@@ -8,63 +8,39 @@ tags:
     - Savory
     - Sweet
 abv: 18.63
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: white-rum
         sort: 1
         name: 'White Rum'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sweet-vermouth
         sort: 2
         name: 'Sweet Vermouth'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grenadine-syrup
         sort: 3
         name: 'Grenadine Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 4
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: angostura-aromatic-bitters
         sort: 5
         name: 'Angostura aromatic bitters'
         amount: 2
-        amount_max: null
         units: dashes
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

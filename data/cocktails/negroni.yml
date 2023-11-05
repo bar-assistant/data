@@ -10,42 +10,27 @@ tags:
     - Negroni
     - Bitter
 abv: 25.15
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: build
-    name: Build
+glass: Lowball
+method: Build
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: campari
         sort: 2
         name: Campari
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sweet-vermouth
         sort: 3
         name: 'Sweet Vermouth'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: cocchi-di-torino

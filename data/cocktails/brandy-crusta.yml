@@ -12,73 +12,45 @@ tags:
     - 'The Unforgettables'
     - Brandy
 abv: 26.13
-glass:
-    _id: nick-and-nora
-    name: 'Nick and Nora'
-method:
-    _id: stir
-    name: Stir
+glass: 'Nick and Nora'
+method: Stir
 ingredients:
     -
         _id: brandy
         sort: 1
         name: Brandy
         amount: 52
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: maraschino
         sort: 2
         name: Maraschino
         amount: 7
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-curacao
         sort: 3
         name: 'Orange Curaçao'
         amount: 1
-        amount_max: null
         units: barspoon
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 4
         name: 'Lemon juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 5
         name: 'Simple Syrup'
         amount: 1
-        amount_max: null
         units: barspoon
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: angostura-aromatic-bitters
         sort: 6
         name: 'Angostura aromatic bitters'
         amount: 2
-        amount_max: null
         units: dashes
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

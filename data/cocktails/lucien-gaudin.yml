@@ -1,58 +1,41 @@
 _id: lucien-gaudin
 name: 'Lucien Gaudin'
-instructions: '1. Combine ingredients in a mixing glass and fill with ice. Stir well and strain into a chilled cocktail glass. A twist of orange peel is not out of place here.'
+instructions: |-
+    1. Combine ingredients in a mixing glass and fill with ice.
+    2. Stir well and strain into a chilled cocktail glass.
 description: 'Introducing the Lucien Gaudin. Named for an early 20th century French Olympic fencer, the Lucien Gaudin starts off in the manner of a Negroni by combining gin with Campari. With the addition of Cointreau and dry vermouth the result is a pleasantly bitter drink that is simultaneously rich and dry--a challenging flavor to create which is all the more enjoyable because of its rarity.'
-garnish: null
+garnish: 'A twist of orange peel is not out of place here.'
 source: 'https://www.seriouseats.com/lucien-gaudin-gin-drink-cocktails-recipe'
-tags: {  }
+tags:
+    - Negroni
 abv: 27.17
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: stir
-    name: Stir
+glass: Coupe
+method: Stir
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: campari
         sort: 2
         name: Campari
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cointreau
         sort: 3
         name: Cointreau
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: dry-vermouth
         sort: 4
         name: 'Dry Vermouth'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

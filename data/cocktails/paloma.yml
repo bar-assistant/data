@@ -11,22 +11,15 @@ garnish: 'Grapefruit wedge or slice'
 source: 'https://www.epicurious.com/recipes/food/views/paloma-cocktail'
 tags: {  }
 abv: 8.73
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: build
-    name: Build
+glass: Highball
+method: Build
 ingredients:
     -
         _id: tequila-blanco
         sort: 1
         name: 'Tequila Blanco'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: tequila-reposado
@@ -39,41 +32,25 @@ ingredients:
         sort: 2
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grapefruit-juice
         sort: 3
         name: 'Grapefruit juice'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grapefruit-soda
         sort: 4
         name: 'Grapefruit soda'
         amount: 120
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: salt
         sort: 5
         name: Salt
         amount: 1
-        amount_max: null
         units: pinch
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

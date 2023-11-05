@@ -11,73 +11,45 @@ tags:
     - Sour
     - Citrusy
 abv: 30.92
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: shake
-    name: Shake
+glass: Lowball
+method: Shake
 ingredients:
     -
         _id: green-chartreuse
         sort: 1
         name: 'Green Chartreuse'
         amount: 52.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 2
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: maraschino
         sort: 3
         name: Maraschino
         amount: 10
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: egg-white
         sort: 4
         name: 'Egg White'
         amount: 1
-        amount_max: null
         units: part
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 5
         name: 'Simple Syrup'
         amount: 2.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-flower-water
         sort: 6
         name: 'Orange Flower Water'
         amount: 5
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

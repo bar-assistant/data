@@ -15,32 +15,21 @@ tags:
     - Spicy
     - Margarita
 abv: 17.07
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: shake
-    name: Shake
+glass: Lowball
+method: Shake
 ingredients:
     -
         _id: tequila-reposado
         sort: 1
         name: 'Tequila Reposado'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: agave-syrup
         sort: 2
         name: 'Agave Syrup'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: honey-syrup
@@ -53,31 +42,19 @@ ingredients:
         sort: 3
         name: 'Lime juice'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: chilli-pepper
         sort: 4
         name: 'Chilli Pepper'
         amount: 0.25
-        amount_max: null
         units: inch
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cilantro
         sort: 5
         name: Cilantro
         amount: 10
-        amount_max: null
         units: leaves
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

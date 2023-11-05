@@ -1,0 +1,17 @@
+_id: teranino
+name: Teranino
+description: |-
+    Teranino is a unique Croatian liqueur produced with fruit or pomace brandy and red wine made from Teran variety—hence the name. This liqueur is usually sweetened and flavored with various botanicals such as cinnamon, cloves, star anise, lemon, vanilla, or fennel.
+
+    The result is a ruby red liqueur with an earthy and herbaceous character, fruity notes, and sweet, spicy aromas. Teranino is sweet and typically has between 15 to 20% ABV. It is best to serve it chilled and enjoy it as an aperitif or a digestif. Teranino can be served neat or on the rocks.
+
+    This traditional liqueur is mainly produced in Istria, where Teran is one of the most common red grape varieties.
+strength: 19
+origin: Croatia
+color: '#450011'
+category: Liqueurs
+images:
+    - sort: 1
+      file_name: teranino-1.png
+      placeholder_hash: XkmGDQIP5k2AaIApWPt6oO9HAwN1dYVVWA
+      copyright: null

@@ -1,0 +1,12 @@
+_id: suze
+name: Suze
+description: Bitter flavored drink made with the roots of the plant gentian.
+strength: 15
+origin: Switzerland
+color: '#f5dda1'
+category: Liqueurs
+images:
+    - sort: 1
+      file_name: suze-1.png
+      placeholder_hash: rEmOPQgeZ2d0eHBJeGd7j7f3CgqIiHiIiA
+      copyright: null

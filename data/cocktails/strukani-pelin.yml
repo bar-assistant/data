@@ -10,43 +10,28 @@ source: 'https://www.journal.hr/lifestyle/gastro/antique-pelinkovac-strukani-pel
 tags:
     - Croatia
 abv: 9.19
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: build
-    name: Build
+glass: Lowball
+method: Build
 ingredients:
     -
         _id: pelinkovac
         sort: 1
         name: Pelinkovac
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 2
         name: 'Lemon juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: tonic
         sort: 3
         name: Tonic
         amount: 50
-        amount_max: null
         units: ml
-        note: null
         optional: true
-        substitutes: {  }
 images:
     -
         sort: 1

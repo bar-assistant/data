@@ -1,0 +1,12 @@
+_id: creme-de-mure
+name: Crème de mûre
+description: Crème de Mûre is a sweet liqueur made from blackberries. It features a deep purple color and a rich, fruity flavor that combines sweetness with the natural tartness of blackberries. Crème de Mûre is commonly used as an ingredient in cocktails, adding a vibrant berry character to mixed drinks. It can also be enjoyed on its own or used to enhance the flavor of desserts and other culinary creations.
+strength: 42.3
+origin: France
+color: '#5f1933'
+category: Crème de
+images:
+    - sort: 1
+      file_name: creme-de-mure-1.png
+      placeholder_hash: 0feJBQAP9yKIeIiIiFBwBwVoBweKioeHeA
+      copyright: Giffard

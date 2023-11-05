@@ -1,0 +1,12 @@
+_id: apple
+name: Apple
+description: Apple fruit
+strength: 0
+origin: Worldwide
+color: '#d64737'
+category: Fruits and vegetables
+images:
+    - sort: 1
+      file_name: apple-1.png
+      placeholder_hash: XNmKDQQrVqd/golYN4iLgMkIGEeIeIB1WA
+      copyright: CC License

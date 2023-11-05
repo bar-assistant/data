@@ -7,59 +7,39 @@ description: |-
     A simple mix of gin, orange, grenadine, and absinthe , this drink delivers a beautiful candy-orange color. However, the monkey gland has a bit of a reputation taste-wise: the ingredients don’t quite work together, and our experience with the drink was roughly the same. Anise and orange are odd bedfellows and it feels as though the absinthe never quite fits in with the other ingredients. The nose is full of orange and absinthe, followed by a fruity and herbal sip. The mixture results in a sweet tart flavor, almost candy like, with a juniper finish. It has the same overall roundness as other orange juice based drinks, such as the income tax or Blood and Sand, and the absinthe does shine in providing a sharpness that cuts through the roundness, which is a nice touch. 
 
     The drink is often mixed one of two ways: equal parts gin and orange juice (the classic ratio) or 2:1, which has become popular over time. Our tastes tend toward the modern, although the 1:1 ratio seems to more successfully smooth out the absinthe bumps. Some recipes use Benedictine in place of absinthe, likely from a little ingenuity during periods of absinthe unavailability. This does suit some tastes better, so it is worth trying. We understand why recipes call for a specific type of gin—this funky drink can definitely hinge on the variety selected. Many recipes recommend Plymouth gin for this—a directive we didn’t follow, but that could be good advice to adhere to, although in general a dry gin is what you want here. As always, use fresh orange juice. Some recipes suggest no garnish, which is fine, but we like a nice orange wedge on the rim for presentation.
-garnish: N/A
+garnish: null
 source: 'https://iba-world.com/monkey-gland/'
 tags:
     - 'IBA Cocktail'
     - 'The Unforgettables'
 abv: 16
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: shake
-    name: Shake
+glass: Cocktail
+method: Shake
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-juice
         sort: 2
         name: 'Orange juice'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: absinthe
         sort: 3
         name: Absinthe
         amount: 1
-        amount_max: null
         units: tablespoon
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grenadine-syrup
         sort: 4
         name: 'Grenadine Syrup'
         amount: 1
-        amount_max: null
         units: tablespoon
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

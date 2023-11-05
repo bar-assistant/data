@@ -21,33 +21,21 @@ tags:
     - 'IBA Cocktail'
     - Fruity
 abv: 6.11
-glass:
-    _id: champagne
-    name: Champagne
-method:
-    _id: stir
-    name: Stir
+glass: Champagne
+method: Stir
 ingredients:
     -
         _id: prosecco
         sort: 1
         name: Prosecco
         amount: 100
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: white-peach-puree
         sort: 2
         name: 'White Peach Puree'
         amount: 50
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

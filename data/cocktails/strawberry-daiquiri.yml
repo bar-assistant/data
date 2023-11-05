@@ -9,63 +9,40 @@ garnish: 'Skewered strawberry half dusted with black pepper'
 source: 'https://imbibemagazine.com/recipe/strawberry-daiquiri-jl-remix/'
 tags: {  }
 abv: 16.86
-glass:
-    _id: nick-and-nora
-    name: 'Nick and Nora'
-method:
-    _id: shake
-    name: Shake
+glass: 'Nick and Nora'
+method: Shake
 ingredients:
     -
         _id: white-rum
         sort: 1
         name: 'White Rum'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 2
         name: 'Simple Syrup'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sherry
         sort: 3
         name: Sherry
         amount: 15
-        amount_max: null
         units: ml
-        note: null
         optional: true
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 4
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: strawberry
         sort: 5
         name: Strawberry
         amount: 2
-        amount_max: null
         units: whole
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 0

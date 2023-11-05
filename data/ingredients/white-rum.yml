@@ -1,0 +1,12 @@
+_id: white-rum
+name: White Rum
+description: White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.
+strength: 40
+origin: Caribbean
+color: '#ffffff'
+category: Spirits
+images:
+    - sort: 1
+      file_name: white-rum-1.png
+      placeholder_hash: 7QeKDQQPtjqfYHiXVwhziCCHBwd4eId3eA
+      copyright: Captain Morgan

@@ -9,33 +9,21 @@ source: 'https://www.acouplecooks.com/best-gin-and-tonic/'
 tags:
     - Summer
 abv: 12.12
-glass:
-    _id: wine
-    name: Wine
-method:
-    _id: build
-    name: Build
+glass: Wine
+method: Build
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: tonic
         sort: 2
         name: Tonic
         amount: 120
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

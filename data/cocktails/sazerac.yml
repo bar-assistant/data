@@ -17,53 +17,33 @@ tags:
     - 'The Unforgettables'
     - Brandy
 abv: 33.25
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: stir
-    name: Stir
+glass: Lowball
+method: Stir
 ingredients:
     -
         _id: cognac
         sort: 1
         name: Cognac
         amount: 50
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: absinthe
         sort: 2
         name: Absinthe
         amount: 10
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sugar
         sort: 3
         name: Sugar
         amount: 1
-        amount_max: null
         units: cube
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: peychauds-bitters
         sort: 4
         name: 'Peychauds Bitters'
         amount: 2
-        amount_max: null
         units: dashes
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

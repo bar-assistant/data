@@ -1,0 +1,12 @@
+_id: elderflower-cordial
+name: Elderflower Cordial
+description: Herbal juice made from elderflower.
+strength: 0
+origin: null
+color: '#d9cfae'
+category: Juices
+images:
+    - sort: 1
+      file_name: elderflower-cordial-1.png
+      placeholder_hash: 8hiCBQBL+2qId3eIeB+cNnCHL4mIiHeHeA
+      copyright: null

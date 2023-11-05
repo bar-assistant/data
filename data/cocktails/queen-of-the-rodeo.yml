@@ -7,63 +7,39 @@ source: 'https://imbibemagazine.com/recipe/queen-of-the-rodeo-cosmo-recipe/'
 tags:
     - Sweet
 abv: 17.25
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: stir
-    name: Stir
+glass: Coupe
+method: Stir
 ingredients:
     -
         _id: vodka
         sort: 1
         name: Vodka
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: maraschino
         sort: 2
         name: Maraschino
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 3
         name: 'Lime juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grapefruit-juice
         sort: 4
         name: 'Grapefruit juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grenadine-syrup
         sort: 5
         name: 'Grenadine Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

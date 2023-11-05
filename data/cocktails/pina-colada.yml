@@ -13,43 +13,27 @@ tags:
     - 'IBA Cocktail'
     - Tiki
 abv: 12.31
-glass:
-    _id: hurricane
-    name: Hurricane
-method:
-    _id: blend
-    name: Blend
+glass: Hurricane
+method: Blend
 ingredients:
     -
         _id: white-rum
         sort: 1
         name: 'White Rum'
         amount: 50
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: coconut-cream
         sort: 2
         name: 'Coconut Cream'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: pineapple-juice
         sort: 3
         name: 'Pineapple juice'
         amount: 50
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

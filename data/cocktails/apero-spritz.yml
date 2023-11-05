@@ -1,69 +1,48 @@
 _id: apero-spritz
 name: 'Apèro Spritz'
-instructions: 'Add first four ingredients to a shaker tin with ice and short shake. Double strain into a wine glass over cracked clear ice and top with prosecco. Garnish with red currants if you have them, lemon wedge if you don’t'
+instructions: |-
+    1. Add first four ingredients to a shaker tin with ice and short shake.
+    2. Double strain into a wine glass over cracked clear ice and top with prosecco.
+    3. Garnish with red currants if you have them, lemon wedge if you don’t
 description: null
 garnish: 'Red Currents or Lemon Wedge'
 source: 'https://www.reddit.com/r/cocktails/comments/107ev4w/ap%C3%A8ro_spritz/'
 tags:
     - Spritz
 abv: 9.75
-glass:
-    _id: wine
-    name: Wine
-method:
-    _id: shake
-    name: Shake
+glass: Wine
+method: Shake
 ingredients:
     -
         _id: pisco
         sort: 1
         name: Pisco
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: prosecco
         sort: 2
         name: Prosecco
         amount: 90
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: aperol
         sort: 3
         name: Aperol
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: rose-syrup
         sort: 4
         name: 'Rose syrup'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 5
         name: 'Lemon juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

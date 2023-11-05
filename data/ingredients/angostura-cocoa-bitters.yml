@@ -1,0 +1,12 @@
+_id: angostura-cocoa-bitters
+name: Angostura cocoa bitters
+description: Top notes of rich bitter, floral, nutty cocoa with a bold infusion of aromatic botanicals provide endless possibilities to remix classic cocktails.
+strength: 38
+origin: Trinidad & Tobago
+color: '#894c36'
+category: Bitters
+images:
+    - sort: 1
+      file_name: angostura-cocoa-bitters-1.png
+      placeholder_hash: 7AeGBQAPCQmKh41mNwZ0chBnAQF3d4iIeA
+      copyright: Angostura

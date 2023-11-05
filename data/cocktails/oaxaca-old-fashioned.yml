@@ -1,6 +1,6 @@
 _id: oaxaca-old-fashioned
 name: 'Oaxaca Old Fashioned'
-instructions: "Combine all the ingredients except the orange twist in an Old Fashioned glass filled with one large ice cube. Stir until\_chilled. To top with a flamed orange twist, carefully hold a piece of orange peel about the size of a silver dollar, skin side down, over\_the drink. Light a match and use it to warm the skin side of the peel. Holding the match a few inches above the drink,\_quickly squeeze the peel in the direction of the match. The oil from the peel will briefly ignite, landing\_over the drink’s surface."
+instructions: 'Combine all the ingredients except the orange twist in an Old Fashioned glass filled with one large ice cube. Stir until chilled. To top with a flamed orange twist, carefully hold a piece of orange peel about the size of a silver dollar, skin side down, over the drink. Light a match and use it to warm the skin side of the peel. Holding the match a few inches above the drink, quickly squeeze the peel in the direction of the match. The oil from the peel will briefly ignite, landing over the drink’s surface.'
 description: 'A Mexican-accented Old Fashioned riff, created by Phil Ward, mixes reposado tequila with mezcal and mole bitters.'
 garnish: 'orange twist'
 source: 'https://imbibemagazine.com/recipe/oaxaca-old-fashioned-recipe/'
@@ -8,52 +8,33 @@ tags:
     - 'Old Fashioned'
     - Smokey
 abv: 29.88
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: stir
-    name: Stir
+glass: Lowball
+method: Stir
 ingredients:
     -
         _id: tequila-reposado
         sort: 1
         name: 'Tequila Reposado'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: mezcal
         sort: 2
         name: Mezcal
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: agave-syrup
         sort: 3
         name: 'Agave Syrup'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: mole-bitters
         sort: 4
         name: 'Mole Bitters'
         amount: 2
-        amount_max: null
         units: dashes
-        note: null
-        optional: false
         substitutes:
             -
                 _id: angostura-aromatic-bitters

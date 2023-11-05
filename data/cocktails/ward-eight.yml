@@ -6,22 +6,15 @@ garnish: 'orange zest'
 source: 'https://imbibemagazine.com/ward-eight-cocktail-history/'
 tags: {  }
 abv: 21.33
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: shake
-    name: Shake
+glass: Cocktail
+method: Shake
 ingredients:
     -
         _id: rye-whiskey
         sort: 1
         name: 'Rye whiskey'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: bourbon-whiskey
@@ -34,41 +27,26 @@ ingredients:
         sort: 2
         name: 'Lemon juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-juice
         sort: 3
         name: 'Orange juice'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grenadine-syrup
         sort: 4
         name: 'Grenadine Syrup'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: club-soda
         sort: 5
         name: 'Club soda'
         amount: 1
-        amount_max: null
         units: splash
-        note: null
         optional: true
-        substitutes: {  }
 images:
     -
         sort: 1

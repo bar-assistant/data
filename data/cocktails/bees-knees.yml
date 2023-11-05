@@ -22,53 +22,34 @@ tags:
     - 'IBA Cocktail'
     - 'New Era Drinks'
 abv: 16
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: honey-syrup
         sort: 2
         name: 'Honey Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 3
         name: 'Lemon juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-juice
         sort: 4
         name: 'Orange juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
         optional: true
-        substitutes: {  }
 images:
     -
         sort: 1

@@ -12,43 +12,27 @@ tags:
     - Savory
     - Hot
 abv: 8.73
-glass:
-    _id: glass-mug
-    name: 'Glass mug'
-method:
-    _id: build
-    name: Build
+glass: 'Glass mug'
+method: Build
 ingredients:
     -
         _id: bourbon-whiskey
         sort: 1
         name: 'Bourbon Whiskey'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: honey-syrup
         sort: 2
         name: 'Honey Syrup'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: water
         sort: 3
         name: Water
         amount: 120
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

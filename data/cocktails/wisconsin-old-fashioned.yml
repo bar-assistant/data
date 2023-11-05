@@ -20,53 +20,33 @@ source: 'https://jeffreymorgenthaler.com/brandy-old-fashioned/'
 tags:
     - Brandy
 abv: 33.57
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: muddle
-    name: Muddle
+glass: Lowball
+method: Muddle
 ingredients:
     -
         _id: brandy
         sort: 1
         name: Brandy
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 2
         name: 'Simple Syrup'
         amount: 5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange
         sort: 3
         name: Orange
         amount: 1
-        amount_max: null
         units: wedge
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cocktail-cherry
         sort: 4
         name: 'Cocktail cherry'
         amount: 1
-        amount_max: null
         units: whole
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

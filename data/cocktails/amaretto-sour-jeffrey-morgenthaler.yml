@@ -14,32 +14,21 @@ tags:
     - Sour
     - Sweet
 abv: 16.48
-glass:
-    _id: lowball
-    name: Lowball
-method:
-    _id: shake
-    name: Shake
+glass: Lowball
+method: Shake
 ingredients:
     -
         _id: amaretto
         sort: 1
         name: Amaretto
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cask-proof-whiskey
         sort: 2
         name: 'Cask-Proof Whiskey'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: bourbon-whiskey
@@ -52,31 +41,20 @@ ingredients:
         sort: 3
         name: 'Lemon juice'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: simple-syrup
         sort: 4
         name: 'Simple Syrup'
         amount: 1
-        amount_max: null
         units: barspoon
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: egg-white
         sort: 5
         name: 'Egg White'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
         optional: true
-        substitutes: {  }
 images:
     -
         sort: 1

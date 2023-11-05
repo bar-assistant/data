@@ -1,0 +1,12 @@
+_id: grapefruit
+name: Grapefruit
+description: Grapefruit is a citrus fruit known for its slightly bitter and tangy flavor. It comes in various colors, including pink, red, and white, and is commonly eaten fresh, juiced, or used in salads and beverages. Grapefruit is rich in vitamins and antioxidants and is often enjoyed for its refreshing taste.
+strength: 0
+origin: Barbados
+color: '#ec770d'
+category: Fruits and vegetables
+images:
+    - sort: 1
+      file_name: grapefruit-1.png
+      placeholder_hash: Y5uGHQgtv1NNlYE8qLX7iH8ma3iWZ6B2OA
+      copyright: CC License

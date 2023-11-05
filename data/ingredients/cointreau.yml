@@ -1,0 +1,13 @@
+_id: cointreau
+_parent_id: orange-curacao
+name: Cointreau
+description: Orange-flavoured triple sec liqueur, it was originally called Curaçao Blanco Triple Sec. Usually more dry tasting than Orange Curaçao.
+strength: 40
+origin: France
+color: '#ffffff'
+category: Liqueurs
+images:
+    - sort: 1
+      file_name: cointreau-1.png
+      placeholder_hash: oJqOHQQeB2eFe3uHh/iqae+KBzdwcoEzSA
+      copyright: Cointreau

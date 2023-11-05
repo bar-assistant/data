@@ -1,0 +1,12 @@
+_id: passionfruit-syrup
+name: Passionfruit syrup
+description: Passionfruit syrup is trickier to make and sometimes requires more obscure ingredients. This makes it one of the only flavored syrups worth buying over the counter.
+strength: 0
+origin: Worldwide
+color: '#f9e2b9'
+category: Syrups
+images:
+    - sort: 1
+      file_name: passionfruit-syrup-1.jpg
+      placeholder_hash: LGuObQweiHeAeHeoiHiPePeHCAh5eXdnaA
+      copyright: null

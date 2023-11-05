@@ -8,46 +8,35 @@ tags:
     - 'IBA Cocktail'
     - 'The Unforgettables'
 abv: 27.35
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: stir
-    name: Stir
+glass: Cocktail
+method: Stir
 ingredients:
     -
         _id: rye-whiskey
         sort: 1
         name: 'Rye whiskey'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sweet-vermouth
         sort: 2
         name: 'Sweet Vermouth'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: angostura-aromatic-bitters
         sort: 3
         name: 'Angostura aromatic bitters'
         amount: 2
-        amount_max: null
         units: dash
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1
         file_name: manhattan-1.jpg
+        placeholder_hash: 7TgOJwjJeneAiHiZg5hYaHh5ifNoN38E
+        copyright: 'A Spicy Perspective'
+    -
+        sort: 2
+        file_name: manhattan-2.jpg
         placeholder_hash: pvcJDwIObYVYiYZoV5lppneHd9A5CJ0D
         copyright: "Sainsbury's Magazine / Toby Scott"

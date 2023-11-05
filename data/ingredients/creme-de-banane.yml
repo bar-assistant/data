@@ -1,0 +1,12 @@
+_id: creme-de-banane
+name: Crème de banane
+description: Perfectly ripened bananas are small-batch distilled to extract the rich banana flavor and natural amber color
+strength: 0
+origin: Worldwide
+color: '#b28432'
+category: Crème de
+images:
+    - sort: 1
+      file_name: creme-de-banane-1.webp
+      placeholder_hash: myiKFQQsrFRSiY9XCJhwXwf6J3hwg4NmiA
+      copyright: Tempus Fugit

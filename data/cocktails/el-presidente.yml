@@ -6,32 +6,21 @@ garnish: null
 source: 'https://www.liquor.com/recipes/el-presidente/'
 tags: {  }
 abv: 26.17
-glass:
-    _id: cocktail
-    name: Cocktail
-method:
-    _id: stir
-    name: Stir
+glass: Cocktail
+method: Stir
 ingredients:
     -
         _id: white-rum
         sort: 1
         name: 'White Rum'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: dry-vermouth
         sort: 2
         name: 'Dry Vermouth'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: lillet-blanc
@@ -44,21 +33,13 @@ ingredients:
         sort: 3
         name: 'Orange Curaçao'
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grenadine-syrup
         sort: 4
         name: 'Grenadine Syrup'
         amount: 1
-        amount_max: null
         units: teaspoon
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

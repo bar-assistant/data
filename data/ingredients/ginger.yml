@@ -1,0 +1,12 @@
+_id: ginger
+name: Ginger
+description: Ginger root used as a spice
+strength: 0
+origin: null
+color: null
+category: Fruits and vegetables
+images:
+    - sort: 1
+      file_name: ginger-1.png
+      placeholder_hash: 5xmGFQYr2WeAmXXY1rHAlwh5BVaBh3Nnag
+      copyright: null

@@ -1,7 +1,7 @@
 _id: pink-lady
 name: 'Pink Lady'
 instructions: |-
-    1. Add all ingredients to a cocktail shaker
+    1. Add all ingredients to a cocktail shaker
     2. Fill with ice and shake for 10 seconds
     3. Strain into a chilled coupe
 description: 'A tart, silken drink from the 1930s.'
@@ -11,63 +11,39 @@ tags:
     - Sour
     - Citrusy
 abv: 19.69
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: shake
-    name: Shake
+glass: Coupe
+method: Shake
 ingredients:
     -
         _id: gin
         sort: 1
         name: Gin
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: apple-brandy
         sort: 2
         name: 'Apple Brandy'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grenadine-syrup
         sort: 3
         name: 'Grenadine Syrup'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon-juice
         sort: 4
         name: 'Lemon juice'
         amount: 22.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: egg-white
         sort: 5
         name: 'Egg White'
         amount: 1
-        amount_max: null
         units: part
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

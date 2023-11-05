@@ -16,22 +16,15 @@ source: 'https://www.reddit.com/r/cocktails/comments/zhqrbx/gl%C3%BChwein_tradit
 tags:
     - Wine
 abv: 10.59
-glass:
-    _id: wine
-    name: Wine
-method:
-    _id: build
-    name: Build
+glass: Wine
+method: Build
 ingredients:
     -
         _id: white-wine
         sort: 1
         name: 'White wine'
         amount: 1000
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: red-wine
@@ -44,60 +37,38 @@ ingredients:
         sort: 2
         name: 'Orange juice'
         amount: 90
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange
         sort: 3
         name: Orange
         amount: 2
-        amount_max: null
         units: slices
-        note: null
         optional: true
-        substitutes: {  }
     -
         _id: clove
         sort: 4
         name: Clove
         amount: 7
-        amount_max: null
         units: whole
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: star-anise
         sort: 5
         name: 'Star anise'
         amount: 1
-        amount_max: null
         units: whole
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sugar
         sort: 6
         name: Sugar
         amount: 50
-        amount_max: null
         units: g
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: brandy
         sort: 7
         name: Brandy
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
         substitutes:
             -
                 _id: dark-rum
@@ -110,11 +81,8 @@ ingredients:
         sort: 8
         name: 'Candied Ginger'
         amount: 3
-        amount_max: null
         units: whole
-        note: null
         optional: true
-        substitutes: {  }
 images:
     -
         sort: 1

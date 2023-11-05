@@ -8,53 +8,33 @@ tags:
     - 'IBA Cocktail'
     - 'The Unforgettables'
 abv: 15.92
-glass:
-    _id: fizzio
-    name: Fizzio
-method:
-    _id: shake
-    name: Shake
+glass: Fizzio
+method: Shake
 ingredients:
     -
         _id: white-rum
         sort: 1
         name: 'White Rum'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: pineapple-juice
         sort: 2
         name: 'Pineapple juice'
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: maraschino
         sort: 3
         name: Maraschino
         amount: 7.5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: grenadine-syrup
         sort: 4
         name: 'Grenadine Syrup'
         amount: 5
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

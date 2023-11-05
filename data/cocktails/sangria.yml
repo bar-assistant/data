@@ -13,83 +13,51 @@ source: 'https://www.acouplecooks.com/gin-gimlet-cocktail/'
 tags:
     - Wine
 abv: 36.36
-glass:
-    _id: wine
-    name: Wine
-method:
-    _id: build
-    name: Build
+glass: Wine
+method: Build
 ingredients:
     -
         _id: red-wine
         sort: 1
         name: 'Red wine'
         amount: 1
-        amount_max: null
         units: bottle
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange
         sort: 2
         name: Orange
         amount: 1
-        amount_max: null
         units: whole
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: apple
         sort: 3
         name: Apple
         amount: 1
-        amount_max: null
         units: whole
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sugar
         sort: 4
         name: Sugar
         amount: 3
-        amount_max: null
         units: tablespoons
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: brandy
         sort: 5
         name: Brandy
         amount: 10
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: cointreau
         sort: 6
         name: Cointreau
         amount: 10
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lemon
         sort: 7
         name: Lemon
         amount: 1
-        amount_max: null
         units: whole
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

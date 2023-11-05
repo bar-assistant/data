@@ -11,43 +11,27 @@ tags:
     - 'IBA Cocktail'
     - 'New Era Drinks'
 abv: 21.84
-glass:
-    _id: fizzio
-    name: Fizzio
-method:
-    _id: shake
-    name: Shake
+glass: Fizzio
+method: Shake
 ingredients:
     -
         _id: vodka
         sort: 1
         name: Vodka
         amount: 45
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: chambord
         sort: 2
         name: Chambord
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: pineapple-juice
         sort: 3
         name: 'Pineapple juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

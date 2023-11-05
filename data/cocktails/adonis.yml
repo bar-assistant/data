@@ -8,43 +8,27 @@ tags:
     - Wine
     - Aperitif
 abv: 14.56
-glass:
-    _id: coupe
-    name: Coupe
-method:
-    _id: stir
-    name: Stir
+glass: Coupe
+method: Stir
 ingredients:
     -
         _id: sherry
         sort: 1
         name: Sherry
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: sweet-vermouth
         sort: 2
         name: 'Sweet Vermouth'
         amount: 30
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: orange-bitters
         sort: 3
         name: 'Orange bitters'
         amount: 2
-        amount_max: null
         units: dashes
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1

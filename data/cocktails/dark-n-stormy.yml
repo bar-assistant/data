@@ -11,43 +11,28 @@ tags:
     - 'IBA Cocktail'
     - 'New Era Drinks'
 abv: 12.47
-glass:
-    _id: highball
-    name: Highball
-method:
-    _id: build
-    name: Build
+glass: Highball
+method: Build
 ingredients:
     -
         _id: dark-rum
         sort: 1
         name: 'Dark Rum'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: ginger-ale
         sort: 2
         name: 'Ginger ale'
         amount: 100
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: lime-juice
         sort: 3
         name: 'Lime juice'
         amount: 15
-        amount_max: null
         units: ml
-        note: null
         optional: true
-        substitutes: {  }
 images:
     -
         sort: 1

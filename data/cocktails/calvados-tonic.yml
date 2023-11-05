@@ -11,33 +11,21 @@ tags:
     - Fruity
     - Bitter
 abv: 15
-glass:
-    _id: wine
-    name: Wine
-method:
-    _id: layer
-    name: Layer
+glass: Wine
+method: Layer
 ingredients:
     -
         _id: apple-brandy
         sort: 1
         name: 'Apple Brandy'
         amount: 60
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
     -
         _id: tonic
         sort: 2
         name: Tonic
         amount: 100
-        amount_max: null
         units: ml
-        note: null
-        optional: false
-        substitutes: {  }
 images:
     -
         sort: 1
