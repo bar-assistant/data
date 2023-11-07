@@ -1,14 +1,14 @@
 # Bar Assistant Public Data
 
-This is initial data that gets imported when creating a new bar in Bar Assistant
+This is data that gets imported when creating a new bar in Bar Assistant.
 
-WIP
+Still WIP:
+- Add and validate via JSON schema
+- Make image optimizations stable
 
 ## Data structure
 
-To make it easier to write recipes by hand and at the same time handle merge requests the choice of recipe format is YAML in single files.
-
-TODO: Validate via JSON schema
+To make it easier to write recipes by hand and at the same time handle merge requests / importing the choice of recipe format is YAML in single files.
 
 - Every recipe should have a unique filename, [usually as slug of the cocktail name](https://stackoverflow.com/questions/19335215/what-is-a-slug).
 - For data integrity, you can use this unqiue `_id` reference when writing recipes to reference other data (like ingredients, glass types, methods...).
@@ -17,34 +17,23 @@ TODO: Validate via JSON schema
 - It's recommended that you add images as the following filename format: `{recipe_slug}-{image-number}.{extension}`, for example: `old_fashioned-1.jpg`, `old_fashioned-2.webp`, `gin-1.png`.
 - All images must have copyright information, preferebly author of the image. For example: `Punch | John Doe`, `Imbibe magazine`, `Salvador Dali`
 
-### New ingredients
+## Contributing
 
-To add a new ingredient you need to edit `base_ingredients.yml` file. Here's an example new entry:
+TODO
 
-```yaml
-- name: My new ingredient
-  category: Liqueurs
-  strength: 40
-  description: A short description
-  color: '#00ff00'
-  origin: Croatia
-  images:
-    - resource_path: ingredients/my-new-ingredient.png
-      copyright: Wikipedia
-      placeholder_hash: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
-```
+## Image manipulation
 
-- Please note that category with given name must already exist in `base_ingredient_categories.yml`.
-- Images are optional
-- If you do add an image, name image file in kebab case and put it in `data/ingredients` folder
-- You can use any string for `placeholder_hash`, this will be populated via optimization step
-
-## Optimization
+For data to be more consisted we include image optimization script. Any entry that does not have `placeholder_hash` will be run through this optimization. This step will update the .yml file at the end.
 
 Ingredient optimization includes:
 - Clamp to max height of 600
 - Trim empty space around image
+- Compress the image
+- Downgrade to 80% of image quality
 - Generate `placeholder_hash` with thumbhash
 
 Cocktail optimization includes:
-- Compress image with 90% quality
+- Clamp to max height of 1400
+- Compress image with 80% quality
+- Use mozjpeg defaults
+- Generate `placeholder_hash` with thumbhash
