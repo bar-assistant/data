@@ -1,0 +1,15 @@
+_id: example-ingredient
+name: Example ingredient
+description: |-
+    This is an example description.
+
+    Supports multiline string
+strength: 40
+origin: Country Name
+color: '#000000'
+category: Spirits
+images:
+    - sort: 1
+      file_name: example-ingredient-1.png
+      placeholder_hash: null
+      copyright: Github
