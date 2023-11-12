@@ -20,14 +20,15 @@ To make it easier to write recipes by hand and at the same time handle merge req
 
 - To add a new cocktail recipe you can use `data/_example_cocktail.yml` as a template.
 - To add a new ingredient you can use `data/_example_ingredient.yml` as a template.
+- Run `npm run build` (TODO: automate this step)
 
 ### Cocktail tags
 
 Use tags that make sense to the recipe, try to keep total tags between 1 and 5. Some examples:
 
-By taste: `Bright`, `Bitter`, `Herbacious`, `Citrusy`, `Fruity`, `Floral`, `Savory`, `Smokey`, `Spicy`, `Sweet`, `Tart`
-By riff/type: `Negroni`, `Manhattan`, `Old fashioned`, `Sour`, `Flip`, `Spritz`, `Fizz`, `Cooler`, `Frozen`, `Julep`, `Swizzle`
-Other common ones: `Summer`, `Winter`, `Tiki`, `Virgin`, `Wine`
+- By taste: `Bright`, `Bitter`, `Herbacious`, `Citrusy`, `Fruity`, `Floral`, `Savory`, `Smokey`, `Spicy`, `Sweet`, `Tart`
+- By riff/type: `Negroni`, `Manhattan`, `Old fashioned`, `Sour`, `Flip`, `Spritz`, `Fizz`, `Cooler`, `Frozen`, `Julep`, `Swizzle`
+- Other common ones: `Summer`, `Winter`, `Tiki`, `Virgin`, `Wine`
 
 ## Image manipulation
 

@@ -104,7 +104,6 @@ const processCocktailImages = async () => {
 }
 
 const getHash = async (filename) => {
-    console.log(filename)
     const thumbhash = await import('thumbhash');
     const {data, info} = await sharp(filename)
         .ensureAlpha()
