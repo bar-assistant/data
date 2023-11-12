@@ -106,13 +106,17 @@ const processCocktailImages = async () => {
 const getHash = async (filename) => {
     console.log(filename)
     const thumbhash = await import('thumbhash');
-    const buffer = await sharp(filename)
-        .resize(80, 80)
+    const {data, info} = await sharp(filename)
+        .ensureAlpha()
+        .resize({
+            width: 100,
+            height: 100,
+            fit: 'inside',
+        })
         .raw()
-        .toBuffer();
-    const pixelArray = new Uint8ClampedArray(buffer);
+        .toBuffer({ resolveWithObject: true });
 
-    const hash = thumbhash.rgbaToThumbHash(80, 80, pixelArray);
+    const hash = thumbhash.rgbaToThumbHash(info.width, info.height, data);
 
     return btoa(String.fromCharCode(...hash)).replace(/=+$/, '');
 }

@@ -39,13 +39,13 @@ ingredients:
 images:
     - sort: 1
       file_name: gin-fizz-1.jpg
-      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      placeholder_hash: 7/gJJYIYimgHeZdli2h6hqCVBTpZ
       copyright: The Spruce
     - sort: 2
       file_name: gin-fizz-2.jpg
-      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      placeholder_hash: 1fgNFQIKt2SHZ7ZoiId5d0hflwbW
       copyright: Koch Wiki
     - sort: 3
       file_name: gin-fizz-3.jpg
-      placeholder_hash: AAAABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+      placeholder_hash: LRgGDwR1YFqCeIeJyDh4WKiGZrn3l38O
       copyright: Mixolopedia
