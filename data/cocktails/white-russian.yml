@@ -1,0 +1,36 @@
+_id: white-Russian
+name: White Russian
+instructions: |-
+    1. Combine the vodka, coffee liqueur and ice cubes in a cocktail shaker
+    2. Shake well and strain into an ice-filled short tumbler
+    3. Lightly beat the single cream until just frothy and pour onto the drink over the back of a spoon, to help make it float
+description: Misleadingly, this sophisticated cocktail is not in fact Russian in origin, but gets its name from vodka being the base spirit. Traditionally a Black Russian, it becomes a White Russian with the addition of cream.
+garnish: Freshly grated nutmeg
+source: https://www.sainsburysmagazine.co.uk/recipes/drinks/white-russian
+tags:
+    - Coffee
+    - Savory
+glass: Lowball
+method: Shake
+abv: 20
+images:
+    - sort: 1
+      file_name: white-russian-1.jpg
+      placeholder_hash: VAgGDQDptxObBrNGUW1ye1pAgQEH
+      copyright: Brent Hofackereber
+ingredients:
+    - _id: vodka
+      sort: 1
+      name: Vodka
+      amount: 60
+      units: ml
+    - _id: coffee-liqueur
+      sort: 2
+      name: Coffee liqueur
+      amount: 30
+      units: ml
+    - _id: cream
+      sort: 3
+      name: Cream
+      amount: 30
+      units: ml
