@@ -35,18 +35,13 @@ ingredients:
       name: Raspberry Syrup
       amount: 22.5
       units: ml
-    - _id: raspberry-syrup
-      sort: 4
-      name: Raspberry Syrup
-      amount: 22.5
-      units: ml
     - _id: lime-juice
-      sort: 6
+      sort: 5
       name: Lime juice
       amount: 30
       units: ml
     - _id: egg-white
-      sort: 7
+      sort: 6
       name: Egg White
       amount: 1
       units: whole
