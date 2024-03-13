@@ -1,0 +1,12 @@
+_id: marmalade
+name: Marmalade
+description: Marmalade is a fruit preserve made from the peel and juice of citrus fruits, typically oranges. The fruit is boiled with sugar and water to create a sweet and tangy spread with a distinctive citrus flavor. The peel gives marmalade its characteristic texture.
+strength: 0
+origin: Worldwide
+color: '#f48a20'
+category: Uncategorized
+images:
+    - sort: 1
+      file_name: marmalade-1.png
+      placeholder_hash: J4qGHQY8qGd/dXmWeIeAdwZYCDh1dXWGiA
+      copyright: Mrs Bridges
