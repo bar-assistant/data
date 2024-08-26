@@ -1,0 +1,22 @@
+{
+    "_id": "cranberry-juice",
+    "_parent_id": null,
+    "name": "Cranberry juice",
+    "strength": 0,
+    "description": "Juice made from cranberries.",
+    "origin": null,
+    "color": "#9c0024",
+    "category": "Juices",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///cranberry-juice-1_1wF77O.png",
+            "sort": 1,
+            "placeholder_hash": "EhmHFQJL6H93d4eIeM+J97daL4mIiHeHeA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

@@ -1,0 +1,88 @@
+{
+    "_id": "needle-in-the-hay",
+    "name": "Needle in the Hay",
+    "instructions": "1. Combine the ingredients into your mixing glass\n2.  Stir for 20-30 seconds with ice\n3. Strain over fresh ice into an old fashioned glass",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The Needle in the Hay was created by Los Angeles-based mixologist Devon Tarby. She was a contributor to the well known cocktail book, Cocktail Codex (from the authors and owners of Death & Co). This Islay whisky cocktail is what you would imagine a Autumn cocktail to be - smoky, sweet maple flavours and undertones of apple from the brandy.",
+    "source": "https://stevethebartender.com.au/needle-in-the-hay-smoky-autumn-cocktail-recipe/",
+    "garnish": "Garnish with a twist of lemon",
+    "abv": 33.42,
+    "tags": [
+        "Smokey",
+        "Sweet"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///needle-in-the-hay-1_8aEVE7.jpg",
+            "sort": 1,
+            "placeholder_hash": "4igKFYKuMWiQWHK3W2p3fXCxAx59",
+            "copyright": "Steve The Bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "islay-scotch-whiskey",
+            "name": "Islay Scotch Whiskey",
+            "strength": 40,
+            "description": "Islay Scotch refers to Scotch whisky that is produced on the Isle of Islay, which is one of the whisky-producing regions of Scotland. Islay whiskies are renowned for their distinctive and peaty character, often featuring robust and smoky flavors that set them apart from whiskies produced in other regions.\n\nWell-known Islay distilleries include Ardbeg, Laphroaig, Lagavulin, and Bowmore, among others. Islay Scotch whiskies are appreciated by enthusiasts who enjoy the bold and distinctive flavor profile associated with the region. They are often enjoyed neat or with a splash of water to unlock the complexities of the spirit.",
+            "origin": "Isle of Islay",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "apple-brandy",
+            "name": "Apple Brandy",
+            "strength": 40,
+            "description": "Apple brandy is a distilled spirit made from fermented apple juice or cider. The production involves fermenting apples, distilling the resulting liquid, and often aging it in oak barrels. The final product can range from clear to amber in color and exhibits a variety of apple-derived flavors, influenced by the apple varieties used and the aging process. Apple brandy can be enjoyed on its own or used in cocktails and culinary applications. The term encompasses a broad category of apple-based spirits produced globally, with variations in production methods and flavor profiles.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "maple-syrup",
+            "name": "Maple syrup",
+            "strength": 0,
+            "description": "Maple syrup is a syrup made from the sap of maple trees.",
+            "origin": "Canada",
+            "category": "Syrups",
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 2,
+            "units": "dashes",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "_id": "creme-de-cacao-white",
+    "_parent_id": null,
+    "name": "Crème de Cacao (White)",
+    "strength": 25,
+    "description": "Crème de Cacao is a sweet liqueur with a rich chocolate flavor. It is made from cacao beans, which are the primary source of chocolate, and often includes additional ingredients such as vanilla and sugar. White Crème de Cacao is clear or light in color and has a sweeter and smoother taste compared to the dark variety.",
+    "origin": "France",
+    "color": "#ffffff",
+    "category": "Crème de",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///creme-de-cacao-white-1_loAO91.png",
+            "sort": 1,
+            "placeholder_hash": "YwiOBQA6mHh3eICqd58cvbf0B4eAhHiYdw",
+            "copyright": "De Kuyper"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

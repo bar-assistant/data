@@ -1,0 +1,100 @@
+{
+    "_id": "seelbach",
+    "name": "Seelbach",
+    "instructions": "1. Add the bourbon, Cointreau, Angostura bitters and Peychaud’s bitters into a mixing glass with ice and stir until well-chilled.\n2. Strain into a chilled flute.\n3. Top with cold Champagne or other sparkling wine.\n3. Garnish with an orange twist.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The Seelbach Cocktail may not be a julep, but it doesn't have to be: it's respectable, powerful, and delicious right down to the bottom of the glass.",
+    "source": "https://www.seriouseats.com/seelbach-cocktail-recipe",
+    "garnish": "Orange twist",
+    "abv": 18.43,
+    "tags": [],
+    "glass": "Champagne",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///seelbach-1_BxZxHV.jpg",
+            "sort": 1,
+            "placeholder_hash": "eQgGFgL4J3i4V7hXqHuDeoVoB3t0sEc",
+            "copyright": "The Educated Barfly"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "bourbon-whiskey",
+            "name": "Bourbon Whiskey",
+            "strength": 40,
+            "description": "A type of American whiskey, primarily made from corn and aged in new charred oak barrels. Bourbon has a sweet and full-bodied flavor profile.\n\nTo be labeled as bourbon, a whiskey must meet the following criteria:\n\n1. Grain Mash Composition: Bourbon must be made from a grain mash that is at least 51% corn. The remaining portion of the mash can include other grains such as barley, rye, and wheat.\n\n2. Distillation: Bourbon must be distilled to no more than 160 proof (80% alcohol by volume) and entered into the barrel for aging at no more than 125 proof (62.5% alcohol by volume).\n\n3. Barrel Aging: Bourbon must be aged in new charred oak barrels. There is no minimum aging requirement for bourbon, but to be labeled as \"straight bourbon,\" it must be aged for at least two years.\n\n4. No Additives: Bourbon must not contain any additives except water to adjust the proof.\n\n5. Bottling Strength: Bourbon must be bottled at a minimum of 80 proof (40% alcohol by volume).\n\n6. Geographic Origin: While bourbon can be produced anywhere in the United States, it is strongly associated with Kentucky, and many consider Kentucky bourbon to be a distinctive category.",
+            "origin": "North America",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "cointreau",
+            "name": "Cointreau",
+            "strength": 40,
+            "description": "Orange-flavoured triple sec liqueur, it was originally called Curaçao Blanco Triple Sec. Usually more dry tasting than Orange Curaçao.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 5,
+            "units": "dashes",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "peychauds-bitters",
+            "name": "Peychauds Bitters",
+            "strength": 35,
+            "description": "It is a gentian-based bitters, comparable to Angostura bitters, but with a predominant anise aroma combined with a background of mint.",
+            "origin": "North America",
+            "category": "Bitters",
+            "amount": 5,
+            "units": "dashes",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "champagne",
+            "name": "Champagne",
+            "strength": 12,
+            "description": "Champagne is a sparkling wine that comes from the Champagne region of France. It is one of the most famous and prestigious types of sparkling wine globally. The name \"Champagne\" is legally protected, and only wines produced in the Champagne region using specific methods can be labeled as such.\n\nChampagne is often associated with celebrations and is widely used in toasts. It comes in various styles, including non-vintage (a blend of multiple years), vintage (made from grapes of a single year), and prestige cuvées (high-quality, limited-production wines from a specific producer). The versatility of Champagne allows it to be enjoyed on its own or paired with a variety of foods.",
+            "origin": "France",
+            "category": "Wines",
+            "amount": 90,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

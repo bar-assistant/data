@@ -1,0 +1,102 @@
+{
+    "_id": "after-all-imperial",
+    "name": "After All Imperial",
+    "instructions": "1. Combine all ingredients, except sparkling wine, in a shaker and shake.\n2. Strain into a collins glass or flute and top with sparkling wine.\n3. Garnish with mint or rosemary",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "description": "A fruity spin on a light, bubbly classic",
+    "source": "https://tuxedono2.com/after-all-imperial-cocktail-recipe-3dc66829-73c3-4dab-b867-9bfefccaee15",
+    "garnish": "Sprig mint or rosemary for garnish",
+    "abv": 16.8,
+    "tags": [
+        "Fruity"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///after-all-imperial-1_LPbh3w.jpg",
+            "sort": 1,
+            "placeholder_hash": "SAgKFwIGx3eWhXhle1aoV5h3qBBHWXAH",
+            "copyright": "TuxedoNo2"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "apple-brandy",
+            "name": "Apple Brandy",
+            "strength": 40,
+            "description": "Apple brandy is a distilled spirit made from fermented apple juice or cider. The production involves fermenting apples, distilling the resulting liquid, and often aging it in oak barrels. The final product can range from clear to amber in color and exhibits a variety of apple-derived flavors, influenced by the apple varieties used and the aging process. Apple brandy can be enjoyed on its own or used in cocktails and culinary applications. The term encompasses a broad category of apple-based spirits produced globally, with variations in production methods and flavor profiles.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "peach-liqueur",
+            "name": "Peach liqueur",
+            "strength": 20,
+            "description": "A peach liqueur is any liqueur that is made through the distillation of peaches and has sugar added to it. Peach liqueurs gained popularity in the mid-20th century, but their exact date of origin is unknown.",
+            "origin": "Worldwide",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "champagne",
+            "name": "Champagne",
+            "strength": 12,
+            "description": "Champagne is a sparkling wine that comes from the Champagne region of France. It is one of the most famous and prestigious types of sparkling wine globally. The name \"Champagne\" is legally protected, and only wines produced in the Champagne region using specific methods can be labeled as such.\n\nChampagne is often associated with celebrations and is widely used in toasts. It comes in various styles, including non-vintage (a blend of multiple years), vintage (made from grapes of a single year), and prestige cuvées (high-quality, limited-production wines from a specific producer). The versatility of Champagne allows it to be enjoyed on its own or paired with a variety of foods.",
+            "origin": "France",
+            "category": "Wines",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

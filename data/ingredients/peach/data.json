@@ -1,0 +1,22 @@
+{
+    "_id": "peach",
+    "_parent_id": null,
+    "name": "Peach",
+    "strength": 0,
+    "description": "Peach fruit",
+    "origin": null,
+    "color": null,
+    "category": "Fruits and vegetables",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///peach-1_0QSDLo.png",
+            "sort": 1,
+            "placeholder_hash": "X5uKHQg8ynmfdmdXiP15I/oIWWeYaJCGOA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

@@ -1,0 +1,102 @@
+{
+    "_id": "death-flip",
+    "name": "Death Flip",
+    "instructions": "1. Combine all ingredients in a mixing tin and shake with ice. Strain into a sour glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "When this cocktail first appeared on the menu at the Black Pearl in Melbourne, in 2010, no ingredients were listed. And if you asked what was in the drink, the bartender would not tell you. The only thing offering the customer a hint as to what they were getting into was the ominous description: “You don’t wanna meet this cocktail in a dark alley.”\n\nOf course, plenty of people stepped up to take the bait, and many ended up liking the cocktail—something that likely wouldn’t have happened if the ingredients were listed: tequila, yellow Chartreuse, Jägermeister and a whole egg. To date, it is the only flip to become a modern classic.",
+    "source": "https://punchdrink.com/recipes/death-flip/",
+    "garnish": "Garnish with freshly grated nutmeg.",
+    "abv": 30.69,
+    "tags": [
+        "Flip"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///death-flip-1_9tmhXZ.jpg",
+            "sort": 1,
+            "placeholder_hash": "5+cJFQIPXqhFeYwXtoiFaBV4IJIH",
+            "copyright": "Punch"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "strength": 40,
+            "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "yellow-chartreuse",
+            "name": "Yellow Chartreuse",
+            "strength": 40,
+            "description": "Yellow Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is a milder and slightly sweeter version of Green Chartreuse, another famous liqueur produced by the same monks. Yellow Chartreuse is characterized by its yellow color and a complex flavor profile derived from a secret blend of 130 herbs and botanicals. It has a sweet and honeyed taste with herbal, floral, and spicy notes.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "jagermeister",
+            "name": "Jägermeister",
+            "strength": 35,
+            "description": "Jägermeister is a German herbal liqueur made with a blend of 56 different herbs, fruits, roots, and spices. It is known for its unique and complex flavor profile, with herbal, spicy, and citrus notes. Jägermeister is often consumed as a digestif or in various cocktails, and it is recognized by its distinctive green bottle and iconic logo featuring a stag.",
+            "origin": "Germany",
+            "category": "Amaro",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "egg",
+            "name": "Egg",
+            "strength": 0,
+            "description": "Chicken eggs are a versatile and commonly consumed food product, used in various culinary applications for their nutritional content and cooking properties.\n\nWhole egg is commonly used in \"flip\" style of cocktails.\n\nThe term \"flip\" refers to a category of cocktails that traditionally includes a combination of spirits, sweeteners, and a whole egg. Flips are characterized by their smooth and frothy texture, achieved by vigorously shaking or \"flipping\" the ingredients, which incorporates air and emulsifies the egg.\n\nThe ingredients are shaken together without ice first (a \"dry shake\") to emulsify the egg, and then ice is added for a second round of shaking to chill the mixture. The final drink is strained into a glass, and a sprinkle of nutmeg on top is a common finishing touch.",
+            "origin": "Worldwide",
+            "category": "Uncategorized",
+            "amount": 1,
+            "units": "whole",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

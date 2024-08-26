@@ -1,0 +1,22 @@
+{
+    "_id": "mint",
+    "_parent_id": null,
+    "name": "Mint",
+    "strength": 0,
+    "description": "Mint refers to a family of aromatic herbs known for their refreshing flavor and fragrance. The most commonly used and recognized type of mint is spearmint (Mentha spicata), but there are various other species and hybrids, including peppermint (Mentha × piperita).",
+    "origin": null,
+    "color": "#8dcb56",
+    "category": "Fruits and vegetables",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///mint-1_RskDOL.png",
+            "sort": 1,
+            "placeholder_hash": "HbuBDQApW88NlK8FSf541nGwK2qClUCaJQ",
+            "copyright": "CC License"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

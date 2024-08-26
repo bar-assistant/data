@@ -1,0 +1,22 @@
+{
+    "_id": "jagermeister",
+    "_parent_id": null,
+    "name": "Jägermeister",
+    "strength": 35,
+    "description": "Jägermeister is a German herbal liqueur made with a blend of 56 different herbs, fruits, roots, and spices. It is known for its unique and complex flavor profile, with herbal, spicy, and citrus notes. Jägermeister is often consumed as a digestif or in various cocktails, and it is recognized by its distinctive green bottle and iconic logo featuring a stag.",
+    "origin": "Germany",
+    "color": "#341f08",
+    "category": "Amaro",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///jagermeister-1_FrmcDR.jpg",
+            "sort": 1,
+            "placeholder_hash": "HhmKFQgPCBh5iYxEtwhydQR3CAiKinh4hw",
+            "copyright": "Jägermeister"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

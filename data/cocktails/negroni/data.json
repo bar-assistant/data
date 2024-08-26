@@ -1,0 +1,93 @@
+{
+    "_id": "negroni",
+    "name": "Negroni",
+    "instructions": "Pour all ingredients directly into a chilled old fashioned glass filled with ice, Stir gently.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A traditionally made Negroni is stirred, not shaken; it is built over ice in an old-fashioned or rocks glass and garnished with a slice of orange. Outside of Italy, an orange peel is often used in place of an orange slice.",
+    "source": "https://iba-world.com/negroni/",
+    "garnish": "Garnish with a half orange slice.",
+    "abv": 25.15,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables",
+        "Negroni",
+        "Bitter"
+    ],
+    "glass": "Lowball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///negroni-1_o5iL9i.jpg",
+            "sort": 1,
+            "placeholder_hash": "pCgKHQibRlBk6WloymmXmXZ4YFUH",
+            "copyright": "Kitchen Swagger"
+        },
+        {
+            "uri": "file:///negroni-1_qpAIlE.jpg",
+            "sort": 2,
+            "placeholder_hash": "3QcKFQbKm1+DeFp2V4WJVTuGsHMI",
+            "copyright": "Reddit"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "strength": 25,
+            "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "strength": 18,
+            "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+            "origin": "Worldwide",
+            "category": "Fortified wine",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "cocchi-di-torino",
+                    "name": "Cocchi di Torino",
+                    "strength": 16.5,
+                    "description": "Exciting vermouth with medicinal and aromatic spices, and the taste of bitter orange and notes of cocoa that characterizes the cocchi style.",
+                    "origin": "Italy",
+                    "category": "Fortified wine",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 3
+        }
+    ]
+}

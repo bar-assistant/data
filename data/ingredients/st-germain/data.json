@@ -1,0 +1,22 @@
+{
+    "_id": "st-germain",
+    "_parent_id": null,
+    "name": "St-Germain",
+    "strength": 20,
+    "description": "St-Germain is an elderflower liqueur It is made using the petals of Sambucus nigra from the Savoie region in France, and each bottle is numbered with the year the petals were collected. Petals are collected annually in the spring over a period of three to four weeks, and are often transported by bicycle to collection points to avoid damaging the petals and impacting the flavour.",
+    "origin": "France",
+    "color": "#f8e888",
+    "category": "Liqueurs",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///st-germain-1_UNyuFY.png",
+            "sort": 1,
+            "placeholder_hash": "YRmKFQIt+DZ5d4pXd/mMjL/ICBh4eIiIhw",
+            "copyright": "St-Germain"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

@@ -1,0 +1,171 @@
+{
+    "_id": "mulled-wine",
+    "name": "Mulled Wine",
+    "instructions": "Put everything except the rum into a pot and heat slowly on low/lowest heat, lid off. The longer this takes, the better, as the spices should infuse into the wine.\n\nDo not boil!\n\nOnce hot, stir in the sugar until dissolved.\n\nAdd rum.\n\nStrain and serve.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Mulled Wine, or Hypocras, is one of those drinks that predates the era of cocktails. The earliest mentions of heated, spiced wine date back to ancient Rome. Right after they built all those roads, they used them to bring mulled wine all over Europe. It's been a common tradition in Germany, France, and England ever since and is especially popular around Christmas time. ⁣ ⁣",
+    "source": "https://www.reddit.com/r/cocktails/comments/zhqrbx/gl%C3%BChwein_traditional_german_mulled_wine/",
+    "garnish": "Cinnamon stick, orange slice",
+    "abv": 10.59,
+    "tags": [
+        "Wine"
+    ],
+    "glass": "Wine",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///mulled-wine-1_Rfjl82.jpg",
+            "sort": 1,
+            "placeholder_hash": "ZhgKFQTVp0dy9zZIl3pmiCd6gJMH",
+            "copyright": "Reddit"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-wine",
+            "name": "White wine",
+            "strength": 11,
+            "description": "White wine is a type of wine made from green or yellowish grape varieties, where the grape skins are separated from the grape juice before or during fermentation. This absence of prolonged skin contact results in a wine with a pale or straw-like color. White wines can range from crisp and light to full-bodied and complex, and they are typically served chilled. Common white grape varieties include Chardonnay, Sauvignon Blanc, Riesling, and Pinot Grigio. White wine is known for its refreshing qualities and is often enjoyed as an aperitif or paired with a variety of dishes, including seafood, poultry, and lighter fare.",
+            "origin": "Worldwide",
+            "category": "Wines",
+            "amount": 1000,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "red-wine",
+                    "name": "Red wine",
+                    "strength": 11,
+                    "description": "Red wine is a type of wine made from dark-colored grape varieties. The color of red wine comes from the skin of the grapes, which is included in the fermentation process. The skins impart color, tannins, and various flavors to the wine. Red wines can range from light and fruity to rich and full-bodied, and they are typically enjoyed at room temperature. Popular red grape varieties include Cabernet Sauvignon, Merlot, Pinot Noir, and Syrah, among others. Red wine is known for its diverse flavor profiles and is often paired with a variety of foods.",
+                    "origin": "Worldwide",
+                    "category": "Wines",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 1
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "strength": 0,
+            "description": "Freshly squeezed orange juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 90,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "orange",
+            "name": "Orange",
+            "strength": 0,
+            "description": "Orange fruit",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 2,
+            "units": "slices",
+            "optional": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "clove",
+            "name": "Clove",
+            "strength": 0,
+            "description": "The spice, cloves, is known for its warm, sweet, and aromatic flavor with a hint of spiciness. It has a strong, pungent aroma and is used in both culinary and medicinal applications. Cloves are often used in spice blends, such as pumpkin pie spice and garam masala, and are a key ingredient in many cuisines.",
+            "origin": "Indonesia",
+            "category": "Spices",
+            "amount": 7,
+            "units": "whole",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "star-anise",
+            "name": "Star anise",
+            "strength": 0,
+            "description": null,
+            "origin": null,
+            "category": "Spices",
+            "amount": 1,
+            "units": "whole",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        },
+        {
+            "_id": "sugar",
+            "name": "Sugar",
+            "strength": 0,
+            "description": "White sugar",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 50,
+            "units": "g",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 6
+        },
+        {
+            "_id": "brandy",
+            "name": "Brandy",
+            "strength": 40,
+            "description": "Brandy is a distilled alcoholic beverage made from fermented fruit juice, most commonly derived from wine. The fruit used can include grapes, apples, pears, or other fruits. The process of making brandy involves fermenting the fruit sugars into alcohol and then distilling the resulting liquid to increase its alcohol content. After distillation, brandy is often aged in wooden barrels, which contributes to its flavor, color, and aroma.\n\nThere are a few types of brandy:\n\n- V.S. (\"very special\") or ✯✯✯ (three stars) designates a blend in which the youngest brandy has been stored for at least two years in a cask.\n- V.S.O.P. (\"very superior old pale\"), Reserve or ✯✯✯✯✯ (five stars) designates a blend in which the youngest brandy is stored for at least four years in a cask.\n- XO (\"extra old\") or Napoléon designates a blend in which the youngest brandy is stored for at least six years.\n- Hors d'âge ('beyond age') is a designation formally equal to XO for Cognac, but for Armagnac it designates brandy that is at least ten years old. In practice, the term is used by producers to market a high-quality product beyond the official age scale.\n\nBrandy has a rich history and is produced in many regions around the world, each with its own traditions and methods. The quality and characteristics of brandy can vary widely based on factors such as the type of fruit used, the distillation process, and the aging conditions.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "dark-rum",
+                    "name": "Dark Rum",
+                    "strength": 40,
+                    "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
+                    "origin": "Caribbean",
+                    "category": "Spirits",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 7
+        },
+        {
+            "_id": "candied-ginger",
+            "name": "Candied Ginger",
+            "strength": 0,
+            "description": "Candied ginger, also known as crystallized ginger, is made from fresh ginger root that has been cooked in a sugar syrup and then coated with sugar.\n\nThe result is sweet and chewy candied ginger with a combination of the spicy, warm flavor of ginger and the sweetness of sugar. Candied ginger is commonly used in baking, particularly in desserts like cookies, cakes, and muffins. It can also be enjoyed on its own as a sweet and spicy treat or used as a flavorful addition to teas, cocktails, and various dishes. Additionally, candied ginger is sometimes used in certain cuisines for its unique taste and texture.",
+            "origin": "Worldwide",
+            "category": "Spices",
+            "amount": 3,
+            "units": "whole",
+            "optional": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 8
+        }
+    ]
+}

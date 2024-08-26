@@ -1,0 +1,22 @@
+{
+    "_id": "cocktail-cherry",
+    "_parent_id": null,
+    "name": "Cocktail cherry",
+    "strength": 0,
+    "description": "These are candied cherries soaked in Luxardo marasca cherry syrup. The percentage of marasca cherries in jars and tins is about 50% and so is the percentage of syrup. No thickening agents of any type and no preservatives are used and the dark red color is all natural. Their unique taste comes from the marasca cherry syrup which is made starting from the same juice used to prepare the infusion for the Cherry Liqueur “Sangue Morlacco”. A cutting edge system of pasteurization guarantees the maximum level of preservation and safety. Luxardo Original Maraschino Cherries accurate candying process confers to the fruit a crispiness which is rare to find amongst competing brands. Today, like in the golden age of cocktails, Luxardo Original Maraschino Cherries are used in the worlds’ best bars and by the most famous mixologists as a garnish in their creations. The syrup itself may be used in many cocktails as a flavored sugar. They are also ideal over ice cream.",
+    "origin": "Croatia",
+    "color": "#4e0b02",
+    "category": "Fruits and vegetables",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///cocktail-cherry-1_RJ7S5r.png",
+            "sort": 1,
+            "placeholder_hash": "WDqGNQgPdwhxe4B7OCeAc0BIBQV2doZmaA",
+            "copyright": "Luxardo"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

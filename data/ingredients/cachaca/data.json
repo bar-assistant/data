@@ -1,0 +1,22 @@
+{
+    "_id": "cachaca",
+    "_parent_id": null,
+    "name": "Cachaça",
+    "strength": 40,
+    "description": "Cachaça is a Brazilian distilled spirit made from fermented sugarcane juice. It is a key ingredient in the famous Brazilian cocktail, the Caipirinha. Cachaça is often compared to rum, but there are distinct differences in the production process and flavor profile.\n\nCachaça is classified based on aging:\n- White (Prata or Silver): Unaged or briefly aged, maintaining a clear appearance.\n- Gold (Ouro): Aged cachaça, which takes on a golden hue from the wooden barrels.\n- Premium/Extra Aged (Extra Premium or Extra Envelhecida): Aged for an extended period, often in exotic wood barrels.\n\nCachaça holds cultural significance in Brazil and is enjoyed in various ways, from sipping neat to being used as a base spirit in cocktails. It has gained international recognition for its unique production methods and the distinct flavors it brings to mixology.",
+    "origin": "Brazil",
+    "color": "#ffffff",
+    "category": "Spirits",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///cachaca-1_csfRyV.png",
+            "sort": 1,
+            "placeholder_hash": "YymKLQIe+FaZdm2Fl3mPac5wCAh4eIiIiA",
+            "copyright": "51"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

@@ -1,0 +1,73 @@
+{
+    "_id": "basil-julep",
+    "name": "Basil Julep",
+    "instructions": "1. Muddle 2-3 basil leaves with gum syrup in a julep cup\n2. Fill with crushed ice and add whiskey\n3. Stir until cold and frosty, then top with more crushed ice",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Pick a high-character Irish Whiskey - something with rich, oily spice notes to pull down the basil's volatile peppery aroma.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/basil-julep",
+    "garnish": "Basil",
+    "abv": 32.32,
+    "tags": [
+        "Julep",
+        "Herbacious"
+    ],
+    "glass": "Julep",
+    "method": "Muddle",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///basil-julep-1_iqqyuB.jpg",
+            "sort": 1,
+            "placeholder_hash": "pPgJFwI4WXWQh3VlWUdqVnpZVmBHpoAH",
+            "copyright": "LiberAndCo |  Scott Kallstrand"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "irish-whiskey",
+            "name": "Irish whiskey",
+            "strength": 40,
+            "description": "Produced in Ireland, often made from a mix of malted and unmalted barley and aged for a minimum period in wooden casks. Styles include single malt, single pot still, blended Irish whiskey, and others.",
+            "origin": "Ireland",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "basil",
+            "name": "Basil",
+            "strength": 0,
+            "description": "Basil is an annual, or sometimes perennial, herb used for its leaves.",
+            "origin": "Worldwide",
+            "category": "Fruits and vegetables",
+            "amount": 1,
+            "units": "sprig",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

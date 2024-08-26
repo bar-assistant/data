@@ -1,0 +1,22 @@
+{
+    "_id": "dry-curacao",
+    "_parent_id": "orange-curacao",
+    "name": "Dry Curaçao",
+    "strength": 40,
+    "description": "Dry Curaçao is a type of orange-flavored liqueur that originated on the Caribbean island of Curaçao. Dry Curaçao is made from the peels of bitter oranges, and it is characterized by its dry and less sweet profile compared to regular Curaçao. It is often used as a premium orange liqueur in cocktails, imparting a bright citrus flavor without the added sweetness. Dry Curaçao is a versatile ingredient and is commonly featured in classic and modern mixology, contributing to a variety of cocktails.",
+    "origin": "Italy",
+    "color": "#ffc613",
+    "category": "Liqueurs",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///dry-curacao-1_XTwGnr.png",
+            "sort": 1,
+            "placeholder_hash": "rUmGFQIP+AiFdjOXSxh8n/L4BASpqXiIeA",
+            "copyright": "Pierre Ferrand"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

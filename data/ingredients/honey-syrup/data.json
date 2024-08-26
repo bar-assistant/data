@@ -1,0 +1,22 @@
+{
+    "_id": "honey-syrup",
+    "_parent_id": "simple-syrup",
+    "name": "Honey Syrup",
+    "strength": 0,
+    "description": "Syrup made from dissolving honey in water.",
+    "origin": "Worldwide",
+    "color": "#f2a900",
+    "category": "Syrups",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///honey-syrup-1_mPCqay.png",
+            "sort": 1,
+            "placeholder_hash": "7GqOZQweiGiAiHeol3iPePeHBwd5eXdnaA",
+            "copyright": "Monin"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

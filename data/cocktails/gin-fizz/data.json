@@ -1,0 +1,101 @@
+{
+    "_id": "gin-fizz",
+    "name": "Gin Fizz",
+    "instructions": "1. Shake all ingredients with ice except soda water.\n2. Pour into thin tall Tumbler glass\n3. Top with a splash soda water\n4. Serve without ice",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A gin fizz is the best-known cocktail in the fizz family. The drink is similar to a Tom Collins, with a possible distinction being a Tom Collins historically used \"Old Tom Gin\" (a slightly sweeter precursor to London Dry Gin), whereas the kind of gin historically used in a gin fizz is unknown.",
+    "source": "https://iba-world.com/gin-fizz/",
+    "garnish": "Garnish with a lemon slice, optional lemon zest.",
+    "abv": 16.94,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables",
+        "Fizz"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///gin-fizz-1_fImmDa.jpg",
+            "sort": 1,
+            "placeholder_hash": "7/gJJYIYimgHeZdli2h6hqCVBTpZ",
+            "copyright": "The Spruce"
+        },
+        {
+            "uri": "file:///gin-fizz-1_8FdzeN.jpg",
+            "sort": 2,
+            "placeholder_hash": "1fgNFQIKt2SHZ7ZoiId5d0hflwbW",
+            "copyright": "Koch Wiki"
+        },
+        {
+            "uri": "file:///gin-fizz-1_aL1ZxQ.jpg",
+            "sort": 3,
+            "placeholder_hash": "LRgGDwR1YFqCeIeJyDh4WKiGZrn3l38O",
+            "copyright": "Mixolopedia"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 10,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 1,
+            "units": "splash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

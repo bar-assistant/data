@@ -1,0 +1,118 @@
+{
+    "_id": "kiwi-swizzle",
+    "name": "Kiwi Swizzle",
+    "instructions": "Muddle kiwi and syrup in the bottom of highball glass\nAdd remaining ingredients and crushed ice until glass is about two-thirds full\nStir 20 seconds and top with more crushed ice and garnish",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Kiwi is underrated and underused! Tiki is the obvious first cocktail style to work kiwi in to, plus tiki and kiwi are surprisingly similar words... Fun! Chartreuse's herbal explosion is tempered by the unrefined cane character of our Demerara Gum Syrup. This is a stellar and novel tropical cocktail.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/kiwi-swizzle",
+    "garnish": "pineapple fronds slice of kiwi",
+    "abv": 21.72,
+    "tags": [
+        "Citrusy",
+        "Swizzle"
+    ],
+    "glass": "Highball",
+    "method": "Muddle",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///kiwi-swizzle-1_3kIRLJ.jpg",
+            "sort": 1,
+            "placeholder_hash": "WAgKDwILp2eQd4hoenV4h4h550B4/ZIM",
+            "copyright": "LiberAndCo | Subtle Tiki"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "green-chartreuse",
+            "name": "Green Chartreuse",
+            "strength": 55,
+            "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "strength": 0,
+            "description": "Juice from pineapple fruit.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "demerara-syrup",
+            "name": "Demerara Syrup",
+            "strength": 0,
+            "description": "Syrup made with demerara sugar",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        },
+        {
+            "_id": "kiwi",
+            "name": "Kiwi",
+            "strength": 0,
+            "description": "Kiwi, is a small, brown, fuzzy fruit with vibrant green flesh and tiny black seeds. It has a sweet and slightly tangy flavor, and its texture is both juicy and slightly grainy.",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 1,
+            "units": "whole",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 6
+        }
+    ]
+}

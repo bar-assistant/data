@@ -1,0 +1,22 @@
+{
+    "_id": "clove",
+    "_parent_id": null,
+    "name": "Clove",
+    "strength": 0,
+    "description": "The spice, cloves, is known for its warm, sweet, and aromatic flavor with a hint of spiciness. It has a strong, pungent aroma and is used in both culinary and medicinal applications. Cloves are often used in spice blends, such as pumpkin pie spice and garam masala, and are a key ingredient in many cuisines.",
+    "origin": "Indonesia",
+    "color": "#782803",
+    "category": "Spices",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///clove-1_lx6GOg.png",
+            "sort": 1,
+            "placeholder_hash": "EUmCBQA2w1yHaZ9ydtSJX674B3iFeXKadw",
+            "copyright": "CC License"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

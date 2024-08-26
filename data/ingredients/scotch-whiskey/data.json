@@ -1,0 +1,22 @@
+{
+    "_id": "scotch-whiskey",
+    "_parent_id": "whiskey",
+    "name": "Scotch whiskey",
+    "strength": 40,
+    "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+    "origin": "Scotland",
+    "color": "#d54a06",
+    "category": "Spirits",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///scotch-whiskey-1_rO0ks9.png",
+            "sort": 1,
+            "placeholder_hash": "4lqGJQYd/XRSh4FIiDePofJZB0eBg4JEWA",
+            "copyright": "Monkey Shoulder"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

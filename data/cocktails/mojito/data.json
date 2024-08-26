@@ -1,0 +1,104 @@
+{
+    "_id": "mojito",
+    "name": "Mojito",
+    "instructions": "Mix mint springs with sugar and lime juice. Add splash of soda water and fill the glass with ice. Pour the rum and top with soda water. Light stir to involve all ingredients.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The combination of mint, lime, and rum creates a delightful balance of sweetness, acidity, and herbal freshness. Mojitos are popular in bars and restaurants and are often associated with a laid-back and tropical vibe. They are a favorite cocktail for summer gatherings and outdoor events.",
+    "source": "https://iba-world.com/mojito/",
+    "garnish": "Garnish with sprigs of mint and slice of lime.",
+    "abv": 25.17,
+    "tags": [
+        "Contemporary Classics",
+        "IBA Cocktail",
+        "Mojito"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///mojito-1_YweLeQ.jpg",
+            "sort": 1,
+            "placeholder_hash": "8xgGFQJtaaaKpoc3KZ92ZaBNM99g",
+            "copyright": "Bon Apetite"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 20,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "mint",
+            "name": "Mint",
+            "strength": 0,
+            "description": "Mint refers to a family of aromatic herbs known for their refreshing flavor and fragrance. The most commonly used and recognized type of mint is spearmint (Mentha spicata), but there are various other species and hybrids, including peppermint (Mentha × piperita).",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 6,
+            "units": "sprigs",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "sugar",
+            "name": "Sugar",
+            "strength": 0,
+            "description": "White sugar",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 2,
+            "units": "tsp",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 1,
+            "units": "topup",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "_id": "americano",
+    "name": "Americano",
+    "instructions": "1. Mix the ingredients directly in an old fashioned glass filled with ice cubes.\n2. Add a splash of Soda Water.\n3. Stir gently.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The story of the Americano dates back to the second half of the 1800s in Gaspare Campari’s bar in Milan.  Over the years the cocktail acquires notoriety thanks to some homages from the world of cinema, including James Bond (007 Casino Royale) whose favorite cocktail was, precisely, the Americano.\n\nThe nickname “American” was born when Primo Carnera, a giant Italian boxer, became world heavyweight champion at Madison Square Garden in New York.  When Carnera returned to Italy with the title, he was greeted with this very Italian cocktail which, for the occasion, was called “Americano”.\n\nThe Americano entered the IBA Cocktail List only in 1987 but, in reality, it was a cocktail that spread all over Italy during the 1930s.",
+    "source": "https://iba-world.com/americano/",
+    "garnish": "Garnish with half orange slice and a lemon zest.",
+    "abv": 19.55,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables",
+        "Bitter"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///americano-1_zentdq.jpg",
+            "sort": 1,
+            "placeholder_hash": "TFkKHwgMqJiIhXmIiVaYiIh1poBoCYgE",
+            "copyright": "Liquor.com / Tim Nusog"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "strength": 25,
+            "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "strength": 18,
+            "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+            "origin": "Worldwide",
+            "category": "Fortified wine",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 1,
+            "units": "Topup",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

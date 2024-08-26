@@ -1,0 +1,102 @@
+{
+    "_id": "washingtons-mule",
+    "name": "Washington's Mule",
+    "instructions": "1. Combine syrup, brandy, lime juice, and bitters with ice in a cocktail shaker for a short shake. \n2. Strain over ice into a highball glass.\n3. Top with soda water and stir.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "An autumnal and all-American version of the Moscow Mule.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/washingtons-mule",
+    "garnish": "Lime wedge",
+    "abv": 19.98,
+    "tags": [
+        "Mule"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///washingtons-mule-1_k5KcLY.jpg",
+            "sort": 1,
+            "placeholder_hash": "GRgOHwJHyHmylohwaWmlZ3iISHB2QYAG",
+            "copyright": "LiberAndCo | Juliet Beletic"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "apple-brandy",
+            "name": "Apple Brandy",
+            "strength": 40,
+            "description": "Apple brandy is a distilled spirit made from fermented apple juice or cider. The production involves fermenting apples, distilling the resulting liquid, and often aging it in oak barrels. The final product can range from clear to amber in color and exhibits a variety of apple-derived flavors, influenced by the apple varieties used and the aging process. Apple brandy can be enjoyed on its own or used in cocktails and culinary applications. The term encompasses a broad category of apple-based spirits produced globally, with variations in production methods and flavor profiles.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "ginger-syrup",
+            "name": "Ginger syrup",
+            "strength": 0,
+            "description": "Syrup infused with ginger root.\n\nThis ginger syrup is fantastic in cocktails, but it also makes an out-of-this-world ginger ale. To make ginger ale, simply fill an ice-filled glass a third of the way with the syrup, top with soda water and a squeeze of lime, stir and enjoy.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 3,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 1,
+            "units": "topup",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

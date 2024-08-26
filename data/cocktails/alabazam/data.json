@@ -1,0 +1,103 @@
+{
+    "_id": "alabazam",
+    "name": "Alabazam",
+    "instructions": "1. Combine all ingredients with ice and shake\n2. Strain into a chilled cocktail glass, serve up",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "description": "One of the oldest sours, this drink also uses an enormous portion of Angostura bitters",
+    "source": "https://tuxedono2.com/alabazam-cocktail-recipe",
+    "garnish": "",
+    "abv": 25.41,
+    "tags": [
+        "Sour",
+        "Citrusy"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///alabazam-1_D009Wl.jpg",
+            "sort": 1,
+            "placeholder_hash": "xvcFDwIIt2iLdYl4d0inN8h0duA4B30C",
+            "copyright": "TuxedoNo2"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "cognac",
+            "name": "Cognac",
+            "strength": 40,
+            "description": "Cognac is a high-quality French brandy produced in the Cognac region, located in the Charente department. It is renowned for its refined and complex flavor profile, resulting from a meticulous production process. Cognac is made exclusively from white grapes, primarily Ugni Blanc, Folle Blanche, and Colombard, which are fermented and distilled using traditional copper pot stills.\n\nCognac's aging process plays a crucial role in its development, as it absorbs characteristics from the oak barrels, contributing notes of vanilla, caramel, and spices. The region's unique maritime climate, with a mix of oceanic and continental influences, further enhances the maturation process.\n\nCognac is renowned for its smooth and elegant taste, with a harmonious balance of fruity, floral, and oaky elements. It is often enjoyed as a sipping spirit and is a key ingredient in classic cocktails like the Sidecar and Brandy Alexander. The production of Cognac is strictly regulated, ensuring that only spirits meeting specific criteria can bear the prestigious Cognac label.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "triple-sec",
+            "name": "Triple Sec",
+            "strength": 40,
+            "description": "Triple sec is usually made from orange peels steeped in a spirit derived from sugar beet due to its neutral flavor.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

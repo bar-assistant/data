@@ -1,0 +1,88 @@
+{
+    "_id": "between-the-sheets",
+    "name": "Between the Sheets",
+    "instructions": "1. Add all ingredients into a cocktail shaker\n2. Shake with ice and strain into a chilled cocktail glass",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The origin of the cocktail is usually credited to Harry MacElhone at Harry's New York Bar in Paris in the 1930s as a derivative of the sidecar. However, competing theories exist that claim the cocktail was created at The Berkeley in approximately 1921, or in French brothels as an apéritif for consumption by the prostitutes.",
+    "source": "https://iba-world.com/between-the-sheets/",
+    "garnish": null,
+    "abv": 26.18,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables"
+    ],
+    "glass": "Fizzio",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///between-the-sheets-1_Zh4He7.jpg",
+            "sort": 1,
+            "placeholder_hash": "TAgGDgKpiAVJiDikZlR5y9VVAsIDEY0",
+            "copyright": "A Couple Cooks"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "cognac",
+            "name": "Cognac",
+            "strength": 40,
+            "description": "Cognac is a high-quality French brandy produced in the Cognac region, located in the Charente department. It is renowned for its refined and complex flavor profile, resulting from a meticulous production process. Cognac is made exclusively from white grapes, primarily Ugni Blanc, Folle Blanche, and Colombard, which are fermented and distilled using traditional copper pot stills.\n\nCognac's aging process plays a crucial role in its development, as it absorbs characteristics from the oak barrels, contributing notes of vanilla, caramel, and spices. The region's unique maritime climate, with a mix of oceanic and continental influences, further enhances the maturation process.\n\nCognac is renowned for its smooth and elegant taste, with a harmonious balance of fruity, floral, and oaky elements. It is often enjoyed as a sipping spirit and is a key ingredient in classic cocktails like the Sidecar and Brandy Alexander. The production of Cognac is strictly regulated, ensuring that only spirits meeting specific criteria can bear the prestigious Cognac label.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "triple-sec",
+            "name": "Triple Sec",
+            "strength": 40,
+            "description": "Triple sec is usually made from orange peels steeped in a spirit derived from sugar beet due to its neutral flavor.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 20,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

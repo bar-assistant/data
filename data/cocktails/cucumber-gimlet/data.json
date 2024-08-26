@@ -1,0 +1,87 @@
+{
+    "_id": "cucumber-gimlet",
+    "name": "Cucumber Gimlet",
+    "instructions": "Combine all ingredients and shake with ice. Serve in a rocks glass over crushed ice. Garnish with a rolled cucumber slice.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": null,
+    "source": "http://www.ocean-prime.com/",
+    "garnish": "Cucumber slices",
+    "abv": 0,
+    "tags": [
+        "Virgin"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///cucumber-gimlet-1_0xEmgM.jpg",
+            "sort": 1,
+            "placeholder_hash": "phgKFQJoeWhnZ6Z4d2BEVwM1B5ag",
+            "copyright": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "cucumber",
+            "name": "Cucumber",
+            "strength": 0,
+            "description": null,
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 5,
+            "units": "slices",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

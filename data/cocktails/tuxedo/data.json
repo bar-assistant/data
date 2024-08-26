@@ -1,0 +1,103 @@
+{
+    "_id": "tuxedo",
+    "name": "Tuxedo",
+    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Related to the martini, the Tuxedo has had many variations since its inception in the 1880s. The cocktail is named after the Tuxedo Club in Orange County, New York where it was first mixed. Tuxedo Park, the planned community where the club was built, is itself a derivation of the Lenape word tucseto. The form of menswear by the same name originated at the same country club around the same time.",
+    "source": "https://iba-world.com/tuxedo/",
+    "garnish": "Garnish with cherry and lemon zest",
+    "abv": 24.14,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables"
+    ],
+    "glass": "Cocktail",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///tuxedo-1_f3Obb9.jpg",
+            "sort": 1,
+            "placeholder_hash": "TQgKHQQYaHqVBZY4poSaWAh/g+Bm",
+            "copyright": "Punch"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "dry-vermouth",
+            "name": "Dry Vermouth",
+            "strength": 18,
+            "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
+            "origin": "Worldwide",
+            "category": "Fortified wine",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "maraschino",
+            "name": "Maraschino",
+            "strength": 32,
+            "description": "Liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.\n\nThe Luxardo family, an Italian producer, is particularly well-known for its Maraschino liqueur.",
+            "origin": "Croatia",
+            "category": "Liqueurs",
+            "amount": 1,
+            "units": "teaspoon",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "absinthe",
+            "name": "Absinthe",
+            "strength": 40,
+            "description": "Absinthe is a highly alcoholic and anise-flavored spirit that is historically known for its association with bohemian culture and its supposed hallucinogenic properties. It is typically green in color, but clear variations also exist. Absinthe is renowned for its distinctive herbal and botanical profile, which often includes ingredients like wormwood (Artemisia absinthium), anise, fennel, and other herbs.\n\nThe production of absinthe involves macerating and distilling these botanicals to create a highly concentrated liquid. The key component, wormwood, was once believed to contain a compound called thujone, thought to induce hallucinations. However, modern absinthes are produced with strict regulations regarding thujone content, and the hallucinogenic effects of traditional absinthe are now considered to be largely exaggerated.\n\nAbsinthe is often served by diluting it with water, typically by pouring cold water over a sugar cube placed on a slotted spoon, which is then held over the glass. This process, known as the \"louche,\" causes the absinthe to cloud and release its herbal flavors.\n\nThe drink gained notoriety in the late 19th and early 20th centuries, particularly in the bohemian and artistic communities of Europe. It was banned in many countries for a period due to concerns about its alleged psychoactive effects and its association with absinthe-induced madness. However, the ban has been lifted in most places, and today absinthe is produced and consumed legally with regulated thujone levels.\n\nAbsinthe has experienced a resurgence in popularity, and while its reputation as a mind-altering substance has been debunked, it is still enjoyed for its unique flavor and the ritualistic manner in which it is often served.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 2,
+            "units": "teaspoon",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "strength": 28,
+            "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
+            "origin": "Worldwide",
+            "category": "Bitters",
+            "amount": 3,
+            "units": "dashes",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

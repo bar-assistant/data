@@ -1,0 +1,118 @@
+{
+    "_id": "art-of-choke",
+    "name": "Art of Choke",
+    "instructions": "1. Muddle mint and syrup in a mixing glass\n2. Add remaining with ice and stir for 20 seconds\n3. Strain into a chilled rocks glass with fresh ice",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A drink that broke all the rules when Kyle Davidson first conjured it in 2008. Now it's a modern classic. What's interesting is opting for a split base where one half is an overproof amaro instead of a spirit. Also wild - this is a stirred cocktail!",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/art-of-choke",
+    "garnish": "Mint sprig",
+    "abv": 22.83,
+    "tags": [
+        "Citrusy",
+        "Herbacious"
+    ],
+    "glass": "Lowball",
+    "method": "Muddle",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///art-of-choke-1_75YMcr.jpg",
+            "sort": 1,
+            "placeholder_hash": "XPgJHwayimLGdlhvapeHhnV8VwWZZJAJ",
+            "copyright": "LiberAndCo |  Scott Kallstrand"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "strength": 16.5,
+            "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
+            "origin": "Italy",
+            "category": "Amaro",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "green-chartreuse",
+            "name": "Green Chartreuse",
+            "strength": 55,
+            "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "demerara-syrup",
+            "name": "Demerara Syrup",
+            "strength": 0,
+            "description": "Syrup made with demerara sugar",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        },
+        {
+            "_id": "mint",
+            "name": "Mint",
+            "strength": 0,
+            "description": "Mint refers to a family of aromatic herbs known for their refreshing flavor and fragrance. The most commonly used and recognized type of mint is spearmint (Mentha spicata), but there are various other species and hybrids, including peppermint (Mentha × piperita).",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 1,
+            "units": "sprig",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 6
+        }
+    ]
+}

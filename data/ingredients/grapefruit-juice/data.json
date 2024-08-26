@@ -1,0 +1,22 @@
+{
+    "_id": "grapefruit-juice",
+    "_parent_id": null,
+    "name": "Grapefruit juice",
+    "strength": 0,
+    "description": "Freshly squeezed grapefruit juice.",
+    "origin": null,
+    "color": "#ed7500",
+    "category": "Juices",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///grapefruit-juice-1_ReXvEM.png",
+            "sort": 1,
+            "placeholder_hash": "XOyGFQRL+muHd3h4iM+bVnB3P4iHd3h4iA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

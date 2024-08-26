@@ -1,0 +1,103 @@
+{
+    "_id": "queens-park-hotel-super-cocktail",
+    "name": "Queen's Park Hotel Super Cocktail",
+    "instructions": "Shake all ingredients with ice and strain into chilled glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": null,
+    "source": "https://www.cocktailexplorer.co/cocktails/queens-park-hotel-super-cocktail/anders-erickson/",
+    "garnish": "Lime zest",
+    "abv": 18.63,
+    "tags": [
+        "Savory",
+        "Sweet"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///queens-park-hotel-super-cocktail-1_q33idM.jpg",
+            "sort": 1,
+            "placeholder_hash": "TCgGFgYHaFaXZ5hXeHOKdDhYWHmAhAc",
+            "copyright": "Anders Erickson"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "strength": 18,
+            "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+            "origin": "Worldwide",
+            "category": "Fortified wine",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "grenadine-syrup",
+            "name": "Grenadine Syrup",
+            "strength": 0,
+            "description": "Fruit syrup made from pomegranates.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 2,
+            "units": "dashes",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

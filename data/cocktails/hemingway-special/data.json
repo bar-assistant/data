@@ -1,0 +1,88 @@
+{
+    "_id": "hemingway-special",
+    "name": "Hemingway Special",
+    "instructions": "Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Ernest Hemingway, who stayed in Cuba, tried the Floridita's signature drink, the Floridita Daiquiri, and said \"That's good but I prefer it without sugar and double rum,\" which became a cocktail now known as the Hemingway Daiquiri or the Papa Doble. This recipe was later modified further, adding grapefruit juice to the mix, at which point the drink was dubbed the \"Hemingway Special\".",
+    "source": "https://iba-world.com/hemingway-special/",
+    "garnish": null,
+    "abv": 17.72,
+    "tags": [
+        "Contemporary Classics",
+        "IBA Cocktail"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///hemingway-special-1_nu2S7O.jpg",
+            "sort": 1,
+            "placeholder_hash": "MggGFwJ1WHdUhomAl5h2WHh3l/BpCI0F",
+            "copyright": "Liquor.com / Tim Nusog"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "strength": 40,
+            "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "grapefruit-juice",
+            "name": "Grapefruit juice",
+            "strength": 0,
+            "description": "Freshly squeezed grapefruit juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 40,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "maraschino",
+            "name": "Maraschino",
+            "strength": 32,
+            "description": "Liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.\n\nThe Luxardo family, an Italian producer, is particularly well-known for its Maraschino liqueur.",
+            "origin": "Croatia",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

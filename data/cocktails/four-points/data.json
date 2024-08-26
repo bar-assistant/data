@@ -1,0 +1,89 @@
+{
+    "_id": "four-points",
+    "name": "Four Points",
+    "instructions": "1. Add all ingredients to a cocktail shaker\n2. Add ice and shake hard for 20 seconds\n3. Strain into a chilled coupe",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A very tropical Last Word. Bright, funky and perfectly balanced.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/four-points",
+    "garnish": "3 cherries",
+    "abv": 22.4,
+    "tags": [
+        "Sweet",
+        "Fruity",
+        "Sour"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///four-points-1_Bug1zc.jpg",
+            "sort": 1,
+            "placeholder_hash": "1RgKF4IKaJeDiIiWiUelKKeWmsA4B4IJ",
+            "copyright": "LiberAndCo | Caer Maiko Ferguson"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "strength": 40,
+            "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 37.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "passionfruit-syrup",
+            "name": "Passionfruit syrup",
+            "strength": 0,
+            "description": "Passionfruit syrup is trickier to make and sometimes requires more obscure ingredients. This makes it one of the only flavored syrups worth buying over the counter.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "green-chartreuse",
+            "name": "Green Chartreuse",
+            "strength": 55,
+            "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

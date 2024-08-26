@@ -1,0 +1,73 @@
+{
+    "_id": "tropical-storm",
+    "name": "Tropical Storm",
+    "instructions": "1. Add all ingredients to a cocktail shaker \n2. Add ice and shake for 10 seconds\n3. Strain into a chilled glass",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Passionfruit Syrup and dark rum shine in this daiquiri-hurricane hybrid.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/tropical-storm",
+    "garnish": "Edible flower or lime wheel",
+    "abv": 21.33,
+    "tags": [
+        "Summer",
+        "Tropical"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///tropical-storm-1_QDIzdq.jpg",
+            "sort": 1,
+            "placeholder_hash": "LUkGHwKYWmZ/iHd4cmmoN5iLeAo3SIIA",
+            "copyright": "LiberAndCo | Juliet Beletic"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "strength": 40,
+            "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "passionfruit-syrup",
+            "name": "Passionfruit syrup",
+            "strength": 0,
+            "description": "Passionfruit syrup is trickier to make and sometimes requires more obscure ingredients. This makes it one of the only flavored syrups worth buying over the counter.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

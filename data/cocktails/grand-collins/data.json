@@ -1,0 +1,87 @@
+{
+    "_id": "grand-collins",
+    "name": "Grand Collins",
+    "instructions": "Place ice cubes in a highball glass and add Grand Marnier®, and then fresh lemon juice. Top up with soda water and stir.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A riff on a Tom Collins, the Grand Collins playfully swaps out Old Tom Gin for Grand Marnier, creating an intriguing, layered flavour profile to match its lively effervescence.",
+    "source": "https://cocktailsdistilled.com/recipe/grand-collins/",
+    "garnish": "Orange zest and a raspberry",
+    "abv": 22.22,
+    "tags": [
+        "Sweet"
+    ],
+    "glass": "Highball",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///grand-collins-1_Krd014.jpg",
+            "sort": 1,
+            "placeholder_hash": "UigOFwQDbHeWaXiSend3h3d4BzBLJo8I",
+            "copyright": "Cocktails Distilled"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "grand-marnier",
+            "name": "Grand Marnier",
+            "strength": 40,
+            "description": "Grand Marnier is a premium French liqueur known for its distinctive orange flavor and versatility in cocktails. It belongs to the category of orange liqueurs but stands out due to its unique combination of Cognac (a type of brandy) and bitter orange essence.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 1,
+            "units": "topup",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

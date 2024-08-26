@@ -1,0 +1,103 @@
+{
+    "_id": "rattlesnake",
+    "name": "Rattlesnake",
+    "instructions": "1. Add all ingredients to a shaker and dry shake, without ice.\n2. Add ice and shake again until chilled.\n3. Fine-strain into a coupe glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The Rattlesnake is a classic whiskey cocktail recipe combining rye, absinthe, lemon juice, simple syrup and an egg white.",
+    "source": "https://punchdrink.com/recipes/rattlesnake/",
+    "garnish": "Garnish with an Angostura bitters swirl.",
+    "abv": 18.44,
+    "tags": [
+        "Classics",
+        "Bitter"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///rattlesnake-1_yaNK08.jpg",
+            "sort": 0,
+            "placeholder_hash": "21cSLQhpioOHqJcHp5ipdwFW5u9K",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "rye-whiskey",
+            "name": "Rye whiskey",
+            "strength": 40,
+            "description": "Rye whiskey is a type of whiskey made primarily from rye grain. To be labeled as rye whiskey in the United States, the mash (grain mixture fermented to make alcohol) must be composed of at least 51% rye. The remaining ingredients in the mash can include other grains such as corn and barley. Rye whiskey is aged in new charred oak barrels, and the final product must be distilled to no more than 160 proof and entered into the barrel for aging at no more than 125 proof.\n\nAmerican rye whiskey tends to have a spicier and more robust flavor profile compared to bourbon, which is primarily made from corn.\n\nIn Canada, the term \"rye\" is often used broadly and doesn't necessarily mean that the whiskey is made predominantly from rye grain. Canadian rye whisky can contain a mix of grains, and the flavor profile may vary. Some Canadian whiskies labeled as \"rye\" are made with little or no rye content.\n\nRye whiskey is known for its distinctive taste, which can include spicy, fruity, and sometimes peppery notes. It can be enjoyed neat, on the rocks, or used in various cocktails such as the classic Manhattan or Old Fashioned.",
+            "origin": "North America",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "absinthe",
+            "name": "Absinthe",
+            "strength": 40,
+            "description": "Absinthe is a highly alcoholic and anise-flavored spirit that is historically known for its association with bohemian culture and its supposed hallucinogenic properties. It is typically green in color, but clear variations also exist. Absinthe is renowned for its distinctive herbal and botanical profile, which often includes ingredients like wormwood (Artemisia absinthium), anise, fennel, and other herbs.\n\nThe production of absinthe involves macerating and distilling these botanicals to create a highly concentrated liquid. The key component, wormwood, was once believed to contain a compound called thujone, thought to induce hallucinations. However, modern absinthes are produced with strict regulations regarding thujone content, and the hallucinogenic effects of traditional absinthe are now considered to be largely exaggerated.\n\nAbsinthe is often served by diluting it with water, typically by pouring cold water over a sugar cube placed on a slotted spoon, which is then held over the glass. This process, known as the \"louche,\" causes the absinthe to cloud and release its herbal flavors.\n\nThe drink gained notoriety in the late 19th and early 20th centuries, particularly in the bohemian and artistic communities of Europe. It was banned in many countries for a period due to concerns about its alleged psychoactive effects and its association with absinthe-induced madness. However, the ban has been lifted in most places, and today absinthe is produced and consumed legally with regulated thujone levels.\n\nAbsinthe has experienced a resurgence in popularity, and while its reputation as a mind-altering substance has been debunked, it is still enjoyed for its unique flavor and the ritualistic manner in which it is often served.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "egg-white",
+            "name": "Egg White",
+            "strength": 0,
+            "description": "Egg white is the clear liquid part of an egg that surrounds the yolk. It is rich in proteins and is commonly used in cooking and baking for its ability to add structure, foam, and a smooth texture to various dishes.",
+            "origin": "Worldwide",
+            "category": "Uncategorized",
+            "amount": 1,
+            "units": "whole",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

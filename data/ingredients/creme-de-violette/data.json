@@ -1,0 +1,22 @@
+{
+    "_id": "creme-de-violette",
+    "_parent_id": null,
+    "name": "Crème de Violette",
+    "strength": 16,
+    "description": "Crème de Violette is a floral liqueur with a violet flower flavor. It is known for its vibrant purple color and delicate, aromatic taste. Crème de Violette is often used as an ingredient in cocktails, adding a floral and sweet dimension to drinks. It gained popularity in classic cocktails like the Aviation, where it contributes both flavor and a distinctive hue. The liqueur is made by infusing or distilling violet flowers, sugar, and sometimes additional botanicals. Crème de Violette is enjoyed for its unique and fragrant profile, and its use extends beyond cocktails to include desserts and culinary creations.",
+    "origin": "Worldwide",
+    "color": "#a5a2fd",
+    "category": "Crème de",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///creme-de-violette-1_LBd8zq.png",
+            "sort": 1,
+            "placeholder_hash": "TxeGDQAt2AeIh4IqqAd6Zk+oBxeLeoiIiA",
+            "copyright": "Monin"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

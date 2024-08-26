@@ -1,0 +1,22 @@
+{
+    "_id": "cocchi-aperitivo-americano",
+    "_parent_id": "dry-vermouth",
+    "name": "Cocchi Aperitivo Americano",
+    "strength": 16.5,
+    "description": "Cocchi Americano is an aromatized wine created in 1891 by Giulio Cocchi and since then produced without interruption according to the original recipe.\nThe name “Americano” is both due to the alcohol made bitter (“amaricato”) by the addition of herbs and spices and to the American habit of drinking vermouth with ice and soda.\nProduced according to Giulio Cocchi original recipe, Cocchi Americano is recognized in Asti as the aperitif par excellence – a real piece of history of our town.\nOn its label the original futurist rooster designed in the 30’s and representing his aperitif function (“it awakes the appetite”) as well as one of the symbols of the town of Asti.",
+    "origin": "Italy",
+    "color": "#fef4cd",
+    "category": "Fortified wine",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///cocchi-aperitivo-americano-1_53BzTn.jpg",
+            "sort": 1,
+            "placeholder_hash": "8iiGFQIPpQmWYHqUmMh/nBB3BQV3eIiIhw",
+            "copyright": "Cocchi"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

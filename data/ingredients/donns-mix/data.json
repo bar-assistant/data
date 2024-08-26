@@ -1,0 +1,22 @@
+{
+    "_id": "donns-mix",
+    "_parent_id": null,
+    "name": "Donn's Mix",
+    "strength": 0,
+    "description": "2 parts fresh yellow grapefruit and 1 part cinnamon syrup",
+    "origin": null,
+    "color": "#c6972c",
+    "category": "Syrups",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///donns-mix-1_kRr0NR.png",
+            "sort": 1,
+            "placeholder_hash": "HSmKNRIPaYiAeXV4l3l/ivmnBQWYmHVlZw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

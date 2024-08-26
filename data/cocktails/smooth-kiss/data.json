@@ -1,0 +1,100 @@
+{
+    "_id": "smooth-kiss",
+    "name": "Smooth Kiss",
+    "instructions": "1. Shake all ingredients except the soda water.\n2. Top up with soda water",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": null,
+    "source": "https://botanica.hr/index.php?route=recipe/recipe&recipe_id=105",
+    "garnish": "Dehydrated apple, rose bud",
+    "abv": 14.22,
+    "tags": [],
+    "glass": "Wine",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///smooth-kiss-1_DsqdZq.jpg",
+            "sort": 1,
+            "placeholder_hash": "JFoORg5Zp3eFd9iLaWB6e5Zpl494+Xc",
+            "copyright": "Botanica"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "strength": 40,
+            "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 40,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "apple-juice",
+            "name": "Apple Juice",
+            "strength": 0,
+            "description": "Juice made from apples.",
+            "origin": "Worldwide",
+            "category": "Juices",
+            "amount": 20,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 20,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "rose-syrup",
+            "name": "Rose syrup",
+            "strength": 0,
+            "description": "Pure sugar syrup made from the natural aroma of rose.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 10,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 1,
+            "units": "topup",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

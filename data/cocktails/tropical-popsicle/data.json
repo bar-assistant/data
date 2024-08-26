@@ -1,0 +1,102 @@
+{
+    "_id": "tropical-popsicle",
+    "name": "Tropical Popsicle",
+    "instructions": "1. Add all ingredients, except soda water, to a cocktail shaker\n2. Add ice and shake hard for 10 seconds\n3. Strain into a highball glass filled with cubed ice\n4. Top with club soda",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A Japanese Whisky collins, with acidity, bitter notes and tropical flavors for a pop!",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/tropical-popsicle",
+    "garnish": "banana leaf",
+    "abv": 8.73,
+    "tags": [
+        "Summer"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///tropical-popsicle-1_lNW7Js.jpg",
+            "sort": 1,
+            "placeholder_hash": "0DgKHwRvQamJiYhUuWmGiHeK+DZ1f1IH",
+            "copyright": "LiberAndCo | Connor Stehr"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "whiskey",
+            "name": "Whiskey",
+            "strength": 40,
+            "description": "Whiskey is a distilled alcoholic beverage made from fermented grain mash. The grains used in whiskey production can include barley, corn, rye, and wheat. The production process involves mashing the grains, fermenting the mash, distilling the liquid, and aging it in wooden barrels, usually made of oak. The aging process imparts flavors and character to the whiskey.\n\nThe flavor, aroma, and characteristics of whiskey can vary widely based on factors such as the type of grains used, the distillation process, the type of barrels used for aging, and the duration of maturation. Whiskey is enjoyed in various ways, including neat, on the rocks, or as a key ingredient in cocktails.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "aperol",
+            "name": "Aperol",
+            "strength": 11,
+            "description": "Aperol is an Italian orange-flavored aperitif liqueur known for its vibrant orange color and bittersweet taste. It is produced by the Campari Group and contains a blend of herbs, spices, and botanicals. Aperol is characterized by its lower alcohol content compared to some other aperitifs, making it a popular choice for refreshing cocktails. Aperol's distinct flavor profile and versatility make it a favorite ingredient in a variety of cocktails and spritz variations.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "passionfruit-syrup",
+            "name": "Passionfruit syrup",
+            "strength": 0,
+            "description": "Passionfruit syrup is trickier to make and sometimes requires more obscure ingredients. This makes it one of the only flavored syrups worth buying over the counter.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 90,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

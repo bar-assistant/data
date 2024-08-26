@@ -1,0 +1,85 @@
+{
+    "_id": "affinity",
+    "name": "Affinity",
+    "instructions": "1. Stir all of the ingredients with ice to chill\n2. Strain into a chilled glass",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "description": "This off-the-radar classic cocktail was originally made with equal measures of Scotch whisky, dry vermouth, and sweet vermouth. At Bramble in Edinburgh, co-owner Jason Scott has developed, well, an affinity for the Affinity, brushing up the original recipe by using a Highland single malt (Glenmorangie 10 year old) and swapping in Byrrh Grand Quinquina for the sweet vermouth. The crowning touch? Bramble ages its mixture in barrels; they originally used small casks custom-made for the cocktails by Glenmorangie and are currently using 50-liter barrels that previously held oloroso sherry, aging the cocktail for between three and nine months and using a solera system for consistency. Until you can get to Edinburgh to try one of Bramble’s barrel-aged Affinity cocktails in person, here’s the base recipe, which should give you a delicious taste of the possibilities.",
+    "source": "https://imbibemagazine.com/recipe/affinity-cocktail/",
+    "garnish": "Cherry and lemon twist",
+    "abv": 21.22,
+    "tags": [],
+    "glass": "Cocktail",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///affinity-1_TE1rBT.jpg",
+            "sort": 1,
+            "placeholder_hash": "ijgGFgReKAWHdjiFqWSYi7hYW2CYBmY",
+            "copyright": "John Valls"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "scotch-whiskey",
+            "name": "Scotch whiskey",
+            "strength": 40,
+            "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+            "origin": "Scotland",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "strength": 18,
+            "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+            "origin": "Worldwide",
+            "category": "Fortified wine",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "dry-vermouth",
+            "name": "Dry Vermouth",
+            "strength": 18,
+            "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
+            "origin": "Worldwide",
+            "category": "Fortified wine",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 1,
+            "units": "dashes",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

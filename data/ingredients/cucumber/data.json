@@ -1,0 +1,22 @@
+{
+    "_id": "cucumber",
+    "_parent_id": null,
+    "name": "Cucumber",
+    "strength": 0,
+    "description": null,
+    "origin": null,
+    "color": "#e3efd6",
+    "category": "Fruits and vegetables",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///cucumber-1_wy4si6.png",
+            "sort": 1,
+            "placeholder_hash": "p7mFDQA6ZElAq8TunKaTkCCVWXkqhnBpaA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

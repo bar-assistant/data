@@ -1,0 +1,22 @@
+{
+    "_id": "pineapple",
+    "_parent_id": null,
+    "name": "Pineapple",
+    "strength": 0,
+    "description": "Pineapple fruit",
+    "origin": null,
+    "color": null,
+    "category": "Fruits and vegetables",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///pineapple-1_vEJpVA.png",
+            "sort": 1,
+            "placeholder_hash": "Y0uGDQYpr5RHhqDZ6c6goQhsJDpRqHDJWQ",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

@@ -1,0 +1,22 @@
+{
+    "_id": "candied-ginger",
+    "_parent_id": null,
+    "name": "Candied Ginger",
+    "strength": 0,
+    "description": "Candied ginger, also known as crystallized ginger, is made from fresh ginger root that has been cooked in a sugar syrup and then coated with sugar.\n\nThe result is sweet and chewy candied ginger with a combination of the spicy, warm flavor of ginger and the sweetness of sugar. Candied ginger is commonly used in baking, particularly in desserts like cookies, cakes, and muffins. It can also be enjoyed on its own as a sweet and spicy treat or used as a flavorful addition to teas, cocktails, and various dishes. Additionally, candied ginger is sometimes used in certain cuisines for its unique taste and texture.",
+    "origin": "Worldwide",
+    "color": "#ecca79",
+    "category": "Spices",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///candied-ginger-1_u3oljH.png",
+            "sort": 1,
+            "placeholder_hash": "KTuCBQA6c4ecta84dg1psGMGSHiWdnCGZw",
+            "copyright": "CC License"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

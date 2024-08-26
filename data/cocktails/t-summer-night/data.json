@@ -1,0 +1,118 @@
+{
+    "_id": "t-summer-night",
+    "name": "T. Summer Night",
+    "instructions": "1. Cut your lime ready for squeeze and garnish and get your mint leaves and mint sprig\n2. Fill your wine glass with cubed ice\n3. Smash the mint in your hand and put it in the glass\n4. Pour your gin, elderflower liqueur, and lime juice over the ice\n5. Using your bar spoon, stir all the ingredients together well\n6. Add more ice if needed and fill up with prosecco\n7. Top up with soda\n8. Stir gently and garnish with lime and mint sprig",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A special twist on the Hugo cocktail by Tjuvholmen. This breezy sparkling elderflower cocktail will take you straight to Italy in the summertime. And it couldn&#8217;t be easier to make. Bartender Tip:Add gin and mint for this special twist",
+    "source": "https://cocktailclub.com/cocktails/hugo-summertime",
+    "garnish": null,
+    "abv": 11.71,
+    "tags": [
+        "Spritz",
+        "Summer"
+    ],
+    "glass": "Wine",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///t-summer-night-1_kjJaGb.jpg",
+            "sort": 1,
+            "placeholder_hash": "DwgKDIBv7FhWdGeGiYYGiTUJWA",
+            "copyright": "Cocktail Club"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "prosecco",
+            "name": "Prosecco",
+            "strength": 11,
+            "description": "Prosecco is a sparkling wine that originates from the Veneto region of Italy. It is made primarily from the Glera grape variety, although other permitted grape varieties may also be used in smaller quantities. Prosecco is known for its fresh and fruity character, and it is one of the most popular and widely consumed sparkling wines globally.\n\nProsecco is known for its effervescence, and the bubbles are generally lighter and less persistent than those in traditional method sparkling wines like Champagne.",
+            "origin": "Italy",
+            "category": "Wines",
+            "amount": 90,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "st-germain",
+            "name": "St-Germain",
+            "strength": 20,
+            "description": "St-Germain is an elderflower liqueur It is made using the petals of Sambucus nigra from the Savoie region in France, and each bottle is numbered with the year the petals were collected. Petals are collected annually in the spring over a period of three to four weeks, and are often transported by bicycle to collection points to avoid damaging the petals and impacting the flavour.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "mint",
+            "name": "Mint",
+            "strength": 0,
+            "description": "Mint refers to a family of aromatic herbs known for their refreshing flavor and fragrance. The most commonly used and recognized type of mint is spearmint (Mentha spicata), but there are various other species and hybrids, including peppermint (Mentha × piperita).",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 6,
+            "units": "leaves",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 20,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 6
+        }
+    ]
+}

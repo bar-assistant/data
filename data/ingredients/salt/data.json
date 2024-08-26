@@ -1,0 +1,22 @@
+{
+    "_id": "salt",
+    "_parent_id": null,
+    "name": "Salt",
+    "strength": 0,
+    "description": "Salt",
+    "origin": null,
+    "color": null,
+    "category": "Uncategorized",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///salt-1_b3V9vL.png",
+            "sort": 1,
+            "placeholder_hash": "8jiGFQIsCXV3lnCNaNaIb434CFd4iICDVw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

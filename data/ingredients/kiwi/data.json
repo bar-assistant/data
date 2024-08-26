@@ -1,0 +1,22 @@
+{
+    "_id": "kiwi",
+    "_parent_id": null,
+    "name": "Kiwi",
+    "strength": 0,
+    "description": "Kiwi, is a small, brown, fuzzy fruit with vibrant green flesh and tiny black seeds. It has a sweet and slightly tangy flavor, and its texture is both juicy and slightly grainy.",
+    "origin": null,
+    "color": "#146705",
+    "category": "Fruits and vegetables",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///kiwi-1_qf6Kt0.png",
+            "sort": 1,
+            "placeholder_hash": "3vuFDQAscMe0WLpYQ/CYXFB8OGhXiHB0Rw",
+            "copyright": "CC License"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

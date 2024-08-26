@@ -1,0 +1,74 @@
+{
+    "_id": "tommys-margarita",
+    "name": "Tommy’s Margarita",
+    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled rocks glass filled with ice.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Tommy's margarita was conceived in San Francisco in 1990 by Julio Bermejo at his parents' restaurant called Tommy's (not to be confused with Tommy's Place in Juárez, Mexico. See Margarita Origin). Bermejo had been recently introduced to agave nectar as an ingredient, and, although it was still expensive at the time, he preferred to use it to enhance the agave flavor of the cocktail instead of using triple sec to highlight the citrus flavor in the original Margarita recipe. In 2008, it became the first venue specific cocktail to be added to the IBA manual.",
+    "source": "https://iba-world.com/tommys-margarita/",
+    "garnish": "Garnish with a lime slice.",
+    "abv": 18.29,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks",
+        "Margarita"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///tommys-margarita-1_LlBEXb.jpg",
+            "sort": 1,
+            "placeholder_hash": "UQgODQImh4KHB7iIh2uWiNiAeQjX",
+            "copyright": "Moody Mixologist"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "strength": 40,
+            "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "agave-syrup",
+            "name": "Agave Syrup",
+            "strength": 0,
+            "description": "Agave syrup, also known as agave nectar, is a sweetener that is derived from the sap of the agave plant, primarily the blue agave plant native to Mexico. The syrup is a popular alternative to traditional sweeteners like sugar and honey, particularly in the context of natural and organic food products.\n\nAgave syrup is praised for its sweetness and versatility. It is sweeter than sugar, so smaller amounts can be used to achieve the same level of sweetness. Additionally, it has a lower glycemic index compared to some other sweeteners, meaning it has a smaller impact on blood sugar levels.\n\nAgave syrup has a mild, neutral flavor, making it suitable for a variety of culinary applications. It is commonly used as a sweetener in beverages, baked goods, and desserts. However, it's essential to note that agave syrup, like any sweetener, should be consumed in moderation due to its high fructose content.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "_id": "basil",
+    "_parent_id": null,
+    "name": "Basil",
+    "strength": 0,
+    "description": "Basil is an annual, or sometimes perennial, herb used for its leaves.",
+    "origin": "Worldwide",
+    "color": "#15a905",
+    "category": "Fruits and vegetables",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///basil-1_04b7zj.jpg",
+            "sort": 1,
+            "placeholder_hash": "W6qBDQA2o5lkur9kTGePchr3SHaWZ3DIhw",
+            "copyright": "CC License"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

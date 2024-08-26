@@ -1,0 +1,88 @@
+{
+    "_id": "the-infante",
+    "name": "The Infante",
+    "instructions": "1. Combine all ingredients in a cocktail shaker with ice and shake until chilled.\n2. Strain into a rocks glass over a large ice cube.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The Infante, a Margarita riff that introduces aromatic orgeat and rose water, shows how far the cantina staple has traveled. Named after Mexican actor Pedro Infante, the recipe was created in New York City by Giuseppe González, a testament to the way that craft cocktail circles have adopted the refreshing classic and made it their own.",
+    "source": "https://punchdrink.com/recipes/infante/",
+    "garnish": "Garnish with freshly ground nutmeg.",
+    "abv": 18.08,
+    "tags": [
+        "Margarita",
+        "Light"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///the-infante-1_rqaStU.jpg",
+            "sort": 1,
+            "placeholder_hash": "oGsKLQQIaoNqWKhYZ5xYmHiPePmZ",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "strength": 40,
+            "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "orgeat-syrup",
+            "name": "Orgeat Syrup",
+            "strength": 0,
+            "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "rose-water",
+            "name": "Rose water",
+            "strength": 0,
+            "description": "Rose water is a fragrant liquid that is created by distilling rose petals with water. It is widely used for culinary, cosmetic, and medicinal purposes, valued for its distinct floral aroma and subtle flavor.\n\nWhen using rose water, it is important to choose a product made specifically for culinary use, as not all rose waters are suitable for consumption. It is a versatile ingredient that can add a unique and aromatic touch to a wide range of dishes and products.",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

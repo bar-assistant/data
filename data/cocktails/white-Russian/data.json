@@ -1,0 +1,73 @@
+{
+    "_id": "white-Russian",
+    "name": "White Russian",
+    "instructions": "1. Combine the vodka, coffee liqueur and ice cubes in a cocktail shaker\n2. Shake well and strain into an ice-filled short tumbler\n3. Lightly beat the single cream until just frothy and pour onto the drink over the back of a spoon, to help make it float",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Misleadingly, this sophisticated cocktail is not in fact Russian in origin, but gets its name from vodka being the base spirit. Traditionally a Black Russian, it becomes a White Russian with the addition of cream.",
+    "source": "https://www.sainsburysmagazine.co.uk/recipes/drinks/white-russian",
+    "garnish": "Freshly grated nutmeg",
+    "abv": 20,
+    "tags": [
+        "Coffee",
+        "Savory"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///white-Russian-1_ymvONZ.jpg",
+            "sort": 1,
+            "placeholder_hash": "VAgGDQDptxObBrNGUW1ye1pAgQEH",
+            "copyright": "Brent Hofackereber"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "vodka",
+            "name": "Vodka",
+            "strength": 40,
+            "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
+            "origin": "Russia",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "strength": 20,
+            "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
+            "origin": "Mexico",
+            "category": "Liqueurs",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "cream",
+            "name": "Cream",
+            "strength": 0,
+            "description": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization.",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

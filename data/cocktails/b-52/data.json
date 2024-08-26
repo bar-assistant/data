@@ -1,0 +1,72 @@
+{
+    "_id": "b-52",
+    "name": "B-52",
+    "instructions": "Refrigerate ingredients then layer in chilled glass by carefully pouring in the ingredient order.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The origins of the B-52 are not well documented, but one claim is that the B-52 was invented by Peter Fich, a head bartender at the Banff Springs Hotel in Alberta, Canada. Fich named all of his new drinks after favorite bands, albums, and songs, and he supposedly named the drink after the band of the same name, not directly after the US B-52 Stratofortress bomber after which the band was named.",
+    "source": "https://en.wikipedia.org/wiki/B-52_(cocktail)",
+    "garnish": null,
+    "abv": 25.67,
+    "tags": [
+        "Sweet"
+    ],
+    "glass": "Shot",
+    "method": "Layer",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///b-52-1_RcHh1Q.jpg",
+            "sort": 1,
+            "placeholder_hash": "VAgSFQJnh4CGeJd3qHiGeAh8wfAn",
+            "copyright": "Alchetron"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "strength": 20,
+            "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
+            "origin": "Mexico",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "baileys-irish-cream",
+            "name": "Baileys Irish Cream",
+            "strength": 17,
+            "description": "Baileys Irish Cream is an Irish cream liqueur, an alcoholic drink flavoured with cream, cocoa and Irish whiskey. It is made by Diageo at Nangor Road, in Dublin, Ireland and in Mallusk, Northern Ireland. It is the original Irish cream, invented by a team headed by Tom Jago in 1971 for Gilbeys of Ireland.",
+            "origin": "Ireland",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "grand-marnier",
+            "name": "Grand Marnier",
+            "strength": 40,
+            "description": "Grand Marnier is a premium French liqueur known for its distinctive orange flavor and versatility in cocktails. It belongs to the category of orange liqueurs but stands out due to its unique combination of Cognac (a type of brandy) and bitter orange essence.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

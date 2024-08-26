@@ -1,0 +1,22 @@
+{
+    "_id": "club-soda",
+    "_parent_id": null,
+    "name": "Club soda",
+    "strength": 0,
+    "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+    "origin": "Worldwide",
+    "color": "#ffffff",
+    "category": "Beverages",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///club-soda-1_f0WvEK.png",
+            "sort": 1,
+            "placeholder_hash": "7riFBQQPDJp5eHiYZ5qwxZCHCAiDg4RkaA",
+            "copyright": "Jamnica"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

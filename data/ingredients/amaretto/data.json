@@ -1,0 +1,22 @@
+{
+    "_id": "amaretto",
+    "_parent_id": null,
+    "name": "Amaretto",
+    "strength": 24,
+    "description": "Amaretto is a sweet Italian liqueur that is known for its distinct almond flavor. The name \"Amaretto\" is derived from the Italian word \"amaro,\" which means bitter, indicating the traditional bitter almond flavor. However, modern Amaretto is typically sweet rather than bitter.\n\nThe primary flavor in Amaretto comes from apricot pits or almonds, though today many commercial brands use a combination of both. The production process involves soaking the almonds or apricot pits in alcohol, which extracts their flavors. The resulting liquid is then sweetened with sugar, and sometimes flavored with vanilla or other spices.\n\nAmaretto is often enjoyed on its own as a digestif or as an ingredient in various cocktails and culinary recipes. It is a versatile liqueur that adds a rich and nutty flavor to beverages and desserts. Classic cocktails like the Amaretto Sour, as well as desserts like tiramisu, often feature this popular Italian liqueur.",
+    "origin": "Italy",
+    "color": "#d62b0e",
+    "category": "Liqueurs",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///amaretto-1_kgDxkM.png",
+            "sort": 1,
+            "placeholder_hash": "GpqGHQweKEhynWxl97WfWfyZCCmEhXRFRw",
+            "copyright": "Disaronno"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

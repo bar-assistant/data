@@ -1,0 +1,132 @@
+{
+    "_id": "the-ole-bull",
+    "name": "The Ole Bull",
+    "instructions": "Shake ingredients",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": null,
+    "source": "https://www.reddit.com/r/cocktails/comments/16z9ttn/the_ole_bull_credit_to_death_co/",
+    "garnish": null,
+    "abv": 18.86,
+    "tags": [
+        "Herbacious"
+    ],
+    "glass": "Cocktail",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///the-ole-bull-1_dq8GJk.jpg",
+            "sort": 1,
+            "placeholder_hash": "UxgGDQINiYeFN7nXuH22VxtwoTEI",
+            "copyright": "Reddit"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "aquavit",
+            "name": "Aquavit",
+            "strength": 37.5,
+            "description": "Aquavit is a strong spirit originating in the Nordic countries, at least 37.5% in the alcohol strength department. While caraway is a defining characteristic, the diverse range of botanicals used in aquavit production results in a spirit with a complex and nuanced flavor profile. Aquavit is appreciated for its role in cultural rituals and celebrations, as well as its versatility in various serving contexts.",
+            "origin": "North Europe",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": "Linie Aquavit",
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "strength": 40,
+            "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": "Goslings Black Seal Rum",
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "cinnamon-syrup",
+            "name": "Cinnamon syrup",
+            "strength": 0,
+            "description": "Simple syrup infused with cinnamon. Follow the recipe to make your own at home:\n\n- 1 cup granulated sugar\n- 1 cup water\n- 4 cinnamon sticks, broken into large pieces\n\nBring all ingredients to a boil over medium heat. Reduce heat to medium-low and let simmer for 8-10 minutes until sugar has dissolved, stirring frequently. Remove from heat and let cool. Discard cinnamon sticks, strain into a clean glass jar and cover. Store refrigerated for up to 2 weeks.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "creme-de-cacao-white",
+            "name": "Crème de Cacao (White)",
+            "strength": 25,
+            "description": "Crème de Cacao is a sweet liqueur with a rich chocolate flavor. It is made from cacao beans, which are the primary source of chocolate, and often includes additional ingredients such as vanilla and sugar. White Crème de Cacao is clear or light in color and has a sweeter and smoother taste compared to the dark variety.",
+            "origin": "France",
+            "category": "Crème de",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": "Marie Brizard",
+            "substitutes": [],
+            "sort": 5
+        },
+        {
+            "_id": "maple-syrup",
+            "name": "Maple syrup",
+            "strength": 0,
+            "description": "Maple syrup is a syrup made from the sap of maple trees.",
+            "origin": "Canada",
+            "category": "Syrups",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 6
+        },
+        {
+            "_id": "egg-white",
+            "name": "Egg White",
+            "strength": 0,
+            "description": "Egg white is the clear liquid part of an egg that surrounds the yolk. It is rich in proteins and is commonly used in cooking and baking for its ability to add structure, foam, and a smooth texture to various dishes.",
+            "origin": "Worldwide",
+            "category": "Uncategorized",
+            "amount": 1,
+            "units": "whole",
+            "optional": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 7
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "_id": "godfather",
+    "name": "Godfather",
+    "instructions": "1. Add the blended scotch and amaretto to a mixing glass and stir with ice.\n2. Strain the drink into a lowball glass and fill it with ice. (To take it over the top, add a splash of single malt scotch on top).",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The Godfather cocktail is a simple Scotch and amaretto drink that’s full of flavor! It pairs nutty sweetness with a spicy whiskey finish.",
+    "source": "https://www.acouplecooks.com/godfather-cocktail/",
+    "garnish": "Garnish with a lemon peel.",
+    "abv": 30.67,
+    "tags": [],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///godfather-1_57ZPAo.webp",
+            "sort": 1,
+            "placeholder_hash": "0hgKJgZdZwKcaDaieIKIbGV4RnBoBac",
+            "copyright": "A Couple Cooks"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "scotch-whiskey",
+            "name": "Scotch whiskey",
+            "strength": 40,
+            "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+            "origin": "Scotland",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "amaretto",
+            "name": "Amaretto",
+            "strength": 24,
+            "description": "Amaretto is a sweet Italian liqueur that is known for its distinct almond flavor. The name \"Amaretto\" is derived from the Italian word \"amaro,\" which means bitter, indicating the traditional bitter almond flavor. However, modern Amaretto is typically sweet rather than bitter.\n\nThe primary flavor in Amaretto comes from apricot pits or almonds, though today many commercial brands use a combination of both. The production process involves soaking the almonds or apricot pits in alcohol, which extracts their flavors. The resulting liquid is then sweetened with sugar, and sometimes flavored with vanilla or other spices.\n\nAmaretto is often enjoyed on its own as a digestif or as an ingredient in various cocktails and culinary recipes. It is a versatile liqueur that adds a rich and nutty flavor to beverages and desserts. Classic cocktails like the Amaretto Sour, as well as desserts like tiramisu, often feature this popular Italian liqueur.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "_id": "sangria",
+    "name": "Sangria",
+    "instructions": "1. Chop the orange (leaving the peel on) and apple into bite-sized chunks, then add them to the bottom of a pitcher. Sprinkle them with sugar and stir. Let them stand for 20 minutes at room temperature.\n2. After 20 minutes, pour in the red wine, brandy, orange liqueur, and lemon rounds. Stir and refrigerate 1 to 4 hours. (Don’t go beyond 4 hours or the fruit texture starts to degrade.)\n3. Pour the sangria into ice filled glasses and top with a splash of sparkling water (if desired). Add fruit to each glass, preferably on long skewers for easy snacking.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A punch, sangria traditionally consists of red wine and chopped fruit, often with other ingredients or spirits.\n\nSangria is very popular among foreign tourists in Spain even if locals do not consume the beverage that much. It is commonly served in bars, restaurants, and chiringuitos and at festivities throughout Portugal and Spain.",
+    "source": "https://www.acouplecooks.com/gin-gimlet-cocktail/",
+    "garnish": "Drop fruit chunks into a glass",
+    "abv": 36.36,
+    "tags": [
+        "Wine"
+    ],
+    "glass": "Wine",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///sangria-1_nJuomX.jpg",
+            "sort": 1,
+            "placeholder_hash": "8vcJHgaZtct3adZ4WIBZaZd3ipaweAg",
+            "copyright": "A Couple Cooks"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "red-wine",
+            "name": "Red wine",
+            "strength": 11,
+            "description": "Red wine is a type of wine made from dark-colored grape varieties. The color of red wine comes from the skin of the grapes, which is included in the fermentation process. The skins impart color, tannins, and various flavors to the wine. Red wines can range from light and fruity to rich and full-bodied, and they are typically enjoyed at room temperature. Popular red grape varieties include Cabernet Sauvignon, Merlot, Pinot Noir, and Syrah, among others. Red wine is known for its diverse flavor profiles and is often paired with a variety of foods.",
+            "origin": "Worldwide",
+            "category": "Wines",
+            "amount": 1,
+            "units": "bottle",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "orange",
+            "name": "Orange",
+            "strength": 0,
+            "description": "Orange fruit",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 1,
+            "units": "whole",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "apple",
+            "name": "Apple",
+            "strength": 0,
+            "description": "Apple fruit",
+            "origin": "Worldwide",
+            "category": "Fruits and vegetables",
+            "amount": 1,
+            "units": "whole",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "sugar",
+            "name": "Sugar",
+            "strength": 0,
+            "description": "White sugar",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 3,
+            "units": "tablespoons",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "brandy",
+            "name": "Brandy",
+            "strength": 40,
+            "description": "Brandy is a distilled alcoholic beverage made from fermented fruit juice, most commonly derived from wine. The fruit used can include grapes, apples, pears, or other fruits. The process of making brandy involves fermenting the fruit sugars into alcohol and then distilling the resulting liquid to increase its alcohol content. After distillation, brandy is often aged in wooden barrels, which contributes to its flavor, color, and aroma.\n\nThere are a few types of brandy:\n\n- V.S. (\"very special\") or ✯✯✯ (three stars) designates a blend in which the youngest brandy has been stored for at least two years in a cask.\n- V.S.O.P. (\"very superior old pale\"), Reserve or ✯✯✯✯✯ (five stars) designates a blend in which the youngest brandy is stored for at least four years in a cask.\n- XO (\"extra old\") or Napoléon designates a blend in which the youngest brandy is stored for at least six years.\n- Hors d'âge ('beyond age') is a designation formally equal to XO for Cognac, but for Armagnac it designates brandy that is at least ten years old. In practice, the term is used by producers to market a high-quality product beyond the official age scale.\n\nBrandy has a rich history and is produced in many regions around the world, each with its own traditions and methods. The quality and characteristics of brandy can vary widely based on factors such as the type of fruit used, the distillation process, and the aging conditions.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 10,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        },
+        {
+            "_id": "cointreau",
+            "name": "Cointreau",
+            "strength": 40,
+            "description": "Orange-flavoured triple sec liqueur, it was originally called Curaçao Blanco Triple Sec. Usually more dry tasting than Orange Curaçao.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 10,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 6
+        },
+        {
+            "_id": "lemon",
+            "name": "Lemon",
+            "strength": 0,
+            "description": "Lemon is a citrus fruit known for its bright yellow color and tart flavor.",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 1,
+            "units": "whole",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 7
+        }
+    ]
+}

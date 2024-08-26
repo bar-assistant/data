@@ -1,0 +1,87 @@
+{
+    "_id": "scorched-earth",
+    "name": "Scorched Earth",
+    "instructions": "1. Combine all ingredients with ice in a mixing glass and stir\n2. Strain into a lowball or whiskey glass over ice\n3. Flame orange peel (optionally) and garnish",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A wild and daring twist on the Negroni",
+    "source": "https://tuxedono2.com/scorched-earth-cocktail-recipe",
+    "garnish": "orange peel for garnish",
+    "abv": 22.65,
+    "tags": [
+        "Negroni"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///scorched-earth-1_D8SnDr.jpg",
+            "sort": 1,
+            "placeholder_hash": "BAgGFwIIl6eJh3hxjFeXh4h6iXAHCHYA",
+            "copyright": "TuxedoNo2"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "strength": 40,
+            "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "strength": 16.5,
+            "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
+            "origin": "Italy",
+            "category": "Amaro",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "strength": 25,
+            "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "strength": 28,
+            "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
+            "origin": "Worldwide",
+            "category": "Bitters",
+            "amount": 2,
+            "units": "dash",
+            "optional": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

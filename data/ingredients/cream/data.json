@@ -1,0 +1,22 @@
+{
+    "_id": "cream",
+    "_parent_id": null,
+    "name": "Cream",
+    "strength": 0,
+    "description": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization.",
+    "origin": null,
+    "color": "#fff5e8",
+    "category": "Uncategorized",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///cream-1_dPRFOS.png",
+            "sort": 1,
+            "placeholder_hash": "7RiGBQA56ndtgoC3eBh/cNAoKHeAd3SYdw",
+            "copyright": "CC License"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

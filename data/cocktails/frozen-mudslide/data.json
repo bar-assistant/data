@@ -1,0 +1,89 @@
+{
+    "_id": "frozen-mudslide",
+    "name": "Frozen Mudslide",
+    "instructions": "1. In a blender jug, combine all the ingredients\n2. Blend until smooth\n3. Served in a tall glass",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Death and Co. bartender, Devon Tarby, reworked the 1980s mudslide. Incorporating ice cream into the mudslide removes the need for ice resulting in a richer flavour.",
+    "source": "https://stevethebartender.com.au/frozen-mudslide/",
+    "garnish": "Garnish with grated dark chocolate",
+    "abv": 19.54,
+    "tags": [
+        "Coffee",
+        "Sweet",
+        "Frozen"
+    ],
+    "glass": "Highball",
+    "method": "Blend",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///frozen-mudslide-1_PCTXua.jpg",
+            "sort": 0,
+            "placeholder_hash": "HzkKHYQ/mmiulndJeWaHiHaAWAaX",
+            "copyright": "Steve the Bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "strength": 20,
+            "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
+            "origin": "Mexico",
+            "category": "Liqueurs",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "vodka",
+            "name": "Vodka",
+            "strength": 40,
+            "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
+            "origin": "Russia",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "baileys-irish-cream",
+            "name": "Baileys Irish Cream",
+            "strength": 17,
+            "description": "Baileys Irish Cream is an Irish cream liqueur, an alcoholic drink flavoured with cream, cocoa and Irish whiskey. It is made by Diageo at Nangor Road, in Dublin, Ireland and in Mallusk, Northern Ireland. It is the original Irish cream, invented by a team headed by Tom Jago in 1971 for Gilbeys of Ireland.",
+            "origin": "Ireland",
+            "category": "Liqueurs",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "ice-cream",
+            "name": "Ice cream",
+            "strength": 0,
+            "description": "Ice cream is a frozen dessert made from a mixture of cream, sugar, and flavorings, often with the addition of fruits, nuts, or other ingredients. It is churned and frozen to create a creamy and sweet treat enjoyed in various flavors and forms.",
+            "origin": "Worldwide",
+            "category": "Uncategorized",
+            "amount": 3,
+            "units": "scoops",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

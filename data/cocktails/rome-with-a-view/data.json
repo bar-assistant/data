@@ -1,0 +1,116 @@
+{
+    "_id": "rome-with-a-view",
+    "name": "Rome With a View",
+    "instructions": "1. Add Campari, dry vermouth, lime juice and simple syrup to a cocktail shaker.\n2. Add ice and shake until chilled.\n3. Strain over ice into a Collins glass.\n4. Top with soda water and garnish with an orange wheel.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Michael McIlroy's Rome With a View cocktail recipe falls somewhere between an afternoon appropriate Collins and an Americano.",
+    "source": "https://punchdrink.com/recipes/rome-with-a-view/",
+    "garnish": "orange wheel",
+    "abv": 9.17,
+    "tags": [
+        "Cooler",
+        "Sour",
+        "Citrusy"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///rome-with-a-view-1_No6jYs.webp",
+            "sort": 1,
+            "placeholder_hash": "ZVkOFgaad5iHd7dmiHCHeGh3K4+AoQg",
+            "copyright": "Sips From Scripts"
+        },
+        {
+            "uri": "file:///rome-with-a-view-1_DVWbxE.jpg",
+            "sort": 2,
+            "placeholder_hash": "hzgKHgoIp0ineIeHeHaJdqhoCISGQFg",
+            "copyright": "Grouchy Bartender"
+        },
+        {
+            "uri": "file:///rome-with-a-view-1_zfGfik.jpg",
+            "sort": 3,
+            "placeholder_hash": "8zgONQr4V3yGeHinaHh3iAeHdWBY",
+            "copyright": "Punch Staff | Lizzie Munro"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "strength": 25,
+            "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "dry-vermouth",
+            "name": "Dry Vermouth",
+            "strength": 18,
+            "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
+            "origin": "Worldwide",
+            "category": "Fortified wine",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 1,
+            "units": "topup",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

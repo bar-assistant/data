@@ -1,0 +1,22 @@
+{
+    "_id": "ice-cream",
+    "_parent_id": null,
+    "name": "Ice cream",
+    "strength": 0,
+    "description": "Ice cream is a frozen dessert made from a mixture of cream, sugar, and flavorings, often with the addition of fruits, nuts, or other ingredients. It is churned and frozen to create a creamy and sweet treat enjoyed in various flavors and forms.",
+    "origin": "Worldwide",
+    "color": "#ffffff",
+    "category": "Uncategorized",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///ice-cream-1_3iyBdI.png",
+            "sort": 1,
+            "placeholder_hash": "aimGDQI5kG1Og3YomGmQiASICId+iXZoZw",
+            "copyright": "CC License"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

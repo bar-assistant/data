@@ -1,0 +1,72 @@
+{
+    "_id": "strukani-pelin",
+    "name": "Štrukani Pelin",
+    "instructions": "1. A lemon slice is then squeezed directly into the glass and mixed.\n\nThe amount of lemon juice can vary, sometimes resulting in a drink with equal amounts of both ingredients. More elaborate versions often add orange juice, citrus zest, or spices.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Štrukani pelinkovac (or štrukani pelin) is a somewhat novel Croatian drink that combines pelinkovac (traditional herbal liqueur) with lemon juice. In its basic form, the drink is made with pelinkovac that is poured into an ice-filled glass.",
+    "source": "https://www.journal.hr/lifestyle/gastro/antique-pelinkovac-strukani-pelin-jesenski-koktel-cool-pice/",
+    "garnish": "Lemon wedge",
+    "abv": 9.19,
+    "tags": [
+        "Croatia"
+    ],
+    "glass": "Lowball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///strukani-pelin-1_NF5o7w.jpg",
+            "sort": 1,
+            "placeholder_hash": "pQgOHoboyXaPhpeYhDand2h2BZljcBk",
+            "copyright": "Tasteatlas"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "pelinkovac",
+            "name": "Pelinkovac",
+            "strength": 32,
+            "description": "Pelinkovac is a liqueur based on wormwood, it has a very bitter taste, resembling that of Jägermeister.",
+            "origin": "Southeast Europe",
+            "category": "Amaro",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "tonic",
+            "name": "Tonic",
+            "strength": 0,
+            "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 50,
+            "units": "ml",
+            "optional": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

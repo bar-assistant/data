@@ -1,0 +1,89 @@
+{
+    "_id": "gin-basil-smash",
+    "name": "Gin Basil Smash",
+    "instructions": "1. Muddle basil leaves in a shaker tin.\n2. Add remaining ingredients and ice and shake until chilled.\n3. Double strain into a rocks glass filled with ice.\n4. Garnish with basil leaves.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "At Le Lion where the drink was created in 2008, 300 to 500 have been sold every week since its debut—22,000 a year—and the bar goes through more than 3,100 bottles of gin every twelve months. The drink is served at bars all across Germany—so much so that one bartender, griping about the amount of basil-muddling required to make it, once called it “Meyer’s curse.”",
+    "source": "https://punchdrink.com/recipes/gin-basil-smash/",
+    "garnish": "Basil leaves",
+    "abv": 17.07,
+    "tags": [
+        "Summer",
+        "Bright",
+        "Smash"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///gin-basil-smash-1_01QU5H.jpg",
+            "sort": 1,
+            "placeholder_hash": "EhkOHQYmeJCIR7eHdpp3h2iQdwvY",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "basil",
+            "name": "Basil",
+            "strength": 0,
+            "description": "Basil is an annual, or sometimes perennial, herb used for its leaves.",
+            "origin": "Worldwide",
+            "category": "Fruits and vegetables",
+            "amount": 10,
+            "units": "leaves",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

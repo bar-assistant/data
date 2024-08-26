@@ -1,0 +1,103 @@
+{
+    "_id": "spicy-fifty",
+    "name": "Spicy Fifty",
+    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": null,
+    "source": "https://iba-world.com/spicy-fifty/",
+    "garnish": "Garnish with a red chilli pepper",
+    "abv": 17.78,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks"
+    ],
+    "glass": "Cocktail",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///spicy-fifty-1_SAHTpM.jpg",
+            "sort": 1,
+            "placeholder_hash": "ShgKDQAWeWuFF7kGuYbItzd6sNAI",
+            "copyright": "MixolopediA"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "vodka",
+            "name": "Vodka",
+            "strength": 40,
+            "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
+            "origin": "Russia",
+            "category": "Spirits",
+            "amount": 50,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "elderflower-cordial",
+            "name": "Elderflower Cordial",
+            "strength": 0,
+            "description": "Herbal juice made from elderflower.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "strength": 0,
+            "description": "Syrup made from dissolving honey in water.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 10,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "chilli-pepper",
+            "name": "Chilli Pepper",
+            "strength": 0,
+            "description": "Chili peppers are known for their pungent and spicy flavor, attributed to the compound capsaicin. They come in various shapes, sizes, and colors, ranging from mild to extremely hot varieties.",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 2,
+            "units": "slices",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

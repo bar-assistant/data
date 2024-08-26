@@ -1,0 +1,73 @@
+{
+    "_id": "hanky-panky",
+    "name": "Hanky Panky",
+    "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The Hanky-Panky was the brainchild of Ada Coleman (known as \"Coley\") who began as a bartender at the Savoy Hotel in 1903. Her benefactor was Rupert D'Oyly Carte, a member of the family that first produced Gilbert and Sullivan operas in London and that built the Savoy Hotel. When Rupert became chairman of the Savoy, Ada was given a position at the hotel's American Bar, where she eventually became the head bartender and made cocktails for the likes of Mark Twain, the Prince of Wales, Prince Wilhelm of Sweden, and Sir Charles Hawtrey.\n\nColeman created the Hanky-Panky for Hawtrey. He was a Victorian and Edwardian actor who mentored Noël Coward. ",
+    "source": "https://iba-world.com/hanky-panky/",
+    "garnish": "Orange zest.",
+    "abv": 24.81,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///hanky-panky-1_4wsRde.jpg",
+            "sort": 1,
+            "placeholder_hash": "NQgKDQLDV7qLaEf2SnhlSAU7daA1",
+            "copyright": "Punch / Daniel Krieger"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "strength": 18,
+            "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+            "origin": "Worldwide",
+            "category": "Fortified wine",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "fernet-branca",
+            "name": "Fernet Branca",
+            "strength": 39,
+            "description": "Fernet Branca is a bittersweet, herbal liqueur made with a number of different herbs and spices, including myrrh, rhubarb, chamomile, cardamom, aloe, and gentian root.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

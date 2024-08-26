@@ -1,0 +1,22 @@
+{
+    "_id": "islay-scotch-whiskey",
+    "_parent_id": "whiskey",
+    "name": "Islay Scotch Whiskey",
+    "strength": 40,
+    "description": "Islay Scotch refers to Scotch whisky that is produced on the Isle of Islay, which is one of the whisky-producing regions of Scotland. Islay whiskies are renowned for their distinctive and peaty character, often featuring robust and smoky flavors that set them apart from whiskies produced in other regions.\n\nWell-known Islay distilleries include Ardbeg, Laphroaig, Lagavulin, and Bowmore, among others. Islay Scotch whiskies are appreciated by enthusiasts who enjoy the bold and distinctive flavor profile associated with the region. They are often enjoyed neat or with a splash of water to unlock the complexities of the spirit.",
+    "origin": "Isle of Islay",
+    "color": "#d54a06",
+    "category": "Spirits",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///islay-scotch-whiskey-1_t5CAY7.png",
+            "sort": 1,
+            "placeholder_hash": "E/mJNQIeH2N1d4daNwh7hA23CBiEhHNDVw",
+            "copyright": "Ardbeg"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

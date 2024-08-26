@@ -1,0 +1,102 @@
+{
+    "_id": "andalusian-buck",
+    "name": "Andalusian Buck",
+    "instructions": "1. Combine gin, sherry, lime juice, and Demerara syrup in a cocktail shaker with ice.\n2. Shake until cold.\n3. I like to add the ginger beer directly to the shaker, then pour slowly over fresh ice in a chilled Collins glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "This drink is great because it doesn’t go too far any any direction. It’s not too sweet, there’s only a teaspoon of sugar in the whole thing. It’s not too sour, there’a barely half a lime’s worth of juice. And it’s not too strong, it only calls for an ounce of gin. And between the ginger beer and the Amontillado sherry, it’s absolutely bursting with flavor. In sort, it’s refreshing and crushable, but still interesting, which was exactly the type of drink we specialized in at Clyde Common.",
+    "source": "https://jeffreymorgenthaler.com/andalusian-buck/",
+    "garnish": "Garnish with a lime wheel.",
+    "abv": 10.13,
+    "tags": [
+        "Savory"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///andalusian-buck-1_B8FdyH.jpg",
+            "sort": 1,
+            "placeholder_hash": "V1kKDQQjh3WJB4eXeHaIaIylwH+J",
+            "copyright": "Jeffrey Morgenthaler"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "sherry",
+            "name": "Sherry",
+            "strength": 17,
+            "description": "Sherry is a fortified wine that originates from the Jerez region in southwestern Spain. It is made from white grapes, primarily the Palomino grape variety, and is known for its unique production process, diverse styles, and complex flavors. Sherry has a protected designation of origin (DO) status, meaning that only wines produced in the designated region can be labeled as Sherry.",
+            "origin": "Spain",
+            "category": "Wines",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 1,
+            "units": "Barspoon",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "ginger-ale",
+            "name": "Ginger ale",
+            "strength": 0,
+            "description": "Ginger ale is a non-alcoholic carbonated beverage flavored with ginger. It is known for its fizzy and slightly spicy taste, derived from the natural or artificial ginger flavorings used in its production. Ginger ale is often consumed on its own as a refreshing soft drink, and it is also a common mixer in various cocktails. There are both commercial and homemade versions of ginger ale, with variations that may include additional ingredients such as citrus or sweeteners.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

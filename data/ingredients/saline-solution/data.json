@@ -1,0 +1,22 @@
+{
+    "_id": "saline-solution",
+    "_parent_id": null,
+    "name": "Saline solution",
+    "strength": 0,
+    "description": null,
+    "origin": null,
+    "color": "#ffffff",
+    "category": "Uncategorized",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///saline-solution-1_zYQv17.jpg",
+            "sort": 1,
+            "placeholder_hash": "s/eBBQAjhgqHd3d3eMB1aY93CKd4h4eIeA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

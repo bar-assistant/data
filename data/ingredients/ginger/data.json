@@ -1,0 +1,22 @@
+{
+    "_id": "ginger",
+    "_parent_id": null,
+    "name": "Ginger",
+    "strength": 0,
+    "description": "Ginger root used as a spice",
+    "origin": null,
+    "color": null,
+    "category": "Fruits and vegetables",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///ginger-1_ef3TG8.png",
+            "sort": 1,
+            "placeholder_hash": "5xmGFQYr2WeAmXXY1rHAlwh5BVaBh3Nnag",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

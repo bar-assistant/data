@@ -1,0 +1,88 @@
+{
+    "_id": "avenue-scotch",
+    "name": "Avenue Scotch",
+    "instructions": "1. Add all ingredients to a cocktail shaker\n2. Add ice and shake hard for 10 seconds\n3. Strain into a chilled Nick & Nora glass",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "From frigid Iceland comes this tropical sour. Created by Jónmundur Þorsteinsson.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/avenue-scotch",
+    "garnish": "Thyme",
+    "abv": 13.71,
+    "tags": [
+        "Tropical",
+        "Fruity"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///avenue-scotch-1_8AYxRJ.jpg",
+            "sort": 1,
+            "placeholder_hash": "WzkKFwQdiVhnd2eUZgibpXeKyIMEjXMA",
+            "copyright": "LiberAndCo"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "scotch-whiskey",
+            "name": "Scotch whiskey",
+            "strength": 40,
+            "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+            "origin": "Scotland",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "passionfruit-syrup",
+            "name": "Passionfruit syrup",
+            "strength": 0,
+            "description": "Passionfruit syrup is trickier to make and sometimes requires more obscure ingredients. This makes it one of the only flavored syrups worth buying over the counter.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "ginger-syrup",
+            "name": "Ginger syrup",
+            "strength": 0,
+            "description": "Syrup infused with ginger root.\n\nThis ginger syrup is fantastic in cocktails, but it also makes an out-of-this-world ginger ale. To make ginger ale, simply fill an ice-filled glass a third of the way with the syrup, top with soda water and a squeeze of lime, stir and enjoy.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

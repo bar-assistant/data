@@ -1,0 +1,58 @@
+{
+    "_id": "dantes-garibaldi",
+    "name": "Dante’s Garibaldi",
+    "instructions": "1. Build the Campari and orange juice in a small highball glass filled with ice.\n2. Stir and garnish with the orange wedge.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The flagship drink at Dante is named after Italian revolutionary Giuseppe Garibaldi, who was a central figure in the unification of Italy. Its two ingredients—Campari from the north acting as a nod to the red shirts worn by Garibaldi’s freedom fighters and bright orange representing Sicily to the south—are symbolic of its heritage.",
+    "source": "https://punchdrink.com/recipes/dantes-garibaldi/",
+    "garnish": "Orange wedge",
+    "abv": 6.2,
+    "tags": [
+        "Bitter",
+        "Citrusy"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///dantes-garibaldi-1_Uw5NHf.jpg",
+            "sort": 1,
+            "placeholder_hash": "KDkONQz3V3t0eGiXh4SIeAmGlEBH",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "strength": 25,
+            "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "strength": 0,
+            "description": "Freshly squeezed orange juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 120,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        }
+    ]
+}

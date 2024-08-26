@@ -1,0 +1,72 @@
+{
+    "_id": "shirley-temple",
+    "name": "Shirley Temple",
+    "instructions": "1. Fill a Collins glass with cubed ice.\n2. Add the grenadine and lime juice.\n3. Top with the ginger ale and gently stir to combine.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The cocktail may have been invented by a bartender at Chasen's, a restaurant in West Hollywood, California, to serve then-child actress Shirley Temple.",
+    "source": "https://en.wikipedia.org/wiki/Shirley_Temple_(drink)",
+    "garnish": "Garnish with two skewered Luxardo maraschino cherries.",
+    "abv": 0,
+    "tags": [
+        "Virgin"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///shirley-temple-1_aevMaS.webp",
+            "sort": 1,
+            "placeholder_hash": "8gcGFYb8qHZbdJZjlwipjgZ3c4BH",
+            "copyright": "Spruce"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "ginger-ale",
+            "name": "Ginger ale",
+            "strength": 0,
+            "description": "Ginger ale is a non-alcoholic carbonated beverage flavored with ginger. It is known for its fizzy and slightly spicy taste, derived from the natural or artificial ginger flavorings used in its production. Ginger ale is often consumed on its own as a refreshing soft drink, and it is also a common mixer in various cocktails. There are both commercial and homemade versions of ginger ale, with variations that may include additional ingredients such as citrus or sweeteners.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 150,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 10,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "grenadine-syrup",
+            "name": "Grenadine Syrup",
+            "strength": 0,
+            "description": "Fruit syrup made from pomegranates.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

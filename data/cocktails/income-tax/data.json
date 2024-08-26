@@ -1,0 +1,100 @@
+{
+    "_id": "income-tax",
+    "name": "Income Tax",
+    "instructions": "1. Combine all ingredients in a cocktail shaker and shake for about ten seconds\n2. Strain into a cocktail glass and garnish",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "An old-timey double dose of vermouth",
+    "source": "https://tuxedono2.com/bronx-cocktail-recipe",
+    "garnish": "dashes angostura bitters\n\norange wedge for garnish",
+    "abv": 21.42,
+    "tags": [],
+    "glass": "Cocktail",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///income-tax-1_NMXOiO.jpg",
+            "sort": 1,
+            "placeholder_hash": "RQgGFwAGmJh6hoZzexe4R5iKecAnB34A",
+            "copyright": "TuxedoNo2"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "strength": 18,
+            "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+            "origin": "Worldwide",
+            "category": "Fortified wine",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "dry-vermouth",
+            "name": "Dry Vermouth",
+            "strength": 18,
+            "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
+            "origin": "Worldwide",
+            "category": "Fortified wine",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "strength": 0,
+            "description": "Freshly squeezed orange juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 2,
+            "units": "part",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

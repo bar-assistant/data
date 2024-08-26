@@ -1,0 +1,22 @@
+{
+    "_id": "swedish-punsch",
+    "_parent_id": null,
+    "name": "Swedish punsch",
+    "strength": 26,
+    "description": "Swedish Punsch (not to be confused with punch) is also known as Arrack Punsch, Caloric Punch, Punssi in Finnish, and simply as Punsch. Based on Batavia arrack, it is a style of liqueur popular in Sweden and other Nordic countries (Norwegian Punsch was also produced by the state-owned monopoly), with a strength ranging from 27% - 50% alc./vol.",
+    "origin": "Sweden",
+    "color": "#f1b337",
+    "category": "Liqueurs",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///swedish-punsch-1_jfCST4.png",
+            "sort": 1,
+            "placeholder_hash": "E4mKLRYe8ZeOapqWSGmfnPbJDQ2Hh3d3eA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

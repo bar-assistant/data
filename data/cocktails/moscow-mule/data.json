@@ -1,0 +1,74 @@
+{
+    "_id": "moscow-mule",
+    "name": "Moscow Mule",
+    "instructions": "In a Mule Cup or rocks glass, combine the vodka and ginger beer. Add lime juice and gently stir to involve all ingredients.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The Moscow Mule is a classic cocktail that gained popularity in the mid-20th century. It is known for its distinctive presentation in a copper mug and its refreshing combination of flavors.",
+    "source": "https://iba-world.com/moscow-mule/",
+    "garnish": "Garnish with a lime slice",
+    "abv": 9.35,
+    "tags": [
+        "Contemporary Classics",
+        "IBA Cocktail",
+        "Mule"
+    ],
+    "glass": "Copper mug",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///moscow-mule-1_0UrVj4.jpg",
+            "sort": 1,
+            "placeholder_hash": "JAkGFwagP4bhlYdpiui3pmW3p0IIFpAD",
+            "copyright": "Bake It With Love"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "vodka",
+            "name": "Vodka",
+            "strength": 40,
+            "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
+            "origin": "Russia",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "ginger-ale",
+            "name": "Ginger ale",
+            "strength": 0,
+            "description": "Ginger ale is a non-alcoholic carbonated beverage flavored with ginger. It is known for its fizzy and slightly spicy taste, derived from the natural or artificial ginger flavorings used in its production. Ginger ale is often consumed on its own as a refreshing soft drink, and it is also a common mixer in various cocktails. There are both commercial and homemade versions of ginger ale, with variations that may include additional ingredients such as citrus or sweeteners.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 120,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 10,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

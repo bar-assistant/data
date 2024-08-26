@@ -1,0 +1,22 @@
+{
+    "_id": "grenadine-syrup",
+    "_parent_id": null,
+    "name": "Grenadine Syrup",
+    "strength": 0,
+    "description": "Fruit syrup made from pomegranates.",
+    "origin": "Worldwide",
+    "color": "#bb0014",
+    "category": "Syrups",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///grenadine-syrup-1_a6UHiY.png",
+            "sort": 1,
+            "placeholder_hash": "YziaDQQeiHiAiHeoh62vqvmZBwd5eXdnaA",
+            "copyright": "Monin"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

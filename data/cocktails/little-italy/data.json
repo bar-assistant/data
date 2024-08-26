@@ -1,0 +1,70 @@
+{
+    "_id": "little-italy",
+    "name": "Little Italy",
+    "instructions": "Stir all ingredients with ice for about 20 seconds. Strain into a small chilled cocktail glass and garnish with a cherry or a piece of marinated artichoke heart.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Audrey Sanders, mixology royalty, created this drink as a homage to the New York City’s Little Italy neighborhood. We first read about it in Imbibe magazine, where they recommended garnish with brandied cherries and letting a little of the cherry liquid dribble into the glass – a modification we heartily endorse.\n\nNot gonna lie – the Little Italy a love-it-or-hate it flavor. If you’re a fan of bitter flavors and you’re looking for an alternative to yet another Negroni, it may just be up your alley. It really is a superb after-dinner drink, where the medicinal overtones can be explained away as part of the history of the digestíf as a post-meal tummy-soother.\n\nMake sure to have very fresh vermouth on hand for this drink; it’s bitter enough without the acrid tang of old vermouth.",
+    "source": "https://punchdrink.com/recipes/little-italy/",
+    "garnish": null,
+    "abv": 26.09,
+    "tags": [],
+    "glass": "Cocktail",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///little-italy-1_9dEPEt.jpg",
+            "sort": 0,
+            "placeholder_hash": "cSgKFQLad6SXKYmXWpBpaUZqb6DG",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "rye-whiskey",
+            "name": "Rye whiskey",
+            "strength": 40,
+            "description": "Rye whiskey is a type of whiskey made primarily from rye grain. To be labeled as rye whiskey in the United States, the mash (grain mixture fermented to make alcohol) must be composed of at least 51% rye. The remaining ingredients in the mash can include other grains such as corn and barley. Rye whiskey is aged in new charred oak barrels, and the final product must be distilled to no more than 160 proof and entered into the barrel for aging at no more than 125 proof.\n\nAmerican rye whiskey tends to have a spicier and more robust flavor profile compared to bourbon, which is primarily made from corn.\n\nIn Canada, the term \"rye\" is often used broadly and doesn't necessarily mean that the whiskey is made predominantly from rye grain. Canadian rye whisky can contain a mix of grains, and the flavor profile may vary. Some Canadian whiskies labeled as \"rye\" are made with little or no rye content.\n\nRye whiskey is known for its distinctive taste, which can include spicy, fruity, and sometimes peppery notes. It can be enjoyed neat, on the rocks, or used in various cocktails such as the classic Manhattan or Old Fashioned.",
+            "origin": "North America",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "strength": 16.5,
+            "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
+            "origin": "Italy",
+            "category": "Amaro",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "strength": 18,
+            "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+            "origin": "Worldwide",
+            "category": "Fortified wine",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

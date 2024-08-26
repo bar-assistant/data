@@ -1,0 +1,100 @@
+{
+    "_id": "strawberry-daiquiri",
+    "name": "Strawberry Daiquiri",
+    "instructions": "1. Use a muddler to crush 2 strawberries in a shaker\n2. Add the remaining ingredients and shake well with ice\n3. Double strain into a chilled glass",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Dry sherry brings dimension to this update on the strawberry Daiquiri in this recipe from Sweet Liberty Drinks & Supply Co. in Miami.",
+    "source": "https://imbibemagazine.com/recipe/strawberry-daiquiri-jl-remix/",
+    "garnish": "Skewered strawberry half dusted with black pepper",
+    "abv": 16.86,
+    "tags": [],
+    "glass": "Nick and Nora",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///strawberry-daiquiri-1_Vhqbx7.jpg",
+            "sort": 0,
+            "placeholder_hash": "7CgGFQZhlv+KVzfFWUXbdVJBECQF",
+            "copyright": "Strawberry Daiquiri | Photo by John Valls"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "sherry",
+            "name": "Sherry",
+            "strength": 17,
+            "description": "Sherry is a fortified wine that originates from the Jerez region in southwestern Spain. It is made from white grapes, primarily the Palomino grape variety, and is known for its unique production process, diverse styles, and complex flavors. Sherry has a protected designation of origin (DO) status, meaning that only wines produced in the designated region can be labeled as Sherry.",
+            "origin": "Spain",
+            "category": "Wines",
+            "amount": 15,
+            "units": "ml",
+            "optional": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "strawberry",
+            "name": "Strawberry",
+            "strength": 0,
+            "description": null,
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 2,
+            "units": "whole",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

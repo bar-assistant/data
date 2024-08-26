@@ -1,0 +1,22 @@
+{
+    "_id": "bourbon-whiskey",
+    "_parent_id": "whiskey",
+    "name": "Bourbon Whiskey",
+    "strength": 40,
+    "description": "A type of American whiskey, primarily made from corn and aged in new charred oak barrels. Bourbon has a sweet and full-bodied flavor profile.\n\nTo be labeled as bourbon, a whiskey must meet the following criteria:\n\n1. Grain Mash Composition: Bourbon must be made from a grain mash that is at least 51% corn. The remaining portion of the mash can include other grains such as barley, rye, and wheat.\n\n2. Distillation: Bourbon must be distilled to no more than 160 proof (80% alcohol by volume) and entered into the barrel for aging at no more than 125 proof (62.5% alcohol by volume).\n\n3. Barrel Aging: Bourbon must be aged in new charred oak barrels. There is no minimum aging requirement for bourbon, but to be labeled as \"straight bourbon,\" it must be aged for at least two years.\n\n4. No Additives: Bourbon must not contain any additives except water to adjust the proof.\n\n5. Bottling Strength: Bourbon must be bottled at a minimum of 80 proof (40% alcohol by volume).\n\n6. Geographic Origin: While bourbon can be produced anywhere in the United States, it is strongly associated with Kentucky, and many consider Kentucky bourbon to be a distinctive category.",
+    "origin": "North America",
+    "color": "#d54a06",
+    "category": "Spirits",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///bourbon-whiskey-1_cTgHn4.png",
+            "sort": 1,
+            "placeholder_hash": "H6qOHQwtinZgiYuZd3uOgNcIF2eAg3JVeA",
+            "copyright": "Buffalo Trace"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

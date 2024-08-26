@@ -1,0 +1,88 @@
+{
+    "_id": "bees-knees",
+    "name": "Bee’s Knees",
+    "instructions": "1. Stir honey with lemon and orange juices until it dissolves\n2. Add gin and shake with ice\n3. Strain into a chilled cocktail glass\n\n**Variations:**\n- Barr Hill Gin is sometimes recommended for its honey infusion, though other gins may be used (including Barr Hill's Tom Cat gin).\n- The honey may be diluted 1:1 with warm water to thin the consistency.\n- The honey may be diluted 1:1 with simple syrup instead of water.\n- A sprig of basil or thyme may be used for garnish instead of lemon peel.\n- Some variations contain orange juice\n- Add 2 dashes of absinthe and 2 dashes of orange bitters to make a variation called \"Oldest Living Confederate Widow\"",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The Bee's Knees was invented by Frank Meier, an Austrian-born, part Jewish bartender who was the first head bartender at the Ritz in Paris in 1921, when its Cafe Parisian opened its doors.\n\nThe name comes from prohibition-era slang meaning \"the best\".",
+    "source": "https://iba-world.com/bees-knees/",
+    "garnish": "Optionally garnish with a lemon or orange zest.",
+    "abv": 16,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///bees-knees-1_FVnu8w.jpg",
+            "sort": 1,
+            "placeholder_hash": "UQgKFQIUm5KUCZiHlmi4eUWIcIUJ",
+            "copyright": "Kitchen Swagger"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "strength": 0,
+            "description": "Syrup made from dissolving honey in water.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "strength": 0,
+            "description": "Freshly squeezed orange juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

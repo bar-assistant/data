@@ -1,0 +1,87 @@
+{
+    "_id": "20th-century",
+    "name": "20th Century",
+    "instructions": "1. Combine all ingredients with ice and shake\n2. Strain into a coupe, serve up",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "description": "The 20th Century is a cocktail created in 1937 by a British bartender named C.A. Tuck, and named in honor of the celebrated 20th Century Limited train which ran between New York City and Chicago from 1902 until 1967.",
+    "source": "https://en.wikipedia.org/wiki/20th_Century_(cocktail)",
+    "garnish": "Lemon twist",
+    "abv": 20.91,
+    "tags": [
+        "Contemporary Classics"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///20th-century-1_V3xSEA.jpg",
+            "sort": 1,
+            "placeholder_hash": "DykODgIIt2hoh0e3aHSKeIeHV4CJbvg",
+            "copyright": "Imbibe Magazine"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "creme-de-cacao-white",
+            "name": "Crème de Cacao (White)",
+            "strength": 25,
+            "description": "Crème de Cacao is a sweet liqueur with a rich chocolate flavor. It is made from cacao beans, which are the primary source of chocolate, and often includes additional ingredients such as vanilla and sugar. White Crème de Cacao is clear or light in color and has a sweeter and smoother taste compared to the dark variety.",
+            "origin": "France",
+            "category": "Crème de",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lillet-blanc",
+            "name": "Lillet Blanc",
+            "strength": 17,
+            "description": "Lillet Blanc is a French aperitif wine that falls under the category of aromatized wines. It is crafted from a blend of white wine and citrus liqueurs, primarily made from sweet oranges from Spain and bitter green oranges from Morocco. Lillet Blanc is known for its light and floral profile, with hints of citrus, honey, and a subtle bitterness.",
+            "origin": "France",
+            "category": "Fortified wine",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

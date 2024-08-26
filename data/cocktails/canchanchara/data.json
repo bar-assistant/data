@@ -1,0 +1,88 @@
+{
+    "_id": "canchanchara",
+    "name": "Canchànchara",
+    "instructions": "Mix honey with water and lime juice and spread the mixture on the bottom and sides of the glass. Add cracked ice, and then the rum. End by energetically stirring from bottom to top.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Known as the forerunner of the Daiquiri, and drunk by Cuban revolutionaries fighting off the Spanish at the end of the nineteenth century, the Canchànchara is a simple mix of honey, citrus and rum (originally aguardiente de caña rather than rum).",
+    "source": "https://iba-world.com/cachanchara/",
+    "garnish": "Lime wedge.",
+    "abv": 15.58,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks"
+    ],
+    "glass": "Lowball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///canchanchara-1_nWlY3Q.jpg",
+            "sort": 1,
+            "placeholder_hash": "2RgKHwQoaJdweXdwiZlniJiJSB+X9nIL",
+            "copyright": "Liquor.com / Tim Nusog"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "strength": 0,
+            "description": "Syrup made from dissolving honey in water.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "water",
+            "name": "Water",
+            "strength": 0,
+            "description": "It's water.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 50,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

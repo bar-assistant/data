@@ -1,0 +1,22 @@
+{
+    "_id": "orange-juice",
+    "_parent_id": null,
+    "name": "Orange juice",
+    "strength": 0,
+    "description": "Freshly squeezed orange juice.",
+    "origin": null,
+    "color": "#ff9518",
+    "category": "Juices",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///orange-juice-1_EFdfo4.png",
+            "sort": 1,
+            "placeholder_hash": "5NyGFQhK/GqId3eIeAWIN2CHP5iHeHd3iA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

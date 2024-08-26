@@ -1,0 +1,22 @@
+{
+    "_id": "sanbitter",
+    "_parent_id": null,
+    "name": "Sanbitter",
+    "strength": 0,
+    "description": "Sanbittèr is very similar to Campari, with a bold bitter orange flavor and notes of grapefruit. A key distinction is that Sanbittèr contains no alcohol. It’s mildly carbonated and refreshingly dry on the finish. Despite the bitter profile, it is fairly sweet, with 15.8g of sugar per bottle.",
+    "origin": "Italy",
+    "color": "#f72d2d",
+    "category": "Beverages",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///sanbitter-1_nco7h9.png",
+            "sort": 1,
+            "placeholder_hash": "FhqLFQgedW+YeHeIdwyIyHCIBxeDhHd3eA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

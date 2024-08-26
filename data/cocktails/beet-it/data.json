@@ -1,0 +1,85 @@
+{
+    "_id": "beet-it",
+    "name": "Beet It",
+    "instructions": "1. Pour all of the ingredients into a shaker.\n2. Add ice, give it a good shake and strain.\n3. Serve up, into a coupe or martini glass.\n4. Top with drops of olive oil.\n\n**Note:** No prebottled beet juice will live up to freshly juiced beets. If you don't have your own juicer at home, the best option is to swing by your local fresh juice shop and have them make you a fresh batch. A 16-oz. to-go cup will make 16 cocktails. Natural grocery stores carry decent bottled beet juice, but they generally add acid in the form of lemon juice and citric acid as a preservative, in which case you can pull back on the amount of lime juice to keep the cocktail balanced.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "According to Chris D'Apice, beverage director of San Diego's Books &amp; Records, this mezcal beet cocktail drinks like an earthy, vegetal Margarita. Garnishing the cocktail with drops of olive oil enhances its savory character while also giving it a velvety mouthfeel.",
+    "source": "https://imbibemagazine.com/recipe/beet-it-a-mezcal-beet-cocktail/",
+    "garnish": "Drops of olive oil",
+    "abv": 13.47,
+    "tags": [],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///beet-it-1_pMczC0.jpg",
+            "sort": 1,
+            "placeholder_hash": "LggGDYLkS2PCjmZ2KvmmKjhfmPBm",
+            "copyright": "Imbibe Magazine | Kimberly Motos"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "strength": 40,
+            "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "beet-juice",
+            "name": "Beet juice",
+            "strength": 0,
+            "description": "Fresh juice made from beets.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "agave-syrup",
+            "name": "Agave Syrup",
+            "strength": 0,
+            "description": "Agave syrup, also known as agave nectar, is a sweetener that is derived from the sap of the agave plant, primarily the blue agave plant native to Mexico. The syrup is a popular alternative to traditional sweeteners like sugar and honey, particularly in the context of natural and organic food products.\n\nAgave syrup is praised for its sweetness and versatility. It is sweeter than sugar, so smaller amounts can be used to achieve the same level of sweetness. Additionally, it has a lower glycemic index compared to some other sweeteners, meaning it has a smaller impact on blood sugar levels.\n\nAgave syrup has a mild, neutral flavor, making it suitable for a variety of culinary applications. It is commonly used as a sweetener in beverages, baked goods, and desserts. However, it's essential to note that agave syrup, like any sweetener, should be consumed in moderation due to its high fructose content.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

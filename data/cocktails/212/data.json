@@ -1,0 +1,89 @@
+{
+    "_id": "212",
+    "name": "212",
+    "instructions": "1. Combine all ingredients in a shaker and shake\n2. Double strain into large, chilled glass filled with ice.\n3. Optionally top with soda.",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "description": "The 212 is a delectable cocktail in a big, beautiful, reddish-pink package. It’s a simple summer diddy that wins hearts with a kiss of bitterness and a big splash of earthy fruit. The recipe was originally conceived by Aisha Sharpe and Willy Shine of the cocktail consultancy Contemporary Cocktails, who created menus and drinks for NYC hot spots. It later found its way into the fabulous PDT Cocktail Book, and a wider distribution of eyes and tongues. The name is both a reference to Manhattan’s most popular area code as well as the ratios in the drink, which if you ask us, is pretty freaking clever.",
+    "source": "https://tuxedono2.com/212-cocktail-recipe",
+    "garnish": "grapefruit peel or orange peel for garnish",
+    "abv": 14.56,
+    "tags": [
+        "Bitter",
+        "Citrusy",
+        "Summer"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///212-1_Icyk8R.webp",
+            "sort": 1,
+            "placeholder_hash": "jRgKJwgWlneQlop4eoaXB5h8hXBHCHcD",
+            "copyright": "TuxedoNo2"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-reposado",
+            "name": "Tequila Reposado",
+            "strength": 40,
+            "description": "Tequila Reposado is a type of tequila that has been aged or \"rested\" in oak barrels for a specific period, giving it a mellower and more complex flavor compared to Tequila Blanco (unaged tequila). The term \"reposado\" translates to \"rested\" in Spanish.\n\nReposado occupies a middle ground between the youthful vibrancy of Blanco tequila and the more mature and complex characteristics of Añejo tequila. It appeals to those who appreciate a balance of agave flavor and the influence of oak aging.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "aperol",
+            "name": "Aperol",
+            "strength": 11,
+            "description": "Aperol is an Italian orange-flavored aperitif liqueur known for its vibrant orange color and bittersweet taste. It is produced by the Campari Group and contains a blend of herbs, spices, and botanicals. Aperol is characterized by its lower alcohol content compared to some other aperitifs, making it a popular choice for refreshing cocktails. Aperol's distinct flavor profile and versatility make it a favorite ingredient in a variety of cocktails and spritz variations.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "grapefruit-juice",
+            "name": "Grapefruit juice",
+            "strength": 0,
+            "description": "Freshly squeezed grapefruit juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 1,
+            "units": "Topup",
+            "optional": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

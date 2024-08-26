@@ -1,0 +1,22 @@
+{
+    "_id": "vermouth-bianco",
+    "_parent_id": null,
+    "name": "Vermouth Bianco",
+    "strength": 15,
+    "description": "First launched way back in 1910, Bianco is a wonderful style of vermouth. First inspired by the white flowers of vanilla plants, the bottling has been nicknamed ‘Bianchissimo’, meaning “the whitest of the white”.\n\nWhilst it looks like a dry vermouth, this is a sweeter style, which offers flavours of juicy citrus, berries, peaches and apricots, some mixed herbs, a touch of charcoal, vanilla, honey, apples, and some faint herby bitterness.\n\nDelicate and well balanced, this vermouth is a bartender’s dream, offering sweet complexity that is perfect in White Negronis and Martini style drinks.",
+    "origin": "Italy",
+    "color": "#ffffff",
+    "category": "Fortified wine",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///vermouth-bianco-1_21D4T0.png",
+            "sort": 1,
+            "placeholder_hash": "bBiKBQQe2zR7hX9kd2BNhVAoBwd6eniIdw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

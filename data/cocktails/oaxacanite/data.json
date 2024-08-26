@@ -1,0 +1,102 @@
+{
+    "_id": "oaxacanite",
+    "name": "Oaxacanite",
+    "instructions": "1. Combine all the ingredients in your cocktail shaker\n2. Shake with ice for 12-15 seconds\n3. Double strain into a chilled cocktail glass",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Sasha Petraske wasn't a huge fan of mezcal cocktails as he believed it was too dominate in cocktails. Whilst working at the John Dory Oyster Bar, where Sasha was consulting, Ben Long set forth to change this with the Oaxacanite with great success.A tequila and mezcal split base version of a Bees Knees, almost.Featured in Sasha Petraske Regarding Cocktails.",
+    "source": "https://stevethebartender.com.au/oaxacanite-cocktail-recipe/",
+    "garnish": "Garnish with a twist of grapefruit",
+    "abv": 18.48,
+    "tags": [
+        "Smokey"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///oaxacanite-1_Bxs176.jpg",
+            "sort": 0,
+            "placeholder_hash": "Y0kKDYJJRjRwiHllWYmGdwHMRMA8",
+            "copyright": "Steve the Bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "strength": 40,
+            "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "strength": 40,
+            "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "strength": 0,
+            "description": "Syrup made from dissolving honey in water.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "_id": "allspice-dram",
+    "_parent_id": null,
+    "name": "Allspice dram",
+    "strength": 22.5,
+    "description": "Allspice dram, also known as pimento dram, is a liqueur made from the dried berries of the allspice tree (Pimenta dioica). Despite its name, allspice is a single spice, not a blend. The berries have flavors reminiscent of a combination of cinnamon, cloves, and nutmeg, hence the name \"allspice.\"\n\nTo make allspice dram, the dried allspice berries are crushed or ground and then steeped in high-proof alcohol to extract their flavors. This infusion is typically sweetened with sugar, resulting in a sweet and spiced liqueur. The final product often has a warm and aromatic profile, with notes of cinnamon, clove, and nutmeg.\n\nAllspice dram is used as a flavoring agent in cocktails, adding depth and complexity to drinks. It's a common ingredient in classic and modern tiki cocktails, where its spice-forward profile complements tropical fruit flavors.",
+    "origin": "Greater Antilles",
+    "color": "#69341b",
+    "category": "Liqueurs",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///allspice-dram-1_sqwvd9.png",
+            "sort": 1,
+            "placeholder_hash": "UpmGDQIsakZPpZ/0ykmMnwpoCViAc3Rmhw",
+            "copyright": "St Elizabeth"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

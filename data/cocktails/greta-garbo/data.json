@@ -1,0 +1,112 @@
+{
+    "_id": "greta-garbo",
+    "name": "Greta Garbo",
+    "instructions": "1. Shake all ingredients with ice for 15 seconds. Strain into a 5 1/2-ounce coupe glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A Daiquiri cocktail riff adding a few dashes of absinthe to the classic mix of white rum, lime juice and sugar.",
+    "source": "https://punchdrink.com/recipes/greta-garbo/",
+    "garnish": null,
+    "abv": 20.65,
+    "tags": [],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///greta-garbo-1_mK4e21.jpg",
+            "sort": 1,
+            "placeholder_hash": "CwgODQIKmIR6V7hYmIrmOK+o/L3b",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "absinthe",
+            "name": "Absinthe",
+            "strength": 40,
+            "description": "Absinthe is a highly alcoholic and anise-flavored spirit that is historically known for its association with bohemian culture and its supposed hallucinogenic properties. It is typically green in color, but clear variations also exist. Absinthe is renowned for its distinctive herbal and botanical profile, which often includes ingredients like wormwood (Artemisia absinthium), anise, fennel, and other herbs.\n\nThe production of absinthe involves macerating and distilling these botanicals to create a highly concentrated liquid. The key component, wormwood, was once believed to contain a compound called thujone, thought to induce hallucinations. However, modern absinthes are produced with strict regulations regarding thujone content, and the hallucinogenic effects of traditional absinthe are now considered to be largely exaggerated.\n\nAbsinthe is often served by diluting it with water, typically by pouring cold water over a sugar cube placed on a slotted spoon, which is then held over the glass. This process, known as the \"louche,\" causes the absinthe to cloud and release its herbal flavors.\n\nThe drink gained notoriety in the late 19th and early 20th centuries, particularly in the bohemian and artistic communities of Europe. It was banned in many countries for a period due to concerns about its alleged psychoactive effects and its association with absinthe-induced madness. However, the ban has been lifted in most places, and today absinthe is produced and consumed legally with regulated thujone levels.\n\nAbsinthe has experienced a resurgence in popularity, and while its reputation as a mind-altering substance has been debunked, it is still enjoyed for its unique flavor and the ritualistic manner in which it is often served.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "ouzo",
+                    "name": "Ouzo",
+                    "strength": 35,
+                    "description": "Dry anise-flavored aperitif that is widely consumed in Greece.",
+                    "origin": "Greece",
+                    "category": "Liqueurs",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 4
+        },
+        {
+            "_id": "maraschino",
+            "name": "Maraschino",
+            "strength": 32,
+            "description": "Liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.\n\nThe Luxardo family, an Italian producer, is particularly well-known for its Maraschino liqueur.",
+            "origin": "Croatia",
+            "category": "Liqueurs",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

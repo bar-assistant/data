@@ -1,0 +1,88 @@
+{
+    "_id": "final-ward",
+    "name": "Final Ward",
+    "instructions": "1. Combine all the ingredients into your cocktail shaker\n2. Shake with ice for 12 seconds\n3. Strain into a chilled cocktail glass",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The Final Ward is perhaps the best-know riff on the classic Last Word and was created in 2007 by Phil Ward at Death & Co. NYC. It is still comprised of equal parts with rye whiskey replacing the gin and fresh lemon juice in place of lime.\n\nThe Last Word is a gin-based prohibition-era cocktail which was rediscovered in 2004 and becoming a cult hit in the Seattle area.",
+    "source": "https://stevethebartender.com.au/final-ward-cocktail-recipe-last-word-riff/",
+    "garnish": "Cocktail cherry at the bottom of the glass",
+    "abv": 25.4,
+    "tags": [
+        "Citrusy",
+        "Herbacious"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///final-ward-1_f4MWa0.jpg",
+            "sort": 1,
+            "placeholder_hash": "mhgSFIJXiGdyh3h/h3tngn8X+A",
+            "copyright": "The Educated Barfly"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "rye-whiskey",
+            "name": "Rye whiskey",
+            "strength": 40,
+            "description": "Rye whiskey is a type of whiskey made primarily from rye grain. To be labeled as rye whiskey in the United States, the mash (grain mixture fermented to make alcohol) must be composed of at least 51% rye. The remaining ingredients in the mash can include other grains such as corn and barley. Rye whiskey is aged in new charred oak barrels, and the final product must be distilled to no more than 160 proof and entered into the barrel for aging at no more than 125 proof.\n\nAmerican rye whiskey tends to have a spicier and more robust flavor profile compared to bourbon, which is primarily made from corn.\n\nIn Canada, the term \"rye\" is often used broadly and doesn't necessarily mean that the whiskey is made predominantly from rye grain. Canadian rye whisky can contain a mix of grains, and the flavor profile may vary. Some Canadian whiskies labeled as \"rye\" are made with little or no rye content.\n\nRye whiskey is known for its distinctive taste, which can include spicy, fruity, and sometimes peppery notes. It can be enjoyed neat, on the rocks, or used in various cocktails such as the classic Manhattan or Old Fashioned.",
+            "origin": "North America",
+            "category": "Spirits",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "green-chartreuse",
+            "name": "Green Chartreuse",
+            "strength": 55,
+            "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "maraschino",
+            "name": "Maraschino",
+            "strength": 32,
+            "description": "Liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.\n\nThe Luxardo family, an Italian producer, is particularly well-known for its Maraschino liqueur.",
+            "origin": "Croatia",
+            "category": "Liqueurs",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "_id": "jack-rose",
+    "name": "Jack Rose",
+    "instructions": "1. Combine all ingredients with ice and shake\n2. Strain into a coupe, serve up",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "This simple sweet-tart classic delivers full on apple flavor",
+    "source": "https://tuxedono2.com/jack-rose-cocktail-recipe",
+    "garnish": null,
+    "abv": 18.29,
+    "tags": [
+        "Brandy"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///jack-rose-1_m7Ea1J.jpg",
+            "sort": 0,
+            "placeholder_hash": "BggGDwIIp4h5dIiGiSfHGMh22nBjC1kE",
+            "copyright": "TuxedoNo2"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "apple-brandy",
+            "name": "Apple Brandy",
+            "strength": 40,
+            "description": "Apple brandy is a distilled spirit made from fermented apple juice or cider. The production involves fermenting apples, distilling the resulting liquid, and often aging it in oak barrels. The final product can range from clear to amber in color and exhibits a variety of apple-derived flavors, influenced by the apple varieties used and the aging process. Apple brandy can be enjoyed on its own or used in cocktails and culinary applications. The term encompasses a broad category of apple-based spirits produced globally, with variations in production methods and flavor profiles.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "grenadine-syrup",
+            "name": "Grenadine Syrup",
+            "strength": 0,
+            "description": "Fruit syrup made from pomegranates.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

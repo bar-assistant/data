@@ -1,0 +1,132 @@
+{
+    "_id": "wiz-fizz",
+    "name": "Wiz Fizz",
+    "instructions": "1. Fill a highball glass 1/5 full with root beer and set aside.\n2. Combine the remaining ingredients, except the cream, in a mixing tin and dry shake without ice.\n3. Add the cream and dry shake again.\n4. Add ice and shake again for 30 to 40 seconds.\n5. Strain the ice out of the shaker and dry shake once more for 1 minute.\n6. Pour the contents of the shaker into the highball glass and allow to settle before adding a final topper.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "In this fizzy cocktail recipe, gin, Cynar, lemon, and vanilla syrup act as a base, while egg white and heavy cream combine for a rich body.",
+    "source": "https://punchdrink.com/recipes/wiz-fizz/",
+    "garnish": "Garnish with grated nutmeg and a straw.",
+    "abv": 9.93,
+    "tags": [
+        "Fizz"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///wiz-fizz-1_8XgehV.jpg",
+            "sort": 1,
+            "placeholder_hash": "1DgKFISZSJX0iXeJemWm4GsJzQ",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "strength": 16.5,
+            "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
+            "origin": "Italy",
+            "category": "Amaro",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "egg-white",
+            "name": "Egg White",
+            "strength": 0,
+            "description": "Egg white is the clear liquid part of an egg that surrounds the yolk. It is rich in proteins and is commonly used in cooking and baking for its ability to add structure, foam, and a smooth texture to various dishes.",
+            "origin": "Worldwide",
+            "category": "Uncategorized",
+            "amount": 1,
+            "units": "1",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        },
+        {
+            "_id": "cream",
+            "name": "Cream",
+            "strength": 0,
+            "description": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization.",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 6
+        },
+        {
+            "_id": "root-beer",
+            "name": "Root beer",
+            "strength": 0,
+            "description": "Root beer is a sweet North American soft drink traditionally made using the root bark of the sassafras tree Sassafras albidum or the vine of Smilax ornata (known as sarsaparilla, also used to make a soft drink, sarsaparilla) as the primary flavor. Root beer is typically, but not exclusively, non-alcoholic, caffeine-free, sweet, and carbonated. Like cola, it usually has a thick and foamy head. A well-known use is to add vanilla ice cream to make a root beer float.",
+            "origin": "North America",
+            "category": "Beverages",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 7
+        }
+    ]
+}

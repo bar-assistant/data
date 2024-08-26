@@ -1,0 +1,22 @@
+{
+    "_id": "aquavit",
+    "_parent_id": null,
+    "name": "Aquavit",
+    "strength": 37.5,
+    "description": "Aquavit is a strong spirit originating in the Nordic countries, at least 37.5% in the alcohol strength department. While caraway is a defining characteristic, the diverse range of botanicals used in aquavit production results in a spirit with a complex and nuanced flavor profile. Aquavit is appreciated for its role in cultural rituals and celebrations, as well as its versatility in various serving contexts.",
+    "origin": "North Europe",
+    "color": "#f2e6bb",
+    "category": "Spirits",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///aquavit-1_C7QqFL.png",
+            "sort": 1,
+            "placeholder_hash": "JVqKVQIeCLd1hnfGR4ePat8YCAiIiId3dw",
+            "copyright": "Linie"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

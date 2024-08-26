@@ -1,0 +1,72 @@
+{
+    "_id": "absinthe-frappe",
+    "name": "Absinthe Frappé",
+    "instructions": "1. Combine syrup and absinthe in a shaker filled with ice\n2. Shake for 10 seconds\n3. Strain into a chilled glass filled with crushed ice",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "description": "A dreamy classic that makes absinthe approachable and surprisingly refreshing.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/absinthe-frappe",
+    "garnish": "Fresh mint",
+    "abv": 12,
+    "tags": [
+        "Herbacious"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///absinthe-frappe-1_1fxu6K.jpg",
+            "sort": 1,
+            "placeholder_hash": "NQgGFwBwJIVgZmWJdIpneJiFhpAXLHgA",
+            "copyright": "LiberAndCo | ﻿Juliet ﻿﻿Beletic"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "absinthe",
+            "name": "Absinthe",
+            "strength": 40,
+            "description": "Absinthe is a highly alcoholic and anise-flavored spirit that is historically known for its association with bohemian culture and its supposed hallucinogenic properties. It is typically green in color, but clear variations also exist. Absinthe is renowned for its distinctive herbal and botanical profile, which often includes ingredients like wormwood (Artemisia absinthium), anise, fennel, and other herbs.\n\nThe production of absinthe involves macerating and distilling these botanicals to create a highly concentrated liquid. The key component, wormwood, was once believed to contain a compound called thujone, thought to induce hallucinations. However, modern absinthes are produced with strict regulations regarding thujone content, and the hallucinogenic effects of traditional absinthe are now considered to be largely exaggerated.\n\nAbsinthe is often served by diluting it with water, typically by pouring cold water over a sugar cube placed on a slotted spoon, which is then held over the glass. This process, known as the \"louche,\" causes the absinthe to cloud and release its herbal flavors.\n\nThe drink gained notoriety in the late 19th and early 20th centuries, particularly in the bohemian and artistic communities of Europe. It was banned in many countries for a period due to concerns about its alleged psychoactive effects and its association with absinthe-induced madness. However, the ban has been lifted in most places, and today absinthe is produced and consumed legally with regulated thujone levels.\n\nAbsinthe has experienced a resurgence in popularity, and while its reputation as a mind-altering substance has been debunked, it is still enjoyed for its unique flavor and the ritualistic manner in which it is often served.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

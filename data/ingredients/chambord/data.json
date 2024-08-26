@@ -1,0 +1,22 @@
+{
+    "_id": "chambord",
+    "_parent_id": null,
+    "name": "Chambord",
+    "strength": 16.5,
+    "description": "Chambord is a premium black raspberry liqueur produced in the Loire Valley of France. It is renowned for its rich and luxurious flavor profile, which combines blackberries, Madagascan vanilla, Moroccan citrus peel, honey, and cognac. The liqueur is known for its deep purple color and its distinctive, ornate bottle.\n\nChambord is often used as a flavoring agent in cocktails, adding a sweet and fruity dimension to drinks. It is a popular ingredient in classic cocktails like the \"Chambord Royale,\" where it is mixed with champagne or sparkling wine, and in modern mixology for creating a variety of creative and flavorful beverages.\n\nAdditionally, Chambord can be enjoyed on its own or drizzled over desserts, as its complex and indulgent taste makes it a versatile addition to both cocktails and culinary creations.",
+    "origin": "Worldwide",
+    "color": "#6f1123",
+    "category": "Liqueurs",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///chambord-1_8dL3SG.png",
+            "sort": 1,
+            "placeholder_hash": "ExiOBQArWKh4h3j2SCh/fsCoF3hwhHOGhw",
+            "copyright": "Chambord"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

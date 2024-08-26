@@ -1,0 +1,87 @@
+{
+    "_id": "neruda",
+    "name": "Neruda",
+    "instructions": "Shake the first 3 ingredients together, then pour into an ice-filled glass and top with chilled soda water. Garnish.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "This spirit-free highball skips the booze but not the flavor. “It’s a liquid play on a Sour Patch candy,” says Lore head bartender Marina Markovic. “It’s sweet, refreshing, and gives just enough kick.”",
+    "source": "https://imbibemagazine.com/recipe/neruda-a-spirit-free-highball/",
+    "garnish": "cherries",
+    "abv": 0,
+    "tags": [
+        "Virgin"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///neruda-1_OsSsBa.jpg",
+            "sort": 1,
+            "placeholder_hash": "rkgGFQj0hb11iFpoR3SHegpzkyA3",
+            "copyright": "Imbibe"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "grenadine-syrup",
+            "name": "Grenadine Syrup",
+            "strength": 0,
+            "description": "Fruit syrup made from pomegranates.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "cinnamon-syrup",
+            "name": "Cinnamon syrup",
+            "strength": 0,
+            "description": "Simple syrup infused with cinnamon. Follow the recipe to make your own at home:\n\n- 1 cup granulated sugar\n- 1 cup water\n- 4 cinnamon sticks, broken into large pieces\n\nBring all ingredients to a boil over medium heat. Reduce heat to medium-low and let simmer for 8-10 minutes until sugar has dissolved, stirring frequently. Remove from heat and let cool. Discard cinnamon sticks, strain into a clean glass jar and cover. Store refrigerated for up to 2 weeks.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 1,
+            "units": "topup",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

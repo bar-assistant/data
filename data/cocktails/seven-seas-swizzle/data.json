@@ -1,0 +1,90 @@
+{
+    "_id": "seven-seas-swizzle",
+    "name": "Seven Seas Swizzle",
+    "instructions": "1. Build all the ingredients in the appropriate glass and add half the amount of necessary ice. \n2. Swizzle until the glass is cool.\n3. Top with ice and garnish.\n",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "In his recipe, Nick Batavia plays with green tea syrup and lime, for a riff on the Queen Park Swizzle with traditional punch ingredients.",
+    "source": "https://punchdrink.com/recipes/seven-seas-swizzle/",
+    "garnish": "Mint bouquet and dusting of nutmeg",
+    "abv": 24.25,
+    "tags": [
+        "Sour",
+        "Swizzle",
+        "Citrusy",
+        "Savory"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///seven-seas-swizzle-1_XoAfj7.jpg",
+            "sort": 1,
+            "placeholder_hash": "l9cJFQI3dKKWB7hXhnaIZghrd/Gk",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "arrack",
+            "name": "Arrack",
+            "strength": 40,
+            "description": "Arrack is a distilled alcoholic drink typically produced in India, Sri Lanka and Southeast Asia, made from the fermented sap of coconut flowers or sugarcane, and also with grain (e.g. red rice) or fruit depending upon the country of origin.",
+            "origin": "India",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "strength": 28,
+            "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
+            "origin": "Worldwide",
+            "category": "Bitters",
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

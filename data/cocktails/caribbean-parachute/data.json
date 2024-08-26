@@ -1,0 +1,102 @@
+{
+    "_id": "caribbean-parachute",
+    "name": "Caribbean Parachute",
+    "instructions": "1. Add all of the ingredients except tonic water to a shaker with no ice.\n2. Shake to combine, then add ice and shake well until chilled and foamy.\n3. Add chilled tonic water to an empty Collins glass, then strain the cocktail into the tonic until the top of the drink is half an inch below the rim.\n4. Wait for the foam to completely settle, then finish straining the remainder of the cocktail.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "This rum and tonic adds the building blocks of a Silver Fizz and the balance of a rich amaro, resulting in a beautifully textured highball.",
+    "source": "https://imbibemagazine.com/recipe/caribbean-parachute-rum-highball/",
+    "garnish": null,
+    "abv": 9.15,
+    "tags": [
+        "Summer"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///caribbean-parachute-1_clJ31e.jpg",
+            "sort": 0,
+            "placeholder_hash": "NBkGFQKa4DmVeHOLeZqJqoT2JlZf",
+            "copyright": "Imbibe Magazine"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "amaro-montenegro",
+            "name": "Amaro Montenegro",
+            "strength": 23,
+            "description": "Although not as popular as Averna, Montenegro packs an incredible bouquet of flavors ranging from carmel and chocolate to chartreuse-like herbals, all at a very workable price. As an added bonus, Montenegro is delicious on the rocks and sports an eye-catching bottle.",
+            "origin": "Italy",
+            "category": "Amaro",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "tonic",
+            "name": "Tonic",
+            "strength": 0,
+            "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 90,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

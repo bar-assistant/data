@@ -1,0 +1,89 @@
+{
+    "_id": "sazerac",
+    "name": "Sazerac",
+    "instructions": "1. Rinse a chilled old-fashioned glass with the absinthe.\n2. Add crushed ice and set it aside.\n3. Stir the remaining ingredients over ice in a mixing glass.\n4. Discard the ice and any excess absinthe from the prepared glass.\n5. Strain the mixed drink into the glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The Sazerac is a local variation of a cognac or whiskey cocktail originally from New Orleans, named for the Sazerac de Forge et Fils brand of cognac brandy that served as its original main ingredient.\nThe drink is most traditionally a combination of cognac or rye whiskey, absinthe, Peychaud's Bitters, and sugar, although bourbon whiskey is sometimes substituted for the rye and Herbsaint is sometimes substituted for the absinthe.\nSome claim it is the oldest known American cocktail, with origins in antebellum New Orleans, although drink historian David Wondrich is among those who dispute this, and American instances of published usage of the word cocktail to describe a mixture of spirits, bitters, and sugar can be traced to the dawn of the 19th century.",
+    "source": "https://iba-world.com/sazerac/",
+    "garnish": "Garnish with lemon zest.",
+    "abv": 33.25,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables",
+        "Brandy"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///sazerac-1_SqCEWw.jpg",
+            "sort": 1,
+            "placeholder_hash": "l8cJJwzAdnmJhndoloh4Vpd3OGBVBGME",
+            "copyright": "The Spruce Eats"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "cognac",
+            "name": "Cognac",
+            "strength": 40,
+            "description": "Cognac is a high-quality French brandy produced in the Cognac region, located in the Charente department. It is renowned for its refined and complex flavor profile, resulting from a meticulous production process. Cognac is made exclusively from white grapes, primarily Ugni Blanc, Folle Blanche, and Colombard, which are fermented and distilled using traditional copper pot stills.\n\nCognac's aging process plays a crucial role in its development, as it absorbs characteristics from the oak barrels, contributing notes of vanilla, caramel, and spices. The region's unique maritime climate, with a mix of oceanic and continental influences, further enhances the maturation process.\n\nCognac is renowned for its smooth and elegant taste, with a harmonious balance of fruity, floral, and oaky elements. It is often enjoyed as a sipping spirit and is a key ingredient in classic cocktails like the Sidecar and Brandy Alexander. The production of Cognac is strictly regulated, ensuring that only spirits meeting specific criteria can bear the prestigious Cognac label.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 50,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "absinthe",
+            "name": "Absinthe",
+            "strength": 40,
+            "description": "Absinthe is a highly alcoholic and anise-flavored spirit that is historically known for its association with bohemian culture and its supposed hallucinogenic properties. It is typically green in color, but clear variations also exist. Absinthe is renowned for its distinctive herbal and botanical profile, which often includes ingredients like wormwood (Artemisia absinthium), anise, fennel, and other herbs.\n\nThe production of absinthe involves macerating and distilling these botanicals to create a highly concentrated liquid. The key component, wormwood, was once believed to contain a compound called thujone, thought to induce hallucinations. However, modern absinthes are produced with strict regulations regarding thujone content, and the hallucinogenic effects of traditional absinthe are now considered to be largely exaggerated.\n\nAbsinthe is often served by diluting it with water, typically by pouring cold water over a sugar cube placed on a slotted spoon, which is then held over the glass. This process, known as the \"louche,\" causes the absinthe to cloud and release its herbal flavors.\n\nThe drink gained notoriety in the late 19th and early 20th centuries, particularly in the bohemian and artistic communities of Europe. It was banned in many countries for a period due to concerns about its alleged psychoactive effects and its association with absinthe-induced madness. However, the ban has been lifted in most places, and today absinthe is produced and consumed legally with regulated thujone levels.\n\nAbsinthe has experienced a resurgence in popularity, and while its reputation as a mind-altering substance has been debunked, it is still enjoyed for its unique flavor and the ritualistic manner in which it is often served.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 10,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "sugar",
+            "name": "Sugar",
+            "strength": 0,
+            "description": "White sugar",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 1,
+            "units": "cube",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "peychauds-bitters",
+            "name": "Peychauds Bitters",
+            "strength": 35,
+            "description": "It is a gentian-based bitters, comparable to Angostura bitters, but with a predominant anise aroma combined with a background of mint.",
+            "origin": "North America",
+            "category": "Bitters",
+            "amount": 2,
+            "units": "dashes",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

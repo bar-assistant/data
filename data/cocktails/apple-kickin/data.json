@@ -1,0 +1,104 @@
+{
+    "_id": "apple-kickin",
+    "name": "Apple Kickin'",
+    "instructions": "1. Add all ingredients to a rocks glass with a large format ice cube\n2. Stir for 20 seconds",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A bold, lightly bitter Old Fashioned variant whose flavor profile is an intriguing blend of fresh apple alongside spiced sugarcane.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/apple-kickin",
+    "garnish": "apple slice",
+    "abv": 29.07,
+    "tags": [
+        "Winter",
+        "Fruity",
+        "Herbacious"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///apple-kickin-1_N8mbaK.jpg",
+            "sort": 1,
+            "placeholder_hash": "3CgGHwQMOFJlaHmXinmjh4mn3fJaDZwC",
+            "copyright": "LiberAndCo |  Scott Kallstrand"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "whiskey",
+            "name": "Whiskey",
+            "strength": 40,
+            "description": "Whiskey is a distilled alcoholic beverage made from fermented grain mash. The grains used in whiskey production can include barley, corn, rye, and wheat. The production process involves mashing the grains, fermenting the mash, distilling the liquid, and aging it in wooden barrels, usually made of oak. The aging process imparts flavors and character to the whiskey.\n\nThe flavor, aroma, and characteristics of whiskey can vary widely based on factors such as the type of grains used, the distillation process, the type of barrels used for aging, and the duration of maturation. Whiskey is enjoyed in various ways, including neat, on the rocks, or as a key ingredient in cocktails.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "apple-brandy",
+            "name": "Apple Brandy",
+            "strength": 40,
+            "description": "Apple brandy is a distilled spirit made from fermented apple juice or cider. The production involves fermenting apples, distilling the resulting liquid, and often aging it in oak barrels. The final product can range from clear to amber in color and exhibits a variety of apple-derived flavors, influenced by the apple varieties used and the aging process. Apple brandy can be enjoyed on its own or used in cocktails and culinary applications. The term encompasses a broad category of apple-based spirits produced globally, with variations in production methods and flavor profiles.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "demerara-syrup",
+            "name": "Demerara Syrup",
+            "strength": 0,
+            "description": "Syrup made with demerara sugar",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "amaro-montenegro",
+            "name": "Amaro Montenegro",
+            "strength": 23,
+            "description": "Although not as popular as Averna, Montenegro packs an incredible bouquet of flavors ranging from carmel and chocolate to chartreuse-like herbals, all at a very workable price. As an added bonus, Montenegro is delicious on the rocks and sports an eye-catching bottle.",
+            "origin": "Italy",
+            "category": "Amaro",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

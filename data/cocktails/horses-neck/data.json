@@ -1,0 +1,74 @@
+{
+    "_id": "horses-neck",
+    "name": "Horse’s Neck",
+    "instructions": "1. Pour Cognac and ginger ale directly into a highball glass with ice cubes.\n2. Stir gently.\n3. If preferred, add dashes of Angostura Bitter.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Dating back to the 1890s, it was a non-alcoholic mixture of ginger ale, ice and lemon peel. By the 1910s, brandy, or bourbon would be added for a \"Horse's Neck with a Kick\" or a \"Stiff Horse's Neck\". The non-alcoholic version was still served in upstate New York in the late 1950s and early 60s, but eventually it was phased out.",
+    "source": "https://iba-world.com/horses-neck/",
+    "garnish": "Garnish with a rind of one lemon spiral.",
+    "abv": 9.21,
+    "tags": [
+        "Contemporary Classics",
+        "IBA Cocktail",
+        "Brandy"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///horses-neck-1_PbkJrd.jpg",
+            "sort": 1,
+            "placeholder_hash": "uQgKLwL4R5Z5h4eIdnh4t2aHiIBXCHkF",
+            "copyright": "Liquor.com / Tim Nusog"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "cognac",
+            "name": "Cognac",
+            "strength": 40,
+            "description": "Cognac is a high-quality French brandy produced in the Cognac region, located in the Charente department. It is renowned for its refined and complex flavor profile, resulting from a meticulous production process. Cognac is made exclusively from white grapes, primarily Ugni Blanc, Folle Blanche, and Colombard, which are fermented and distilled using traditional copper pot stills.\n\nCognac's aging process plays a crucial role in its development, as it absorbs characteristics from the oak barrels, contributing notes of vanilla, caramel, and spices. The region's unique maritime climate, with a mix of oceanic and continental influences, further enhances the maturation process.\n\nCognac is renowned for its smooth and elegant taste, with a harmonious balance of fruity, floral, and oaky elements. It is often enjoyed as a sipping spirit and is a key ingredient in classic cocktails like the Sidecar and Brandy Alexander. The production of Cognac is strictly regulated, ensuring that only spirits meeting specific criteria can bear the prestigious Cognac label.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 40,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "ginger-ale",
+            "name": "Ginger ale",
+            "strength": 0,
+            "description": "Ginger ale is a non-alcoholic carbonated beverage flavored with ginger. It is known for its fizzy and slightly spicy taste, derived from the natural or artificial ginger flavorings used in its production. Ginger ale is often consumed on its own as a refreshing soft drink, and it is also a common mixer in various cocktails. There are both commercial and homemade versions of ginger ale, with variations that may include additional ingredients such as citrus or sweeteners.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 120,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

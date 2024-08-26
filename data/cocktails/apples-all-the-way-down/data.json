@@ -1,0 +1,102 @@
+{
+    "_id": "apples-all-the-way-down",
+    "name": "Apples All the Way Down",
+    "instructions": "1. Add syrup, lemon, and brandy to a highball glass filled with ice\n2. Top with cider and stir\n3. Slap a sprig of rosemary to release its oils and garnish",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A dash of bitters and fresh rosemary balance the sweetness of this bright highball that's brimming with fall fruit flavor.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/apples-all-the-way-down",
+    "garnish": "Sprig of rosemary",
+    "abv": 10.57,
+    "tags": [
+        "Fruity"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///apples-all-the-way-down-1_g37jDT.jpg",
+            "sort": 1,
+            "placeholder_hash": "zjgKH4YIupZ2eIeBiXeXiJp4qFBYC3QF",
+            "copyright": "LiberAndCo"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "apple-brandy",
+            "name": "Apple Brandy",
+            "strength": 40,
+            "description": "Apple brandy is a distilled spirit made from fermented apple juice or cider. The production involves fermenting apples, distilling the resulting liquid, and often aging it in oak barrels. The final product can range from clear to amber in color and exhibits a variety of apple-derived flavors, influenced by the apple varieties used and the aging process. Apple brandy can be enjoyed on its own or used in cocktails and culinary applications. The term encompasses a broad category of apple-based spirits produced globally, with variations in production methods and flavor profiles.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "grenadine-syrup",
+            "name": "Grenadine Syrup",
+            "strength": 0,
+            "description": "Fruit syrup made from pomegranates.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "apple-cider",
+            "name": "Apple Cider",
+            "strength": 8,
+            "description": "Apple cider is a beverage made from the pressed and fermented juice of apples. The process typically involves crushing apples to extract their juice, which is then fermented by natural yeasts or added commercial yeast to convert the sugars into alcohol. The fermentation process can take place over several weeks, resulting in hard apple cider, which contains alcohol.\n\nHowever, the term \"apple cider\" can also refer to a non-alcoholic beverage, particularly in the United States and parts of Canada. In this context, apple cider is the fresh, unfiltered, and unpasteurized juice of apples. It is often characterized by its cloudy appearance due to the presence of apple solids and sediment.\n\nThe flavor of apple cider can vary depending on the apple varieties used and whether any additional spices, such as cinnamon or cloves, are added. It is a popular beverage in the fall, especially in regions with apple orchards, and is often enjoyed hot or cold. Some people also use apple cider as a base for other drinks or as an ingredient in cooking and baking.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 120,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

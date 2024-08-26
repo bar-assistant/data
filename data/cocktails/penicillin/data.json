@@ -1,0 +1,116 @@
+{
+    "_id": "penicillin",
+    "name": "Penicillin",
+    "instructions": "1. Muddle ginger in a shaker.\n2. Add the remaining ingredients, except for the Islay single malt whiskey.\n3. Fill the shaker with ice and shake.\n4. Double-strain into a chilled old fashioned glass with ice.\n5. Float the single malt whiskey on top.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The drink was created in 2005 by Australian bartender Sam Ross living in New York at the time. Its name derives from the drug penicillin, discovered by Scottish scientist Alexander Fleming, hinting to the medicinal properties of some of its ingredients, with suggested effects similar to that of a hot toddy which is said to relieve the symptoms of cold and flu.",
+    "source": "https://iba-world.com/penicillin/",
+    "garnish": "Garnish with candied ginger.",
+    "abv": 19.2,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks",
+        "Smokey"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///penicillin-1_xf16Fh.jpg",
+            "sort": 1,
+            "placeholder_hash": "VAgSHQIoeHB4aLh3d3mWiAeFcoA5",
+            "copyright": "Unknown"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "scotch-whiskey",
+            "name": "Scotch whiskey",
+            "strength": 40,
+            "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+            "origin": "Scotland",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "islay-scotch-whiskey",
+            "name": "Islay Scotch Whiskey",
+            "strength": 40,
+            "description": "Islay Scotch refers to Scotch whisky that is produced on the Isle of Islay, which is one of the whisky-producing regions of Scotland. Islay whiskies are renowned for their distinctive and peaty character, often featuring robust and smoky flavors that set them apart from whiskies produced in other regions.\n\nWell-known Islay distilleries include Ardbeg, Laphroaig, Lagavulin, and Bowmore, among others. Islay Scotch whiskies are appreciated by enthusiasts who enjoy the bold and distinctive flavor profile associated with the region. They are often enjoyed neat or with a splash of water to unlock the complexities of the spirit.",
+            "origin": "Isle of Islay",
+            "category": "Spirits",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "strength": 0,
+            "description": "Syrup made from dissolving honey in water.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "ginger-syrup",
+                    "name": "Ginger syrup",
+                    "strength": 0,
+                    "description": "Syrup infused with ginger root.\n\nThis ginger syrup is fantastic in cocktails, but it also makes an out-of-this-world ginger ale. To make ginger ale, simply fill an ice-filled glass a third of the way with the syrup, top with soda water and a squeeze of lime, stir and enjoy.",
+                    "origin": "Worldwide",
+                    "category": "Syrups",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 4
+        },
+        {
+            "_id": "ginger",
+            "name": "Ginger",
+            "strength": 0,
+            "description": "Ginger root used as a spice",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 2,
+            "units": "slices",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

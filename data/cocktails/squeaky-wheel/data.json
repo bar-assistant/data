@@ -1,0 +1,105 @@
+{
+    "_id": "squeaky-wheel",
+    "name": "Squeaky Wheel",
+    "instructions": "1. Stir all the ingredients together in a mixing tin with ice, then strain into a rocks glass over fresh ice.\n2. Express the oils of the orange peel over the top of the drink and use as a garnish.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "\"The squeaky wheel gets the oil\", my father always used to tell me. This cocktail demands that level of attention, says Nicholas Bennett of Cedric’s at the Shed of this Mezcal Negroni. \"I enjoy the combination of coffee and bitters, and I will occasionally add a touch of Angostura to my coffee in the morning, so the blend of St. George NOLA Coffee Liqueur and Campari was almost a no-brainer when I was developing this Negroni variation. The splash of amaretto really rounds out the cocktail.\"",
+    "source": "https://imbibemagazine.com/recipe/squeaky-wheel-mezcal-negroni/",
+    "garnish": "Orange twist",
+    "abv": 24.06,
+    "tags": [
+        "Negroni",
+        "Coffee",
+        "Smokey",
+        "Bitter"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///squeaky-wheel-1_Esc7x3.jpg",
+            "sort": 1,
+            "placeholder_hash": "ZBgOFYRXb4ardne1dWd4hg14xlBW",
+            "copyright": "Imbibe Magazine | Eric Medsker"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "strength": 40,
+            "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "strength": 25,
+            "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "strength": 20,
+            "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
+            "origin": "Mexico",
+            "category": "Liqueurs",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "amaretto",
+            "name": "Amaretto",
+            "strength": 24,
+            "description": "Amaretto is a sweet Italian liqueur that is known for its distinct almond flavor. The name \"Amaretto\" is derived from the Italian word \"amaro,\" which means bitter, indicating the traditional bitter almond flavor. However, modern Amaretto is typically sweet rather than bitter.\n\nThe primary flavor in Amaretto comes from apricot pits or almonds, though today many commercial brands use a combination of both. The production process involves soaking the almonds or apricot pits in alcohol, which extracts their flavors. The resulting liquid is then sweetened with sugar, and sometimes flavored with vanilla or other spices.\n\nAmaretto is often enjoyed on its own as a digestif or as an ingredient in various cocktails and culinary recipes. It is a versatile liqueur that adds a rich and nutty flavor to beverages and desserts. Classic cocktails like the Amaretto Sour, as well as desserts like tiramisu, often feature this popular Italian liqueur.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

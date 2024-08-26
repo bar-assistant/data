@@ -1,0 +1,70 @@
+{
+    "_id": "rusty-ringo",
+    "name": "Rusty Ringo",
+    "instructions": "1. Combine all ingredients in a mixing glass with ice and stir for 60 rotations.\n2. Strain into a rocks glass over a large ice cube.\n3. Garnish with gold leaf.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "From New York's Bar Goto, a modern interpretation of the Rusty Nail cocktail recipe made with calvados, Scotch and Drambuie liqueur.",
+    "source": "https://punchdrink.com/recipes/rusty-ringo/",
+    "garnish": "gold leaf",
+    "abv": 33.33,
+    "tags": [],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///rusty-ringo-1_rJPJ5s.jpg",
+            "sort": 0,
+            "placeholder_hash": "jVkKJQRDd4R4B5h4eIeXl1SEADgH",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "apple-brandy",
+            "name": "Apple Brandy",
+            "strength": 40,
+            "description": "Apple brandy is a distilled spirit made from fermented apple juice or cider. The production involves fermenting apples, distilling the resulting liquid, and often aging it in oak barrels. The final product can range from clear to amber in color and exhibits a variety of apple-derived flavors, influenced by the apple varieties used and the aging process. Apple brandy can be enjoyed on its own or used in cocktails and culinary applications. The term encompasses a broad category of apple-based spirits produced globally, with variations in production methods and flavor profiles.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 52.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "scotch-whiskey",
+            "name": "Scotch whiskey",
+            "strength": 40,
+            "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+            "origin": "Scotland",
+            "category": "Spirits",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "drambuie",
+            "name": "Drambuie",
+            "strength": 40,
+            "description": "Drambuie is a sweet and herbal liqueur from Scotland. It is made from Scotch whisky, honey, herbs, and spices. Drambuie has a distinctive flavor profile that combines the warmth of Scotch whisky with the sweetness of honey and the complexity of herbs and spices. It is often enjoyed on its own, over ice, or used as a key ingredient in cocktails. One of the most well-known cocktails featuring Drambuie is the Rusty Nail, where it is typically mixed with Scotch whisky.",
+            "origin": "Scotland",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

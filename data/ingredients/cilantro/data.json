@@ -1,0 +1,22 @@
+{
+    "_id": "cilantro",
+    "_parent_id": null,
+    "name": "Cilantro",
+    "strength": 0,
+    "description": "An annual herb in the family Apiaceae. All parts of the plant are edible, but the fresh leaves and the dried seeds are the parts most traditionally used in cooking.\n\nMost people perceive coriander as having a tart, lemon/lime taste, but to some individuals the leaves taste like dish soap. The perception of a soapy taste in certain aldehydes is linked to a specific gene.",
+    "origin": "Worldwide",
+    "color": "#0e630a",
+    "category": "Fruits and vegetables",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///cilantro-1_0lWJQN.png",
+            "sort": 1,
+            "placeholder_hash": "lKqBBQA4wceIxL+ySeClPgiKV3e4dGCIdg",
+            "copyright": "CC License"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

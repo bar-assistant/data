@@ -1,0 +1,74 @@
+{
+    "_id": "ti-punch",
+    "name": "'Ti Punch",
+    "instructions": "1. Slice half a lime into wedges\n2. Muddle limes and syrup in a rocks glass\n3. Add 2-3 pieces of ice and stir until melted",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "This Caribbean favorite is the laid back cousin to the daiquiri. Kick your feet up with the 'Ti Punch.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/ti-punch",
+    "garnish": "",
+    "abv": 38.96,
+    "tags": [
+        "Caribbean",
+        "Citrusy",
+        "Summer"
+    ],
+    "glass": "Lowball",
+    "method": "Muddle",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///ti-punch-1_0SSmkY.jpg",
+            "sort": 1,
+            "placeholder_hash": "HDkOLwqzl2hgiYiph1h5Z4aJmgfIqIAN",
+            "copyright": "LiberAndCo | Juliet Beletic"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "rhum-agricole",
+            "name": "Rhum agricole",
+            "strength": 50,
+            "description": "Rhum Agricole is a style of rum that is made from fresh sugarcane juice rather than molasses, which is the byproduct of sugar production. The term \"agricole\" is French for \"agricultural,\" highlighting the agricultural origin of the sugarcane used in the production.\n\nRhum Agricole is particularly associated with regions like Martinique and Guadeloupe, where the production of this style of rum has a long and established tradition. The distinctive character of Rhum Agricole has contributed to its popularity among rum enthusiasts and mixologists seeking unique and flavorful spirits.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lime",
+            "name": "Lime",
+            "strength": 0,
+            "description": "Lime is a citrus fruit known for its small size, vibrant green color, and tart flavor.",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 1,
+            "units": "whole",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

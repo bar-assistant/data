@@ -1,0 +1,73 @@
+{
+    "_id": "paradise",
+    "name": "Paradise",
+    "instructions": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The earliest known in-print recipe for the Paradise Cocktail was written by Harry Craddock in 1930. This cocktail is prepared using gin, apricot brandy (apricot liqueur), and orange juice in a 2:1:1 ratio, with a splash of lemon juice.",
+    "source": "https://iba-world.com/paradise/",
+    "garnish": null,
+    "abv": 24.62,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables"
+    ],
+    "glass": "Cocktail",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///paradise-1_v3kvsD.jpg",
+            "sort": 1,
+            "placeholder_hash": "eRgGHwL1F5h4fYVzeOg3yCd9eOCHB40J",
+            "copyright": "Wikipedia"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "apricot-brandy",
+            "name": "Apricot Brandy",
+            "strength": 40,
+            "description": "Apricot brandy is a fruit-flavored liqueur made by infusing apricots in brandy or by distilling apricot fruit. The result is a sweet and flavorful spirit with the essence of apricots. Apricot brandy is commonly used in cocktails, adding a fruity and aromatic dimension to mixed drinks. It can vary in sweetness and intensity of apricot flavor depending on the production methods and the brand. Apricot brandy is versatile and can be enjoyed on its own, in cocktails, or as an ingredient in both sweet and savory culinary applications.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 20,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "strength": 0,
+            "description": "Freshly squeezed orange juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

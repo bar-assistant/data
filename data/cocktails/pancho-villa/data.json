@@ -1,0 +1,132 @@
+{
+    "_id": "pancho-villa",
+    "name": "Pancho Villa",
+    "instructions": "1. Combine all ingredients in a mixing tin and shake with ice.\n2. Strain into a chilled highball glass over ice.\n3. Top with soda water.\n4. Garnish with pineapple leaf, lime zest and lime wheels.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "This easy-drinking, semi-tropical cocktail recipe by Charles H. Baker is the Philippines’ answer to a Singapore Sling",
+    "source": "https://punchdrink.com/recipes/pancho-villa/",
+    "garnish": "pineapple leaf, lime zest, lime wheels",
+    "abv": 22.1,
+    "tags": [
+        "Fruity"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///pancho-villa-1_WSsp0V.jpg",
+            "sort": 1,
+            "placeholder_hash": "XhkKJQQydMCX67eYhoBYdhZawFA4",
+            "copyright": "Punch Staff | Lizzie Munro"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "strength": 40,
+            "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "apricot-brandy",
+            "name": "Apricot Brandy",
+            "strength": 40,
+            "description": "Apricot brandy is a fruit-flavored liqueur made by infusing apricots in brandy or by distilling apricot fruit. The result is a sweet and flavorful spirit with the essence of apricots. Apricot brandy is commonly used in cocktails, adding a fruity and aromatic dimension to mixed drinks. It can vary in sweetness and intensity of apricot flavor depending on the production methods and the brand. Apricot brandy is versatile and can be enjoyed on its own, in cocktails, or as an ingredient in both sweet and savory culinary applications.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "cherry-heering",
+            "name": "Cherry heering",
+            "strength": 21,
+            "description": "Cherry Heering is a Danish cherry-flavored liqueur with a deep red color. It is made from a base of spirits, sugar, and cherries, specifically sour cherries, which contribute to its rich and sweet flavor profile. Cherry Heering is known for its versatility in cocktails and is often used in classic and modern mixology. One of the most famous cocktails featuring Cherry Heering is the Singapore Sling. The liqueur has a distinct cherry taste with hints of almond and spices, making it a popular choice for adding depth and complexity to a variety of drinks.",
+            "origin": "Denmark",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "strength": 0,
+            "description": "Juice from pineapple fruit.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 6
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 1,
+            "units": "topup",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 7
+        }
+    ]
+}

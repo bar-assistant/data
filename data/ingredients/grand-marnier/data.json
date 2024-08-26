@@ -1,0 +1,22 @@
+{
+    "_id": "grand-marnier",
+    "_parent_id": null,
+    "name": "Grand Marnier",
+    "strength": 40,
+    "description": "Grand Marnier is a premium French liqueur known for its distinctive orange flavor and versatility in cocktails. It belongs to the category of orange liqueurs but stands out due to its unique combination of Cognac (a type of brandy) and bitter orange essence.",
+    "origin": "France",
+    "color": "#f34e02",
+    "category": "Liqueurs",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///grand-marnier-1_MuFd4M.png",
+            "sort": 1,
+            "placeholder_hash": "DmmGFQY5SJh4iX8TuBd/edCXCJeAdYmJaA",
+            "copyright": "Grand Marnier"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

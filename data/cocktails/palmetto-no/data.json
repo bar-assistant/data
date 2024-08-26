@@ -1,0 +1,72 @@
+{
+    "_id": "palmetto-no",
+    "name": "Palmetto No. 1",
+    "instructions": "1. Stir with ice.\n2. Strain into a coupe.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": null,
+    "source": "https://alpenz.com/recipe-B5xMGa5Nyp.html",
+    "garnish": "Garnish with orange peel.",
+    "abv": 24.15,
+    "tags": [
+        "Sweet"
+    ],
+    "glass": "Coupe",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///palmetto-no-1-1_8HG6QK.jpg",
+            "sort": 1,
+            "placeholder_hash": "6igKFQTghleJ+EjIR4iIaC/f2fAr",
+            "copyright": "Haus Alpenz"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "jamaican-rum",
+            "name": "Jamaican Rum",
+            "strength": 40,
+            "description": "Jamaican rum refers to rum produced in Jamaica, a Caribbean island known for its rich history of rum production. Jamaican rum is renowned for its bold and distinctive flavor profile, often characterized by robust and complex notes.\n\nJamaican rum has a strong cultural and historical significance, and the island is home to several well-known distilleries, each with its unique approach to rum production. Brands such as Appleton Estate and Wray & Nephew are examples of Jamaican rums that have gained international acclaim.",
+            "origin": "Jamaica",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "strength": 18,
+            "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+            "origin": "Worldwide",
+            "category": "Fortified wine",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "strength": 28,
+            "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
+            "origin": "Worldwide",
+            "category": "Bitters",
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

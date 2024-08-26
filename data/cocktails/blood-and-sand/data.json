@@ -1,0 +1,87 @@
+{
+    "_id": "blood-and-sand",
+    "name": "Blood and Sand",
+    "instructions": "1. Combine all ingredients with ice and shake\n2. Strain into a coupe\n3. Flame orange peel and garnish",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "An exceptionally smooth classic with an optional smoky finish",
+    "source": "https://tuxedono2.com/blood-and-sand-cocktail-recipe",
+    "garnish": "Orange peel",
+    "abv": 15.8,
+    "tags": [
+        "Fruity"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///blood-and-sand-1_MdYYmJ.jpg",
+            "sort": 1,
+            "placeholder_hash": "yAcGDwIIp4d2d3eHiEeoCNd3l/FJCY4C",
+            "copyright": "TuxedoNo2"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "scotch-whiskey",
+            "name": "Scotch whiskey",
+            "strength": 40,
+            "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+            "origin": "Scotland",
+            "category": "Spirits",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "cherry-heering",
+            "name": "Cherry heering",
+            "strength": 21,
+            "description": "Cherry Heering is a Danish cherry-flavored liqueur with a deep red color. It is made from a base of spirits, sugar, and cherries, specifically sour cherries, which contribute to its rich and sweet flavor profile. Cherry Heering is known for its versatility in cocktails and is often used in classic and modern mixology. One of the most famous cocktails featuring Cherry Heering is the Singapore Sling. The liqueur has a distinct cherry taste with hints of almond and spices, making it a popular choice for adding depth and complexity to a variety of drinks.",
+            "origin": "Denmark",
+            "category": "Liqueurs",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "strength": 18,
+            "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+            "origin": "Worldwide",
+            "category": "Fortified wine",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "strength": 0,
+            "description": "Freshly squeezed orange juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

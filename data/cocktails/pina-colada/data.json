@@ -1,0 +1,74 @@
+{
+    "_id": "pina-colada",
+    "name": "Pina Colada",
+    "instructions": "Blend all the ingredients with ice in an electric blender, pour into a large glass, and serve with straws.\n\n**Note:**\nHistorically a few drops of fresh lime juice were added to taste. 4 slices of fresh pineapple can be used instead of juice",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The name piña colada (Spanish) literally means \"strained pineapple\", a reference to the freshly pressed and strained pineapple juice used in the drink's preparation.",
+    "source": "https://iba-world.com/pina-colada/",
+    "garnish": "Garnish with a slice of pineapple with a cocktail cherry.",
+    "abv": 12.31,
+    "tags": [
+        "Contemporary Classics",
+        "IBA Cocktail",
+        "Tiki"
+    ],
+    "glass": "Hurricane",
+    "method": "Blend",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///pina-colada-1_FnwjDN.jpg",
+            "sort": 1,
+            "placeholder_hash": "DwgOFgIZuQdmh5jJV3N3imeHCXqwYBk",
+            "copyright": "A Couple Cooks"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 50,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "coconut-cream",
+            "name": "Coconut Cream",
+            "strength": 0,
+            "description": "Coconut cream is a thick, rich, and smooth substance extracted from the flesh of mature coconuts. Coconut cream is similar to coconut milk, but it has a higher concentration of coconut solids, giving it a thicker consistency. It is often used in both savory and sweet recipes, including curries, soups, desserts, and beverages. Coconut cream is a key ingredient in many dishes in Southeast Asian, Caribbean, and other tropical cuisines.",
+            "origin": "Tropical",
+            "category": "Uncategorized",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "strength": 0,
+            "description": "Juice from pineapple fruit.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 50,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

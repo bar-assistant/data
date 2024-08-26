@@ -1,0 +1,22 @@
+{
+    "_id": "root-beer",
+    "_parent_id": null,
+    "name": "Root beer",
+    "strength": 0,
+    "description": "Root beer is a sweet North American soft drink traditionally made using the root bark of the sassafras tree Sassafras albidum or the vine of Smilax ornata (known as sarsaparilla, also used to make a soft drink, sarsaparilla) as the primary flavor. Root beer is typically, but not exclusively, non-alcoholic, caffeine-free, sweet, and carbonated. Like cola, it usually has a thick and foamy head. A well-known use is to add vanilla ice cream to make a root beer float.",
+    "origin": "North America",
+    "color": "#492f14",
+    "category": "Beverages",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///root-beer-1_Fg1hAO.png",
+            "sort": 1,
+            "placeholder_hash": "lGmKFQQdOZaPdnpIZwmJpzB5CBiMi4Z2iA",
+            "copyright": "A&W"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

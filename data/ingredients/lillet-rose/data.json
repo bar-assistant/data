@@ -1,0 +1,22 @@
+{
+    "_id": "lillet-rose",
+    "_parent_id": null,
+    "name": "Lillet Rose",
+    "strength": 17.5,
+    "description": "Lillet Rosé is a French aromatized wine, belonging to the Lillet family of aperitifs. It is crafted from a blend of wines, fruit liqueurs, and a variety of herbs. Lillet Rosé is known for its light and refreshing character, offering a fruity and floral profile with a slightly bitter edge.",
+    "origin": "France",
+    "color": "#f09c93",
+    "category": "Fortified wine",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///lillet-rose-1_SrWKc9.png",
+            "sort": 1,
+            "placeholder_hash": "rziGJQgP+UeIhpC2mIZ/ePeXBwd5eYiIdw",
+            "copyright": "Lillet"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

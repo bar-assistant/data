@@ -1,0 +1,58 @@
+{
+    "_id": "gemist",
+    "name": "Gemišt",
+    "instructions": "Combine cold ingredients in a glass.\nIngredient amounts are usually eyeballed depending on the glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Coming from a german word \"gemischt\", meaning mixed. Popular in Balkan countries, especially with homemade dry white wines.",
+    "source": null,
+    "garnish": null,
+    "abv": 6,
+    "tags": [
+        "Spritz",
+        "Wine"
+    ],
+    "glass": "Lowball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///gemist-1_pAYpBk.jpg",
+            "sort": 1,
+            "placeholder_hash": "4BgKFYKKd4iweHeHiIiXiIZgeAiI",
+            "copyright": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-wine",
+            "name": "White wine",
+            "strength": 11,
+            "description": "White wine is a type of wine made from green or yellowish grape varieties, where the grape skins are separated from the grape juice before or during fermentation. This absence of prolonged skin contact results in a wine with a pale or straw-like color. White wines can range from crisp and light to full-bodied and complex, and they are typically served chilled. Common white grape varieties include Chardonnay, Sauvignon Blanc, Riesling, and Pinot Grigio. White wine is known for its refreshing qualities and is often enjoyed as an aperitif or paired with a variety of dishes, including seafood, poultry, and lighter fare.",
+            "origin": "Worldwide",
+            "category": "Wines",
+            "amount": 150,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 100,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        }
+    ]
+}

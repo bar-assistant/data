@@ -1,0 +1,118 @@
+{
+    "_id": "ward-eight",
+    "name": "Ward Eight",
+    "instructions": "Shake ingredients with ice and strain into a chilled glass. Add an ice cube and a splash of sparkling water.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The Ward Eight cocktail is a relative of the Whiskey Sour and thought to have been invented at Boston’s Locke-Ober Café in 1898.",
+    "source": "https://imbibemagazine.com/ward-eight-cocktail-history/",
+    "garnish": "orange zest",
+    "abv": 21.33,
+    "tags": [],
+    "glass": "Cocktail",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///ward-eight-1_Qf4b9f.jpg",
+            "sort": 1,
+            "placeholder_hash": "WCgGDQJ6aY2SeGm494SCiTpD8AAz",
+            "copyright": "Imbibe"
+        },
+        {
+            "uri": "file:///ward-eight-1_tZtw6q.jpg",
+            "sort": 2,
+            "placeholder_hash": "1VkKFQI3Z354hmgHiYRoOBZ/c4EH",
+            "copyright": "Reddit"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "rye-whiskey",
+            "name": "Rye whiskey",
+            "strength": 40,
+            "description": "Rye whiskey is a type of whiskey made primarily from rye grain. To be labeled as rye whiskey in the United States, the mash (grain mixture fermented to make alcohol) must be composed of at least 51% rye. The remaining ingredients in the mash can include other grains such as corn and barley. Rye whiskey is aged in new charred oak barrels, and the final product must be distilled to no more than 160 proof and entered into the barrel for aging at no more than 125 proof.\n\nAmerican rye whiskey tends to have a spicier and more robust flavor profile compared to bourbon, which is primarily made from corn.\n\nIn Canada, the term \"rye\" is often used broadly and doesn't necessarily mean that the whiskey is made predominantly from rye grain. Canadian rye whisky can contain a mix of grains, and the flavor profile may vary. Some Canadian whiskies labeled as \"rye\" are made with little or no rye content.\n\nRye whiskey is known for its distinctive taste, which can include spicy, fruity, and sometimes peppery notes. It can be enjoyed neat, on the rocks, or used in various cocktails such as the classic Manhattan or Old Fashioned.",
+            "origin": "North America",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "bourbon-whiskey",
+                    "name": "Bourbon Whiskey",
+                    "strength": 40,
+                    "description": "A type of American whiskey, primarily made from corn and aged in new charred oak barrels. Bourbon has a sweet and full-bodied flavor profile.\n\nTo be labeled as bourbon, a whiskey must meet the following criteria:\n\n1. Grain Mash Composition: Bourbon must be made from a grain mash that is at least 51% corn. The remaining portion of the mash can include other grains such as barley, rye, and wheat.\n\n2. Distillation: Bourbon must be distilled to no more than 160 proof (80% alcohol by volume) and entered into the barrel for aging at no more than 125 proof (62.5% alcohol by volume).\n\n3. Barrel Aging: Bourbon must be aged in new charred oak barrels. There is no minimum aging requirement for bourbon, but to be labeled as \"straight bourbon,\" it must be aged for at least two years.\n\n4. No Additives: Bourbon must not contain any additives except water to adjust the proof.\n\n5. Bottling Strength: Bourbon must be bottled at a minimum of 80 proof (40% alcohol by volume).\n\n6. Geographic Origin: While bourbon can be produced anywhere in the United States, it is strongly associated with Kentucky, and many consider Kentucky bourbon to be a distinctive category.",
+                    "origin": "North America",
+                    "category": "Spirits",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 1
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "strength": 0,
+            "description": "Freshly squeezed orange juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "grenadine-syrup",
+            "name": "Grenadine Syrup",
+            "strength": 0,
+            "description": "Fruit syrup made from pomegranates.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 1,
+            "units": "splash",
+            "optional": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "_id": "grasshopper",
+    "name": "Grasshopper",
+    "instructions": "1. Pour all ingredients into shaker filled with ice.\n2. Shake briskly for few seconds.\n3. Strain into chilled cocktail glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A Grasshopper is a sweet, mint-flavored, after-dinner drink. The name of the drink derives from its green color, which comes from crème de menthe. A bar in the French Quarter of New Orleans, Louisiana, Tujague's, claims the drink was invented in 1918 by its owner, Philip Guichet. The drink gained popularity during the 1950s and 1960s throughout the American South.",
+    "source": "https://iba-world.com/grasshopper/",
+    "garnish": "Optional mint leaf",
+    "abv": 12,
+    "tags": [
+        "Contemporary Classics",
+        "IBA Cocktail"
+    ],
+    "glass": "Fizzio",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///grasshopper-1_z2uVzV.jpg",
+            "sort": 1,
+            "placeholder_hash": "ESkKDwIIqIiPhnaZdyeYOJd1pvWa+r0O",
+            "copyright": "Liquor.com / Tim Nusog"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "creme-de-cacao-white",
+            "name": "Crème de Cacao (White)",
+            "strength": 25,
+            "description": "Crème de Cacao is a sweet liqueur with a rich chocolate flavor. It is made from cacao beans, which are the primary source of chocolate, and often includes additional ingredients such as vanilla and sugar. White Crème de Cacao is clear or light in color and has a sweeter and smoother taste compared to the dark variety.",
+            "origin": "France",
+            "category": "Crème de",
+            "amount": 20,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "creme-de-menthe",
+            "name": "Crème de menthe",
+            "strength": 20,
+            "description": "Sweet, mint-flavored alcoholic beverage. It is available commercially in a colorless version (called \"white\") and a green version (colored by the mint leaves or by added coloring if made from extract instead of leaves). Both varieties have similar flavor and are interchangeable in recipes, except where color is important. It is usually made with Corsican mint or peppermint, which is steeped in grain alcohol for several weeks before it is filtered and sweetened to create the final product. It typically has 25% alcohol by volume.",
+            "origin": "France",
+            "category": "Crème de",
+            "amount": 20,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "cream",
+            "name": "Cream",
+            "strength": 0,
+            "description": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization.",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 20,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

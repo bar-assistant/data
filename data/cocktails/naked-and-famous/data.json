@@ -1,0 +1,100 @@
+{
+    "_id": "naked-and-famous",
+    "name": "Naked and Famous",
+    "instructions": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The Naked and Famous cocktail is \"the bastard love child of a classic Last Word and a Paper Plane, conceived in the mountains of Oaxaca.\". First created at the well renowned New York City bar, Death & Co. (also featured in the cocktail book of the same name).",
+    "source": "https://iba-world.com/naked-and-famous/",
+    "garnish": null,
+    "abv": 18.2,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///naked-and-famous-1_jbfiFW.jpg",
+            "sort": 1,
+            "placeholder_hash": "SwgKHwQHtnmIhXiIdoinSJeVh9BYCI0G",
+            "copyright": "Epicurious"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "strength": 40,
+            "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "yellow-chartreuse",
+            "name": "Yellow Chartreuse",
+            "strength": 40,
+            "description": "Yellow Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is a milder and slightly sweeter version of Green Chartreuse, another famous liqueur produced by the same monks. Yellow Chartreuse is characterized by its yellow color and a complex flavor profile derived from a secret blend of 130 herbs and botanicals. It has a sweet and honeyed taste with herbal, floral, and spicy notes.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "drambuie",
+                    "name": "Drambuie",
+                    "strength": 40,
+                    "description": "Drambuie is a sweet and herbal liqueur from Scotland. It is made from Scotch whisky, honey, herbs, and spices. Drambuie has a distinctive flavor profile that combines the warmth of Scotch whisky with the sweetness of honey and the complexity of herbs and spices. It is often enjoyed on its own, over ice, or used as a key ingredient in cocktails. One of the most well-known cocktails featuring Drambuie is the Rusty Nail, where it is typically mixed with Scotch whisky.",
+                    "origin": "Scotland",
+                    "category": "Liqueurs",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 2
+        },
+        {
+            "_id": "aperol",
+            "name": "Aperol",
+            "strength": 11,
+            "description": "Aperol is an Italian orange-flavored aperitif liqueur known for its vibrant orange color and bittersweet taste. It is produced by the Campari Group and contains a blend of herbs, spices, and botanicals. Aperol is characterized by its lower alcohol content compared to some other aperitifs, making it a popular choice for refreshing cocktails. Aperol's distinct flavor profile and versatility make it a favorite ingredient in a variety of cocktails and spritz variations.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

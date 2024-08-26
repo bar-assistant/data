@@ -1,0 +1,15 @@
+{
+    "_id": "blood-orange-juice",
+    "_parent_id": "orange-juice",
+    "name": "Blood Orange Juice",
+    "strength": 0,
+    "description": null,
+    "origin": null,
+    "color": "#c41c09",
+    "category": "Juices",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [],
+    "ingredient_parts": [],
+    "prices": []
+}

@@ -1,0 +1,22 @@
+{
+    "_id": "lemon-juice",
+    "_parent_id": null,
+    "name": "Lemon juice",
+    "strength": 0,
+    "description": "Freshly squeezed lemon juice.",
+    "origin": null,
+    "color": "#f3efda",
+    "category": "Juices",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///lemon-juice-1_yTR10l.png",
+            "sort": 1,
+            "placeholder_hash": "uAiCBQBK/UeIdneIeD+bJ2CHP5iIiHeHeA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

@@ -1,0 +1,115 @@
+{
+    "_id": "amaretto-sour-jeffrey-morgenthaler",
+    "name": "Amaretto Sour (Jeffrey Morgenthaler)",
+    "instructions": "1. Combine ingredients in a cocktail shaker and shake without ice or (even better) use an immersion blender to combine and froth.\n2. Shake well with cracked ice.\n3. Strain over fresh ice in an old fashioned glass",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "There are two things that impede all other Amaretto Sours from challenging mine. First off, the obvious: they’re too sweet. One does not simply use an everyday sour recipe to make a world-class Amaretto Sour, it must be adjusted for this particular liqueur.\n\nSecond, and this is a big one: amaretto isn’t strong enough on its own to stand up to a bunch of other ingredients. It’s weak. It needs help. And for this, I enlist the assistance of an old friend. One that knows amaretto’s strengths and weaknesses. Or, mainly, its weaknesses. One that works with amaretto, to complete it like Jerry Maguire completes Rene Zellwiger’s character, whatever her name was. And that, my friends, is cask-proof bourbon.",
+    "source": "https://jeffreymorgenthaler.com/i-make-the-best-amaretto-sour-in-the-world/",
+    "garnish": "Garnish with lemon peel and brandied cherries.",
+    "abv": 16.48,
+    "tags": [
+        "Sour",
+        "Sweet"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///amaretto-sour-jeffrey-morgenthaler-1_DKuOe4.jpg",
+            "sort": 1,
+            "placeholder_hash": "XSkKLQRlhXCUJopYqWhapgaFUwE4",
+            "copyright": "Punch / Kimberley Hasselbrink"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "amaretto",
+            "name": "Amaretto",
+            "strength": 24,
+            "description": "Amaretto is a sweet Italian liqueur that is known for its distinct almond flavor. The name \"Amaretto\" is derived from the Italian word \"amaro,\" which means bitter, indicating the traditional bitter almond flavor. However, modern Amaretto is typically sweet rather than bitter.\n\nThe primary flavor in Amaretto comes from apricot pits or almonds, though today many commercial brands use a combination of both. The production process involves soaking the almonds or apricot pits in alcohol, which extracts their flavors. The resulting liquid is then sweetened with sugar, and sometimes flavored with vanilla or other spices.\n\nAmaretto is often enjoyed on its own as a digestif or as an ingredient in various cocktails and culinary recipes. It is a versatile liqueur that adds a rich and nutty flavor to beverages and desserts. Classic cocktails like the Amaretto Sour, as well as desserts like tiramisu, often feature this popular Italian liqueur.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "cask-proof-whiskey",
+            "name": "Cask-Proof Whiskey",
+            "strength": 55,
+            "description": "Cask-proof bourbon, also known as barrel-strength or barrel-proof bourbon, refers to bourbon whiskey that is bottled directly from the cask without being diluted with water before bottling. This means that the bourbon is presented to consumers at its natural, undiluted alcohol strength, as it was when it matured in the barrel.\n\nWhen bourbon is aging in barrels, it undergoes changes in flavor and character as it interacts with the wood and other compounds present in the cask. Cask strength bourbon captures the full intensity of these flavors without the addition of water to lower the alcohol content.\n\nThe alcohol by volume (ABV) of cask-strength bourbon can be significantly higher than standard bottlings, often ranging from 110 proof (55% ABV) to well over 130 proof (65% ABV) or more. This higher proof can intensify the flavors and provide a more robust and concentrated drinking experience.\n\nCask-strength bourbons have gained popularity among whiskey enthusiasts who appreciate the opportunity to experience the full, unaltered expression of the bourbon as it was intended by the distiller. Some bourbon brands release limited-edition cask-strength bottlings, and these releases can be highly sought after by collectors and connoisseurs. When enjoying cask-strength bourbon, it is not uncommon for individuals to add a splash of water to their glass to personalize the drinking experience and open up additional flavors.",
+            "origin": "North America",
+            "category": "Spirits",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "bourbon-whiskey",
+                    "name": "Bourbon Whiskey",
+                    "strength": 40,
+                    "description": "A type of American whiskey, primarily made from corn and aged in new charred oak barrels. Bourbon has a sweet and full-bodied flavor profile.\n\nTo be labeled as bourbon, a whiskey must meet the following criteria:\n\n1. Grain Mash Composition: Bourbon must be made from a grain mash that is at least 51% corn. The remaining portion of the mash can include other grains such as barley, rye, and wheat.\n\n2. Distillation: Bourbon must be distilled to no more than 160 proof (80% alcohol by volume) and entered into the barrel for aging at no more than 125 proof (62.5% alcohol by volume).\n\n3. Barrel Aging: Bourbon must be aged in new charred oak barrels. There is no minimum aging requirement for bourbon, but to be labeled as \"straight bourbon,\" it must be aged for at least two years.\n\n4. No Additives: Bourbon must not contain any additives except water to adjust the proof.\n\n5. Bottling Strength: Bourbon must be bottled at a minimum of 80 proof (40% alcohol by volume).\n\n6. Geographic Origin: While bourbon can be produced anywhere in the United States, it is strongly associated with Kentucky, and many consider Kentucky bourbon to be a distinctive category.",
+                    "origin": "North America",
+                    "category": "Spirits",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "egg-white",
+            "name": "Egg White",
+            "strength": 0,
+            "description": "Egg white is the clear liquid part of an egg that surrounds the yolk. It is rich in proteins and is commonly used in cooking and baking for its ability to add structure, foam, and a smooth texture to various dishes.",
+            "origin": "Worldwide",
+            "category": "Uncategorized",
+            "amount": 15,
+            "units": "ml",
+            "optional": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

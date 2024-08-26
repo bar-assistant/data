@@ -1,0 +1,73 @@
+{
+    "_id": "campari-spritz",
+    "name": "Campari Spritz",
+    "instructions": "Combine all in wine glass",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": null,
+    "source": null,
+    "garnish": "Orange wheel",
+    "abv": 12.58,
+    "tags": [
+        "Spritz",
+        "Bitter"
+    ],
+    "glass": "Wine",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///campari-spritz-1_yVtjeB.webp",
+            "sort": 1,
+            "placeholder_hash": "8/cFJgjFWVaHePc4p4l2cnuoCYmFgDg",
+            "copyright": "ACoupleCooks"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "strength": 25,
+            "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "prosecco",
+            "name": "Prosecco",
+            "strength": 11,
+            "description": "Prosecco is a sparkling wine that originates from the Veneto region of Italy. It is made primarily from the Glera grape variety, although other permitted grape varieties may also be used in smaller quantities. Prosecco is known for its fresh and fruity character, and it is one of the most popular and widely consumed sparkling wines globally.\n\nProsecco is known for its effervescence, and the bubbles are generally lighter and less persistent than those in traditional method sparkling wines like Champagne.",
+            "origin": "Italy",
+            "category": "Wines",
+            "amount": 90,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

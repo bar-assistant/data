@@ -1,0 +1,22 @@
+{
+    "_id": "grappa",
+    "_parent_id": null,
+    "name": "Grappa",
+    "strength": 50,
+    "description": "Grappa is an Italian grape-based pomace brandy. It is made by distilling the residue (skins, pulp, seeds, and stems) left after pressing grapes during the winemaking process. Grappa is known for its strong and distinct flavor, which can vary depending on the grape varieties used. It is often consumed as a digestif and is enjoyed for its robust character. Grappa is produced in various regions of Italy and has a long history as a traditional Italian spirit.",
+    "origin": "Italy",
+    "color": "#ffffff",
+    "category": "Spirits",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///grappa-1_nf6m4X.png",
+            "sort": 1,
+            "placeholder_hash": "MAiKBQAe32Rbh2uXV3CRZQw4CQmHh4d3eA",
+            "copyright": "Negroni Antica"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

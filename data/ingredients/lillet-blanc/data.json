@@ -1,0 +1,22 @@
+{
+    "_id": "lillet-blanc",
+    "_parent_id": null,
+    "name": "Lillet Blanc",
+    "strength": 17,
+    "description": "Lillet Blanc is a French aperitif wine that falls under the category of aromatized wines. It is crafted from a blend of white wine and citrus liqueurs, primarily made from sweet oranges from Spain and bitter green oranges from Morocco. Lillet Blanc is known for its light and floral profile, with hints of citrus, honey, and a subtle bitterness.",
+    "origin": "France",
+    "color": "#f7ec77",
+    "category": "Fortified wine",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///lillet-blanc-1_QlX1Y5.png",
+            "sort": 1,
+            "placeholder_hash": "rxiGJQYP+kaJhpHWqIZ/efhXCgppaYeHdw",
+            "copyright": "Lillet"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

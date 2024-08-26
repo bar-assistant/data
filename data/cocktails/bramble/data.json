@@ -1,0 +1,101 @@
+{
+    "_id": "bramble",
+    "name": "Bramble",
+    "instructions": "If crème de mûre is unavailable, many bartenders will substitute creme de cassis for it.\n\n1. Pour all ingredients into a cocktail shaker except the Crème de Mûre\n2. Shake well with ice\n3. Strain into chilled old fashioned glass filled with crushed ice\n4. Pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The Bramble was created in London, in 1984, by Dick Bradsell. At the time, Bradsell worked at a bar in Soho called Fred&#039;s Club, and he wanted to create a British cocktail. Memories of going blackberrying in his childhood on the Isle of Wight provided the inspiration for the Bramble.",
+    "source": "https://iba-world.com/bramble/",
+    "garnish": "Garnish optionally with a lemon slice and blackberries.",
+    "abv": 20.66,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks",
+        "Fruity"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///bramble-1_qWv7UD.jpg",
+            "sort": 1,
+            "placeholder_hash": "0kgGFgYQumiGaCjKV7Jpe7RWhpB6BYk",
+            "copyright": "Anders"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 50,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 25,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 12,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "creme-de-mure",
+            "name": "Crème de mûre",
+            "strength": 42.3,
+            "description": "Crème de Mûre is a sweet liqueur made from blackberries. It features a deep purple color and a rich, fruity flavor that combines sweetness with the natural tartness of blackberries. Crème de Mûre is commonly used as an ingredient in cocktails, adding a vibrant berry character to mixed drinks. It can also be enjoyed on its own or used to enhance the flavor of desserts and other culinary creations.",
+            "origin": "France",
+            "category": "Crème de",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "creme-de-cassis",
+                    "name": "Crème de cassis",
+                    "strength": 25,
+                    "description": "Crème de Cassis is a sweet liqueur made from blackcurrants. It has a deep red-purple color and a rich, fruity flavor with a combination of sweetness and tartness. The liqueur is often used as a key ingredient in cocktails, with the Kir and Kir Royale being classic examples. Crème de Cassis can also be enjoyed on its own over ice or used in culinary applications to add a burst of blackcurrant flavor to desserts or sauces.",
+                    "origin": "France",
+                    "category": "Crème de",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 4
+        }
+    ]
+}

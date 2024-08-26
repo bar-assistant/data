@@ -1,0 +1,119 @@
+{
+    "_id": "happy-bastard",
+    "name": "Happy Bastard",
+    "instructions": "1. Combine all ingredients, except tonic, in a mixing tin and shake with ice.\n2. Strain into a Collins glass over ice.\n3. Top with tonic.\n\n",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A lighter take on the Suffering Bastard cocktail recipe that calls on cucumber tonic water in place of ginger beer.",
+    "source": "https://punchdrink.com/recipes/happy-bastard/",
+    "garnish": "Garnish with lemon wheel.",
+    "abv": 13.33,
+    "tags": [
+        "Summer",
+        "Herbacious",
+        "Floral"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///happy-bastard-1_gOfhOi.jpg",
+            "sort": 1,
+            "placeholder_hash": "WggSFQI4h5BoZ7Z4eFaXeWV/hk0L",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "brandy",
+            "name": "Brandy",
+            "strength": 40,
+            "description": "Brandy is a distilled alcoholic beverage made from fermented fruit juice, most commonly derived from wine. The fruit used can include grapes, apples, pears, or other fruits. The process of making brandy involves fermenting the fruit sugars into alcohol and then distilling the resulting liquid to increase its alcohol content. After distillation, brandy is often aged in wooden barrels, which contributes to its flavor, color, and aroma.\n\nThere are a few types of brandy:\n\n- V.S. (\"very special\") or ✯✯✯ (three stars) designates a blend in which the youngest brandy has been stored for at least two years in a cask.\n- V.S.O.P. (\"very superior old pale\"), Reserve or ✯✯✯✯✯ (five stars) designates a blend in which the youngest brandy is stored for at least four years in a cask.\n- XO (\"extra old\") or Napoléon designates a blend in which the youngest brandy is stored for at least six years.\n- Hors d'âge ('beyond age') is a designation formally equal to XO for Cognac, but for Armagnac it designates brandy that is at least ten years old. In practice, the term is used by producers to market a high-quality product beyond the official age scale.\n\nBrandy has a rich history and is produced in many regions around the world, each with its own traditions and methods. The quality and characteristics of brandy can vary widely based on factors such as the type of fruit used, the distillation process, and the aging conditions.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "st-germain",
+            "name": "St-Germain",
+            "strength": 20,
+            "description": "St-Germain is an elderflower liqueur It is made using the petals of Sambucus nigra from the Savoie region in France, and each bottle is numbered with the year the petals were collected. Petals are collected annually in the spring over a period of three to four weeks, and are often transported by bicycle to collection points to avoid damaging the petals and impacting the flavour.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "ginger-syrup",
+            "name": "Ginger syrup",
+            "strength": 0,
+            "description": "Syrup infused with ginger root.\n\nThis ginger syrup is fantastic in cocktails, but it also makes an out-of-this-world ginger ale. To make ginger ale, simply fill an ice-filled glass a third of the way with the syrup, top with soda water and a squeeze of lime, stir and enjoy.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        },
+        {
+            "_id": "tonic",
+            "name": "Tonic",
+            "strength": 0,
+            "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 6
+        }
+    ]
+}

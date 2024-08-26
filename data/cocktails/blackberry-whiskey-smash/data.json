@@ -1,0 +1,104 @@
+{
+    "_id": "blackberry-whiskey-smash",
+    "name": "Blackberry Whiskey Smash",
+    "instructions": "1. Muddle berries, mint, and syrup in a mixing tin \n2. Add lemon juice, whiskey and ice \n3. Shake until chilled\n4. Double strain over crushed ice into a rocks glass",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Fruit-forward without being too sweet. A perfect spring and early summer drink.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/blackberry-whiskey-smash",
+    "garnish": "Mint Blackberries",
+    "abv": 17.45,
+    "tags": [
+        "Smash",
+        "Sweet",
+        "Fruity"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///blackberry-whiskey-smash-1_EfoMsU.jpg",
+            "sort": 1,
+            "placeholder_hash": "rlgKDwZToZolhId/p0eqlniZ2K0Ml8YA",
+            "copyright": "LiberAndCo | Juliet Beletic"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "whiskey",
+            "name": "Whiskey",
+            "strength": 40,
+            "description": "Whiskey is a distilled alcoholic beverage made from fermented grain mash. The grains used in whiskey production can include barley, corn, rye, and wheat. The production process involves mashing the grains, fermenting the mash, distilling the liquid, and aging it in wooden barrels, usually made of oak. The aging process imparts flavors and character to the whiskey.\n\nThe flavor, aroma, and characteristics of whiskey can vary widely based on factors such as the type of grains used, the distillation process, the type of barrels used for aging, and the duration of maturation. Whiskey is enjoyed in various ways, including neat, on the rocks, or as a key ingredient in cocktails.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "blackberries",
+            "name": "Blackberries",
+            "strength": 0,
+            "description": "Blackberries are known for their sweet and tart flavor, and they are commonly used in a variety of culinary applications, including desserts, jams, jellies, and beverages.",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 4,
+            "units": "whole",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "mint",
+            "name": "Mint",
+            "strength": 0,
+            "description": "Mint refers to a family of aromatic herbs known for their refreshing flavor and fragrance. The most commonly used and recognized type of mint is spearmint (Mentha spicata), but there are various other species and hybrids, including peppermint (Mentha × piperita).",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 1,
+            "units": "sprig",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

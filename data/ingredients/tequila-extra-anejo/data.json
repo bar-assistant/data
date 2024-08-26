@@ -1,0 +1,22 @@
+{
+    "_id": "tequila-extra-anejo",
+    "_parent_id": "tequila-blanco",
+    "name": "Tequila Extra Añejo",
+    "strength": 40,
+    "description": "Tequila Extra Añejo is the most aged and mature category of tequila, representing the highest level of aging among tequila expressions. The term \"Extra Añejo\" translates to \"extra aged\" in Spanish. To be classified as Extra Añejo, tequila must be aged in oak barrels for a minimum of three years. This extended aging period imparts a rich and complex flavor profile, often with pronounced oak characteristics.\n\nExtra Añejo tequila is often considered a sipping tequila, meant to be enjoyed slowly to appreciate its depth and complexity. While it can be sipped neat, some enthusiasts may also enjoy it with a few drops of water to unlock additional flavors.\n\nTequila Extra Añejo represents the pinnacle of aging in the tequila category, appealing to connoisseurs who appreciate the intricate interplay between agave, wood, and time. Due to its premium quality and rarity, Extra Añejo tequilas are typically priced higher than younger expressions.",
+    "origin": "Mexico",
+    "color": "#db5b0f",
+    "category": "Spirits",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///tequila-extra-anejo-1_Y2IUeT.png",
+            "sort": 1,
+            "placeholder_hash": "4auGLQQ6BqmOloY5WHaQqA6HBnhwlYWIiA",
+            "copyright": "Patron"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

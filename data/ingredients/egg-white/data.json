@@ -1,0 +1,22 @@
+{
+    "_id": "egg-white",
+    "_parent_id": null,
+    "name": "Egg White",
+    "strength": 0,
+    "description": "Egg white is the clear liquid part of an egg that surrounds the yolk. It is rich in proteins and is commonly used in cooking and baking for its ability to add structure, foam, and a smooth texture to various dishes.",
+    "origin": "Worldwide",
+    "color": null,
+    "category": "Uncategorized",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///egg-white-1_m46XjG.png",
+            "sort": 1,
+            "placeholder_hash": "6OeJHQoPM6awiKZXdmBa/zpbCAiEhIRESA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

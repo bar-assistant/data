@@ -1,0 +1,22 @@
+{
+    "_id": "drambuie",
+    "_parent_id": null,
+    "name": "Drambuie",
+    "strength": 40,
+    "description": "Drambuie is a sweet and herbal liqueur from Scotland. It is made from Scotch whisky, honey, herbs, and spices. Drambuie has a distinctive flavor profile that combines the warmth of Scotch whisky with the sweetness of honey and the complexity of herbs and spices. It is often enjoyed on its own, over ice, or used as a key ingredient in cocktails. One of the most well-known cocktails featuring Drambuie is the Rusty Nail, where it is typically mixed with Scotch whisky.",
+    "origin": "Scotland",
+    "color": "#ea7e00",
+    "category": "Liqueurs",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///drambuie-1_jxrT5e.png",
+            "sort": 1,
+            "placeholder_hash": "lCiSFQIeWXdwi3i4Z1dwWwKHByeDhHJDWA",
+            "copyright": "Drambuie"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

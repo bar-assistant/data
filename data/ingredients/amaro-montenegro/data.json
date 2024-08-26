@@ -1,0 +1,22 @@
+{
+    "_id": "amaro-montenegro",
+    "_parent_id": null,
+    "name": "Amaro Montenegro",
+    "strength": 23,
+    "description": "Although not as popular as Averna, Montenegro packs an incredible bouquet of flavors ranging from carmel and chocolate to chartreuse-like herbals, all at a very workable price. As an added bonus, Montenegro is delicious on the rocks and sports an eye-catching bottle.",
+    "origin": "Italy",
+    "color": "#3c130a",
+    "category": "Amaro",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///amaro-montenegro-1_UdkOqu.png",
+            "sort": 1,
+            "placeholder_hash": "XhmKFQI7hHqQe4WKuIaAiAh3B0d0hoZndw",
+            "copyright": "Amaro Montenegro"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

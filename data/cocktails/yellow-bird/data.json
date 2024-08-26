@@ -1,0 +1,100 @@
+{
+    "_id": "yellow-bird",
+    "name": "Yellow Bird",
+    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": null,
+    "source": "https://iba-world.com/yellow-bird/",
+    "garnish": null,
+    "abv": 25.97,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///yellow-bird-1_q09v9x.jpg",
+            "sort": 1,
+            "placeholder_hash": "FtoJLYJFiHiYinhbiQW4fHVvxCAp",
+            "copyright": "Cooking to Entertain"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "galliano",
+            "name": "Galliano",
+            "strength": 42.3,
+            "description": "Galliano is sweet with vanilla-anise flavour and subtle citrus and woodsy herbal undernotes.\n\nGalliano L'Autentico is a popular Italian liqueur with a golden yellow color. The unique herbal flavor medley is dominated by vanilla and anise, though its taste is complex. Developed in the late 19th century, Galliano is used in a variety of cocktails and is a staple in well-rounded bars today. Its most famous cocktails are the Harvey Wallbanger and golden Cadillac from the 1970s. While it's great for those retro drinks and many others, it also makes a nice digestif to enjoy after a meal.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "drambuie",
+                    "name": "Drambuie",
+                    "strength": 40,
+                    "description": "Drambuie is a sweet and herbal liqueur from Scotland. It is made from Scotch whisky, honey, herbs, and spices. Drambuie has a distinctive flavor profile that combines the warmth of Scotch whisky with the sweetness of honey and the complexity of herbs and spices. It is often enjoyed on its own, over ice, or used as a key ingredient in cocktails. One of the most well-known cocktails featuring Drambuie is the Rusty Nail, where it is typically mixed with Scotch whisky.",
+                    "origin": "Scotland",
+                    "category": "Liqueurs",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 2
+        },
+        {
+            "_id": "triple-sec",
+            "name": "Triple Sec",
+            "strength": 40,
+            "description": "Triple sec is usually made from orange peels steeped in a spirit derived from sugar beet due to its neutral flavor.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

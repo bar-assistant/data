@@ -1,0 +1,64 @@
+{
+    "_id": "calvados-tonic",
+    "name": "Calvados & Tonic",
+    "instructions": "1. Pour the Calvados into a Burgundy glass over ice.\n2. Top with tonic water.\n3. Garnish with a lemon twist.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The Calvados & Tonic is a staple in Normandy. Sarah Morrissey presents hers in a Burgundy glass with heaps of ice and a ton of tonic.",
+    "source": "https://punchdrink.com/recipes/calvados-tonic/",
+    "garnish": "Lemon twist",
+    "abv": 15,
+    "tags": [
+        "Fruity",
+        "Bitter"
+    ],
+    "glass": "Wine",
+    "method": "Layer",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///calvados-tonic-1_mU0HcI.jpg",
+            "sort": 1,
+            "placeholder_hash": "8OcJHQSnZo95eGfJV3ZoaAV/YfM3",
+            "copyright": "Punch Staff"
+        },
+        {
+            "uri": "file:///calvados-tonic-1_bs1pPQ.jpg",
+            "sort": 2,
+            "placeholder_hash": "K8cFFIQTWIfxrHfeWY0G93ZDfw",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "apple-brandy",
+            "name": "Apple Brandy",
+            "strength": 40,
+            "description": "Apple brandy is a distilled spirit made from fermented apple juice or cider. The production involves fermenting apples, distilling the resulting liquid, and often aging it in oak barrels. The final product can range from clear to amber in color and exhibits a variety of apple-derived flavors, influenced by the apple varieties used and the aging process. Apple brandy can be enjoyed on its own or used in cocktails and culinary applications. The term encompasses a broad category of apple-based spirits produced globally, with variations in production methods and flavor profiles.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "tonic",
+            "name": "Tonic",
+            "strength": 0,
+            "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 100,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        }
+    ]
+}

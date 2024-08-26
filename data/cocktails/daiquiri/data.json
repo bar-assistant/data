@@ -1,0 +1,73 @@
+{
+    "_id": "daiquiri",
+    "name": "Daiquiri",
+    "instructions": "1. In a cocktail shaker add all ingredients.\n2. Stir well to dissolve the sugar.\n3. Add ice and shake.\n4. Strain into chilled cocktail glass.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Daiquirí is also the name of a beach and an iron mine near Santiago de Cuba, and is a word of Taíno origin. The drink was supposedly invented by an American mining engineer named Jennings Cox, who was in Cuba (then at the tail-end of the Spanish Captaincy-General government) at the time of the Spanish–American War. It is also possible that William A. Chanler, a US congressman who purchased the Santiago iron mines in 1902, introduced the daiquiri to clubs in New York in that year.",
+    "source": "https://iba-world.com/daiquiri/",
+    "garnish": "Lime wedge",
+    "abv": 24,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///daiquiri-1_WLJ9gB.jpg",
+            "sort": 1,
+            "placeholder_hash": "ppYJHghVh/d3dzeIeIeKdpeYdKBeBug",
+            "copyright": "A Couple Cooks"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 20,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "sugar",
+            "name": "Sugar",
+            "strength": 0,
+            "description": "White sugar",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 2,
+            "units": "barspoon",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

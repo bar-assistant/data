@@ -1,0 +1,22 @@
+{
+    "_id": "old-tom-gin",
+    "_parent_id": "gin",
+    "name": "Old Tom Gin",
+    "strength": 40,
+    "description": "It is slightly sweeter than London Dry, but slightly drier than the Dutch Jenever, thus is sometimes called \"the missing link\".",
+    "origin": "UK",
+    "color": "#ffffff",
+    "category": "Spirits",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///old-tom-gin-1_moTIXs.png",
+            "sort": 1,
+            "placeholder_hash": "4yiGDQQeWImAh4MIOGd/fvfnBweHh4iIiA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

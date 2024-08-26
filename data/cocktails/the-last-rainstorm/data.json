@@ -1,0 +1,103 @@
+{
+    "_id": "the-last-rainstorm",
+    "name": "The Last Rainstorm",
+    "instructions": "Shake all ingredients with ice, then strain into a coupe.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Imagine: a view of a sandy beach shore peeking out between dense green vegetation and hovering tree canopies, the faint scent of salt from the sea suspended in the warm breeze, and that electrifying feeling of energy in the air right before a thunderstorm. You take a sip. Crisp. Cold. Tropical. Revitalizing. This is that drink.\n\nChartreuse is the dominant flavor, trailed by a comforting whisper of coconut aroma and the grassy & clean Copalli rum. When recreating, your choice of coconut rum will be pivotal in how the drink turns out; the best coconut rum I can recommend is the Hawaiian-made Koloa rum. More info on this rum can be found here but in short, it’s a fresh, natural, actual RUM that is scented with coconut and not a coconut LIQUEUR like many cloyingly sweet “coconut rums” tend to be.\n\nThis is dangerously easy-drinking for what it is, imbibe responsibly. Chartreuse = 55% Copalli rum = 42%. Koloa coconut rum = 40%.",
+    "source": "https://barfaith.com/the-last-rainstorm/",
+    "garnish": null,
+    "abv": 27,
+    "tags": [
+        "Herbacious",
+        "Tiki"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///the-last-rainstorm-1_Nmpj0V.webp",
+            "sort": 1,
+            "placeholder_hash": "cPgNDwIKWZenlYesinh2d4aWp28JCKcL",
+            "copyright": "Barfaith"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": "Copalli White Rum",
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "coconut-rum",
+            "name": "Coconut Rum",
+            "strength": 40,
+            "description": "Coconut rum is a flavored rum that incorporates the sweet and tropical taste of coconut. It is a popular and versatile spirit used in various cocktails, providing a distinct coconut flavor to mixed drinks. Coconut rum is typically made by infusing or flavoring rum with natural or artificial coconut extracts. It is often enjoyed in tropical and beach-themed cocktails, where its coconut notes complement other fruity or citrusy ingredients. Coconut rum is a key component in cocktails like Piña Colada and Coconut Mojito, adding a hint of the tropics to the overall flavor profile.",
+            "origin": "Tropical",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": "Koloa",
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "green-chartreuse",
+            "name": "Green Chartreuse",
+            "strength": 55,
+            "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "saline-solution",
+            "name": "Saline solution",
+            "strength": 0,
+            "description": null,
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 1,
+            "units": "drops",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

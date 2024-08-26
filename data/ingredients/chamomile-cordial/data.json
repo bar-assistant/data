@@ -1,0 +1,22 @@
+{
+    "_id": "chamomile-cordial",
+    "_parent_id": null,
+    "name": "Chamomile cordial",
+    "strength": 0,
+    "description": "Herbal juice made from chamomile.",
+    "origin": null,
+    "color": "#e2dccc",
+    "category": "Juices",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///chamomile-cordial-1_IhQpcc.png",
+            "sort": 1,
+            "placeholder_hash": "tgiCBQBK+1qId3eIeE+dNmCHP5iIiHeHeA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

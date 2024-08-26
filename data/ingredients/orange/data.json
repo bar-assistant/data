@@ -1,0 +1,22 @@
+{
+    "_id": "orange",
+    "_parent_id": null,
+    "name": "Orange",
+    "strength": 0,
+    "description": "Orange fruit",
+    "origin": null,
+    "color": null,
+    "category": "Fruits and vegetables",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///orange-1_ZIqntA.png",
+            "sort": 1,
+            "placeholder_hash": "4nuKHQY6b6Vqd1p4eU9a+bOkO3hohYCWRw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

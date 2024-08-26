@@ -1,0 +1,22 @@
+{
+    "_id": "cynar",
+    "_parent_id": null,
+    "name": "Cynar",
+    "strength": 16.5,
+    "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
+    "origin": "Italy",
+    "color": "#5c0805",
+    "category": "Amaro",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///cynar-1_BBjpQu.png",
+            "sort": 1,
+            "placeholder_hash": "VWmKHQoeHUdQeIOJFxifcfQZBgaJiYiIiA",
+            "copyright": "Cynar"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

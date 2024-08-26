@@ -1,0 +1,102 @@
+{
+    "_id": "queen-of-the-rodeo",
+    "name": "Queen of the Rodeo",
+    "instructions": "1. Add all of the ingredients to a shaker along with ice and shake. Strain into a chilled glass. Garnish.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "This \"gussied-up\" Cosmo recipe replaces Cointreau and cranberry juice for a mix of grenadine, maraschino liqueur, and grapefruit juice.",
+    "source": "https://imbibemagazine.com/recipe/queen-of-the-rodeo-cosmo-recipe/",
+    "garnish": "Lime wheel, a dusting of edible pink glitter (optional)",
+    "abv": 17.25,
+    "tags": [
+        "Sweet"
+    ],
+    "glass": "Coupe",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///queen-of-the-rodeo-1_OLIIqG.jpg",
+            "sort": 1,
+            "placeholder_hash": "rRgODYKceHegiIeUdzeYZTGPNMAn",
+            "copyright": "Imbibe"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "vodka",
+            "name": "Vodka",
+            "strength": 40,
+            "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
+            "origin": "Russia",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "maraschino",
+            "name": "Maraschino",
+            "strength": 32,
+            "description": "Liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.\n\nThe Luxardo family, an Italian producer, is particularly well-known for its Maraschino liqueur.",
+            "origin": "Croatia",
+            "category": "Liqueurs",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "grapefruit-juice",
+            "name": "Grapefruit juice",
+            "strength": 0,
+            "description": "Freshly squeezed grapefruit juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "grenadine-syrup",
+            "name": "Grenadine Syrup",
+            "strength": 0,
+            "description": "Fruit syrup made from pomegranates.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

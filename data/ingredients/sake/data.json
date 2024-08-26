@@ -1,0 +1,22 @@
+{
+    "_id": "sake",
+    "_parent_id": null,
+    "name": "Sake",
+    "strength": 20,
+    "description": "Sake or saké, also referred to as Japanese rice wine, is an alcoholic beverage of Japanese origin made by fermenting rice that has been polished to remove the bran.",
+    "origin": "Japan",
+    "color": "#ffffff",
+    "category": "Spirits",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///sake-1_vU9x0v.jpg",
+            "sort": 1,
+            "placeholder_hash": "dgiGBQAsaJd/hYDpJ5hweQjoCDiCc3Z3eA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

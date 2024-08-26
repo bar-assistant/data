@@ -1,0 +1,15 @@
+{
+    "_id": "apple-juice",
+    "_parent_id": null,
+    "name": "Apple Juice",
+    "strength": 0,
+    "description": "Juice made from apples.",
+    "origin": "Worldwide",
+    "color": "#e9e0b5",
+    "category": "Juices",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [],
+    "ingredient_parts": [],
+    "prices": []
+}

@@ -1,0 +1,72 @@
+{
+    "_id": "diki-diki",
+    "name": "Diki-Diki",
+    "instructions": "1. Combine all ingredients over ice and shake\n2. Strain into a chilled cocktail glass, serve up",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A revived golden-era cocktail and fabulous way to tinker with Swedish Punsch",
+    "source": "https://tuxedono2.com/diki-diki-cocktail-recipe",
+    "garnish": null,
+    "abv": 23.36,
+    "tags": [
+        "Brandy"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///diki-diki-1_rp8wav.jpg",
+            "sort": 1,
+            "placeholder_hash": "BggGDwIMpoiRRJioene5h5mLuNBHG48G",
+            "copyright": "TuxedoNo2"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "apple-brandy",
+            "name": "Apple Brandy",
+            "strength": 40,
+            "description": "Apple brandy is a distilled spirit made from fermented apple juice or cider. The production involves fermenting apples, distilling the resulting liquid, and often aging it in oak barrels. The final product can range from clear to amber in color and exhibits a variety of apple-derived flavors, influenced by the apple varieties used and the aging process. Apple brandy can be enjoyed on its own or used in cocktails and culinary applications. The term encompasses a broad category of apple-based spirits produced globally, with variations in production methods and flavor profiles.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "swedish-punsch",
+            "name": "Swedish punsch",
+            "strength": 26,
+            "description": "Swedish Punsch (not to be confused with punch) is also known as Arrack Punsch, Caloric Punch, Punssi in Finnish, and simply as Punsch. Based on Batavia arrack, it is a style of liqueur popular in Sweden and other Nordic countries (Norwegian Punsch was also produced by the state-owned monopoly), with a strength ranging from 27% - 50% alc./vol.",
+            "origin": "Sweden",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "grapefruit-juice",
+            "name": "Grapefruit juice",
+            "strength": 0,
+            "description": "Freshly squeezed grapefruit juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

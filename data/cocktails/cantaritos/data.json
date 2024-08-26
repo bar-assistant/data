@@ -1,0 +1,118 @@
+{
+    "_id": "cantaritos",
+    "name": "Cantaritos",
+    "instructions": "1. If using the traditional clay cup for serving, soak it in cold water for 10 minutes before using. Otherwise, use a highball glass.\n2. Combine the tequila, orange juice, lemon juice and lime juice in the glass with a pinch of salt.\n3. Fill the glass with ice and top with grapefruit soda.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "Cantaritos are Mexican tequila cocktails served in clay cups! Similar to the Paloma, this drink stars grapefruit soda and citrus.",
+    "source": "Mexico",
+    "garnish": "Citrus wedges",
+    "abv": 9.7,
+    "tags": [
+        "Citrusy",
+        "Fruity"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///cantaritos-1_g8FBkV.jpg",
+            "sort": 1,
+            "placeholder_hash": "aAgKNgynQsdoePdpq3dohoY3O4C0A0g",
+            "copyright": "A Couple Cooks"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-reposado",
+            "name": "Tequila Reposado",
+            "strength": 40,
+            "description": "Tequila Reposado is a type of tequila that has been aged or \"rested\" in oak barrels for a specific period, giving it a mellower and more complex flavor compared to Tequila Blanco (unaged tequila). The term \"reposado\" translates to \"rested\" in Spanish.\n\nReposado occupies a middle ground between the youthful vibrancy of Blanco tequila and the more mature and complex characteristics of Añejo tequila. It appeals to those who appreciate a balance of agave flavor and the influence of oak aging.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "strength": 0,
+            "description": "Freshly squeezed orange juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "grapefruit-juice",
+            "name": "Grapefruit juice",
+            "strength": 0,
+            "description": "Freshly squeezed grapefruit juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 90,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        },
+        {
+            "_id": "salt",
+            "name": "Salt",
+            "strength": 0,
+            "description": "Salt",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 2,
+            "units": "pinch",
+            "optional": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 6
+        }
+    ]
+}

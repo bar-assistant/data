@@ -1,0 +1,97 @@
+{
+    "_id": "debbie-dont",
+    "name": "Debbie, Don't",
+    "instructions": "1. Combine all ingredients over ice and shake\n2. Strain into a chilled cocktail glass, serve up",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "An adventurous modern cocktail for those with a limited bar",
+    "source": "https://tuxedono2.com/debbie-don-t-cocktail-recipe",
+    "garnish": null,
+    "abv": 16.98,
+    "tags": [],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///debbie-dont-1_yZegZD.jpg",
+            "sort": 1,
+            "placeholder_hash": "AwgCDwIFpnmGiXZ2eId4F8d6drBHCHwD",
+            "copyright": "TuxedoNo2"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-reposado",
+            "name": "Tequila Reposado",
+            "strength": 40,
+            "description": "Tequila Reposado is a type of tequila that has been aged or \"rested\" in oak barrels for a specific period, giving it a mellower and more complex flavor compared to Tequila Blanco (unaged tequila). The term \"reposado\" translates to \"rested\" in Spanish.\n\nReposado occupies a middle ground between the youthful vibrancy of Blanco tequila and the more mature and complex characteristics of Añejo tequila. It appeals to those who appreciate a balance of agave flavor and the influence of oak aging.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "amaro-averna",
+            "name": "Amaro Averna",
+            "strength": 29,
+            "description": "Amaro Averna is the most popular cocktail amaro in the amber, bittersweet style that makes up much of the “common” amari stocked on shelves. Because of this, Averna is often one of the easiest bottles to procure, and may be used as a substitute in a pinch for other harder to find styles like Montenegro, Ramazzotti, and Ciociaro. Most folks will tell you that “each amaro is different” and effectively—yes—this is true, but many amari will substitute for one-another just fine, with the understanding that the drink will be subtly different.",
+            "origin": "Italy",
+            "category": "Amaro",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "pelinkovac",
+                    "name": "Pelinkovac",
+                    "strength": 32,
+                    "description": "Pelinkovac is a liqueur based on wormwood, it has a very bitter taste, resembling that of Jägermeister.",
+                    "origin": "Southeast Europe",
+                    "category": "Amaro",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "maple-syrup",
+            "name": "Maple syrup",
+            "strength": 0,
+            "description": "Maple syrup is a syrup made from the sap of maple trees.",
+            "origin": "Canada",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "_id": "kingstone-negroni",
+    "name": "Kingstone Negroni",
+    "instructions": "Combine all ingredients and stir with ice. Strain into a rocks glass over a large ice cube and garnish with a long, trimmed orange peel.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "First created in 2009 by Joaquín Simó, partner at New York’s Pouring Ribbons, the Kingston Negroni was an immediate hit. Simó credits the creation to his first taste of Smith & Cross overproof Jamaican rum. “It’s certainly not the most imaginative thing I’ve ever done—I simply Mr. Potato-Headed rum for gin in a classic Negroni spec—but it still strikes me as strange that the first thought I had when smelling and tasting a huge, funky, estery, hogo-reeking, grilled banana bread, smoking allspice branches–laden brute of an overproof Jamaican rum was wondering how it would work in a stirred aperitivo,” says Simó. “Smith & Cross is no shrinking violet, so it stands up to the bombastic chocolate and bitter orange notes in the vermouth while drying out the Campari’s richness and tempering its bitterness. Further evidence that less can sometimes be quite a bit more.”",
+    "source": "https://imbibemagazine.com/recipe/kingston-negroni-recipe/",
+    "garnish": "orange slice",
+    "abv": 23.06,
+    "tags": [
+        "Negroni"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///kingstone-negroni-1_lJ6xAq.jpg",
+            "sort": 1,
+            "placeholder_hash": "H1kKHQ6Ph3t02HuJx2hXeIaHYGcI",
+            "copyright": "Imbibe"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "jamaican-rum",
+            "name": "Jamaican Rum",
+            "strength": 40,
+            "description": "Jamaican rum refers to rum produced in Jamaica, a Caribbean island known for its rich history of rum production. Jamaican rum is renowned for its bold and distinctive flavor profile, often characterized by robust and complex notes.\n\nJamaican rum has a strong cultural and historical significance, and the island is home to several well-known distilleries, each with its unique approach to rum production. Brands such as Appleton Estate and Wray & Nephew are examples of Jamaican rums that have gained international acclaim.",
+            "origin": "Jamaica",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "dark-rum",
+                    "name": "Dark Rum",
+                    "strength": 40,
+                    "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
+                    "origin": "Caribbean",
+                    "category": "Spirits",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 1
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "strength": 18,
+            "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+            "origin": "Worldwide",
+            "category": "Fortified wine",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "strength": 25,
+            "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

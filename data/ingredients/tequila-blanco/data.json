@@ -1,0 +1,22 @@
+{
+    "_id": "tequila-blanco",
+    "_parent_id": null,
+    "name": "Tequila Blanco",
+    "strength": 40,
+    "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
+    "origin": "Mexico",
+    "color": "#ffffff",
+    "category": "Spirits",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///tequila-blanco-1_pMRCKC.png",
+            "sort": 1,
+            "placeholder_hash": "79aJHQI7mGmNdY8Td8eMf834CTh1dnd3dw",
+            "copyright": "1800"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

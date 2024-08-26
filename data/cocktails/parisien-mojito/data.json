@@ -1,0 +1,88 @@
+{
+    "_id": "parisien-mojito",
+    "name": "Parisien Mojito",
+    "instructions": "Lightly MUDDLE mint (just to bruise) in base of glass. Add other ingredients, half fill glass with crushed ice and CHURN (stir) with bar spoon. Fill glass to brim with more crushed ice and churn some more. Serve with straws.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": null,
+    "source": "https://www.diffordsguide.com/cocktails/recipe/2712/parisien-mojito",
+    "garnish": null,
+    "abv": 22.22,
+    "tags": [
+        "Summer",
+        "Mojito"
+    ],
+    "glass": "Highball",
+    "method": "Muddle",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///parisien-mojito-1_oq5WPp.jpg",
+            "sort": 1,
+            "placeholder_hash": "VggOHwY2uIeAdniGemaoZ4d4eAT5h5EP",
+            "copyright": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "mint",
+            "name": "Mint",
+            "strength": 0,
+            "description": "Mint refers to a family of aromatic herbs known for their refreshing flavor and fragrance. The most commonly used and recognized type of mint is spearmint (Mentha spicata), but there are various other species and hybrids, including peppermint (Mentha × piperita).",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 12,
+            "units": "leaves",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "st-germain",
+            "name": "St-Germain",
+            "strength": 20,
+            "description": "St-Germain is an elderflower liqueur It is made using the petals of Sambucus nigra from the Savoie region in France, and each bottle is numbered with the year the petals were collected. Petals are collected annually in the spring over a period of three to four weeks, and are often transported by bicycle to collection points to avoid damaging the petals and impacting the flavour.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Freshly squeezed lime juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

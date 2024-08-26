@@ -1,0 +1,22 @@
+{
+    "_id": "green-grapes",
+    "_parent_id": null,
+    "name": "Green grapes",
+    "strength": 0,
+    "description": "Green grapes, often simply referred to as white grapes, are a variety of grapes that are typically green or yellowish-green in color when ripe.",
+    "origin": "Worlwide",
+    "color": "#e3f3b1",
+    "category": "Fruits and vegetables",
+    "created_at": "2024-08-24T14:39:10+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///green-grapes-1_XklJ4j.png",
+            "sort": 1,
+            "placeholder_hash": "J+yFDQI52lh8c2CZhwl6sghJB1llmHOHiA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

@@ -1,0 +1,88 @@
+{
+    "_id": "vento",
+    "name": "VE.N.TO",
+    "instructions": "1. Pour all ingredients into the shaker.\n2. Shake vigorously with ice.\n3. Strain into a chilled small tumbler glass filled with ice.\n\nNotes:\nIf desired water can be replaced by chamomile infusion in the honey mix.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "The Ve.n.to is one of the new additions to the IBA (International Bartender Association) cocktail list. And it is a truly unusual one, for it is the first-ever Grappa cocktail that made it into one of the lists of the IBA.",
+    "source": "https://iba-world.com/ve-n-to/",
+    "garnish": "Garnish with lemon zest and white grapes.",
+    "abv": 18.46,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///vento-1_U69cAE.jpg",
+            "sort": 1,
+            "placeholder_hash": "PQgGFYD4N5iHeIeJdplnegiKhbBY",
+            "copyright": "IBA World"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "grappa",
+            "name": "Grappa",
+            "strength": 50,
+            "description": "Grappa is an Italian grape-based pomace brandy. It is made by distilling the residue (skins, pulp, seeds, and stems) left after pressing grapes during the winemaking process. Grappa is known for its strong and distinct flavor, which can vary depending on the grape varieties used. It is often consumed as a digestif and is enjoyed for its robust character. Grappa is produced in various regions of Italy and has a long history as a traditional Italian spirit.",
+            "origin": "Italy",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Freshly squeezed lemon juice.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "strength": 0,
+            "description": "Syrup made from dissolving honey in water.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "chamomile-cordial",
+            "name": "Chamomile cordial",
+            "strength": 0,
+            "description": "Herbal juice made from chamomile.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

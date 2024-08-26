@@ -1,0 +1,104 @@
+{
+    "_id": "as-kingston-negroni",
+    "name": "A.S. Kingston Negroni",
+    "instructions": "1. Add all ingredients to a mixing glass with ice and stir until chilled.\n2. Taste occasionally to ensure the coffee bean flavor has infused the drink.\n3. Strain into a rocks glass over a large ice cube.\n4. Garnish with a half orange wheel and lime twist.",
+    "created_at": "2024-08-24T14:39:11+00:00",
+    "updated_at": null,
+    "description": "A Kingston Negroni cocktail recipe that stirs the classic mix of rum, Campari and sweet vermouth with oloroso sherry and coffee beans.",
+    "source": "https://punchdrink.com/recipes/anthony-schmidts-kingston-negroni/",
+    "garnish": "half orange wheel, lime twist",
+    "abv": 25.76,
+    "tags": [
+        "Bitter",
+        "Citrusy",
+        "Negroni"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///as-kingston-negroni-1_zdfJw9.jpg",
+            "sort": 1,
+            "placeholder_hash": "oigODQKrha9sGIkneI8neSNrYJBX",
+            "copyright": "Punch Staff | Shannon Sturgis"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "overproof-rum",
+            "name": "Overproof Rum",
+            "strength": 50,
+            "description": "Rum much higher than the standard 40% ABV (80 proof), with many as high as 75% (150 proof) to 80% (160 proof) available.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": "preferably Smith & Cross",
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "strength": 25,
+            "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "strength": 18,
+            "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+            "origin": "Worldwide",
+            "category": "Fortified wine",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": "preferably Carpano Antica",
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "sherry",
+            "name": "Sherry",
+            "strength": 17,
+            "description": "Sherry is a fortified wine that originates from the Jerez region in southwestern Spain. It is made from white grapes, primarily the Palomino grape variety, and is known for its unique production process, diverse styles, and complex flavors. Sherry has a protected designation of origin (DO) status, meaning that only wines produced in the designated region can be labeled as Sherry.",
+            "origin": "Spain",
+            "category": "Wines",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": "preferably Lustau",
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "coffee",
+            "name": "Coffee",
+            "strength": 0,
+            "description": "Coffee is a beverage made from roasted coffee beans. The beans are ground and brewed with hot water to produce a flavorful and aromatic drink. Coffee is enjoyed worldwide and comes in various styles, including espresso, drip coffee, and specialty beverages. It contains caffeine, a natural stimulant, and is often consumed for its energizing effects and rich, complex taste.",
+            "origin": "Africa",
+            "category": "Beverages",
+            "amount": 5,
+            "units": "beans",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}
