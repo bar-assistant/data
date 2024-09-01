@@ -2,7 +2,7 @@
     "_id": "long-island-ice-tea",
     "name": "Long Island Ice Tea",
     "instructions": "Add all ingredients into a highball glass filled with ice.\nStir gently.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "The cocktail has been criticized for its large number of ingredients, making it cumbersome to prepare in busy bars. It is considered a favorite of university students in the United States and it has thus garnered negative connotations as \"an act of mixological atrocity favored by college students and wastrels\", in the words of one food critic.",
     "source": "https://iba-world.com/long-island-ice-tea/",
@@ -17,7 +17,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///long-island-ice-tea-1_Nd9Rf3.jpg",
+            "uri": "file:///long-island-ice-tea-7_L7A4Vh.jpg",
             "sort": 1,
             "placeholder_hash": "DBgGHYQ2+1aqhleIXILLhwx5tFA2",
             "copyright": "Kitchen Stories"
@@ -103,7 +103,7 @@
             "_id": "lemon-juice",
             "name": "Lemon juice",
             "strength": 0,
-            "description": "Freshly squeezed lemon juice.",
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
             "origin": null,
             "category": "Juices",
             "amount": 30,
@@ -118,7 +118,7 @@
             "_id": "simple-syrup",
             "name": "Simple Syrup",
             "strength": 0,
-            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
             "origin": null,
             "category": "Syrups",
             "amount": 20,

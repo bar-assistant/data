@@ -2,7 +2,7 @@
     "_id": "mint-julep",
     "name": "Mint Julep",
     "instructions": "In Julep Stainless Steel Cup gently muddle the mint with sugar and water. Fill the glass with cracked ice, add the Bourbon and stir well until the cup frosts.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": null,
     "source": "https://iba-world.com/mint-julep/",
@@ -18,7 +18,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///mint-julep-1_nhC8sx.jpg",
+            "uri": "file:///mint-julep-7_JsS4Fz.jpg",
             "sort": 1,
             "placeholder_hash": "0jgKJwQ2fMVgZoiaiiiIhpeXd1BYBXID",
             "copyright": "Liquor.com / Tim Nusog"
@@ -59,7 +59,7 @@
             "_id": "sugar",
             "name": "Sugar",
             "strength": 0,
-            "description": "White sugar",
+            "description": "Sugar is a fundamental ingredient in cocktails, used primarily as a sweetener to balance the flavors of sour, bitter, or strong alcoholic components. It comes in various forms, including granulated sugar, superfine sugar, and sugar cubes, each of which can be used differently depending on the cocktail. Sugar can also be transformed into simple syrup, a liquid form that dissolves easily in cold beverages, making it a versatile option for many drinks.\n\nIn cocktails, sugar is often used to rim glasses, such as in a classic Margarita or a Sidecar, where the rim is coated with sugar to add sweetness with every sip. Superfine sugar is preferred for drinks like the Daiquiri or the Mojito, where it is muddled with lime or mint to create a balanced and refreshing flavor. Sugar cubes are a key component in classic cocktails like the Old Fashioned, where they are soaked in bitters before being muddled to release their sweetness.\n\nBeyond its role as a sweetener, sugar can also influence the texture and mouthfeel of a cocktail, adding a slight viscosity that enhances the drink's overall experience. Whether used in its solid form or as a syrup, sugar is an essential ingredient that helps create harmony and depth in a wide range of cocktails.",
             "origin": null,
             "category": "Uncategorized",
             "amount": 1,

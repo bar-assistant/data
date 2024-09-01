@@ -2,7 +2,7 @@
     "_id": "zombie-spritz",
     "name": "Zombie Spritz",
     "instructions": "1. Combine all ingredients, except the Cava rosé, in a mixing tin and shake with ice.\n2. Strain into a goblet or tiki mug over crushed ice\n3. Top with cava rosé.\n",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "At Dante's, this low-ABV spritz tangles with the Zombie's famously layered build for a cocktail recipe that feels firmly rooted to both.",
     "source": "https://punchdrink.com/recipes/zombie-spritz/",
@@ -19,7 +19,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///zombie-spritz-1_ujiB5z.jpg",
+            "uri": "file:///zombie-spritz-7_DsS3u3.jpg",
             "sort": 1,
             "placeholder_hash": "HfkJHQT8WX+WaWmnhomXiFtfqPVz",
             "copyright": "Punch Staff"
@@ -120,7 +120,7 @@
             "_id": "grapefruit-juice",
             "name": "Grapefruit juice",
             "strength": 0,
-            "description": "Freshly squeezed grapefruit juice.",
+            "description": "Grapefruit juice is a bold and distinctive cocktail ingredient, known for its tart, bitter-sweet flavor profile. Extracted from the grapefruit, a citrus fruit larger and more acidic than oranges, this juice brings a complex taste that can range from bracingly sour to subtly sweet, depending on the variety of grapefruit used.\n\n\nIn cocktails, grapefruit juice adds a sophisticated and refreshing element. Its natural bitterness and acidity make it an excellent counterpoint to sweet liqueurs and spirits, creating well-balanced drinks. The juice also contributes a lovely pink or ruby hue to cocktails, enhancing their visual appeal.\nPopular in classics like the Paloma and the Greyhound, grapefruit juice pairs particularly well with tequila, vodka, and gin. When using grapefruit juice in cocktails, freshly squeezed is ideal for the brightest flavor, though high-quality bottled juices can be a convenient alternative. The amount used can vary, but its strong flavor means a little often goes a long way in cocktail recipes.",
             "origin": null,
             "category": "Juices",
             "amount": 15,
@@ -135,7 +135,7 @@
             "_id": "lime-juice",
             "name": "Lime juice",
             "strength": 0,
-            "description": "Freshly squeezed lime juice.",
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
             "origin": null,
             "category": "Juices",
             "amount": 7.5,

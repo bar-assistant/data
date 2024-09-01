@@ -2,7 +2,7 @@
     "_id": "paper-airplane",
     "name": "Paper Airplane",
     "instructions": "Build all ingredients in cocktail shaker. Shake vigorously with ice. Strain up into coupe or Nick and Nora glass and finish with lime zest.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "Mezcal riff on the classic Paper Airplane cocktail",
     "source": "https://www.ilegalmezcal.com/paper-airplane/",
@@ -14,7 +14,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///paper-airplane-1_X6Npey.jpg",
+            "uri": "file:///paper-airplane-7_JxwoO0.jpg",
             "sort": 1,
             "placeholder_hash": "U0kKJYZtmXbzimiKjVeYZgqWszA6",
             "copyright": ""
@@ -70,7 +70,7 @@
             "_id": "lime-juice",
             "name": "Lime juice",
             "strength": 0,
-            "description": "Freshly squeezed lime juice.",
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
             "origin": null,
             "category": "Juices",
             "amount": 22.5,

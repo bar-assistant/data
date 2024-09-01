@@ -2,7 +2,7 @@
     "_id": "old-fashioned",
     "name": "Old Fashioned",
     "instructions": "1. Add syrup and bitters to a glass\n2. Swirl syrup and bitters\n3. Fill the glass with ice cubes and add whiskey\n4. Stir gently",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "Developed during the 19th century and given its name in the 1880s, it is an IBA Official Cocktail. It is also one of six basic drinks listed in David A. Embury's The Fine Art of Mixing Drinks.\n\nOld-Fashioned is as traditional as they come. A simple mix of spirits, sugar, bitters and water, it appears in 1806 as the first printed recipe for a cocktail (“cock tail”). Other alcohols were permitted, but the whiskey or rye version of this combination, over ice, is what we now know as the Old Fashioned, thought to be named later that century after more elaborate new-fangled cocktails entered the canon. During Prohibition, the recipe veered into odd territory, adding fruit and cherries to distract from the available crude spirits. After repeal, it was the imposter version that stuck until the recent cocktail revival brought the original recipe back from the brink of extinction.",
     "source": "https://iba-world.com/old-fashioned/",
@@ -18,7 +18,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///old-fashioned-1_znmmIt.jpg",
+            "uri": "file:///old-fashioned-7_yONUNF.jpg",
             "sort": 1,
             "placeholder_hash": "bzkGJwbxeBWfd2ZecmibZphotUEIGoUA",
             "copyright": "Epicurious"
@@ -44,7 +44,7 @@
             "_id": "simple-syrup",
             "name": "Simple Syrup",
             "strength": 0,
-            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
             "origin": null,
             "category": "Syrups",
             "amount": 15,
@@ -57,7 +57,7 @@
                     "_id": "sugar",
                     "name": "Sugar",
                     "strength": 0,
-                    "description": "White sugar",
+                    "description": "Sugar is a fundamental ingredient in cocktails, used primarily as a sweetener to balance the flavors of sour, bitter, or strong alcoholic components. It comes in various forms, including granulated sugar, superfine sugar, and sugar cubes, each of which can be used differently depending on the cocktail. Sugar can also be transformed into simple syrup, a liquid form that dissolves easily in cold beverages, making it a versatile option for many drinks.\n\nIn cocktails, sugar is often used to rim glasses, such as in a classic Margarita or a Sidecar, where the rim is coated with sugar to add sweetness with every sip. Superfine sugar is preferred for drinks like the Daiquiri or the Mojito, where it is muddled with lime or mint to create a balanced and refreshing flavor. Sugar cubes are a key component in classic cocktails like the Old Fashioned, where they are soaked in bitters before being muddled to release their sweetness.\n\nBeyond its role as a sweetener, sugar can also influence the texture and mouthfeel of a cocktail, adding a slight viscosity that enhances the drink's overall experience. Whether used in its solid form or as a syrup, sugar is an essential ingredient that helps create harmony and depth in a wide range of cocktails.",
                     "origin": null,
                     "category": "Uncategorized",
                     "amount": null,

@@ -2,7 +2,7 @@
     "_id": "caipirinha",
     "name": "Caipirinha",
     "instructions": "1. Place lime and sugar into a double old fashioned glass and muddle gently.\n2. Fill the glass with cracked ice and add Cachaça.\n3. Stir gently to involve ingredients.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "Although the origin of the drink is unknown, one account says it came about around 1918 in the region of Alentejo in Portugal, with a popular recipe made with lemon, garlic, and honey, indicated for patients with the Spanish flu. Another account is that Caipirinha is based on Poncha, an alcoholic drink from Madeira, Portugal. The main ingredient is aguardente de cana, which is made from sugar cane. Sugar cane production was switched from Madeira to Brazil by the Portuguese as they needed more land to plant it on. Before this people in Madeira had already created aguardente de cana, which was the ancestor to cachaça.\n\nVariations:\n\n**CAIPIROSKA** – Instead of Cachaça use Vodka;",
     "source": "https://iba-world.com/caipirinha/",
@@ -18,7 +18,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///caipirinha-1_xEEwJx.jpg",
+            "uri": "file:///caipirinha-7_MfGOpw.jpg",
             "sort": 1,
             "placeholder_hash": "ZxkWJwR3h4d/iYeHh4d4h3d4l1A4ynAI",
             "copyright": "Liquor.com / Tim Nusog"
@@ -71,7 +71,7 @@
             "_id": "sugar",
             "name": "Sugar",
             "strength": 0,
-            "description": "White sugar",
+            "description": "Sugar is a fundamental ingredient in cocktails, used primarily as a sweetener to balance the flavors of sour, bitter, or strong alcoholic components. It comes in various forms, including granulated sugar, superfine sugar, and sugar cubes, each of which can be used differently depending on the cocktail. Sugar can also be transformed into simple syrup, a liquid form that dissolves easily in cold beverages, making it a versatile option for many drinks.\n\nIn cocktails, sugar is often used to rim glasses, such as in a classic Margarita or a Sidecar, where the rim is coated with sugar to add sweetness with every sip. Superfine sugar is preferred for drinks like the Daiquiri or the Mojito, where it is muddled with lime or mint to create a balanced and refreshing flavor. Sugar cubes are a key component in classic cocktails like the Old Fashioned, where they are soaked in bitters before being muddled to release their sweetness.\n\nBeyond its role as a sweetener, sugar can also influence the texture and mouthfeel of a cocktail, adding a slight viscosity that enhances the drink's overall experience. Whether used in its solid form or as a syrup, sugar is an essential ingredient that helps create harmony and depth in a wide range of cocktails.",
             "origin": null,
             "category": "Uncategorized",
             "amount": 4,

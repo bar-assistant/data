@@ -2,7 +2,7 @@
     "_id": "death-flip",
     "name": "Death Flip",
     "instructions": "1. Combine all ingredients in a mixing tin and shake with ice. Strain into a sour glass.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "When this cocktail first appeared on the menu at the Black Pearl in Melbourne, in 2010, no ingredients were listed. And if you asked what was in the drink, the bartender would not tell you. The only thing offering the customer a hint as to what they were getting into was the ominous description: “You don’t wanna meet this cocktail in a dark alley.”\n\nOf course, plenty of people stepped up to take the bait, and many ended up liking the cocktail—something that likely wouldn’t have happened if the ingredients were listed: tequila, yellow Chartreuse, Jägermeister and a whole egg. To date, it is the only flip to become a modern classic.",
     "source": "https://punchdrink.com/recipes/death-flip/",
@@ -16,7 +16,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///death-flip-1_9tmhXZ.jpg",
+            "uri": "file:///death-flip-7_JZkWCS.jpg",
             "sort": 1,
             "placeholder_hash": "5+cJFQIPXqhFeYwXtoiFaBV4IJIH",
             "copyright": "Punch"
@@ -72,7 +72,7 @@
             "_id": "simple-syrup",
             "name": "Simple Syrup",
             "strength": 0,
-            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
             "origin": null,
             "category": "Syrups",
             "amount": 1,

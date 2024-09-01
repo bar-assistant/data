@@ -2,7 +2,7 @@
     "_id": "good-christian-pear",
     "name": "Good Christian Pear",
     "instructions": "1. Shake with ice\n2. Double-strain into a coupe.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "David Burnette, South on Main, Little Rock, Arkansas",
     "source": "https://alpenz.com/recipe-RsPGn5chya.html",
@@ -17,7 +17,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///good-christian-pear-1_EPvqaT.jpg",
+            "uri": "file:///good-christian-pear-7_Tw7wnU.jpg",
             "sort": 1,
             "placeholder_hash": "ZikGF4IwlIa8hnhTZ7eZKIWL5cCnDYQK",
             "copyright": "Haus Alpenz | Lee Edwards"
@@ -43,7 +43,7 @@
             "_id": "honey-syrup",
             "name": "Honey Syrup",
             "strength": 0,
-            "description": "Syrup made from dissolving honey in water.",
+            "description": "Honey syrup is a natural sweetener used in cocktails to add depth and complexity beyond what standard simple syrup offers. Made by diluting honey with water, usually in a 1:1 ratio, this syrup brings not only sweetness but also subtle floral, herbal, or fruity notes depending on the type of honey used.\n\nWhen incorporating honey syrup into drinks, it's important to consider its distinct flavor profile. The type of honey used can significantly impact the final taste of the cocktail, allowing for creative variations. Bartenders often prefer to make their own honey syrup to control the consistency and flavor, though commercial versions are available. As with other syrups, the amount used can be adjusted to balance the cocktail's sweetness with other components.",
             "origin": "Worldwide",
             "category": "Syrups",
             "amount": 30,
@@ -58,7 +58,7 @@
             "_id": "lemon-juice",
             "name": "Lemon juice",
             "strength": 0,
-            "description": "Freshly squeezed lemon juice.",
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
             "origin": null,
             "category": "Juices",
             "amount": 15,

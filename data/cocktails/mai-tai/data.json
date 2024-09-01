@@ -2,7 +2,7 @@
     "_id": "mai-tai",
     "name": "Mai-Tai",
     "instructions": "1. Add all ingredients into a shaker with ice.\n2. Shake and pour into a double rocks glass or a highball glass.\n\n*The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of “rummy” from molasses.*",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "The Mai Tai has a mixed up history. Reaching its height of popularity in the 50s and 60s, it is the quintessential tiki drink. Tiki trendsetters Don the Beachcomber and Trader Vic both claim to have invented the cocktail, though their versions are distinctly different. Over time all kinds of fruity concoctions have been whipped up under the name of Mai Tai, no doubt, in all the colors of the rainbow. Although itself slightly modified, due to availability of ingredients, Trader Vic’s ‘Original” Mai Tai reigns supreme.",
     "source": "https://iba-world.com/mai-tai/",
@@ -18,13 +18,13 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///mai-tai-1_TSho2y.jpg",
+            "uri": "file:///mai-tai-7_KQgNyZ.jpg",
             "sort": 1,
             "placeholder_hash": "DikKJIQomWdwaoh2iXsrcLUGdg",
             "copyright": "Reddit"
         },
         {
-            "uri": "file:///mai-tai-1_AfDMw7.webp",
+            "uri": "file:///mai-tai-7_e7Mz6t.webp",
             "sort": 2,
             "placeholder_hash": "SQgKJwIHqJeHd4eBfHaHmHeJh3A3SHAG",
             "copyright": "TuxedoNo2"
@@ -92,7 +92,7 @@
             "_id": "orgeat-syrup",
             "name": "Orgeat Syrup",
             "strength": 0,
-            "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
+            "description": "Orgeat syrup is a sweet, nutty syrup that plays a crucial role in many classic and tiki-style cocktails. Traditionally made from almonds, sugar, and orange flower water, orgeat has a distinctive flavor profile that combines nuttiness with subtle floral notes and a rich sweetness.\n\n\nIn cocktails, orgeat syrup adds depth, complexity, and a silky texture. Its unique taste complements a wide range of spirits, particularly rum and whiskey, and it's an essential ingredient in iconic drinks like the Mai Tai and the Japanese Cocktail. The syrup's ability to smooth out harsh edges in spirits while adding its own character makes it a valuable tool in a mixologist's arsenal.\n\n\nWhen using orgeat syrup, a little goes a long way due to its concentrated flavor and sweetness. High-quality commercial versions are readily available, but some bartenders prefer to make their own to control the flavor profile and ingredients. While almond is the traditional base, variations using other nuts like pistachio or hazelnut have become popular in craft cocktail scenes.",
             "origin": null,
             "category": "Syrups",
             "amount": 15,
@@ -107,7 +107,7 @@
             "_id": "lime-juice",
             "name": "Lime juice",
             "strength": 0,
-            "description": "Freshly squeezed lime juice.",
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
             "origin": null,
             "category": "Juices",
             "amount": 30,
@@ -122,7 +122,7 @@
             "_id": "simple-syrup",
             "name": "Simple Syrup",
             "strength": 0,
-            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
             "origin": null,
             "category": "Syrups",
             "amount": 7.5,

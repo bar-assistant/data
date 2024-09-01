@@ -2,7 +2,7 @@
     "_id": "shliva-sour",
     "name": "Shliva Sour",
     "instructions": "1. Add all ingredients to shaker\n2. Shake for 15sec\n3. Strain into a glass",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": null,
     "source": null,
@@ -18,7 +18,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///shliva-sour-1_si9qpF.jpg",
+            "uri": "file:///shliva-sour-7_b0mmbP.jpg",
             "sort": 1,
             "placeholder_hash": "GzkGJQZsViDDV52nnFx0mJZwZAlX",
             "copyright": "Bar Assistant"
@@ -44,7 +44,7 @@
             "_id": "lemon-juice",
             "name": "Lemon juice",
             "strength": 0,
-            "description": "Freshly squeezed lemon juice.",
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
             "origin": null,
             "category": "Juices",
             "amount": 30,
@@ -59,7 +59,7 @@
             "_id": "honey-syrup",
             "name": "Honey Syrup",
             "strength": 0,
-            "description": "Syrup made from dissolving honey in water.",
+            "description": "Honey syrup is a natural sweetener used in cocktails to add depth and complexity beyond what standard simple syrup offers. Made by diluting honey with water, usually in a 1:1 ratio, this syrup brings not only sweetness but also subtle floral, herbal, or fruity notes depending on the type of honey used.\n\nWhen incorporating honey syrup into drinks, it's important to consider its distinct flavor profile. The type of honey used can significantly impact the final taste of the cocktail, allowing for creative variations. Bartenders often prefer to make their own honey syrup to control the consistency and flavor, though commercial versions are available. As with other syrups, the amount used can be adjusted to balance the cocktail's sweetness with other components.",
             "origin": "Worldwide",
             "category": "Syrups",
             "amount": 22.5,

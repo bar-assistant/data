@@ -2,7 +2,7 @@
     "_id": "star",
     "name": "Star",
     "instructions": "1. Combine all ingredients in a mixing glass and stir for ten seconds\n2. Strain into a cocktail glass and garnish",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "A humble riff on the famous Manhattan yields excellent fall flavors",
     "source": "https://tuxedono2.com/star-cocktail-recipe",
@@ -16,7 +16,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///star-1_YaigaI.jpg",
+            "uri": "file:///star-7_NcuaHw.jpg",
             "sort": 0,
             "placeholder_hash": "AQgCBwIHqJl2mXaId2eIFriKdIBnB3oF",
             "copyright": "TuxedoNo2"
@@ -57,7 +57,7 @@
             "_id": "simple-syrup",
             "name": "Simple Syrup",
             "strength": 0,
-            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
             "origin": null,
             "category": "Syrups",
             "amount": 1,

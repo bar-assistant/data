@@ -2,7 +2,7 @@
     "_id": "sex-on-the-beach",
     "name": "Sex on the Beach",
     "instructions": "Build all ingredients in a highball glass filled with ice.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "There are two general types of the cocktail:\n\n- The IBA official cocktail is made from vodka, peach schnapps, orange juice, and cranberry juice.\n- The 2008 Mr. Boston Official Bartender's Guide (67th edition) provides an alternative recipe made from vodka, Chambord, Midori Melon Liqueur, pineapple juice, and cranberry juice.\n\nThe drink is built over ice in a highball glass and garnished with an orange slice. Sometimes they are mixed in smaller amounts and served as a shooter.",
     "source": "https://iba-world.com/sex-on-the-beach/",
@@ -17,7 +17,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///sex-on-the-beach-1_vVIOJ1.jpg",
+            "uri": "file:///sex-on-the-beach-7_w7fMmd.jpg",
             "sort": 1,
             "placeholder_hash": "MGkOLRD2WGqWuVh4mImGeAmohGBJ",
             "copyright": "Copy Kat Recipes"
@@ -70,7 +70,7 @@
             "_id": "orange-juice",
             "name": "Orange juice",
             "strength": 0,
-            "description": "Freshly squeezed orange juice.",
+            "description": "Orange juice is a popular and versatile cocktail ingredient, known for its sweet and tangy flavor profile. Extracted from fresh oranges, it brings a natural sweetness and subtle acidity to drinks, along with a bright, sunny color that enhances the visual appeal of cocktails.\n\nWhen using orange juice in cocktails, freshly squeezed is ideal for the best flavor, though high-quality, not-from-concentrate commercial juices can be a convenient alternative. The amount used can vary widely depending on the recipe, from a splash for flavor to being the primary mixer in a drink. Its natural sweetness means it's often used in place of simple syrup in some recipes, adding both flavor and sweetness in one ingredient.",
             "origin": null,
             "category": "Juices",
             "amount": 40,

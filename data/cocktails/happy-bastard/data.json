@@ -2,7 +2,7 @@
     "_id": "happy-bastard",
     "name": "Happy Bastard",
     "instructions": "1. Combine all ingredients, except tonic, in a mixing tin and shake with ice.\n2. Strain into a Collins glass over ice.\n3. Top with tonic.\n\n",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "A lighter take on the Suffering Bastard cocktail recipe that calls on cucumber tonic water in place of ginger beer.",
     "source": "https://punchdrink.com/recipes/happy-bastard/",
@@ -18,7 +18,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///happy-bastard-1_gOfhOi.jpg",
+            "uri": "file:///happy-bastard-7_b5TAlc.jpg",
             "sort": 1,
             "placeholder_hash": "WggSFQI4h5BoZ7Z4eFaXeWV/hk0L",
             "copyright": "Punch Staff"
@@ -74,7 +74,7 @@
             "_id": "ginger-syrup",
             "name": "Ginger syrup",
             "strength": 0,
-            "description": "Syrup infused with ginger root.\n\nThis ginger syrup is fantastic in cocktails, but it also makes an out-of-this-world ginger ale. To make ginger ale, simply fill an ice-filled glass a third of the way with the syrup, top with soda water and a squeeze of lime, stir and enjoy.",
+            "description": "Ginger syrup is a spicy-sweet cocktail ingredient that adds a bold, zesty kick to drinks. Made by simmering fresh ginger root with sugar and water, this syrup captures the root's fiery heat and distinctive flavor, offering a perfect balance of sweetness and warmth.\n\nWhen using ginger syrup, it's important to consider its potency. A little can go a long way in terms of both flavor and heat. Homemade versions allow for control over the ginger intensity and sweetness level, though quality commercial options are available. The syrup's versatility makes it a valuable addition to both classic and contemporary cocktail recipes, offering a quick way to infuse drinks with ginger's unique character.",
             "origin": "Worldwide",
             "category": "Syrups",
             "amount": 15,
@@ -89,7 +89,7 @@
             "_id": "lemon-juice",
             "name": "Lemon juice",
             "strength": 0,
-            "description": "Freshly squeezed lemon juice.",
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
             "origin": null,
             "category": "Juices",
             "amount": 15,

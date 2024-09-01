@@ -2,7 +2,7 @@
     "_id": "singapore-sling",
     "name": "Singapore Sling",
     "instructions": "Pour all ingredients into a cocktail shaker filled with ice cubes. Shake well. Strain into Hurricane glass.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "This long drink was developed sometime before 1915 by bartender Ngiam Tong Boon, who was working at the Long Bar in Raffles Hotel, Singapore. It was initially called the gin sling – a sling was originally a North American drink composed of spirit and water, sweetened and flavored.",
     "source": "https://iba-world.com/singapore-sling/",
@@ -18,7 +18,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///singapore-sling-1_qx9B21.jpg",
+            "uri": "file:///singapore-sling-7_fMotKw.jpg",
             "sort": 1,
             "placeholder_hash": "sSgKFwioRYhveIiqiFmIiEZqODCLBYUG",
             "copyright": "The Spruce Eats"
@@ -104,7 +104,7 @@
             "_id": "lime-juice",
             "name": "Lime juice",
             "strength": 0,
-            "description": "Freshly squeezed lime juice.",
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
             "origin": null,
             "category": "Juices",
             "amount": 15,
@@ -119,7 +119,7 @@
             "_id": "grenadine-syrup",
             "name": "Grenadine Syrup",
             "strength": 0,
-            "description": "Fruit syrup made from pomegranates.",
+            "description": "Grenadine syrup is a sweet, vibrant red syrup made from pomegranate juice, sugar, and water, often used as a flavoring and coloring agent in cocktails. Traditionally, grenadine derives its name from the French word \"grenade,\" meaning pomegranate, highlighting its original base ingredient. The syrup is known for its balanced flavor, combining the sweetness of sugar with the tartness of pomegranate, which adds a fruity complexity to drinks.",
             "origin": "Worldwide",
             "category": "Syrups",
             "amount": 10,

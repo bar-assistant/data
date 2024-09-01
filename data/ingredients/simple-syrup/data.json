@@ -3,20 +3,37 @@
     "_parent_id": null,
     "name": "Simple Syrup",
     "strength": 0,
-    "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+    "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
     "origin": null,
     "color": "#e6dfcc",
     "category": "Syrups",
-    "created_at": "2024-08-24T14:39:10+00:00",
-    "updated_at": null,
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": "2024-08-28T13:59:31+00:00",
     "images": [
         {
-            "uri": "file:///simple-syrup-1_BfVSCF.png",
+            "uri": "file:///simple-syrup-7_LJ07jg.png",
             "sort": 1,
             "placeholder_hash": "shiGBQIeTyedc3aI14owhweIBwd5eXdnaA",
-            "copyright": ""
+            "copyright": "Monin"
         }
     ],
-    "ingredient_parts": [],
+    "ingredient_parts": [
+        {
+            "_id": "sugar",
+            "name": "Sugar",
+            "strength": 0,
+            "description": "Sugar is a fundamental ingredient in cocktails, used primarily as a sweetener to balance the flavors of sour, bitter, or strong alcoholic components. It comes in various forms, including granulated sugar, superfine sugar, and sugar cubes, each of which can be used differently depending on the cocktail. Sugar can also be transformed into simple syrup, a liquid form that dissolves easily in cold beverages, making it a versatile option for many drinks.\n\nIn cocktails, sugar is often used to rim glasses, such as in a classic Margarita or a Sidecar, where the rim is coated with sugar to add sweetness with every sip. Superfine sugar is preferred for drinks like the Daiquiri or the Mojito, where it is muddled with lime or mint to create a balanced and refreshing flavor. Sugar cubes are a key component in classic cocktails like the Old Fashioned, where they are soaked in bitters before being muddled to release their sweetness.\n\nBeyond its role as a sweetener, sugar can also influence the texture and mouthfeel of a cocktail, adding a slight viscosity that enhances the drink's overall experience. Whether used in its solid form or as a syrup, sugar is an essential ingredient that helps create harmony and depth in a wide range of cocktails.",
+            "origin": null,
+            "category": "Uncategorized"
+        },
+        {
+            "_id": "water",
+            "name": "Water",
+            "strength": 0,
+            "description": "It's water.",
+            "origin": "Worldwide",
+            "category": "Beverages"
+        }
+    ],
     "prices": []
 }

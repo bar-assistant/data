@@ -2,7 +2,7 @@
     "_id": "wiz-fizz",
     "name": "Wiz Fizz",
     "instructions": "1. Fill a highball glass 1/5 full with root beer and set aside.\n2. Combine the remaining ingredients, except the cream, in a mixing tin and dry shake without ice.\n3. Add the cream and dry shake again.\n4. Add ice and shake again for 30 to 40 seconds.\n5. Strain the ice out of the shaker and dry shake once more for 1 minute.\n6. Pour the contents of the shaker into the highball glass and allow to settle before adding a final topper.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "In this fizzy cocktail recipe, gin, Cynar, lemon, and vanilla syrup act as a base, while egg white and heavy cream combine for a rich body.",
     "source": "https://punchdrink.com/recipes/wiz-fizz/",
@@ -16,7 +16,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///wiz-fizz-1_8XgehV.jpg",
+            "uri": "file:///wiz-fizz-7_goQbKQ.jpg",
             "sort": 1,
             "placeholder_hash": "1DgKFISZSJX0iXeJemWm4GsJzQ",
             "copyright": "Punch Staff"
@@ -57,7 +57,7 @@
             "_id": "lemon-juice",
             "name": "Lemon juice",
             "strength": 0,
-            "description": "Freshly squeezed lemon juice.",
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
             "origin": null,
             "category": "Juices",
             "amount": 22.5,
@@ -72,7 +72,7 @@
             "_id": "simple-syrup",
             "name": "Simple Syrup",
             "strength": 0,
-            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
             "origin": null,
             "category": "Syrups",
             "amount": 22.5,

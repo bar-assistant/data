@@ -2,7 +2,7 @@
     "_id": "mulled-wine",
     "name": "Mulled Wine",
     "instructions": "Put everything except the rum into a pot and heat slowly on low/lowest heat, lid off. The longer this takes, the better, as the spices should infuse into the wine.\n\nDo not boil!\n\nOnce hot, stir in the sugar until dissolved.\n\nAdd rum.\n\nStrain and serve.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "Mulled Wine, or Hypocras, is one of those drinks that predates the era of cocktails. The earliest mentions of heated, spiced wine date back to ancient Rome. Right after they built all those roads, they used them to bring mulled wine all over Europe. It's been a common tradition in Germany, France, and England ever since and is especially popular around Christmas time. ⁣ ⁣",
     "source": "https://www.reddit.com/r/cocktails/comments/zhqrbx/gl%C3%BChwein_traditional_german_mulled_wine/",
@@ -16,7 +16,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///mulled-wine-1_Rfjl82.jpg",
+            "uri": "file:///mulled-wine-7_CtHJLb.jpg",
             "sort": 1,
             "placeholder_hash": "ZhgKFQTVp0dy9zZIl3pmiCd6gJMH",
             "copyright": "Reddit"
@@ -54,7 +54,7 @@
             "_id": "orange-juice",
             "name": "Orange juice",
             "strength": 0,
-            "description": "Freshly squeezed orange juice.",
+            "description": "Orange juice is a popular and versatile cocktail ingredient, known for its sweet and tangy flavor profile. Extracted from fresh oranges, it brings a natural sweetness and subtle acidity to drinks, along with a bright, sunny color that enhances the visual appeal of cocktails.\n\nWhen using orange juice in cocktails, freshly squeezed is ideal for the best flavor, though high-quality, not-from-concentrate commercial juices can be a convenient alternative. The amount used can vary widely depending on the recipe, from a splash for flavor to being the primary mixer in a drink. Its natural sweetness means it's often used in place of simple syrup in some recipes, adding both flavor and sweetness in one ingredient.",
             "origin": null,
             "category": "Juices",
             "amount": 90,
@@ -114,7 +114,7 @@
             "_id": "sugar",
             "name": "Sugar",
             "strength": 0,
-            "description": "White sugar",
+            "description": "Sugar is a fundamental ingredient in cocktails, used primarily as a sweetener to balance the flavors of sour, bitter, or strong alcoholic components. It comes in various forms, including granulated sugar, superfine sugar, and sugar cubes, each of which can be used differently depending on the cocktail. Sugar can also be transformed into simple syrup, a liquid form that dissolves easily in cold beverages, making it a versatile option for many drinks.\n\nIn cocktails, sugar is often used to rim glasses, such as in a classic Margarita or a Sidecar, where the rim is coated with sugar to add sweetness with every sip. Superfine sugar is preferred for drinks like the Daiquiri or the Mojito, where it is muddled with lime or mint to create a balanced and refreshing flavor. Sugar cubes are a key component in classic cocktails like the Old Fashioned, where they are soaked in bitters before being muddled to release their sweetness.\n\nBeyond its role as a sweetener, sugar can also influence the texture and mouthfeel of a cocktail, adding a slight viscosity that enhances the drink's overall experience. Whether used in its solid form or as a syrup, sugar is an essential ingredient that helps create harmony and depth in a wide range of cocktails.",
             "origin": null,
             "category": "Uncategorized",
             "amount": 50,

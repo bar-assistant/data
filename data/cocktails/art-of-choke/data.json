@@ -2,7 +2,7 @@
     "_id": "art-of-choke",
     "name": "Art of Choke",
     "instructions": "1. Muddle mint and syrup in a mixing glass\n2. Add remaining with ice and stir for 20 seconds\n3. Strain into a chilled rocks glass with fresh ice",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "A drink that broke all the rules when Kyle Davidson first conjured it in 2008. Now it's a modern classic. What's interesting is opting for a split base where one half is an overproof amaro instead of a spirit. Also wild - this is a stirred cocktail!",
     "source": "https://www.liberandcompany.com/collections/recipes/products/art-of-choke",
@@ -17,7 +17,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///art-of-choke-1_75YMcr.jpg",
+            "uri": "file:///art-of-choke-7_nsLhB9.jpg",
             "sort": 1,
             "placeholder_hash": "XPgJHwayimLGdlhvapeHhnV8VwWZZJAJ",
             "copyright": "LiberAndCo |  Scott Kallstrand"
@@ -88,7 +88,7 @@
             "_id": "lime-juice",
             "name": "Lime juice",
             "strength": 0,
-            "description": "Freshly squeezed lime juice.",
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
             "origin": null,
             "category": "Juices",
             "amount": 1,

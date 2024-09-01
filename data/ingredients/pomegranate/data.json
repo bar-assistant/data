@@ -1,0 +1,22 @@
+{
+    "_id": "pomegranate",
+    "_parent_id": null,
+    "name": "Pomegranate",
+    "strength": 0,
+    "description": "Pomegranate is a fruit known for its vibrant red seeds, which are packed with sweet-tart juice. In cocktails, pomegranate is used in various forms, including fresh juice, seeds (known as arils), and pomegranate syrup or liqueur. Its flavor is both fruity and tangy, making it an excellent ingredient for adding depth and complexity to drinks.\n\nPomegranate seeds can be used as a garnish, adding a burst of flavor and texture to cocktails. They are also sometimes muddled in the drink to release their juice.",
+    "origin": "Afghanistan",
+    "color": "#d73506",
+    "category": "Fruits and vegetables",
+    "created_at": "2024-08-28T14:10:18+00:00",
+    "updated_at": "2024-08-28T14:11:24+00:00",
+    "images": [
+        {
+            "uri": "file:///pomegranate-7_g2Do2z.webp",
+            "sort": 1,
+            "placeholder_hash": "W8mCDQI3uMeNc5YHlm5/4ucHPGaUaUC4Vg",
+            "copyright": "Creative Commons"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

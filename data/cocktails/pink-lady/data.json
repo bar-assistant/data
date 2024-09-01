@@ -2,7 +2,7 @@
     "_id": "pink-lady",
     "name": "Pink Lady",
     "instructions": "1. Add all ingredients to a cocktail shaker\n2. Fill with ice and shake for 10 seconds\n3. Strain into a chilled coupe",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "A tart, silken drink from the 1930s.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/pink-lady",
@@ -17,7 +17,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///pink-lady-1_xgorhx.jpg",
+            "uri": "file:///pink-lady-7_kgLgyv.jpg",
             "sort": 1,
             "placeholder_hash": "ZAgSFwRrWndwiXdmald3p2Z4h/hIZ3kA",
             "copyright": "LiberAndCo | Juliet Beletic"
@@ -58,7 +58,7 @@
             "_id": "grenadine-syrup",
             "name": "Grenadine Syrup",
             "strength": 0,
-            "description": "Fruit syrup made from pomegranates.",
+            "description": "Grenadine syrup is a sweet, vibrant red syrup made from pomegranate juice, sugar, and water, often used as a flavoring and coloring agent in cocktails. Traditionally, grenadine derives its name from the French word \"grenade,\" meaning pomegranate, highlighting its original base ingredient. The syrup is known for its balanced flavor, combining the sweetness of sugar with the tartness of pomegranate, which adds a fruity complexity to drinks.",
             "origin": "Worldwide",
             "category": "Syrups",
             "amount": 15,
@@ -73,7 +73,7 @@
             "_id": "lemon-juice",
             "name": "Lemon juice",
             "strength": 0,
-            "description": "Freshly squeezed lemon juice.",
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
             "origin": null,
             "category": "Juices",
             "amount": 22.5,

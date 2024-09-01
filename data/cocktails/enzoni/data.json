@@ -2,7 +2,7 @@
     "_id": "enzoni",
     "name": "Enzoni",
     "instructions": "Muddle grapes, add ingredients, shake then double strain. Garnish with more green grapes on a cocktail pick.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "The Enzoni Cocktail is a true modern classic that will impress your guests! This gin-based drink is perfect for any occasion and is a fun and delicious take on some of your favorite classic cocktails!",
     "source": "https://www.reddit.com/r/cocktails/comments/10cogce/enzoni/",
@@ -16,13 +16,13 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///enzoni-1_gXaMB8.jpg",
+            "uri": "file:///enzoni-7_V3ucTR.jpg",
             "sort": 1,
             "placeholder_hash": "ZwgWF4KKd3ePd4eGd2iHiIh4VwN5C1AE",
             "copyright": "Reddit"
         },
         {
-            "uri": "file:///enzoni-1_Ep1RBX.jpg",
+            "uri": "file:///enzoni-7_WBa0yx.jpg",
             "sort": 2,
             "placeholder_hash": "VegNJgpXmAiHd6eXeJV5Z6dpHXDXAEk",
             "copyright": "It's a drink"
@@ -63,7 +63,7 @@
             "_id": "lemon-juice",
             "name": "Lemon juice",
             "strength": 0,
-            "description": "Freshly squeezed lemon juice.",
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
             "origin": null,
             "category": "Juices",
             "amount": 22.5,
@@ -78,7 +78,7 @@
             "_id": "simple-syrup",
             "name": "Simple Syrup",
             "strength": 0,
-            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
             "origin": null,
             "category": "Syrups",
             "amount": 15,

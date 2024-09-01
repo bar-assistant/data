@@ -2,7 +2,7 @@
     "_id": "tequila-sunrise",
     "name": "Tequila Sunrise",
     "instructions": "Pour tequila and orange juice directly into highball glass filled with ice cubes. Add the grenadine syrup to create chromatic effect (sunrise), do not stir.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "The original tequila sunrise contained tequila, creme de cassis, lime juice, and soda water, and was served at the Arizona Biltmore Hotel where it was created by Gene Sulit in the 1930s or 1940s.",
     "source": "https://iba-world.com/tequila-sunrise/",
@@ -17,7 +17,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///tequila-sunrise-1_I37BGe.jpg",
+            "uri": "file:///tequila-sunrise-7_xYpPcb.jpg",
             "sort": 1,
             "placeholder_hash": "p3oKTQzRqalb+ZlXiXqHVwOMVZBY",
             "copyright": "Homemade Hooplah"
@@ -43,7 +43,7 @@
             "_id": "orange-juice",
             "name": "Orange juice",
             "strength": 0,
-            "description": "Freshly squeezed orange juice.",
+            "description": "Orange juice is a popular and versatile cocktail ingredient, known for its sweet and tangy flavor profile. Extracted from fresh oranges, it brings a natural sweetness and subtle acidity to drinks, along with a bright, sunny color that enhances the visual appeal of cocktails.\n\nWhen using orange juice in cocktails, freshly squeezed is ideal for the best flavor, though high-quality, not-from-concentrate commercial juices can be a convenient alternative. The amount used can vary widely depending on the recipe, from a splash for flavor to being the primary mixer in a drink. Its natural sweetness means it's often used in place of simple syrup in some recipes, adding both flavor and sweetness in one ingredient.",
             "origin": null,
             "category": "Juices",
             "amount": 90,
@@ -58,7 +58,7 @@
             "_id": "grenadine-syrup",
             "name": "Grenadine Syrup",
             "strength": 0,
-            "description": "Fruit syrup made from pomegranates.",
+            "description": "Grenadine syrup is a sweet, vibrant red syrup made from pomegranate juice, sugar, and water, often used as a flavoring and coloring agent in cocktails. Traditionally, grenadine derives its name from the French word \"grenade,\" meaning pomegranate, highlighting its original base ingredient. The syrup is known for its balanced flavor, combining the sweetness of sugar with the tartness of pomegranate, which adds a fruity complexity to drinks.",
             "origin": "Worldwide",
             "category": "Syrups",
             "amount": 15,

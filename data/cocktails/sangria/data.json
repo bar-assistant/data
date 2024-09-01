@@ -2,7 +2,7 @@
     "_id": "sangria",
     "name": "Sangria",
     "instructions": "1. Chop the orange (leaving the peel on) and apple into bite-sized chunks, then add them to the bottom of a pitcher. Sprinkle them with sugar and stir. Let them stand for 20 minutes at room temperature.\n2. After 20 minutes, pour in the red wine, brandy, orange liqueur, and lemon rounds. Stir and refrigerate 1 to 4 hours. (Don’t go beyond 4 hours or the fruit texture starts to degrade.)\n3. Pour the sangria into ice filled glasses and top with a splash of sparkling water (if desired). Add fruit to each glass, preferably on long skewers for easy snacking.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "A punch, sangria traditionally consists of red wine and chopped fruit, often with other ingredients or spirits.\n\nSangria is very popular among foreign tourists in Spain even if locals do not consume the beverage that much. It is commonly served in bars, restaurants, and chiringuitos and at festivities throughout Portugal and Spain.",
     "source": "https://www.acouplecooks.com/gin-gimlet-cocktail/",
@@ -16,7 +16,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///sangria-1_nJuomX.jpg",
+            "uri": "file:///sangria-7_NEPC3I.jpg",
             "sort": 1,
             "placeholder_hash": "8vcJHgaZtct3adZ4WIBZaZd3ipaweAg",
             "copyright": "A Couple Cooks"
@@ -57,7 +57,7 @@
             "_id": "apple",
             "name": "Apple",
             "strength": 0,
-            "description": "Apple fruit",
+            "description": "Apple is a versatile fruit commonly used in cocktails for its crisp, sweet, and sometimes tart flavor. It can be incorporated in various forms, including fresh slices, apple juice, apple cider, or apple liqueur, each bringing a unique character to a drink. Fresh apple slices or wedges are often used as a garnish, adding a refreshing element and a touch of natural sweetness to cocktails.",
             "origin": "Worldwide",
             "category": "Fruits and vegetables",
             "amount": 1,
@@ -72,7 +72,7 @@
             "_id": "sugar",
             "name": "Sugar",
             "strength": 0,
-            "description": "White sugar",
+            "description": "Sugar is a fundamental ingredient in cocktails, used primarily as a sweetener to balance the flavors of sour, bitter, or strong alcoholic components. It comes in various forms, including granulated sugar, superfine sugar, and sugar cubes, each of which can be used differently depending on the cocktail. Sugar can also be transformed into simple syrup, a liquid form that dissolves easily in cold beverages, making it a versatile option for many drinks.\n\nIn cocktails, sugar is often used to rim glasses, such as in a classic Margarita or a Sidecar, where the rim is coated with sugar to add sweetness with every sip. Superfine sugar is preferred for drinks like the Daiquiri or the Mojito, where it is muddled with lime or mint to create a balanced and refreshing flavor. Sugar cubes are a key component in classic cocktails like the Old Fashioned, where they are soaked in bitters before being muddled to release their sweetness.\n\nBeyond its role as a sweetener, sugar can also influence the texture and mouthfeel of a cocktail, adding a slight viscosity that enhances the drink's overall experience. Whether used in its solid form or as a syrup, sugar is an essential ingredient that helps create harmony and depth in a wide range of cocktails.",
             "origin": null,
             "category": "Uncategorized",
             "amount": 3,

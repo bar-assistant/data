@@ -2,7 +2,7 @@
     "_id": "japanese-cocktail",
     "name": "Japanese cocktail",
     "instructions": "1. Combine all ingredients in a mixing glass with ice and stir\n2. Strain into a coupe, serve up",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "The Japanese cocktail is notorious for a handful of things: it's a very old cocktail, published in Jerry Thomas’s landmark 1862 book How to Mix Drinks; it was the first mixed drink to be named something other than “Whiskey Cocktail”, “Brandy Cocktail”, or some other similarly obvious epithet; it might be the only cocktail Thomas invented himself; and finally, it was the first cocktail to feature more than a dash of a fancy sweetener, orgeat.",
     "source": null,
@@ -16,7 +16,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///japanese-cocktail-1_OHJCaa.jpg",
+            "uri": "file:///japanese-cocktail-7_TUL47p.jpg",
             "sort": 1,
             "placeholder_hash": "3AcWDYJ4iHhwh3h6eIeIdQB3CJJ4",
             "copyright": "The Drink Blog"
@@ -42,7 +42,7 @@
             "_id": "orgeat-syrup",
             "name": "Orgeat Syrup",
             "strength": 0,
-            "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
+            "description": "Orgeat syrup is a sweet, nutty syrup that plays a crucial role in many classic and tiki-style cocktails. Traditionally made from almonds, sugar, and orange flower water, orgeat has a distinctive flavor profile that combines nuttiness with subtle floral notes and a rich sweetness.\n\n\nIn cocktails, orgeat syrup adds depth, complexity, and a silky texture. Its unique taste complements a wide range of spirits, particularly rum and whiskey, and it's an essential ingredient in iconic drinks like the Mai Tai and the Japanese Cocktail. The syrup's ability to smooth out harsh edges in spirits while adding its own character makes it a valuable tool in a mixologist's arsenal.\n\n\nWhen using orgeat syrup, a little goes a long way due to its concentrated flavor and sweetness. High-quality commercial versions are readily available, but some bartenders prefer to make their own to control the flavor profile and ingredients. While almond is the traditional base, variations using other nuts like pistachio or hazelnut have become popular in craft cocktail scenes.",
             "origin": null,
             "category": "Syrups",
             "amount": 15,

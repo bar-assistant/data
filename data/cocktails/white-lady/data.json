@@ -2,7 +2,7 @@
     "_id": "white-lady",
     "name": "White Lady",
     "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "It was first created in 1919 in London by Harry MacElhone and it was equal parts creme de menthe, triple sec and lemon juice. But four years later [1923], when he was working in Paris, France, at Harry&amp;#039;s American Bar, he had changed the recipe. He had swapped out the creme de menthe, for gin. Which, was a good move. But then, four years later [1927], he puts out the book &amp;quot;Barflies and Cocktails&amp;quot; and includes the White Lady, but the recipe no longer had gin. It went back to cremé de menthe, and it didn&amp;#039;t have lemon juice. It had Brandy, and it was no longer equal parts. It was a completely different drink.\n\nBut then, 3 years later, in 1930, Harry Craddock steps in and he puts, in the &amp;quot;The Savoy Cocktail Book&amp;quot;, the White Lady. Gin, triple sec and lemon juice, only he increases the amount of gin to make a drier cocktail. Which is pretty much the cocktail we have today... and it&amp;#039;s a great drink.\n\nA few years after this drink became popular at the American Bar at the Savoy in London, because of Harry Craddock. One of the managers, suggested putting in a little egg white. But to this day, the egg white is considered optional.",
     "source": "https://iba-world.com/white-lady/",
@@ -17,7 +17,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///white-lady-1_aemXOr.jpg",
+            "uri": "file:///white-lady-7_uGzkhm.jpg",
             "sort": 1,
             "placeholder_hash": "XAgKD4A1lYdQZ4h6igaXmKd1C0tksUAI",
             "copyright": "BBC Good Food"
@@ -70,7 +70,7 @@
             "_id": "lemon-juice",
             "name": "Lemon juice",
             "strength": 0,
-            "description": "Freshly squeezed lemon juice.",
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
             "origin": null,
             "category": "Juices",
             "amount": 22.5,
@@ -85,7 +85,7 @@
             "_id": "simple-syrup",
             "name": "Simple Syrup",
             "strength": 0,
-            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
             "origin": null,
             "category": "Syrups",
             "amount": 7.5,

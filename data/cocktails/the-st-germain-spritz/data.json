@@ -2,7 +2,7 @@
     "_id": "the-st-germain-spritz",
     "name": "The St-Germain Spritz",
     "instructions": "1. Combine ingredients in a Collins glass over ice.\n2. Stir.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "The St-Germain Cocktail recipe is the classic spritz variation fueled by the iconic elderflower liqueur, Champagne and soda water.",
     "source": "https://punchdrink.com/recipes/the-st-germain-cocktail/",
@@ -17,7 +17,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///the-st-germain-spritz-1_o6vkT0.jpg",
+            "uri": "file:///the-st-germain-spritz-7_620ACO.jpg",
             "sort": 1,
             "placeholder_hash": "mCgGFQIMXm14WJplVopmhwd3klA4",
             "copyright": "Punch Staff"
@@ -58,7 +58,7 @@
             "_id": "club-soda",
             "name": "Club soda",
             "strength": 0,
-            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "description": "Club soda is a carbonated water that contains added minerals such as sodium bicarbonate, sodium chloride, and potassium sulfate, which give it a slightly salty and mineral-rich flavor. It is commonly used in cocktails as a mixer to add effervescence and a light, refreshing touch without altering the drink’s flavor profile significantly. The bubbles in club soda help to lift and blend the flavors of other ingredients, creating a more balanced and lively drink.\n\nIn cocktails, club soda is often used to top off drinks, adding volume and fizz. It's a key ingredient in classics like the Tom Collins, where it complements the gin, lemon juice, and simple syrup by adding a sparkling finish. It is also essential in making a Highball, where it dilutes the whiskey and adds a refreshing effervescence, or in a Mojito, where it lightens the mixture of rum, mint, lime, and sugar.\n\nClub soda is preferred over other carbonated waters like tonic water or seltzer when the goal is to add carbonation without additional flavors. Its clean, neutral taste makes it an ideal mixer for a wide range of cocktails, contributing to the drink’s texture and mouthfeel without overshadowing the primary ingredients.",
             "origin": "Worldwide",
             "category": "Beverages",
             "amount": 60,

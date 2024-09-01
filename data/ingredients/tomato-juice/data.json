@@ -7,14 +7,14 @@
     "origin": null,
     "color": "#f16624",
     "category": "Juices",
-    "created_at": "2024-08-24T14:39:10+00:00",
-    "updated_at": null,
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": "2024-08-31T15:12:06+00:00",
     "images": [
         {
-            "uri": "file:///tomato-juice-1_pAyn1J.png",
+            "uri": "file:///tomato-juice-7_gTm8iv.webp",
             "sort": 1,
-            "placeholder_hash": "YfuGDQZK+3qId3eIeA+tRnCIP5iIiHeHeA",
-            "copyright": ""
+            "placeholder_hash": "ogqHDQRLiIVwe4uWV5aPZflYBzeHh4d3eA",
+            "copyright": "Creative Commons"
         }
     ],
     "ingredient_parts": [],

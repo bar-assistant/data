@@ -2,7 +2,7 @@
     "_id": "apples-all-the-way-down",
     "name": "Apples All the Way Down",
     "instructions": "1. Add syrup, lemon, and brandy to a highball glass filled with ice\n2. Top with cider and stir\n3. Slap a sprig of rosemary to release its oils and garnish",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "A dash of bitters and fresh rosemary balance the sweetness of this bright highball that's brimming with fall fruit flavor.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/apples-all-the-way-down",
@@ -16,7 +16,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///apples-all-the-way-down-1_g37jDT.jpg",
+            "uri": "file:///apples-all-the-way-down-7_As5mGX.jpg",
             "sort": 1,
             "placeholder_hash": "zjgKH4YIupZ2eIeBiXeXiJp4qFBYC3QF",
             "copyright": "LiberAndCo"
@@ -42,7 +42,7 @@
             "_id": "grenadine-syrup",
             "name": "Grenadine Syrup",
             "strength": 0,
-            "description": "Fruit syrup made from pomegranates.",
+            "description": "Grenadine syrup is a sweet, vibrant red syrup made from pomegranate juice, sugar, and water, often used as a flavoring and coloring agent in cocktails. Traditionally, grenadine derives its name from the French word \"grenade,\" meaning pomegranate, highlighting its original base ingredient. The syrup is known for its balanced flavor, combining the sweetness of sugar with the tartness of pomegranate, which adds a fruity complexity to drinks.",
             "origin": "Worldwide",
             "category": "Syrups",
             "amount": 22.5,
@@ -57,7 +57,7 @@
             "_id": "lemon-juice",
             "name": "Lemon juice",
             "strength": 0,
-            "description": "Freshly squeezed lemon juice.",
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
             "origin": null,
             "category": "Juices",
             "amount": 15,

@@ -2,7 +2,7 @@
     "_id": "bijou",
     "name": "Bijou",
     "instructions": "Stir in mixing glass with ice and strain",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "This cocktail was invented by Harry Johnson, \"the father of professional bartending\", who called it bijou because it combined the colors of three jewels: gin for diamond, vermouth for ruby, and chartreuse for emerald.",
     "source": "https://en.wikipedia.org/wiki/Bijou_(cocktail)",
@@ -17,7 +17,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///bijou-1_AxXxWg.jpg",
+            "uri": "file:///bijou-7_EDg71x.jpg",
             "sort": 1,
             "placeholder_hash": "DPgJHgRktSZ3h6enZ4B6fGepQ8mAoD0",
             "copyright": "A Couple Cooks"

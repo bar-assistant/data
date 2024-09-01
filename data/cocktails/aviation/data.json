@@ -2,7 +2,7 @@
     "_id": "aviation",
     "name": "Aviation",
     "instructions": "1. Add all ingredients into a cocktail shaker.\n2. Shake with cracked ice and strain into a chilled cocktail glass.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "Aviation was created in New York at the Walkick hotel by the head bartender Hugo Ensslin while he was writing his book “Recipes for Mixed Drinks” (1916) one of the last cocktail books published before the start of American Prohibition.\n\nLately David Wondrich found the aviation recipe in a 1911 magazine, so the recipe is thought to have been born earlier then 1916.\n\nIn his book Ensslin also indicates the type of Gin to be used ‘El Bart Gin “and the recipe is made up in addition to gin, with lemon juice, maraschino and Creme di Violette.\n\nThe recipe is found again in Harry Craddock’s 1930 Savoy Cocktail Book but without the Creme de Violette, this probably due to the difficulty of finding the violet cream during the post-war period In the 1960s it was still unavailable and therefore, simply, the basic ingredient of the Aviation cocktail was discontinued and the bartenders definitively gave up the characteristic blue color of the drink.\n\nThe IBA proposes it today in its original version with the creme de violette which is now on the market again.  This fragrant ingredient not only gave the mix a sweetly floral taste, but also gave it a beautiful sky blue color.",
     "source": "https://iba-world.com/692/",
@@ -18,7 +18,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///aviation-1_obyF8S.jpg",
+            "uri": "file:///aviation-7_dgEQW6.jpg",
             "sort": 1,
             "placeholder_hash": "rgcGFYJrWahQe5WbiIiHlZTjT4T8",
             "copyright": "The Spruce Eats / Cara Cormack"
@@ -59,7 +59,7 @@
             "_id": "lemon-juice",
             "name": "Lemon juice",
             "strength": 0,
-            "description": "Freshly squeezed lemon juice.",
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
             "origin": null,
             "category": "Juices",
             "amount": 15,

@@ -2,7 +2,7 @@
     "_id": "whiskey-sour",
     "name": "Whiskey Sour",
     "instructions": "1. Pour all ingredients into a cocktail shaker filled with ice.\n2. Shake well.\n3. Strain into cobbler glass.\n4. If served “On the rocks”, strain ingredients into an old fashioned glass filled with ice.\n\nNOTE:\nIf egg white is used shake little harder to release and incorporate the foam from the egg white.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "The oldest historical mention of a whiskey sour was published in the Wisconsin newspaper, Waukesha Plain Dealer, in 1870. With egg white included, it is sometimes called a Boston Sour; when the whiskey used is a Scotch, it is called a Scotch Sour. With a few bar spoons of full-bodied red wine floated on top, it is often referred to as a New York Sour. It is shaken and served either straight up or over ice.",
     "source": "https://iba-world.com/whiskey-sour/",
@@ -18,7 +18,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///whiskey-sour-1_kAMbqk.jpg",
+            "uri": "file:///whiskey-sour-7_Tlwr4r.jpg",
             "sort": 1,
             "placeholder_hash": "JJcJNhRneUgXh1j5d4mIaHiWFnFwBDc",
             "copyright": "VinePair"
@@ -44,7 +44,7 @@
             "_id": "lemon-juice",
             "name": "Lemon juice",
             "strength": 0,
-            "description": "Freshly squeezed lemon juice.",
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
             "origin": null,
             "category": "Juices",
             "amount": 25,
@@ -59,7 +59,7 @@
             "_id": "simple-syrup",
             "name": "Simple Syrup",
             "strength": 0,
-            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
             "origin": null,
             "category": "Syrups",
             "amount": 20,

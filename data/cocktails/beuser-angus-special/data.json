@@ -2,7 +2,7 @@
     "_id": "beuser-angus-special",
     "name": "Beuser & Angus Special",
     "instructions": "1. Combine the first five ingredients in a cocktail shaker and shake hard with ice.\n2. Strain into a rocks glass filled with ice.\n3. Top with orange flower water.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "Chartreuse sour from Berlin, the Beuser & Angus Special takes inspiration from the Last Word and the Ramos Gin Fizz. Created in 2007 by Gonçalo de Sousa Monteiro for fellow bartenders Bastian Heuser and Angus Winchester, the drink has gone on to become a modern classic.",
     "source": "https://punchdrink.com/recipes/beuser-angus-special/",
@@ -17,7 +17,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///beuser-angus-special-1_4GGxsu.jpg",
+            "uri": "file:///beuser-angus-special-7_5nx94R.jpg",
             "sort": 1,
             "placeholder_hash": "XRgSHIJsSmajZopgaFcJh4MMeQ",
             "copyright": "Punch Staff"
@@ -43,7 +43,7 @@
             "_id": "lime-juice",
             "name": "Lime juice",
             "strength": 0,
-            "description": "Freshly squeezed lime juice.",
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
             "origin": null,
             "category": "Juices",
             "amount": 15,
@@ -88,7 +88,7 @@
             "_id": "simple-syrup",
             "name": "Simple Syrup",
             "strength": 0,
-            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
             "origin": null,
             "category": "Syrups",
             "amount": 2.5,

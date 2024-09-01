@@ -2,7 +2,7 @@
     "_id": "blackberry-whiskey-smash",
     "name": "Blackberry Whiskey Smash",
     "instructions": "1. Muddle berries, mint, and syrup in a mixing tin \n2. Add lemon juice, whiskey and ice \n3. Shake until chilled\n4. Double strain over crushed ice into a rocks glass",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "Fruit-forward without being too sweet. A perfect spring and early summer drink.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/blackberry-whiskey-smash",
@@ -18,7 +18,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///blackberry-whiskey-smash-1_EfoMsU.jpg",
+            "uri": "file:///blackberry-whiskey-smash-7_4o6f32.jpg",
             "sort": 1,
             "placeholder_hash": "rlgKDwZToZolhId/p0eqlniZ2K0Ml8YA",
             "copyright": "LiberAndCo | Juliet Beletic"
@@ -44,7 +44,7 @@
             "_id": "lemon-juice",
             "name": "Lemon juice",
             "strength": 0,
-            "description": "Freshly squeezed lemon juice.",
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
             "origin": null,
             "category": "Juices",
             "amount": 22.5,
@@ -59,7 +59,7 @@
             "_id": "simple-syrup",
             "name": "Simple Syrup",
             "strength": 0,
-            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
             "origin": null,
             "category": "Syrups",
             "amount": 15,

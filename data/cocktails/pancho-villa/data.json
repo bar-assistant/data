@@ -2,7 +2,7 @@
     "_id": "pancho-villa",
     "name": "Pancho Villa",
     "instructions": "1. Combine all ingredients in a mixing tin and shake with ice.\n2. Strain into a chilled highball glass over ice.\n3. Top with soda water.\n4. Garnish with pineapple leaf, lime zest and lime wheels.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "This easy-drinking, semi-tropical cocktail recipe by Charles H. Baker is the Philippines’ answer to a Singapore Sling",
     "source": "https://punchdrink.com/recipes/pancho-villa/",
@@ -16,7 +16,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///pancho-villa-1_WSsp0V.jpg",
+            "uri": "file:///pancho-villa-7_d53Etj.jpg",
             "sort": 1,
             "placeholder_hash": "XhkKJQQydMCX67eYhoBYdhZawFA4",
             "copyright": "Punch Staff | Lizzie Munro"
@@ -102,7 +102,7 @@
             "_id": "lime-juice",
             "name": "Lime juice",
             "strength": 0,
-            "description": "Freshly squeezed lime juice.",
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
             "origin": null,
             "category": "Juices",
             "amount": 7.5,
@@ -117,7 +117,7 @@
             "_id": "club-soda",
             "name": "Club soda",
             "strength": 0,
-            "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer.",
+            "description": "Club soda is a carbonated water that contains added minerals such as sodium bicarbonate, sodium chloride, and potassium sulfate, which give it a slightly salty and mineral-rich flavor. It is commonly used in cocktails as a mixer to add effervescence and a light, refreshing touch without altering the drink’s flavor profile significantly. The bubbles in club soda help to lift and blend the flavors of other ingredients, creating a more balanced and lively drink.\n\nIn cocktails, club soda is often used to top off drinks, adding volume and fizz. It's a key ingredient in classics like the Tom Collins, where it complements the gin, lemon juice, and simple syrup by adding a sparkling finish. It is also essential in making a Highball, where it dilutes the whiskey and adds a refreshing effervescence, or in a Mojito, where it lightens the mixture of rum, mint, lime, and sugar.\n\nClub soda is preferred over other carbonated waters like tonic water or seltzer when the goal is to add carbonation without additional flavors. Its clean, neutral taste makes it an ideal mixer for a wide range of cocktails, contributing to the drink’s texture and mouthfeel without overshadowing the primary ingredients.",
             "origin": "Worldwide",
             "category": "Beverages",
             "amount": 1,

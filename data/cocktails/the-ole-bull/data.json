@@ -2,7 +2,7 @@
     "_id": "the-ole-bull",
     "name": "The Ole Bull",
     "instructions": "Shake ingredients",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": null,
     "source": "https://www.reddit.com/r/cocktails/comments/16z9ttn/the_ole_bull_credit_to_death_co/",
@@ -16,7 +16,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///the-ole-bull-1_dq8GJk.jpg",
+            "uri": "file:///the-ole-bull-7_meUZvR.jpg",
             "sort": 1,
             "placeholder_hash": "UxgGDQINiYeFN7nXuH22VxtwoTEI",
             "copyright": "Reddit"
@@ -57,7 +57,7 @@
             "_id": "lemon-juice",
             "name": "Lemon juice",
             "strength": 0,
-            "description": "Freshly squeezed lemon juice.",
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
             "origin": null,
             "category": "Juices",
             "amount": 22.5,
@@ -87,7 +87,7 @@
             "_id": "creme-de-cacao-white",
             "name": "Crème de Cacao (White)",
             "strength": 25,
-            "description": "Crème de Cacao is a sweet liqueur with a rich chocolate flavor. It is made from cacao beans, which are the primary source of chocolate, and often includes additional ingredients such as vanilla and sugar. White Crème de Cacao is clear or light in color and has a sweeter and smoother taste compared to the dark variety.",
+            "description": "Crème de Cacao is a sweet liqueur that captures the essence of chocolate in a clear, colorless form. Despite its name, it contains no cream; \"crème\" refers to its rich, smooth texture. This liqueur is made by macerating cacao beans and vanilla in neutral spirits, then filtering and sweetening the result.",
             "origin": "France",
             "category": "Crème de",
             "amount": 7.5,

@@ -2,7 +2,7 @@
     "_id": "hemingway-special",
     "name": "Hemingway Special",
     "instructions": "Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "Ernest Hemingway, who stayed in Cuba, tried the Floridita's signature drink, the Floridita Daiquiri, and said \"That's good but I prefer it without sugar and double rum,\" which became a cocktail now known as the Hemingway Daiquiri or the Papa Doble. This recipe was later modified further, adding grapefruit juice to the mix, at which point the drink was dubbed the \"Hemingway Special\".",
     "source": "https://iba-world.com/hemingway-special/",
@@ -17,7 +17,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///hemingway-special-1_nu2S7O.jpg",
+            "uri": "file:///hemingway-special-7_ivFvIv.jpg",
             "sort": 1,
             "placeholder_hash": "MggGFwJ1WHdUhomAl5h2WHh3l/BpCI0F",
             "copyright": "Liquor.com / Tim Nusog"
@@ -43,7 +43,7 @@
             "_id": "grapefruit-juice",
             "name": "Grapefruit juice",
             "strength": 0,
-            "description": "Freshly squeezed grapefruit juice.",
+            "description": "Grapefruit juice is a bold and distinctive cocktail ingredient, known for its tart, bitter-sweet flavor profile. Extracted from the grapefruit, a citrus fruit larger and more acidic than oranges, this juice brings a complex taste that can range from bracingly sour to subtly sweet, depending on the variety of grapefruit used.\n\n\nIn cocktails, grapefruit juice adds a sophisticated and refreshing element. Its natural bitterness and acidity make it an excellent counterpoint to sweet liqueurs and spirits, creating well-balanced drinks. The juice also contributes a lovely pink or ruby hue to cocktails, enhancing their visual appeal.\nPopular in classics like the Paloma and the Greyhound, grapefruit juice pairs particularly well with tequila, vodka, and gin. When using grapefruit juice in cocktails, freshly squeezed is ideal for the brightest flavor, though high-quality bottled juices can be a convenient alternative. The amount used can vary, but its strong flavor means a little often goes a long way in cocktail recipes.",
             "origin": null,
             "category": "Juices",
             "amount": 40,
@@ -73,7 +73,7 @@
             "_id": "lime-juice",
             "name": "Lime juice",
             "strength": 0,
-            "description": "Freshly squeezed lime juice.",
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
             "origin": null,
             "category": "Juices",
             "amount": 15,

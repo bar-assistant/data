@@ -2,7 +2,7 @@
     "_id": "wisconsin-old-fashioned",
     "name": "Wisconsin Old Fashioned",
     "instructions": "1. In a chilled old fashioned glass, muddle the sugar, bitters, orange wedge and cherry into a thick paste, careful not to overwork the orange peel.\n2. Add brandy or Cognac and stir.\n3. Fill glass with crushed ice and serve.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "The Wisconsin Old Fashioned is the state’s variation on the classic Old Fashioned cocktail, with brandy and lemon lime soda. The typical Old Fashioned recipe uses bourbon mixed with a muddled sugar cube and bitters. So where did the brandy Old Fashioned come from?\n\n\nHere’s the theory! (Per Jerry Minnich, at least.) A company of brothers debuted their Korbel brandy at the World’s Fair in 1893 in Chicago, which lots of Wisconsinites attended. A large percentage of Wisconsin at the time was German, and Germans preferred brandy over bourbon. Korbel brandy become a hit, and birthed this state’s funky variation on the classic cocktail. To this day, the drink is often served with Korbel brandy!\n\n\n- Sweet: Lemon lime soda (like 7 Up or Sprite). This is the default option at bars.\n- Sour: Sour mix or grapefruit soda (like Squirt).\n- Press: 50/50 lemon lime soda and soda water (club soda)\n- Soda: Soda water",
     "source": "https://jeffreymorgenthaler.com/brandy-old-fashioned/",
@@ -16,7 +16,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///wisconsin-old-fashioned-1_L4vqsX.webp",
+            "uri": "file:///wisconsin-old-fashioned-7_mHOGLk.webp",
             "sort": 1,
             "placeholder_hash": "sigKJgjtdflleMc3iXJ5iIh3FYBiABk",
             "copyright": "A Couple Cooks"
@@ -42,7 +42,7 @@
             "_id": "simple-syrup",
             "name": "Simple Syrup",
             "strength": 0,
-            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
             "origin": null,
             "category": "Syrups",
             "amount": 5,

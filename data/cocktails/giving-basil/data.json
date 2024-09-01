@@ -2,7 +2,7 @@
     "_id": "giving-basil",
     "name": "Giving Basil",
     "instructions": "1. Add all of the ingredients to a shaker with ice.\n2. Shake, then double strain into a chilled glass.\n3. Spritz with the vanilla tincture, then garnish.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "Gabe Fountain, lead bartender of Oklahoma City's The Jones Assembly, took the classic Gimlet, added an herbaceous complexity with Italicus liqueur and basil, then rounded out the flavors and texture with pistachio orgeat for an irresistibly smooth sipper.",
     "source": "https://imbibemagazine.com/recipe/giving-basil-from-the-jones-assembly/",
@@ -16,7 +16,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///giving-basil-1_1Gsyth.jpg",
+            "uri": "file:///giving-basil-7_ph4nNQ.jpg",
             "sort": 1,
             "placeholder_hash": "FDkKDQIwlpiHR6dYl3eoqDCKBZeo",
             "copyright": "Imbibe Magazine | Bailey Rucker/The Jones Assembly"
@@ -57,7 +57,7 @@
             "_id": "orgeat-syrup",
             "name": "Orgeat Syrup",
             "strength": 0,
-            "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
+            "description": "Orgeat syrup is a sweet, nutty syrup that plays a crucial role in many classic and tiki-style cocktails. Traditionally made from almonds, sugar, and orange flower water, orgeat has a distinctive flavor profile that combines nuttiness with subtle floral notes and a rich sweetness.\n\n\nIn cocktails, orgeat syrup adds depth, complexity, and a silky texture. Its unique taste complements a wide range of spirits, particularly rum and whiskey, and it's an essential ingredient in iconic drinks like the Mai Tai and the Japanese Cocktail. The syrup's ability to smooth out harsh edges in spirits while adding its own character makes it a valuable tool in a mixologist's arsenal.\n\n\nWhen using orgeat syrup, a little goes a long way due to its concentrated flavor and sweetness. High-quality commercial versions are readily available, but some bartenders prefer to make their own to control the flavor profile and ingredients. While almond is the traditional base, variations using other nuts like pistachio or hazelnut have become popular in craft cocktail scenes.",
             "origin": null,
             "category": "Syrups",
             "amount": 22.5,
@@ -72,7 +72,7 @@
             "_id": "lime-juice",
             "name": "Lime juice",
             "strength": 0,
-            "description": "Freshly squeezed lime juice.",
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
             "origin": null,
             "category": "Juices",
             "amount": 22.5,

@@ -2,7 +2,7 @@
     "_id": "last-word",
     "name": "Last word",
     "instructions": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "While the drink eventually fell out of favor, it enjoyed a renewed popularity after being rediscovered by the bartender Murray Stenson in 2004 during his tenure at the Zig Zag Café and becoming a cult hit in the Seattle area.",
     "source": "https://iba-world.com/last-word/",
@@ -17,13 +17,13 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///last-word-1_X33IJ9.jpg",
+            "uri": "file:///last-word-7_WkhEEP.jpg",
             "sort": 1,
             "placeholder_hash": "VRgSDQREiIB3mKc3pobJhwiVVgd5",
             "copyright": "Punch"
         },
         {
-            "uri": "file:///last-word-1_4RSezv.jpg",
+            "uri": "file:///last-word-7_3gPIpG.jpg",
             "sort": 2,
             "placeholder_hash": "UAgSDQI1mJCHmKcnp5e3h1aQaQrI",
             "copyright": "Gastronomer Lifestyle"
@@ -79,7 +79,7 @@
             "_id": "lime-juice",
             "name": "Lime juice",
             "strength": 0,
-            "description": "Freshly squeezed lime juice.",
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
             "origin": null,
             "category": "Juices",
             "amount": 22.5,

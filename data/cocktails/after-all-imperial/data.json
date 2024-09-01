@@ -2,7 +2,7 @@
     "_id": "after-all-imperial",
     "name": "After All Imperial",
     "instructions": "1. Combine all ingredients, except sparkling wine, in a shaker and shake.\n2. Strain into a collins glass or flute and top with sparkling wine.\n3. Garnish with mint or rosemary",
-    "created_at": "2024-08-24T14:39:10+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "A fruity spin on a light, bubbly classic",
     "source": "https://tuxedono2.com/after-all-imperial-cocktail-recipe-3dc66829-73c3-4dab-b867-9bfefccaee15",
@@ -16,7 +16,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///after-all-imperial-1_LPbh3w.jpg",
+            "uri": "file:///after-all-imperial-7_RtlEtQ.jpg",
             "sort": 1,
             "placeholder_hash": "SAgKFwIGx3eWhXhle1aoV5h3qBBHWXAH",
             "copyright": "TuxedoNo2"
@@ -57,7 +57,7 @@
             "_id": "lemon-juice",
             "name": "Lemon juice",
             "strength": 0,
-            "description": "Freshly squeezed lemon juice.",
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
             "origin": null,
             "category": "Juices",
             "amount": 15,

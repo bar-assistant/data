@@ -2,7 +2,7 @@
     "_id": "bitter-giuseppe",
     "name": "Bitter Giuseppe",
     "instructions": "1. Stir all the ingredients together in a mixing glass with ice until chilled.\n2. Strain into a rocks glass over a single large ice cube and garnish.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "First featured on an early menu at the Violet Hour in Chicago, Stephen Cole's Bitter Giuseppe cocktail has become a modern classic over the years, with iterations popping up on menus at places like Cure in New Orleans, Elske and Ludlow Liquors in Chicago.",
     "source": "https://imbibemagazine.com/recipe/bitter-giuseppe-cocktail/",
@@ -16,7 +16,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///bitter-giuseppe-1_ci0B6j.jpg",
+            "uri": "file:///bitter-giuseppe-7_zVaO2j.jpg",
             "sort": 1,
             "placeholder_hash": "jigKDQKfm3RnF4WXVpmIiAxYsVBE",
             "copyright": "Punch | Emma Janzen."
@@ -57,7 +57,7 @@
             "_id": "lemon-juice",
             "name": "Lemon juice",
             "strength": 0,
-            "description": "Freshly squeezed lemon juice.",
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
             "origin": null,
             "category": "Juices",
             "amount": 7.5,

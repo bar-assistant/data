@@ -3,20 +3,29 @@
     "_parent_id": null,
     "name": "Grapefruit juice",
     "strength": 0,
-    "description": "Freshly squeezed grapefruit juice.",
+    "description": "Grapefruit juice is a bold and distinctive cocktail ingredient, known for its tart, bitter-sweet flavor profile. Extracted from the grapefruit, a citrus fruit larger and more acidic than oranges, this juice brings a complex taste that can range from bracingly sour to subtly sweet, depending on the variety of grapefruit used.\n\n\nIn cocktails, grapefruit juice adds a sophisticated and refreshing element. Its natural bitterness and acidity make it an excellent counterpoint to sweet liqueurs and spirits, creating well-balanced drinks. The juice also contributes a lovely pink or ruby hue to cocktails, enhancing their visual appeal.\nPopular in classics like the Paloma and the Greyhound, grapefruit juice pairs particularly well with tequila, vodka, and gin. When using grapefruit juice in cocktails, freshly squeezed is ideal for the brightest flavor, though high-quality bottled juices can be a convenient alternative. The amount used can vary, but its strong flavor means a little often goes a long way in cocktail recipes.",
     "origin": null,
     "color": "#ed7500",
     "category": "Juices",
-    "created_at": "2024-08-24T14:39:10+00:00",
-    "updated_at": null,
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": "2024-08-31T15:13:48+00:00",
     "images": [
         {
-            "uri": "file:///grapefruit-juice-1_ReXvEM.png",
+            "uri": "file:///grapefruit-juice-7_mNtAqL.webp",
             "sort": 1,
-            "placeholder_hash": "XOyGFQRL+muHd3h4iM+bVnB3P4iHd3h4iA",
-            "copyright": ""
+            "placeholder_hash": "KpqGDQJLiIWAe4uWV5ePZflYBzeHh4d3eA",
+            "copyright": "Creative Commons"
         }
     ],
-    "ingredient_parts": [],
+    "ingredient_parts": [
+        {
+            "_id": "grapefruit",
+            "name": "Grapefruit",
+            "strength": 0,
+            "description": "Grapefruit is a citrus fruit known for its slightly bitter and tangy flavor. It comes in various colors, including pink, red, and white, and is commonly eaten fresh, juiced, or used in salads and beverages. Grapefruit is rich in vitamins and antioxidants and is often enjoyed for its refreshing taste.",
+            "origin": "Barbados",
+            "category": "Fruits and vegetables"
+        }
+    ],
     "prices": []
 }

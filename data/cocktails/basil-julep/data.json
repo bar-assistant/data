@@ -2,7 +2,7 @@
     "_id": "basil-julep",
     "name": "Basil Julep",
     "instructions": "1. Muddle 2-3 basil leaves with gum syrup in a julep cup\n2. Fill with crushed ice and add whiskey\n3. Stir until cold and frosty, then top with more crushed ice",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "description": "Pick a high-character Irish Whiskey - something with rich, oily spice notes to pull down the basil's volatile peppery aroma.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/basil-julep",
@@ -17,7 +17,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///basil-julep-1_iqqyuB.jpg",
+            "uri": "file:///basil-julep-7_XShWf6.jpg",
             "sort": 1,
             "placeholder_hash": "pPgJFwI4WXWQh3VlWUdqVnpZVmBHpoAH",
             "copyright": "LiberAndCo |  Scott Kallstrand"
@@ -43,7 +43,7 @@
             "_id": "simple-syrup",
             "name": "Simple Syrup",
             "strength": 0,
-            "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
             "origin": null,
             "category": "Syrups",
             "amount": 7.5,

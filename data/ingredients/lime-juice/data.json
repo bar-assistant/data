@@ -3,20 +3,29 @@
     "_parent_id": null,
     "name": "Lime juice",
     "strength": 0,
-    "description": "Freshly squeezed lime juice.",
+    "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
     "origin": null,
     "color": "#e9f1d7",
     "category": "Juices",
-    "created_at": "2024-08-24T14:39:10+00:00",
-    "updated_at": null,
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": "2024-08-31T15:11:23+00:00",
     "images": [
         {
-            "uri": "file:///lime-juice-1_lzQDZX.png",
+            "uri": "file:///lime-juice-7_oWiGCf.webp",
             "sort": 1,
-            "placeholder_hash": "uPiBBQBK+1t3Z3eIeAeICESWP5eIiHeHeA",
-            "copyright": ""
+            "placeholder_hash": "teiFBQBLmHWAa4yWV5aPhQenBzeHh4d3eA",
+            "copyright": "Creative Commons"
         }
     ],
-    "ingredient_parts": [],
+    "ingredient_parts": [
+        {
+            "_id": "lime",
+            "name": "Lime",
+            "strength": 0,
+            "description": "Lime is a citrus fruit known for its small size, vibrant green color, and tart flavor.",
+            "origin": null,
+            "category": "Fruits and vegetables"
+        }
+    ],
     "prices": []
 }

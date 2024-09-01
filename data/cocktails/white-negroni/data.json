@@ -2,8 +2,8 @@
     "_id": "white-negroni",
     "name": "White Negroni",
     "instructions": "1. Combine all ingredients with ice and stir\n2. Strain into a lowball glass",
-    "created_at": "2024-08-24T14:39:11+00:00",
-    "updated_at": null,
+    "created_at": "2024-08-28T13:52:52+00:00",
+    "updated_at": "2024-08-31T15:22:02+00:00",
     "description": "The White Negroni is a fabulous use of the gentian&#039;s powers, and a downright brilliant twist on a bonafide classic. All of the flavor components of a classic Negroni are present, but only the gin remains verbatim.",
     "source": "https://tuxedono2.com/white-negroni-cocktail-recipe",
     "garnish": "Lemon peel",
@@ -16,7 +16,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///white-negroni-1_4iWj0t.jpg",
+            "uri": "file:///white-negroni-7_aB4ly8.jpg",
             "sort": 1,
             "placeholder_hash": "UxkSJgRpaAh4h5enl3OIe3eHOoCFBog",
             "copyright": "A Couple Cooks"
@@ -65,7 +65,19 @@
             "optional": false,
             "amount_max": null,
             "note": null,
-            "substitutes": [],
+            "substitutes": [
+                {
+                    "_id": "vermouth-bianco",
+                    "name": "Vermouth Bianco",
+                    "strength": 15,
+                    "description": "First launched way back in 1910, Bianco is a wonderful style of vermouth. First inspired by the white flowers of vanilla plants, the bottling has been nicknamed ‘Bianchissimo’, meaning “the whitest of the white”.\n\nWhilst it looks like a dry vermouth, this is a sweeter style, which offers flavours of juicy citrus, berries, peaches and apricots, some mixed herbs, a touch of charcoal, vanilla, honey, apples, and some faint herby bitterness.\n\nDelicate and well balanced, this vermouth is a bartender’s dream, offering sweet complexity that is perfect in White Negronis and Martini style drinks.",
+                    "origin": "Italy",
+                    "category": "Fortified wine",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
             "sort": 3
         }
     ]

@@ -2,7 +2,7 @@
     "_id": "paradise",
     "name": "Paradise",
     "instructions": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-    "created_at": "2024-08-24T14:39:11+00:00",
+    "created_at": "2024-08-28T13:52:52+00:00",
     "updated_at": null,
     "description": "The earliest known in-print recipe for the Paradise Cocktail was written by Harry Craddock in 1930. This cocktail is prepared using gin, apricot brandy (apricot liqueur), and orange juice in a 2:1:1 ratio, with a splash of lemon juice.",
     "source": "https://iba-world.com/paradise/",
@@ -17,7 +17,7 @@
     "utensils": [],
     "images": [
         {
-            "uri": "file:///paradise-1_v3kvsD.jpg",
+            "uri": "file:///paradise-7_kFtS4N.jpg",
             "sort": 1,
             "placeholder_hash": "eRgGHwL1F5h4fYVzeOg3yCd9eOCHB40J",
             "copyright": "Wikipedia"
@@ -58,7 +58,7 @@
             "_id": "orange-juice",
             "name": "Orange juice",
             "strength": 0,
-            "description": "Freshly squeezed orange juice.",
+            "description": "Orange juice is a popular and versatile cocktail ingredient, known for its sweet and tangy flavor profile. Extracted from fresh oranges, it brings a natural sweetness and subtle acidity to drinks, along with a bright, sunny color that enhances the visual appeal of cocktails.\n\nWhen using orange juice in cocktails, freshly squeezed is ideal for the best flavor, though high-quality, not-from-concentrate commercial juices can be a convenient alternative. The amount used can vary widely depending on the recipe, from a splash for flavor to being the primary mixer in a drink. Its natural sweetness means it's often used in place of simple syrup in some recipes, adding both flavor and sweetness in one ingredient.",
             "origin": null,
             "category": "Juices",
             "amount": 15,
