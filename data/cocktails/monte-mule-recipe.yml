@@ -23,9 +23,9 @@ ingredients:
       name: Amaro Montenegro
       amount: 30
       units: ml
-    - _id: ginger-ale
+    - _id: ginger-beer
       sort: 3
-      name: Ginger ale
+      name: Ginger beer
       amount: 30
       units: ml
     - _id: lime-juice

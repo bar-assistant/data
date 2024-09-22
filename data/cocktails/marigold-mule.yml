@@ -25,9 +25,9 @@ ingredients:
       name: Lime juice
       amount: 15
       units: ml
-    - _id: ginger-ale
+    - _id: ginger-beer
       sort: 4
-      name: Ginger ale
+      name: Ginger beer
       amount: 90
       units: ml
 images:

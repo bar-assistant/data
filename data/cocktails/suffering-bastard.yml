@@ -33,9 +33,9 @@ ingredients:
       name: Angostura aromatic bitters
       amount: 2
       units: dashes
-    - _id: ginger-ale
+    - _id: ginger-beer
       sort: 5
-      name: Ginger ale
+      name: Ginger beer
       amount: 1
       units: topup
 images:
