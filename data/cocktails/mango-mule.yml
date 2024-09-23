@@ -11,9 +11,9 @@ abv: 0
 glass: Julep
 method: Shake
 ingredients:
-    - _id: ginger-ale
+    - _id: ginger-beer
       sort: 1
-      name: Ginger ale
+      name: Ginger beer
       amount: 45
       units: ml
     - _id: cucumber

@@ -1,0 +1,12 @@
+_id: ginger-beer
+name: Ginger beer
+description: Ginger beer is a non-alcoholic carbonated beverage flavored with ginger. It is known for its fizzy and spicy taste, derived from the natural or artificial ginger flavorings used in its production. Historically it was produced by the natural fermentation of prepared ginger spice, yeast and sugar. It is usually used for all kinds of mules.
+strength: 0
+origin: Worldwide
+color: '#edcdb6'
+category: Beverages
+images:
+    - sort: 1
+      file_name: ginger-beer-1.png
+      copyright: Fever Tree
+      placeholder_hash: 7viFAgBIh3o2R/iocIyAZwh3hXiGiIg

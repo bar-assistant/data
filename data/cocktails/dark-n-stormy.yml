@@ -19,9 +19,9 @@ ingredients:
       name: Dark Rum
       amount: 60
       units: ml
-    - _id: ginger-ale
+    - _id: ginger-beer
       sort: 2
-      name: Ginger ale
+      name: Ginger beer
       amount: 100
       units: ml
     - _id: lime-juice

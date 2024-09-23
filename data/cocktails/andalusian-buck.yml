@@ -33,9 +33,9 @@ ingredients:
       name: Simple Syrup
       amount: 1
       units: Barspoon
-    - _id: ginger-ale
+    - _id: ginger-beer
       sort: 5
-      name: Ginger ale
+      name: Ginger beer
       amount: 60
       units: ml
 images:

@@ -17,9 +17,9 @@ ingredients:
       name: Vodka
       amount: 45
       units: ml
-    - _id: ginger-ale
+    - _id: ginger-beer
       sort: 2
-      name: Ginger ale
+      name: Ginger beer
       amount: 120
       units: ml
     - _id: lime-juice
