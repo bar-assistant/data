@@ -1,0 +1,73 @@
+{
+    "_id": "dark-n-stormy",
+    "name": "Dark ‘n’ stormy",
+    "instructions": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "This drink is very similar to the Moscow mule except that the Dark 'n' Stormy has dark rum instead of vodka. The original Dark 'n' Stormy was made with Gosling Black Seal rum and Barritt's Ginger Beer, but after the partnership between the two failed and the companies parted ways, Gosling Brothers created its own ginger beer.\n\nGosling Brothers claims that the drink was invented in Bermuda just after World War I.",
+    "source": "https://iba-world.com/dark-n-stormy/",
+    "garnish": "Garnish with a lime wedge or slice.",
+    "abv": 12.47,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///dark-n-stormy-7_1nmT3c.jpg",
+            "sort": 1,
+            "placeholder_hash": "rCgKJwb3R4ibd4eKhZlXh5h1mFA3B4UE",
+            "copyright": "The Spruce / Madhumita Sathishkumar"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "strength": 40,
+            "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "ginger-ale",
+            "name": "Ginger ale",
+            "strength": 0,
+            "description": "Ginger ale is a non-alcoholic carbonated beverage flavored with ginger. It is known for its fizzy and slightly spicy taste, derived from the natural or artificial ginger flavorings used in its production. Ginger ale is often consumed on its own as a refreshing soft drink, and it is also a common mixer in various cocktails. There are both commercial and homemade versions of ginger ale, with variations that may include additional ingredients such as citrus or sweeteners.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 100,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

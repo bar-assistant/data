@@ -1,0 +1,118 @@
+{
+    "_id": "amaro-highball",
+    "name": "Amaro Highball",
+    "instructions": "1. Add all of the ingredients, except the soda water, to a shaker filled with ice.\n2. Shake and then strain into an ice-filled glass.\n3. Top with the soda.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "Julep Houston bartender David Kubiak created this amaro highball to highlight Amaro Montenegro and serve as an intro to mezcal.",
+    "source": "https://imbibemagazine.com/recipe/amaro-highball-the-good-the-bad-the-ugly/",
+    "garnish": "Olive and dehydrated lemon",
+    "abv": 8.16,
+    "tags": [
+        "Smokey",
+        "Bitter"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///amaro-highball-7_81W1zl.jpg",
+            "sort": 1,
+            "placeholder_hash": "khgKFQIZn3RpV9tldnimdwC2RbC+",
+            "copyright": "Imbibe"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "amaro-montenegro",
+            "name": "Amaro Montenegro",
+            "strength": 23,
+            "description": "Although not as popular as Averna, Montenegro packs an incredible bouquet of flavors ranging from carmel and chocolate to chartreuse-like herbals, all at a very workable price. As an added bonus, Montenegro is delicious on the rocks and sports an eye-catching bottle.",
+            "origin": "Italy",
+            "category": "Amaro",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "strength": 40,
+            "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "strength": 16.5,
+            "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
+            "origin": "Italy",
+            "category": "Amaro",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "agave-syrup",
+            "name": "Agave Syrup",
+            "strength": 0,
+            "description": "Agave syrup, also known as agave nectar, is a sweetener that is derived from the sap of the agave plant, primarily the blue agave plant native to Mexico. The syrup is a popular alternative to traditional sweeteners like sugar and honey, particularly in the context of natural and organic food products.\n\nAgave syrup is praised for its sweetness and versatility. It is sweeter than sugar, so smaller amounts can be used to achieve the same level of sweetness. Additionally, it has a lower glycemic index compared to some other sweeteners, meaning it has a smaller impact on blood sugar levels.\n\nAgave syrup has a mild, neutral flavor, making it suitable for a variety of culinary applications. It is commonly used as a sweetener in beverages, baked goods, and desserts. However, it's essential to note that agave syrup, like any sweetener, should be consumed in moderation due to its high fructose content.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a carbonated water that contains added minerals such as sodium bicarbonate, sodium chloride, and potassium sulfate, which give it a slightly salty and mineral-rich flavor. It is commonly used in cocktails as a mixer to add effervescence and a light, refreshing touch without altering the drink’s flavor profile significantly. The bubbles in club soda help to lift and blend the flavors of other ingredients, creating a more balanced and lively drink.\n\nIn cocktails, club soda is often used to top off drinks, adding volume and fizz. It's a key ingredient in classics like the Tom Collins, where it complements the gin, lemon juice, and simple syrup by adding a sparkling finish. It is also essential in making a Highball, where it dilutes the whiskey and adds a refreshing effervescence, or in a Mojito, where it lightens the mixture of rum, mint, lime, and sugar.\n\nClub soda is preferred over other carbonated waters like tonic water or seltzer when the goal is to add carbonation without additional flavors. Its clean, neutral taste makes it an ideal mixer for a wide range of cocktails, contributing to the drink’s texture and mouthfeel without overshadowing the primary ingredients.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 6
+        }
+    ]
+}

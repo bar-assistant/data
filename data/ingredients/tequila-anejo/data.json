@@ -1,0 +1,22 @@
+{
+    "_id": "tequila-anejo",
+    "_parent_id": "tequila-blanco",
+    "name": "Tequila Añejo",
+    "strength": 40,
+    "description": "Tequila Añejo is a category of tequila that has been aged and matured in oak barrels for a specific period, resulting in a more complex and nuanced flavor profile compared to younger tequilas. The term \"Añejo\" means \"aged\" or \"vintage\" in Spanish. According to Mexican regulations governing tequila production, Añejo tequila must be aged for a minimum of one year but less than three years.\n\nTequila Añejo sits between the younger, brighter styles of tequila and the more mature, heavily aged Extra Añejo category, which requires aging for a minimum of three years.\n\nWhen selecting a Tequila Añejo, it's advisable to explore various brands and expressions, as the aging process and barrel types can lead to unique and diverse flavor profiles across different bottles.",
+    "origin": "Mexico",
+    "color": "#f5d58a",
+    "category": "Spirits",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///tequila-anejo-7_C3FphV.png",
+            "sort": 1,
+            "placeholder_hash": "rjqCFQI6BkOUrIR+F/pzpo92F3eAhYWIhw",
+            "copyright": "Patron"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

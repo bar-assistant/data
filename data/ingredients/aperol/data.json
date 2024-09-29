@@ -1,0 +1,22 @@
+{
+    "_id": "aperol",
+    "_parent_id": null,
+    "name": "Aperol",
+    "strength": 11,
+    "description": "Aperol is an Italian orange-flavored aperitif liqueur known for its vibrant orange color and bittersweet taste. It is produced by the Campari Group and contains a blend of herbs, spices, and botanicals. Aperol is characterized by its lower alcohol content compared to some other aperitifs, making it a popular choice for refreshing cocktails. Aperol's distinct flavor profile and versatility make it a favorite ingredient in a variety of cocktails and spritz variations.",
+    "origin": "Italy",
+    "color": "#fa4321",
+    "category": "Liqueurs",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///aperol-7_fdympH.png",
+            "sort": 1,
+            "placeholder_hash": "oamKHRIe2AiTfH41ZmiPiffICRmIiIVmaA",
+            "copyright": "Aperol"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

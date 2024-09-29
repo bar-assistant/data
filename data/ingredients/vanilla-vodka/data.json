@@ -1,0 +1,22 @@
+{
+    "_id": "vanilla-vodka",
+    "_parent_id": "vodka",
+    "name": "Vanilla Vodka",
+    "strength": 40,
+    "description": "Vodka with added vanilla essence.",
+    "origin": "Russia",
+    "color": "#ffffff",
+    "category": "Spirits",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///vanilla-vodka-7_wbED7A.png",
+            "sort": 1,
+            "placeholder_hash": "MwiKDQAeBieDeWunlwZ9VPAnCAh5eYeHdw",
+            "copyright": "Smirnoff"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

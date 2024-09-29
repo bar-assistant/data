@@ -1,0 +1,89 @@
+{
+    "_id": "absinthe-old-fashioned",
+    "name": "Absinthe Old Fashioned",
+    "instructions": "1. Add all ingredients except bitters to a mixing glass with ice\n2. Stir 20 seconds and strain into a rocks glass filled with ice\n3. Dash bitters on top to layer",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "Doug Petry of Louisville’s Rye restaurant devised this absinthe-based old fashioned. It reads quite sweet but it rounds out nicely into a surprisingly delicious cocktail.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/absinthe-old-fashioned",
+    "garnish": "",
+    "abv": 23.51,
+    "tags": [
+        "Autumn",
+        "Old Fashioned",
+        "Herbacious"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///absinthe-old-fashioned-7_21OhZI.jpg",
+            "sort": 1,
+            "placeholder_hash": "WhgKFwQAnobkk6g5eZZ3hlmGiJUGN3kA",
+            "copyright": "LiberAndCo |  Scott Kallstrand"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "absinthe",
+            "name": "Absinthe",
+            "strength": 40,
+            "description": "Absinthe is a highly alcoholic and anise-flavored spirit that is historically known for its association with bohemian culture and its supposed hallucinogenic properties. It is typically green in color, but clear variations also exist. Absinthe is renowned for its distinctive herbal and botanical profile, which often includes ingredients like wormwood (Artemisia absinthium), anise, fennel, and other herbs.\n\nThe production of absinthe involves macerating and distilling these botanicals to create a highly concentrated liquid. The key component, wormwood, was once believed to contain a compound called thujone, thought to induce hallucinations. However, modern absinthes are produced with strict regulations regarding thujone content, and the hallucinogenic effects of traditional absinthe are now considered to be largely exaggerated.\n\nAbsinthe is often served by diluting it with water, typically by pouring cold water over a sugar cube placed on a slotted spoon, which is then held over the glass. This process, known as the \"louche,\" causes the absinthe to cloud and release its herbal flavors.\n\nThe drink gained notoriety in the late 19th and early 20th centuries, particularly in the bohemian and artistic communities of Europe. It was banned in many countries for a period due to concerns about its alleged psychoactive effects and its association with absinthe-induced madness. However, the ban has been lifted in most places, and today absinthe is produced and consumed legally with regulated thujone levels.\n\nAbsinthe has experienced a resurgence in popularity, and while its reputation as a mind-altering substance has been debunked, it is still enjoyed for its unique flavor and the ritualistic manner in which it is often served.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "st-germain",
+            "name": "St-Germain",
+            "strength": 20,
+            "description": "St-Germain is an elderflower liqueur It is made using the petals of Sambucus nigra from the Savoie region in France, and each bottle is numbered with the year the petals were collected. Petals are collected annually in the spring over a period of three to four weeks, and are often transported by bicycle to collection points to avoid damaging the petals and impacting the flavour.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "peychauds-bitters",
+            "name": "Peychauds Bitters",
+            "strength": 35,
+            "description": "It is a gentian-based bitters, comparable to Angostura bitters, but with a predominant anise aroma combined with a background of mint.",
+            "origin": "North America",
+            "category": "Bitters",
+            "amount": 4,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

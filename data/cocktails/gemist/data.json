@@ -1,0 +1,58 @@
+{
+    "_id": "gemist",
+    "name": "Gemišt",
+    "instructions": "Combine cold ingredients in a glass.\nIngredient amounts are usually eyeballed depending on the glass.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "Coming from a german word \"gemischt\", meaning mixed. Popular in Balkan countries, especially with homemade dry white wines.",
+    "source": null,
+    "garnish": null,
+    "abv": 6,
+    "tags": [
+        "Spritz",
+        "Wine"
+    ],
+    "glass": "Lowball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///gemist-7_iOY4tk.jpg",
+            "sort": 1,
+            "placeholder_hash": "4BgKFYKKd4iweHeHiIiXiIZgeAiI",
+            "copyright": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-wine",
+            "name": "White wine",
+            "strength": 11,
+            "description": "White wine is a type of wine made from green or yellowish grape varieties, where the grape skins are separated from the grape juice before or during fermentation. This absence of prolonged skin contact results in a wine with a pale or straw-like color. White wines can range from crisp and light to full-bodied and complex, and they are typically served chilled. Common white grape varieties include Chardonnay, Sauvignon Blanc, Riesling, and Pinot Grigio. White wine is known for its refreshing qualities and is often enjoyed as an aperitif or paired with a variety of dishes, including seafood, poultry, and lighter fare.",
+            "origin": "Worldwide",
+            "category": "Wines",
+            "amount": 150,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a carbonated water that contains added minerals such as sodium bicarbonate, sodium chloride, and potassium sulfate, which give it a slightly salty and mineral-rich flavor. It is commonly used in cocktails as a mixer to add effervescence and a light, refreshing touch without altering the drink’s flavor profile significantly. The bubbles in club soda help to lift and blend the flavors of other ingredients, creating a more balanced and lively drink.\n\nIn cocktails, club soda is often used to top off drinks, adding volume and fizz. It's a key ingredient in classics like the Tom Collins, where it complements the gin, lemon juice, and simple syrup by adding a sparkling finish. It is also essential in making a Highball, where it dilutes the whiskey and adds a refreshing effervescence, or in a Mojito, where it lightens the mixture of rum, mint, lime, and sugar.\n\nClub soda is preferred over other carbonated waters like tonic water or seltzer when the goal is to add carbonation without additional flavors. Its clean, neutral taste makes it an ideal mixer for a wide range of cocktails, contributing to the drink’s texture and mouthfeel without overshadowing the primary ingredients.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 100,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        }
+    ]
+}

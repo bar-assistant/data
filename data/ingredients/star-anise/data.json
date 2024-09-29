@@ -1,0 +1,22 @@
+{
+    "_id": "star-anise",
+    "_parent_id": null,
+    "name": "Star anise",
+    "strength": 0,
+    "description": null,
+    "origin": null,
+    "color": null,
+    "category": "Spices",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///star-anise-7_ehkaYq.png",
+            "sort": 1,
+            "placeholder_hash": "FUmGDQI7Z3iYeX9nN1qPp/ZYaXd4iIB3SA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

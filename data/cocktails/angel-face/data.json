@@ -1,0 +1,74 @@
+{
+    "_id": "angel-face",
+    "name": "Angel Face",
+    "instructions": "1. Pour all ingredients into cocktail shaker filled with ice cubes.\n2. Shake and strain into a chilled cocktail glass.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "Although the origin of the cocktail is not known, the main hypotheses assume that it was born in the twenties of the twentieth century in France: this thesis would prove the presence of calvados, a liqueur commonly used in France and, in particular, in that period, as an epidemic of phylloxera in European vineyards had limited the production of brandy.\nOn this basis, one of the most frequent hypotheses has it that the cocktail was created by Harry MacElhone, founder of Harry’s New York Bar in Paris on July 19, 1919, in honor of the celebrations for the victory of the First World War.\nThe first reliable evidence, however, dates back to 1930 when Harry Craddock included the Angel Face among the recipes of his book “Savoy cocktail book”. Some sources indicate that the name derives from that of an American gangster active during Prohibition; less likely the dedication to Rick Blaine, the protagonist of Casablanca played by Humphrey Bogart, as the film follows the first testimonies (1942).",
+    "source": "https://iba-world.com/angel-face/",
+    "garnish": "",
+    "abv": 32,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables",
+        "Fruity"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///angel-face-7_GivPpu.jpg",
+            "sort": 1,
+            "placeholder_hash": "ITkOJYZCaIhQdonDd4eaWmh/jPWo",
+            "copyright": "Wine Enthusiast / Tyler Zieliniski"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "apricot-brandy",
+            "name": "Apricot Brandy",
+            "strength": 40,
+            "description": "Apricot brandy is a fruit-flavored liqueur made by infusing apricots in brandy or by distilling apricot fruit. The result is a sweet and flavorful spirit with the essence of apricots. Apricot brandy is commonly used in cocktails, adding a fruity and aromatic dimension to mixed drinks. It can vary in sweetness and intensity of apricot flavor depending on the production methods and the brand. Apricot brandy is versatile and can be enjoyed on its own, in cocktails, or as an ingredient in both sweet and savory culinary applications.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "apple-brandy",
+            "name": "Apple Brandy",
+            "strength": 40,
+            "description": "Apple brandy is a distilled spirit made from fermented apple juice or cider. The production involves fermenting apples, distilling the resulting liquid, and often aging it in oak barrels. The final product can range from clear to amber in color and exhibits a variety of apple-derived flavors, influenced by the apple varieties used and the aging process. Apple brandy can be enjoyed on its own or used in cocktails and culinary applications. The term encompasses a broad category of apple-based spirits produced globally, with variations in production methods and flavor profiles.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

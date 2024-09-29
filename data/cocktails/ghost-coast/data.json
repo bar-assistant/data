@@ -1,0 +1,133 @@
+{
+    "_id": "ghost-coast",
+    "name": "Ghost Coast",
+    "instructions": "1. Combine all ingredients over ice and shake\n2. Strain into a rocks glass over ice and garnish",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "An unforgettable tour of western America in cocktail form",
+    "source": "https://tuxedono2.com/ghost-coast-cocktail-recipe",
+    "garnish": "eucalyptus leaf and/or banana chip for garnish",
+    "abv": 13.96,
+    "tags": [
+        "Herbacious",
+        "Fruity"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///ghost-coast-7_gJjgyV.jpg",
+            "sort": 1,
+            "placeholder_hash": "CCkKJwYJlph2eHdym3d3d4h4h1AnCHUC",
+            "copyright": "TuxedoNo2"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-reposado",
+            "name": "Tequila Reposado",
+            "strength": 40,
+            "description": "Tequila Reposado is a type of tequila that has been aged or \"rested\" in oak barrels for a specific period, giving it a mellower and more complex flavor compared to Tequila Blanco (unaged tequila). The term \"reposado\" translates to \"rested\" in Spanish.\n\nReposado occupies a middle ground between the youthful vibrancy of Blanco tequila and the more mature and complex characteristics of Añejo tequila. It appeals to those who appreciate a balance of agave flavor and the influence of oak aging.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "strength": 40,
+            "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "creme-de-banane",
+            "name": "Crème de banane",
+            "strength": 0,
+            "description": "Perfectly ripened bananas are small-batch distilled to extract the rich banana flavor and natural amber color",
+            "origin": "Worldwide",
+            "category": "Crème de",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "strength": 0,
+            "description": "Honey syrup is a natural sweetener used in cocktails to add depth and complexity beyond what standard simple syrup offers. Made by diluting honey with water, usually in a 1:1 ratio, this syrup brings not only sweetness but also subtle floral, herbal, or fruity notes depending on the type of honey used.\n\nWhen incorporating honey syrup into drinks, it's important to consider its distinct flavor profile. The type of honey used can significantly impact the final taste of the cocktail, allowing for creative variations. Bartenders often prefer to make their own honey syrup to control the consistency and flavor, though commercial versions are available. As with other syrups, the amount used can be adjusted to balance the cocktail's sweetness with other components.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        },
+        {
+            "_id": "maple-syrup",
+            "name": "Maple syrup",
+            "strength": 0,
+            "description": "Maple syrup is a syrup made from the sap of maple trees.",
+            "origin": "Canada",
+            "category": "Syrups",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 6
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 2,
+            "units": "dashes",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 7
+        }
+    ]
+}

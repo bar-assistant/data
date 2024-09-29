@@ -1,0 +1,100 @@
+{
+    "_id": "sex-on-the-beach",
+    "name": "Sex on the Beach",
+    "instructions": "Build all ingredients in a highball glass filled with ice.",
+    "created_at": "2024-08-28T13:52:52+00:00",
+    "updated_at": null,
+    "description": "There are two general types of the cocktail:\n\n- The IBA official cocktail is made from vodka, peach schnapps, orange juice, and cranberry juice.\n- The 2008 Mr. Boston Official Bartender's Guide (67th edition) provides an alternative recipe made from vodka, Chambord, Midori Melon Liqueur, pineapple juice, and cranberry juice.\n\nThe drink is built over ice in a highball glass and garnished with an orange slice. Sometimes they are mixed in smaller amounts and served as a shooter.",
+    "source": "https://iba-world.com/sex-on-the-beach/",
+    "garnish": "Garnish with a half orange slice.",
+    "abv": 12.99,
+    "tags": [
+        "Contemporary Classics",
+        "IBA Cocktail"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///sex-on-the-beach-7_w7fMmd.jpg",
+            "sort": 1,
+            "placeholder_hash": "MGkOLRD2WGqWuVh4mImGeAmohGBJ",
+            "copyright": "Copy Kat Recipes"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "vodka",
+            "name": "Vodka",
+            "strength": 40,
+            "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
+            "origin": "Russia",
+            "category": "Spirits",
+            "amount": 40,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "peach-liqueur",
+            "name": "Peach liqueur",
+            "strength": 20,
+            "description": "A peach liqueur is any liqueur that is made through the distillation of peaches and has sugar added to it. Peach liqueurs gained popularity in the mid-20th century, but their exact date of origin is unknown.",
+            "origin": "Worldwide",
+            "category": "Liqueurs",
+            "amount": 20,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "peach-syrup",
+                    "name": "Peach syrup",
+                    "strength": 0,
+                    "description": "Peach Simple Syrup is a 3-ingredient homemade add-in that’s used to sweeten all of your favorite cocktails, lemonades, and teas! Ready in just 45 minutes!",
+                    "origin": "Worldwide",
+                    "category": "Syrups",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 2
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "strength": 0,
+            "description": "Orange juice is a popular and versatile cocktail ingredient, known for its sweet and tangy flavor profile. Extracted from fresh oranges, it brings a natural sweetness and subtle acidity to drinks, along with a bright, sunny color that enhances the visual appeal of cocktails.\n\nWhen using orange juice in cocktails, freshly squeezed is ideal for the best flavor, though high-quality, not-from-concentrate commercial juices can be a convenient alternative. The amount used can vary widely depending on the recipe, from a splash for flavor to being the primary mixer in a drink. Its natural sweetness means it's often used in place of simple syrup in some recipes, adding both flavor and sweetness in one ingredient.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 40,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "cranberry-juice",
+            "name": "Cranberry juice",
+            "strength": 0,
+            "description": "Juice made from cranberries.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 40,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

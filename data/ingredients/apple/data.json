@@ -1,0 +1,22 @@
+{
+    "_id": "apple",
+    "_parent_id": null,
+    "name": "Apple",
+    "strength": 0,
+    "description": "Apple is a versatile fruit commonly used in cocktails for its crisp, sweet, and sometimes tart flavor. It can be incorporated in various forms, including fresh slices, apple juice, apple cider, or apple liqueur, each bringing a unique character to a drink. Fresh apple slices or wedges are often used as a garnish, adding a refreshing element and a touch of natural sweetness to cocktails.",
+    "origin": "Worldwide",
+    "color": "#d64737",
+    "category": "Fruits and vegetables",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": "2024-08-28T14:05:34+00:00",
+    "images": [
+        {
+            "uri": "file:///apple-7_nDQQxh.png",
+            "sort": 1,
+            "placeholder_hash": "XNmKDQQrVqd/golYN4iLgMkIGEeIeIB1WA",
+            "copyright": "CC License"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

@@ -1,0 +1,59 @@
+{
+    "_id": "kir",
+    "name": "KIR",
+    "instructions": "Pour Crème de cassis into glass, top up with white wine.\n\nNote:\n\nKIR ROYAL – Use Champagne instead of white wine",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "In France it is usually drunk as an apéritif before a meal or snack. It was originally made with Bourgogne Aligoté, a white wine of Burgundy, but today various white wines are used throughout France, according to the region and the barkeeper. Many prefer a white Chardonnay-based Burgundy, such as Chablis.",
+    "source": "https://iba-world.com/kir/",
+    "garnish": null,
+    "abv": 11.27,
+    "tags": [
+        "Contemporary Classics",
+        "IBA Cocktail",
+        "Wine"
+    ],
+    "glass": "Champagne",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///kir-7_Xr7X8C.jpg",
+            "sort": 1,
+            "placeholder_hash": "ywcKDwJoh3iQd4h/hyiHyHh2l/RoCI4H",
+            "copyright": "Liquor.com / Tim Nusog"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-wine",
+            "name": "White wine",
+            "strength": 11,
+            "description": "White wine is a type of wine made from green or yellowish grape varieties, where the grape skins are separated from the grape juice before or during fermentation. This absence of prolonged skin contact results in a wine with a pale or straw-like color. White wines can range from crisp and light to full-bodied and complex, and they are typically served chilled. Common white grape varieties include Chardonnay, Sauvignon Blanc, Riesling, and Pinot Grigio. White wine is known for its refreshing qualities and is often enjoyed as an aperitif or paired with a variety of dishes, including seafood, poultry, and lighter fare.",
+            "origin": "Worldwide",
+            "category": "Wines",
+            "amount": 90,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "creme-de-cassis",
+            "name": "Crème de cassis",
+            "strength": 25,
+            "description": "Crème de Cassis is a sweet liqueur made from blackcurrants. It has a deep red-purple color and a rich, fruity flavor with a combination of sweetness and tartness. The liqueur is often used as a key ingredient in cocktails, with the Kir and Kir Royale being classic examples. Crème de Cassis can also be enjoyed on its own over ice or used in culinary applications to add a burst of blackcurrant flavor to desserts or sauces.",
+            "origin": "France",
+            "category": "Crème de",
+            "amount": 10,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        }
+    ]
+}

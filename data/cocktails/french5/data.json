@@ -1,0 +1,88 @@
+{
+    "_id": "french5",
+    "name": "French 75",
+    "instructions": "1. Pour all the ingredients, except Champagne, into a shaker.\n2. Shake well and strain into a Champagne flute.\n3. Top up with Champagne.\n4. Stir gently.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "The drink dates to World War I, and an early form was created in 1915 at the New York Bar in Paris—later Harry's New York Bar—by barman Harry MacElhone. The combination was said to have such a kick that it felt like being shelled with the powerful French 75mm field gun.",
+    "source": "https://iba-world.com/french-75/",
+    "garnish": null,
+    "abv": 12.8,
+    "tags": [
+        "Contemporary Classics",
+        "IBA Cocktail"
+    ],
+    "glass": "Champagne",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///french-75-7_HAS3rS.jpg",
+            "sort": 1,
+            "placeholder_hash": "bggKHwKIiIeeiId9dyd4d3ePxBsGn2ID",
+            "copyright": "Sip and Feast"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "champagne",
+            "name": "Champagne",
+            "strength": 12,
+            "description": "Champagne is a sparkling wine that comes from the Champagne region of France. It is one of the most famous and prestigious types of sparkling wine globally. The name \"Champagne\" is legally protected, and only wines produced in the Champagne region using specific methods can be labeled as such.\n\nChampagne is often associated with celebrations and is widely used in toasts. It comes in various styles, including non-vintage (a blend of multiple years), vintage (made from grapes of a single year), and prestige cuvées (high-quality, limited-production wines from a specific producer). The versatility of Champagne allows it to be enjoyed on its own or paired with a variety of foods.",
+            "origin": "France",
+            "category": "Wines",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

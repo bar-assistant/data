@@ -1,0 +1,22 @@
+{
+    "_id": "activated-charcoal",
+    "_parent_id": null,
+    "name": "Activated charcoal",
+    "strength": 0,
+    "description": "Activated, food-grade charcoal became a food trend in 2016, being used as an additive to impart a \"slightly smoky\" taste and a dark coloring to products including hotdogs, ice cream, pizza bases and bagels.\n\n**Activated charcoal can interfere with many medications**",
+    "origin": "Worldwide",
+    "color": null,
+    "category": "Uncategorized",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///activated-charcoal-7_cDDIsz.png",
+            "sort": 1,
+            "placeholder_hash": "BgiCBQArb4h/Z1J4lwAAAAAAJneDhYCGOA",
+            "copyright": "MOCAFE USA"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

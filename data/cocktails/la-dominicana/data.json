@@ -1,0 +1,73 @@
+{
+    "_id": "la-dominicana",
+    "name": "La Dominicana",
+    "instructions": "1. Whip together a wet cream using a whisk or stand mixer\n2. Add rum and coffee liqueur to a mixing glass and stir over ice\n3. Strain into a cocktail glass and float whipped cream on top",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "A rich, complex, rum soaked upgrade on the White Russian",
+    "source": "https://tuxedono2.com/la-dominicana-cocktail-recipe",
+    "garnish": "hand-whipped cream",
+    "abv": 25,
+    "tags": [
+        "Coffee",
+        "Sweet"
+    ],
+    "glass": "Cocktail",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///la-dominicana-7_a1a741.jpg",
+            "sort": 1,
+            "placeholder_hash": "xfcFBwAHtWmVdIqYZ1jIR7d3WtBoAZsC",
+            "copyright": "TuxedoNo2"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "strength": 40,
+            "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "strength": 20,
+            "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
+            "origin": "Mexico",
+            "category": "Liqueurs",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "cream",
+            "name": "Cream",
+            "strength": 0,
+            "description": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization.",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 1,
+            "units": "hand-whipped",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

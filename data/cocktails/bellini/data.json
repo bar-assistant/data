@@ -1,0 +1,59 @@
+{
+    "_id": "bellini",
+    "name": "Bellini",
+    "instructions": "1. Pour peach puree into the mixing glass with ice\n2. Add the Prosecco wine.\n3. Stir gently and pour in a chilled flute glass.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "The Bellini was invented sometime between 1934 and 1948 by Giuseppe Cipriani, founder of Harry's Bar in Venice, Italy. He named the drink the Bellini because its unique pink color reminded him of the toga of a saint in a painting by 15th-century Venetian artist Giovanni Bellini.\n\nVariations:\n\n**PUCCINI** – Fresh Mandarin Orange Juice;\n\n**ROSSINI** – Fresh Strawberry Puree;\n\n**TINTORETTO** – Fresh Pomegranate Juice.",
+    "source": "https://iba-world.com/bellini/",
+    "garnish": "N/A",
+    "abv": 6.11,
+    "tags": [
+        "Contemporary Classics",
+        "IBA Cocktail",
+        "Fruity"
+    ],
+    "glass": "Champagne",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///bellini-7_aO13n5.jpg",
+            "sort": 1,
+            "placeholder_hash": "8CgKJQhyVp1n9neIiXV5mGpTgEYG",
+            "copyright": "Olive & Mango"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "prosecco",
+            "name": "Prosecco",
+            "strength": 11,
+            "description": "Prosecco is a sparkling wine that originates from the Veneto region of Italy. It is made primarily from the Glera grape variety, although other permitted grape varieties may also be used in smaller quantities. Prosecco is known for its fresh and fruity character, and it is one of the most popular and widely consumed sparkling wines globally.\n\nProsecco is known for its effervescence, and the bubbles are generally lighter and less persistent than those in traditional method sparkling wines like Champagne.",
+            "origin": "Italy",
+            "category": "Wines",
+            "amount": 100,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "white-peach-puree",
+            "name": "White Peach Puree",
+            "strength": 0,
+            "description": "A purée (or mash) is cooked food, usually vegetables, fruits or legumes, that has been ground, pressed, blended or sieved to the consistency of a creamy paste or liquid.",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 50,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "_id": "mimosa",
+    "name": "Mimosa",
+    "instructions": "Pour orange juice into a flute glass and gently pour the sparkling wine. Stir gently.\n\nNote:\nAlso known as Buck’s Fizz.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": null,
+    "source": "https://iba-world.com/mimosa/",
+    "garnish": "Garnish with an orange twist (optional).",
+    "abv": 5,
+    "tags": [
+        "Contemporary Classics",
+        "IBA Cocktail",
+        "Wine"
+    ],
+    "glass": "Champagne",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///mimosa-7_jo11XV.jpg",
+            "sort": 1,
+            "placeholder_hash": "sBkGNQaGaFCHt4doepOHdi7PkKYL",
+            "copyright": "Inspired Taste"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "strength": 0,
+            "description": "Orange juice is a popular and versatile cocktail ingredient, known for its sweet and tangy flavor profile. Extracted from fresh oranges, it brings a natural sweetness and subtle acidity to drinks, along with a bright, sunny color that enhances the visual appeal of cocktails.\n\nWhen using orange juice in cocktails, freshly squeezed is ideal for the best flavor, though high-quality, not-from-concentrate commercial juices can be a convenient alternative. The amount used can vary widely depending on the recipe, from a splash for flavor to being the primary mixer in a drink. Its natural sweetness means it's often used in place of simple syrup in some recipes, adding both flavor and sweetness in one ingredient.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 75,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "prosecco",
+            "name": "Prosecco",
+            "strength": 11,
+            "description": "Prosecco is a sparkling wine that originates from the Veneto region of Italy. It is made primarily from the Glera grape variety, although other permitted grape varieties may also be used in smaller quantities. Prosecco is known for its fresh and fruity character, and it is one of the most popular and widely consumed sparkling wines globally.\n\nProsecco is known for its effervescence, and the bubbles are generally lighter and less persistent than those in traditional method sparkling wines like Champagne.",
+            "origin": "Italy",
+            "category": "Wines",
+            "amount": 75,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        }
+    ]
+}

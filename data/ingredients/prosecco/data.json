@@ -1,0 +1,22 @@
+{
+    "_id": "prosecco",
+    "_parent_id": null,
+    "name": "Prosecco",
+    "strength": 11,
+    "description": "Prosecco is a sparkling wine that originates from the Veneto region of Italy. It is made primarily from the Glera grape variety, although other permitted grape varieties may also be used in smaller quantities. Prosecco is known for its fresh and fruity character, and it is one of the most popular and widely consumed sparkling wines globally.\n\nProsecco is known for its effervescence, and the bubbles are generally lighter and less persistent than those in traditional method sparkling wines like Champagne.",
+    "origin": "Italy",
+    "color": "#a57600",
+    "category": "Wines",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///prosecco-7_1KD12R.png",
+            "sort": 1,
+            "placeholder_hash": "lkqKFQAtBFx4ineZhwll4iQFBzdyg4Z3dw",
+            "copyright": "Valdo"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

@@ -1,0 +1,88 @@
+{
+    "_id": "avenue-scotch",
+    "name": "Avenue Scotch",
+    "instructions": "1. Add all ingredients to a cocktail shaker\n2. Add ice and shake hard for 10 seconds\n3. Strain into a chilled Nick & Nora glass",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "From frigid Iceland comes this tropical sour. Created by Jónmundur Þorsteinsson.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/avenue-scotch",
+    "garnish": "Thyme",
+    "abv": 13.71,
+    "tags": [
+        "Tropical",
+        "Fruity"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///avenue-scotch-7_QGtjAO.jpg",
+            "sort": 1,
+            "placeholder_hash": "WzkKFwQdiVhnd2eUZgibpXeKyIMEjXMA",
+            "copyright": "LiberAndCo"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "scotch-whiskey",
+            "name": "Scotch whiskey",
+            "strength": 40,
+            "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+            "origin": "Scotland",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "passionfruit-syrup",
+            "name": "Passionfruit syrup",
+            "strength": 0,
+            "description": "Passionfruit syrup is a vibrant and tropical ingredient that brings an intense, exotic flavor to cocktails. Made from the pulp and juice of passionfruit combined with sugar, this syrup captures the fruit's unique balance of sweet and tart notes, along with its distinctive tropical aroma.\n\nThe syrup's bold flavor can stand up to strong spirits and other intense ingredients, allowing it to shine even in complex drink recipes.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "ginger-syrup",
+            "name": "Ginger syrup",
+            "strength": 0,
+            "description": "Ginger syrup is a spicy-sweet cocktail ingredient that adds a bold, zesty kick to drinks. Made by simmering fresh ginger root with sugar and water, this syrup captures the root's fiery heat and distinctive flavor, offering a perfect balance of sweetness and warmth.\n\nWhen using ginger syrup, it's important to consider its potency. A little can go a long way in terms of both flavor and heat. Homemade versions allow for control over the ginger intensity and sweetness level, though quality commercial options are available. The syrup's versatility makes it a valuable addition to both classic and contemporary cocktail recipes, offering a quick way to infuse drinks with ginger's unique character.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

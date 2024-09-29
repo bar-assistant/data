@@ -1,0 +1,104 @@
+{
+    "_id": "barracuda",
+    "name": "Barracuda",
+    "instructions": "1. Pour all ingredients into cocktail shaker except the Prosecco\n2. Shake well with ice\n3. Strain into chilled highball glass filled with ice\n4. Top up with Prosecco",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "The Barracuda cocktail is a bright yellow Rum cocktail. Its origin lies in Italy, where barkeeper Benito Cuppari created the recipe while working on a cruise ship.",
+    "source": "https://iba-world.com/barracuda/",
+    "garnish": "Pineapple and Cherry, optional mint sprig for additional aroma.",
+    "abv": 16.11,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks",
+        "Tiki"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///barracuda-7_bOr507.webp",
+            "sort": 1,
+            "placeholder_hash": "3wgOFQJWeHaJB4VYh5aHeWNLINUD",
+            "copyright": "The Shaken Cocktail"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gold-rum",
+            "name": "Gold Rum",
+            "strength": 40,
+            "description": "Gold rum, also referred to as amber or golden rum, is a type of rum that falls between light and dark rum in terms of color and flavor. It is a versatile and widely used category of rum with characteristics that make it suitable for various cocktails and sipping neat.\n\nWhile not aged as long as dark rum, gold rum often undergoes some degree of aging in barrels. The aging contributes to the development of color, flavor, and a smoother texture.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "galliano",
+            "name": "Galliano",
+            "strength": 42.3,
+            "description": "Galliano is sweet with vanilla-anise flavour and subtle citrus and woodsy herbal undernotes.\n\nGalliano L'Autentico is a popular Italian liqueur with a golden yellow color. The unique herbal flavor medley is dominated by vanilla and anise, though its taste is complex. Developed in the late 19th century, Galliano is used in a variety of cocktails and is a staple in well-rounded bars today. Its most famous cocktails are the Harvey Wallbanger and golden Cadillac from the 1970s. While it's great for those retro drinks and many others, it also makes a nice digestif to enjoy after a meal.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "strength": 0,
+            "description": "Juice from pineapple fruit.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "prosecco",
+            "name": "Prosecco",
+            "strength": 11,
+            "description": "Prosecco is a sparkling wine that originates from the Veneto region of Italy. It is made primarily from the Glera grape variety, although other permitted grape varieties may also be used in smaller quantities. Prosecco is known for its fresh and fruity character, and it is one of the most popular and widely consumed sparkling wines globally.\n\nProsecco is known for its effervescence, and the bubbles are generally lighter and less persistent than those in traditional method sparkling wines like Champagne.",
+            "origin": "Italy",
+            "category": "Wines",
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

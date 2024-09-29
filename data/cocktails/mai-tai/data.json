@@ -1,0 +1,137 @@
+{
+    "_id": "mai-tai",
+    "name": "Mai-Tai",
+    "instructions": "1. Add all ingredients into a shaker with ice.\n2. Shake and pour into a double rocks glass or a highball glass.\n\n*The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of “rummy” from molasses.*",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "The Mai Tai has a mixed up history. Reaching its height of popularity in the 50s and 60s, it is the quintessential tiki drink. Tiki trendsetters Don the Beachcomber and Trader Vic both claim to have invented the cocktail, though their versions are distinctly different. Over time all kinds of fruity concoctions have been whipped up under the name of Mai Tai, no doubt, in all the colors of the rainbow. Although itself slightly modified, due to availability of ingredients, Trader Vic’s ‘Original” Mai Tai reigns supreme.",
+    "source": "https://iba-world.com/mai-tai/",
+    "garnish": "Garnish with pineapple spear, mint leaves, and lime peel.",
+    "abv": 18.82,
+    "tags": [
+        "Contemporary Classics",
+        "IBA Cocktail",
+        "Tiki"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///mai-tai-7_KQgNyZ.jpg",
+            "sort": 1,
+            "placeholder_hash": "DikKJIQomWdwaoh2iXsrcLUGdg",
+            "copyright": "Reddit"
+        },
+        {
+            "uri": "file:///mai-tai-7_e7Mz6t.webp",
+            "sort": 2,
+            "placeholder_hash": "SQgKJwIHqJeHd4eBfHaHmHeJh3A3SHAG",
+            "copyright": "TuxedoNo2"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gold-rum",
+            "name": "Gold Rum",
+            "strength": 40,
+            "description": "Gold rum, also referred to as amber or golden rum, is a type of rum that falls between light and dark rum in terms of color and flavor. It is a versatile and widely used category of rum with characteristics that make it suitable for various cocktails and sipping neat.\n\nWhile not aged as long as dark rum, gold rum often undergoes some degree of aging in barrels. The aging contributes to the development of color, flavor, and a smoother texture.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "rhum-agricole",
+            "name": "Rhum agricole",
+            "strength": 50,
+            "description": "Rhum Agricole is a style of rum that is made from fresh sugarcane juice rather than molasses, which is the byproduct of sugar production. The term \"agricole\" is French for \"agricultural,\" highlighting the agricultural origin of the sugarcane used in the production.\n\nRhum Agricole is particularly associated with regions like Martinique and Guadeloupe, where the production of this style of rum has a long and established tradition. The distinctive character of Rhum Agricole has contributed to its popularity among rum enthusiasts and mixologists seeking unique and flavorful spirits.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "dark-rum",
+                    "name": "Dark Rum",
+                    "strength": 40,
+                    "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
+                    "origin": "Caribbean",
+                    "category": "Spirits",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 2
+        },
+        {
+            "_id": "orange-curacao",
+            "name": "Orange Curaçao",
+            "strength": 20,
+            "description": "Liqueur flavored with the dried peel of the bitter orange laraha, a citrus fruit grown on the Dutch island of Curaçao. Curaçao is used by liqueur makers overt the world as a generic name for orange-flavoured liqueurs.",
+            "origin": "Netherlands",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "orgeat-syrup",
+            "name": "Orgeat Syrup",
+            "strength": 0,
+            "description": "Orgeat syrup is a sweet, nutty syrup that plays a crucial role in many classic and tiki-style cocktails. Traditionally made from almonds, sugar, and orange flower water, orgeat has a distinctive flavor profile that combines nuttiness with subtle floral notes and a rich sweetness.\n\n\nIn cocktails, orgeat syrup adds depth, complexity, and a silky texture. Its unique taste complements a wide range of spirits, particularly rum and whiskey, and it's an essential ingredient in iconic drinks like the Mai Tai and the Japanese Cocktail. The syrup's ability to smooth out harsh edges in spirits while adding its own character makes it a valuable tool in a mixologist's arsenal.\n\n\nWhen using orgeat syrup, a little goes a long way due to its concentrated flavor and sweetness. High-quality commercial versions are readily available, but some bartenders prefer to make their own to control the flavor profile and ingredients. While almond is the traditional base, variations using other nuts like pistachio or hazelnut have become popular in craft cocktail scenes.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 6
+        }
+    ]
+}

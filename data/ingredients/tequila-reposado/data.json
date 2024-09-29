@@ -1,0 +1,22 @@
+{
+    "_id": "tequila-reposado",
+    "_parent_id": "tequila-blanco",
+    "name": "Tequila Reposado",
+    "strength": 40,
+    "description": "Tequila Reposado is a type of tequila that has been aged or \"rested\" in oak barrels for a specific period, giving it a mellower and more complex flavor compared to Tequila Blanco (unaged tequila). The term \"reposado\" translates to \"rested\" in Spanish.\n\nReposado occupies a middle ground between the youthful vibrancy of Blanco tequila and the more mature and complex characteristics of Añejo tequila. It appeals to those who appreciate a balance of agave flavor and the influence of oak aging.",
+    "origin": "Mexico",
+    "color": "#d8cca6",
+    "category": "Spirits",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///tequila-reposado-7_BybaNp.png",
+            "sort": 1,
+            "placeholder_hash": "cimGDQI6VjSQnIWcd+9a98qEF3iAhYWIhw",
+            "copyright": "Patron"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

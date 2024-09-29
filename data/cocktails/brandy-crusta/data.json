@@ -1,0 +1,119 @@
+{
+    "_id": "brandy-crusta",
+    "name": "Brandy Crusta",
+    "instructions": "Mix together all ingredients with ice cubes in a mixing glass and strain into prepared slim cocktail glass.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "The cocktail, named for the crust of sugar on the rim, was invented by Joseph Santini, a bartender in New Orleans at his bar, Jewel of the South.\n\nJerry Thomas was the first to publish the recipe in his 1862 cocktail manual.",
+    "source": "https://iba-world.com/brandy-crusta/",
+    "garnish": "Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.",
+    "abv": 26.13,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables",
+        "Brandy"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///brandy-crusta-7_uFlsH4.jpg",
+            "sort": 1,
+            "placeholder_hash": "GDkKHYJKmIhvmIeHd1eKlANuYrAn",
+            "copyright": "Mangosalsa"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "brandy",
+            "name": "Brandy",
+            "strength": 40,
+            "description": "Brandy is a distilled alcoholic beverage made from fermented fruit juice, most commonly derived from wine. The fruit used can include grapes, apples, pears, or other fruits. The process of making brandy involves fermenting the fruit sugars into alcohol and then distilling the resulting liquid to increase its alcohol content. After distillation, brandy is often aged in wooden barrels, which contributes to its flavor, color, and aroma.\n\nThere are a few types of brandy:\n\n- V.S. (\"very special\") or ✯✯✯ (three stars) designates a blend in which the youngest brandy has been stored for at least two years in a cask.\n- V.S.O.P. (\"very superior old pale\"), Reserve or ✯✯✯✯✯ (five stars) designates a blend in which the youngest brandy is stored for at least four years in a cask.\n- XO (\"extra old\") or Napoléon designates a blend in which the youngest brandy is stored for at least six years.\n- Hors d'âge ('beyond age') is a designation formally equal to XO for Cognac, but for Armagnac it designates brandy that is at least ten years old. In practice, the term is used by producers to market a high-quality product beyond the official age scale.\n\nBrandy has a rich history and is produced in many regions around the world, each with its own traditions and methods. The quality and characteristics of brandy can vary widely based on factors such as the type of fruit used, the distillation process, and the aging conditions.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 52,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "maraschino",
+            "name": "Maraschino",
+            "strength": 32,
+            "description": "Liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.\n\nThe Luxardo family, an Italian producer, is particularly well-known for its Maraschino liqueur.",
+            "origin": "Croatia",
+            "category": "Liqueurs",
+            "amount": 7,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "orange-curacao",
+            "name": "Orange Curaçao",
+            "strength": 20,
+            "description": "Liqueur flavored with the dried peel of the bitter orange laraha, a citrus fruit grown on the Dutch island of Curaçao. Curaçao is used by liqueur makers overt the world as a generic name for orange-flavoured liqueurs.",
+            "origin": "Netherlands",
+            "category": "Liqueurs",
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 2,
+            "units": "dashes",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 6
+        }
+    ]
+}

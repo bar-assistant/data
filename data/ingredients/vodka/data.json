@@ -1,0 +1,22 @@
+{
+    "_id": "vodka",
+    "_parent_id": null,
+    "name": "Vodka",
+    "strength": 40,
+    "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
+    "origin": "Russia",
+    "color": "#ffffff",
+    "category": "Spirits",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///vodka-7_MrotpU.png",
+            "sort": 1,
+            "placeholder_hash": "cOeJHQIPu4p2iH70qNdyfy73CgqIiHVVaA",
+            "copyright": "Absolut"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

@@ -1,0 +1,85 @@
+{
+    "_id": "brown-derby",
+    "name": "Brown Derby",
+    "instructions": "1. Add the ingredients into a shaker with ice and shake until well-chilled.\n\n2. Fine-strain into a cocktail glass.\n\n3. Express the oil from a grapefruit twist over the drink and drop the twist into the drink to garnish.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "The Brown Derby cocktail, a classic bourbon drink, was named for the famous Los Angeles diner and is both sweet and sour.",
+    "source": null,
+    "garnish": "Grapefruit twist",
+    "abv": 14.77,
+    "tags": [],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///brown-derby-7_AVpRND.jpg",
+            "sort": 1,
+            "placeholder_hash": "b1oGFwL2WIdyiYh4iMhH2FiHqdBoCY0F",
+            "copyright": "Liquor.com"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "bourbon-whiskey",
+            "name": "Bourbon Whiskey",
+            "strength": 40,
+            "description": "A type of American whiskey, primarily made from corn and aged in new charred oak barrels. Bourbon has a sweet and full-bodied flavor profile.\n\nTo be labeled as bourbon, a whiskey must meet the following criteria:\n\n1. Grain Mash Composition: Bourbon must be made from a grain mash that is at least 51% corn. The remaining portion of the mash can include other grains such as barley, rye, and wheat.\n\n2. Distillation: Bourbon must be distilled to no more than 160 proof (80% alcohol by volume) and entered into the barrel for aging at no more than 125 proof (62.5% alcohol by volume).\n\n3. Barrel Aging: Bourbon must be aged in new charred oak barrels. There is no minimum aging requirement for bourbon, but to be labeled as \"straight bourbon,\" it must be aged for at least two years.\n\n4. No Additives: Bourbon must not contain any additives except water to adjust the proof.\n\n5. Bottling Strength: Bourbon must be bottled at a minimum of 80 proof (40% alcohol by volume).\n\n6. Geographic Origin: While bourbon can be produced anywhere in the United States, it is strongly associated with Kentucky, and many consider Kentucky bourbon to be a distinctive category.",
+            "origin": "North America",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "grapefruit-juice",
+            "name": "Grapefruit juice",
+            "strength": 0,
+            "description": "Grapefruit juice is a bold and distinctive cocktail ingredient, known for its tart, bitter-sweet flavor profile. Extracted from the grapefruit, a citrus fruit larger and more acidic than oranges, this juice brings a complex taste that can range from bracingly sour to subtly sweet, depending on the variety of grapefruit used.\n\n\nIn cocktails, grapefruit juice adds a sophisticated and refreshing element. Its natural bitterness and acidity make it an excellent counterpoint to sweet liqueurs and spirits, creating well-balanced drinks. The juice also contributes a lovely pink or ruby hue to cocktails, enhancing their visual appeal.\nPopular in classics like the Paloma and the Greyhound, grapefruit juice pairs particularly well with tequila, vodka, and gin. When using grapefruit juice in cocktails, freshly squeezed is ideal for the brightest flavor, though high-quality bottled juices can be a convenient alternative. The amount used can vary, but its strong flavor means a little often goes a long way in cocktail recipes.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "strength": 0,
+            "description": "Honey syrup is a natural sweetener used in cocktails to add depth and complexity beyond what standard simple syrup offers. Made by diluting honey with water, usually in a 1:1 ratio, this syrup brings not only sweetness but also subtle floral, herbal, or fruity notes depending on the type of honey used.\n\nWhen incorporating honey syrup into drinks, it's important to consider its distinct flavor profile. The type of honey used can significantly impact the final taste of the cocktail, allowing for creative variations. Bartenders often prefer to make their own honey syrup to control the consistency and flavor, though commercial versions are available. As with other syrups, the amount used can be adjusted to balance the cocktail's sweetness with other components.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

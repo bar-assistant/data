@@ -1,0 +1,22 @@
+{
+    "_id": "pisco",
+    "_parent_id": null,
+    "name": "Pisco",
+    "strength": 40,
+    "description": "Pisco is a type of brandy that originates from the winemaking regions of Peru and Chile. It is produced through the distillation of fermented grape juice, and its production is governed by strict regulations in both countries.\n\nPisco is typically distilled only once, which sets it apart from some other brandies that may undergo multiple distillations.",
+    "origin": "South America",
+    "color": "#ffffff",
+    "category": "Spirits",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///pisco-7_XgM1iv.png",
+            "sort": 1,
+            "placeholder_hash": "YTqKLQQeqZh3iI5m+GZ8gNUHCAiKiniIiA",
+            "copyright": "Barsol"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

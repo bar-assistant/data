@@ -1,0 +1,58 @@
+{
+    "_id": "mis-mas",
+    "name": "Miš Maš",
+    "instructions": "1. Pour fanta into a glass\n2. Float red wine on top",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "Popular drink in Croatian coast towns. Pronounced \"Mish Mash\"",
+    "source": null,
+    "garnish": null,
+    "abv": 3.33,
+    "tags": [
+        "Spritz",
+        "Wine"
+    ],
+    "glass": "Wine",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///mis-mas-7_1QqQIb.jpg",
+            "sort": 1,
+            "placeholder_hash": "IBkSLQaGh3CHmIioiHd2eCifc8A4",
+            "copyright": "Coolinarka"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "orange-soda",
+            "name": "Orange Soda",
+            "strength": 0,
+            "description": "Orange soda is a carbonated soft drink flavored with orange flavoring. It is a non-alcoholic beverage that typically combines carbonated water, sweeteners, and artificial or natural orange flavoring. Orange sodas are known for their vibrant orange color and sweet, citrusy taste.",
+            "origin": "Worldwide",
+            "category": "Juices",
+            "amount": 200,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "red-wine",
+            "name": "Red wine",
+            "strength": 11,
+            "description": "Red wine is a type of wine made from dark-colored grape varieties. The color of red wine comes from the skin of the grapes, which is included in the fermentation process. The skins impart color, tannins, and various flavors to the wine. Red wines can range from light and fruity to rich and full-bodied, and they are typically enjoyed at room temperature. Popular red grape varieties include Cabernet Sauvignon, Merlot, Pinot Noir, and Syrah, among others. Red wine is known for its diverse flavor profiles and is often paired with a variety of foods.",
+            "origin": "Worldwide",
+            "category": "Wines",
+            "amount": 100,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        }
+    ]
+}

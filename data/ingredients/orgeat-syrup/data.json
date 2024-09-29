@@ -1,0 +1,22 @@
+{
+    "_id": "orgeat-syrup",
+    "_parent_id": "simple-syrup",
+    "name": "Orgeat Syrup",
+    "strength": 0,
+    "description": "Orgeat syrup is a sweet, nutty syrup that plays a crucial role in many classic and tiki-style cocktails. Traditionally made from almonds, sugar, and orange flower water, orgeat has a distinctive flavor profile that combines nuttiness with subtle floral notes and a rich sweetness.\n\n\nIn cocktails, orgeat syrup adds depth, complexity, and a silky texture. Its unique taste complements a wide range of spirits, particularly rum and whiskey, and it's an essential ingredient in iconic drinks like the Mai Tai and the Japanese Cocktail. The syrup's ability to smooth out harsh edges in spirits while adding its own character makes it a valuable tool in a mixologist's arsenal.\n\n\nWhen using orgeat syrup, a little goes a long way due to its concentrated flavor and sweetness. High-quality commercial versions are readily available, but some bartenders prefer to make their own to control the flavor profile and ingredients. While almond is the traditional base, variations using other nuts like pistachio or hazelnut have become popular in craft cocktail scenes.",
+    "origin": null,
+    "color": "#d9ca9f",
+    "category": "Syrups",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": "2024-08-28T14:48:12+00:00",
+    "images": [
+        {
+            "uri": "file:///orgeat-syrup-7_TJaqvt.png",
+            "sort": 1,
+            "placeholder_hash": "sxiGHQAelmdgd3TIqXmP1/LIBwd5eXdnaA",
+            "copyright": "Monin"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

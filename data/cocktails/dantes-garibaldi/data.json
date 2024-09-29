@@ -1,0 +1,58 @@
+{
+    "_id": "dantes-garibaldi",
+    "name": "Dante’s Garibaldi",
+    "instructions": "1. Build the Campari and orange juice in a small highball glass filled with ice.\n2. Stir and garnish with the orange wedge.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "The flagship drink at Dante is named after Italian revolutionary Giuseppe Garibaldi, who was a central figure in the unification of Italy. Its two ingredients—Campari from the north acting as a nod to the red shirts worn by Garibaldi’s freedom fighters and bright orange representing Sicily to the south—are symbolic of its heritage.",
+    "source": "https://punchdrink.com/recipes/dantes-garibaldi/",
+    "garnish": "Orange wedge",
+    "abv": 6.2,
+    "tags": [
+        "Bitter",
+        "Citrusy"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///dantes-garibaldi-7_XhJfXU.jpg",
+            "sort": 1,
+            "placeholder_hash": "KDkONQz3V3t0eGiXh4SIeAmGlEBH",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "strength": 25,
+            "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "strength": 0,
+            "description": "Orange juice is a popular and versatile cocktail ingredient, known for its sweet and tangy flavor profile. Extracted from fresh oranges, it brings a natural sweetness and subtle acidity to drinks, along with a bright, sunny color that enhances the visual appeal of cocktails.\n\nWhen using orange juice in cocktails, freshly squeezed is ideal for the best flavor, though high-quality, not-from-concentrate commercial juices can be a convenient alternative. The amount used can vary widely depending on the recipe, from a splash for flavor to being the primary mixer in a drink. Its natural sweetness means it's often used in place of simple syrup in some recipes, adding both flavor and sweetness in one ingredient.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 120,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        }
+    ]
+}

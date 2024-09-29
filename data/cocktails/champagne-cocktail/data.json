@@ -1,0 +1,104 @@
+{
+    "_id": "champagne-cocktail",
+    "name": "Champagne Cocktail",
+    "instructions": "Place the sugar cube with 2 dashes of bitters in a large Champagne glass, add the cognac. Pour gently chilled Champagne.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "A recipe for the cocktail appears as early as \"Professor\" Jerry Thomas' Bon Vivant's Companion (1862), which omits the brandy or cognac and is considered to be the \"classic\" American version.",
+    "source": "https://iba-world.com/champagne-cocktail/",
+    "garnish": "Garnish with orange zest and maraschino cherry.",
+    "abv": 13.78,
+    "tags": [
+        "Contemporary Classics",
+        "IBA Cocktail",
+        "Wine"
+    ],
+    "glass": "Champagne",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///champagne-cocktail-7_9HzYZn.jpg",
+            "sort": 1,
+            "placeholder_hash": "EPgRDgBniAd3iNeId3J4imh3KG+R9RY",
+            "copyright": "A Couple Cooks"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "champagne",
+            "name": "Champagne",
+            "strength": 12,
+            "description": "Champagne is a sparkling wine that comes from the Champagne region of France. It is one of the most famous and prestigious types of sparkling wine globally. The name \"Champagne\" is legally protected, and only wines produced in the Champagne region using specific methods can be labeled as such.\n\nChampagne is often associated with celebrations and is widely used in toasts. It comes in various styles, including non-vintage (a blend of multiple years), vintage (made from grapes of a single year), and prestige cuvées (high-quality, limited-production wines from a specific producer). The versatility of Champagne allows it to be enjoyed on its own or paired with a variety of foods.",
+            "origin": "France",
+            "category": "Wines",
+            "amount": 90,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "cognac",
+            "name": "Cognac",
+            "strength": 40,
+            "description": "Cognac is a high-quality French brandy produced in the Cognac region, located in the Charente department. It is renowned for its refined and complex flavor profile, resulting from a meticulous production process. Cognac is made exclusively from white grapes, primarily Ugni Blanc, Folle Blanche, and Colombard, which are fermented and distilled using traditional copper pot stills.\n\nCognac's aging process plays a crucial role in its development, as it absorbs characteristics from the oak barrels, contributing notes of vanilla, caramel, and spices. The region's unique maritime climate, with a mix of oceanic and continental influences, further enhances the maturation process.\n\nCognac is renowned for its smooth and elegant taste, with a harmonious balance of fruity, floral, and oaky elements. It is often enjoyed as a sipping spirit and is a key ingredient in classic cocktails like the Sidecar and Brandy Alexander. The production of Cognac is strictly regulated, ensuring that only spirits meeting specific criteria can bear the prestigious Cognac label.",
+            "origin": "France",
+            "category": "Spirits",
+            "amount": 10,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 2,
+            "units": "dashes",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "grand-marnier",
+            "name": "Grand Marnier",
+            "strength": 40,
+            "description": "Grand Marnier is a premium French liqueur known for its distinctive orange flavor and versatility in cocktails. It belongs to the category of orange liqueurs but stands out due to its unique combination of Cognac (a type of brandy) and bitter orange essence.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 1,
+            "units": "drops",
+            "optional": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "sugar",
+            "name": "Sugar",
+            "strength": 0,
+            "description": "Sugar is a fundamental ingredient in cocktails, used primarily as a sweetener to balance the flavors of sour, bitter, or strong alcoholic components. It comes in various forms, including granulated sugar, superfine sugar, and sugar cubes, each of which can be used differently depending on the cocktail. Sugar can also be transformed into simple syrup, a liquid form that dissolves easily in cold beverages, making it a versatile option for many drinks.\n\nIn cocktails, sugar is often used to rim glasses, such as in a classic Margarita or a Sidecar, where the rim is coated with sugar to add sweetness with every sip. Superfine sugar is preferred for drinks like the Daiquiri or the Mojito, where it is muddled with lime or mint to create a balanced and refreshing flavor. Sugar cubes are a key component in classic cocktails like the Old Fashioned, where they are soaked in bitters before being muddled to release their sweetness.\n\nBeyond its role as a sweetener, sugar can also influence the texture and mouthfeel of a cocktail, adding a slight viscosity that enhances the drink's overall experience. Whether used in its solid form or as a syrup, sugar is an essential ingredient that helps create harmony and depth in a wide range of cocktails.",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 1,
+            "units": "cube",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

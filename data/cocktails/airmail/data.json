@@ -1,0 +1,105 @@
+{
+    "_id": "airmail",
+    "name": "Airmail",
+    "instructions": "1. Combine all ingredients except for the champagne in a mixer and shake for ten seconds\n2. Strain into a flute and top with champagne",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "An endlessly drinkable sparkler of debated origin",
+    "source": "https://en.wikipedia.org/wiki/Airmail_(cocktail)",
+    "garnish": "Orange or lime peel",
+    "abv": 16.46,
+    "tags": [
+        "Citrusy"
+    ],
+    "glass": "Cocktail",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///airmail-7_dNncM9.jpg",
+            "sort": 1,
+            "placeholder_hash": "4QgOJQKAhniaGImHd3WHiAaVWANn",
+            "copyright": "Punch |  Daniel Krieger"
+        },
+        {
+            "uri": "file:///airmail-7_4wJOE4.jpg",
+            "sort": 2,
+            "placeholder_hash": "yxgKFgAImJeHhnemiHGMh7ioCH3WUfk",
+            "copyright": "Imbibe Magazine"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "champagne",
+            "name": "Champagne",
+            "strength": 12,
+            "description": "Champagne is a sparkling wine that comes from the Champagne region of France. It is one of the most famous and prestigious types of sparkling wine globally. The name \"Champagne\" is legally protected, and only wines produced in the Champagne region using specific methods can be labeled as such.\n\nChampagne is often associated with celebrations and is widely used in toasts. It comes in various styles, including non-vintage (a blend of multiple years), vintage (made from grapes of a single year), and prestige cuvées (high-quality, limited-production wines from a specific producer). The versatility of Champagne allows it to be enjoyed on its own or paired with a variety of foods.",
+            "origin": "France",
+            "category": "Wines",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "strength": 0,
+            "description": "Honey syrup is a natural sweetener used in cocktails to add depth and complexity beyond what standard simple syrup offers. Made by diluting honey with water, usually in a 1:1 ratio, this syrup brings not only sweetness but also subtle floral, herbal, or fruity notes depending on the type of honey used.\n\nWhen incorporating honey syrup into drinks, it's important to consider its distinct flavor profile. The type of honey used can significantly impact the final taste of the cocktail, allowing for creative variations. Bartenders often prefer to make their own honey syrup to control the consistency and flavor, though commercial versions are available. As with other syrups, the amount used can be adjusted to balance the cocktail's sweetness with other components.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "simple-syrup",
+                    "name": "Simple Syrup",
+                    "strength": 0,
+                    "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
+                    "origin": null,
+                    "category": "Syrups",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 4
+        }
+    ]
+}

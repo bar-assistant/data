@@ -1,0 +1,58 @@
+{
+    "_id": "rusty-nail",
+    "name": "Rusty Nail",
+    "instructions": "Pour all ingredients directly into an old fashioned glass filled with ice. Stir gently.",
+    "created_at": "2024-08-28T13:52:52+00:00",
+    "updated_at": null,
+    "description": "A Rusty Nail can be served in an old-fashioned glass on the rocks, or \"up\" in a stemmed glass. It is most commonly served over ice. A Rusty Nail served without ice is sometimes called a Straight Up Nail.\n\n  - **The Rusty Bob**, which substitutes Bourbon whiskey for blended Scotch whisky\n  - **The Rusty Ale**, in which a shot of Drambuie is added to any beer, served without ice.\n  - **The Smoky Nail**, which uses Islay whisky (very smoky in flavor) in place of blended Scotch whisky.\n  - **The Clavo Ahumado** (Spanish for \"smoky nail\"), using mezcal instead of blended Scotch whisky.\n  - **The Railroad Spike**, often served at brunch and made with approximately four parts Cold brewed coffee to one part Drambuie in a tall glass over ice.\n  - **The Donald Sutherland**, which substitutes Canadian rye whisky for blended Scotch whisky.",
+    "source": "https://iba-world.com/rusty-nail/",
+    "garnish": "Garnish with lemon zest.",
+    "abv": 36.36,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables"
+    ],
+    "glass": "Lowball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///rusty-nail-7_BucVa3.jpg",
+            "sort": 1,
+            "placeholder_hash": "KBkGLYSfiljGhGqFaUVKlRmQiAKI",
+            "copyright": "Serious Eats"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "scotch-whiskey",
+            "name": "Scotch whiskey",
+            "strength": 40,
+            "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+            "origin": "Scotland",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "drambuie",
+            "name": "Drambuie",
+            "strength": 40,
+            "description": "Drambuie is a sweet and herbal liqueur from Scotland. It is made from Scotch whisky, honey, herbs, and spices. Drambuie has a distinctive flavor profile that combines the warmth of Scotch whisky with the sweetness of honey and the complexity of herbs and spices. It is often enjoyed on its own, over ice, or used as a key ingredient in cocktails. One of the most well-known cocktails featuring Drambuie is the Rusty Nail, where it is typically mixed with Scotch whisky.",
+            "origin": "Scotland",
+            "category": "Liqueurs",
+            "amount": 25,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "_id": "shliva-sour",
+    "name": "Shliva Sour",
+    "instructions": "1. Add all ingredients to shaker\n2. Shake for 15sec\n3. Strain into a glass",
+    "created_at": "2024-08-28T13:52:52+00:00",
+    "updated_at": null,
+    "description": null,
+    "source": null,
+    "garnish": "Lemon twist",
+    "abv": 16.2,
+    "tags": [
+        "Sour",
+        "Fruity",
+        "Floral"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///shliva-sour-7_b0mmbP.jpg",
+            "sort": 1,
+            "placeholder_hash": "GzkGJQZsViDDV52nnFx0mJZwZAlX",
+            "copyright": "Bar Assistant"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "plum-brandy",
+            "name": "Plum Brandy",
+            "strength": 38,
+            "description": "Plum brandy, often known as slivovitz or \"šljivovica\", is a fruit brandy made from fermented and distilled plums. This type of brandy is popular in various cultures and regions, including Eastern Europe and the Balkans, where it holds cultural significance. The production process typically involves fermenting ripe plums, distilling the fermented mash, and then aging the resulting spirit in wooden barrels. Plum brandy can vary in color, flavor, and aroma, influenced by factors such as the type of plums used, the distillation process, and the length of aging. It is enjoyed as a sipping spirit, a digestive after meals, or as a key ingredient in traditional cocktails and culinary recipes.",
+            "origin": "Balkan",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "strength": 0,
+            "description": "Honey syrup is a natural sweetener used in cocktails to add depth and complexity beyond what standard simple syrup offers. Made by diluting honey with water, usually in a 1:1 ratio, this syrup brings not only sweetness but also subtle floral, herbal, or fruity notes depending on the type of honey used.\n\nWhen incorporating honey syrup into drinks, it's important to consider its distinct flavor profile. The type of honey used can significantly impact the final taste of the cocktail, allowing for creative variations. Bartenders often prefer to make their own honey syrup to control the consistency and flavor, though commercial versions are available. As with other syrups, the amount used can be adjusted to balance the cocktail's sweetness with other components.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "st-germain",
+            "name": "St-Germain",
+            "strength": 20,
+            "description": "St-Germain is an elderflower liqueur It is made using the petals of Sambucus nigra from the Savoie region in France, and each bottle is numbered with the year the petals were collected. Petals are collected annually in the spring over a period of three to four weeks, and are often transported by bicycle to collection points to avoid damaging the petals and impacting the flavour.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "egg-white",
+            "name": "Egg White",
+            "strength": 0,
+            "description": "Egg white is the clear liquid part of an egg that surrounds the yolk. It is rich in proteins and is commonly used in cooking and baking for its ability to add structure, foam, and a smooth texture to various dishes.",
+            "origin": "Worldwide",
+            "category": "Uncategorized",
+            "amount": 1,
+            "units": "part",
+            "optional": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

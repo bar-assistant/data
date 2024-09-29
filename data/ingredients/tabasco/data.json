@@ -1,0 +1,22 @@
+{
+    "_id": "tabasco",
+    "_parent_id": null,
+    "name": "Tabasco",
+    "strength": 0,
+    "description": "Hot sauce made from vinegar, tabasco peppers, and salt.",
+    "origin": null,
+    "color": null,
+    "category": "Uncategorized",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///tabasco-7_mT9mT7.png",
+            "sort": 1,
+            "placeholder_hash": "o7mGHQwtZ4eAjntpeIiPg/g4F2eAg3R1iA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

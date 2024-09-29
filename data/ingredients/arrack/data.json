@@ -1,0 +1,22 @@
+{
+    "_id": "arrack",
+    "_parent_id": null,
+    "name": "Arrack",
+    "strength": 40,
+    "description": "Arrack is a distilled alcoholic drink typically produced in India, Sri Lanka and Southeast Asia, made from the fermented sap of coconut flowers or sugarcane, and also with grain (e.g. red rice) or fruit depending upon the country of origin.",
+    "origin": "India",
+    "color": "#cb5d0e",
+    "category": "Spirits",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///arrack-7_iIXP0k.png",
+            "sort": 1,
+            "placeholder_hash": "KZuCDQIPfa2AeXpWWCN/FPY3BgaHh4d3eA",
+            "copyright": "Rockland"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

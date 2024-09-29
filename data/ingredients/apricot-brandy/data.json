@@ -1,0 +1,22 @@
+{
+    "_id": "apricot-brandy",
+    "_parent_id": null,
+    "name": "Apricot Brandy",
+    "strength": 40,
+    "description": "Apricot brandy is a fruit-flavored liqueur made by infusing apricots in brandy or by distilling apricot fruit. The result is a sweet and flavorful spirit with the essence of apricots. Apricot brandy is commonly used in cocktails, adding a fruity and aromatic dimension to mixed drinks. It can vary in sweetness and intensity of apricot flavor depending on the production methods and the brand. Apricot brandy is versatile and can be enjoyed on its own, in cocktails, or as an ingredient in both sweet and savory culinary applications.",
+    "origin": "Worldwide",
+    "color": "#ca5210",
+    "category": "Spirits",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///apricot-brandy-7_VlTG2D.png",
+            "sort": 1,
+            "placeholder_hash": "m+uCFQI7JoWIm52glweJiDBoCGhxdId4dw",
+            "copyright": "Liquori gusto"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

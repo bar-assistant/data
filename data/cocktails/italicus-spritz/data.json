@@ -1,0 +1,89 @@
+{
+    "_id": "italicus-spritz",
+    "name": "Italicus Spritz",
+    "instructions": "1. Add all ingredients except soda to a glass filled with ice\n2. Stir to combine and top with soda",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "A luscious cocktail that's begging for poolside.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/italicus-spritz",
+    "garnish": null,
+    "abv": 7.95,
+    "tags": [
+        "Summer",
+        "Tropical",
+        "Spritz"
+    ],
+    "glass": "Wine",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///italicus-spritz-7_mFQeol.jpg",
+            "sort": 1,
+            "placeholder_hash": "1SgKHwJ/h3V7eXiPile7aIuoovbI708K",
+            "copyright": "LiberAndCo"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "italicus-rosolio-di-bergamotto",
+            "name": "Italicus Rosolio di Bergamotto",
+            "strength": 20,
+            "description": "Italicus Rosolio di Bergamotto is an Italian liqueur based around the brilliance of bergamot! By combining Italian bergamot alongside a selection of other tasty botanicals including chamomile, lavender, Melissa balm and more, the producers have made a tipple excellent for enjoying on toasty evenings in the summer. Enjoy over ice, or splashed in a glass of Prosecco.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "white-wine",
+            "name": "White wine",
+            "strength": 11,
+            "description": "White wine is a type of wine made from green or yellowish grape varieties, where the grape skins are separated from the grape juice before or during fermentation. This absence of prolonged skin contact results in a wine with a pale or straw-like color. White wines can range from crisp and light to full-bodied and complex, and they are typically served chilled. Common white grape varieties include Chardonnay, Sauvignon Blanc, Riesling, and Pinot Grigio. White wine is known for its refreshing qualities and is often enjoyed as an aperitif or paired with a variety of dishes, including seafood, poultry, and lighter fare.",
+            "origin": "Worldwide",
+            "category": "Wines",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "passionfruit-syrup",
+            "name": "Passionfruit syrup",
+            "strength": 0,
+            "description": "Passionfruit syrup is a vibrant and tropical ingredient that brings an intense, exotic flavor to cocktails. Made from the pulp and juice of passionfruit combined with sugar, this syrup captures the fruit's unique balance of sweet and tart notes, along with its distinctive tropical aroma.\n\nThe syrup's bold flavor can stand up to strong spirits and other intense ingredients, allowing it to shine even in complex drink recipes.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a carbonated water that contains added minerals such as sodium bicarbonate, sodium chloride, and potassium sulfate, which give it a slightly salty and mineral-rich flavor. It is commonly used in cocktails as a mixer to add effervescence and a light, refreshing touch without altering the drink’s flavor profile significantly. The bubbles in club soda help to lift and blend the flavors of other ingredients, creating a more balanced and lively drink.\n\nIn cocktails, club soda is often used to top off drinks, adding volume and fizz. It's a key ingredient in classics like the Tom Collins, where it complements the gin, lemon juice, and simple syrup by adding a sparkling finish. It is also essential in making a Highball, where it dilutes the whiskey and adds a refreshing effervescence, or in a Mojito, where it lightens the mixture of rum, mint, lime, and sugar.\n\nClub soda is preferred over other carbonated waters like tonic water or seltzer when the goal is to add carbonation without additional flavors. Its clean, neutral taste makes it an ideal mixer for a wide range of cocktails, contributing to the drink’s texture and mouthfeel without overshadowing the primary ingredients.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

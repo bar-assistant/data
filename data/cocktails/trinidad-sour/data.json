@@ -1,0 +1,89 @@
+{
+    "_id": "trinidad-sour",
+    "name": "Trinidad Sour",
+    "instructions": "1. Pour all ingredients into a cocktail shaker\n2. Shake well with ice\n3. Strain into a chilled cocktail glass.",
+    "created_at": "2024-08-28T13:52:52+00:00",
+    "updated_at": null,
+    "description": "Unusually for a cocktail, it uses Angostura bitters as a base spirit rather than as a flavoring, the bitters being the single largest component of the drink in its IBA formulation.",
+    "source": "https://iba-world.com/trinidad-sour/",
+    "garnish": null,
+    "abv": 18.57,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks",
+        "Sour"
+    ],
+    "glass": "Cocktail",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///trinidad-sour-7_xN0mwP.jpg",
+            "sort": 1,
+            "placeholder_hash": "8dcFDgSQFcbYeoc4lntznWVHALY5cIg",
+            "copyright": "A Couple Cooks"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "strength": 44.7,
+            "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+            "origin": "Trinidad & Tobago",
+            "category": "Bitters",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "orgeat-syrup",
+            "name": "Orgeat Syrup",
+            "strength": 0,
+            "description": "Orgeat syrup is a sweet, nutty syrup that plays a crucial role in many classic and tiki-style cocktails. Traditionally made from almonds, sugar, and orange flower water, orgeat has a distinctive flavor profile that combines nuttiness with subtle floral notes and a rich sweetness.\n\n\nIn cocktails, orgeat syrup adds depth, complexity, and a silky texture. Its unique taste complements a wide range of spirits, particularly rum and whiskey, and it's an essential ingredient in iconic drinks like the Mai Tai and the Japanese Cocktail. The syrup's ability to smooth out harsh edges in spirits while adding its own character makes it a valuable tool in a mixologist's arsenal.\n\n\nWhen using orgeat syrup, a little goes a long way due to its concentrated flavor and sweetness. High-quality commercial versions are readily available, but some bartenders prefer to make their own to control the flavor profile and ingredients. While almond is the traditional base, variations using other nuts like pistachio or hazelnut have become popular in craft cocktail scenes.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "rye-whiskey",
+            "name": "Rye whiskey",
+            "strength": 40,
+            "description": "Rye whiskey is a type of whiskey made primarily from rye grain. To be labeled as rye whiskey in the United States, the mash (grain mixture fermented to make alcohol) must be composed of at least 51% rye. The remaining ingredients in the mash can include other grains such as corn and barley. Rye whiskey is aged in new charred oak barrels, and the final product must be distilled to no more than 160 proof and entered into the barrel for aging at no more than 125 proof.\n\nAmerican rye whiskey tends to have a spicier and more robust flavor profile compared to bourbon, which is primarily made from corn.\n\nIn Canada, the term \"rye\" is often used broadly and doesn't necessarily mean that the whiskey is made predominantly from rye grain. Canadian rye whisky can contain a mix of grains, and the flavor profile may vary. Some Canadian whiskies labeled as \"rye\" are made with little or no rye content.\n\nRye whiskey is known for its distinctive taste, which can include spicy, fruity, and sometimes peppery notes. It can be enjoyed neat, on the rocks, or used in various cocktails such as the classic Manhattan or Old Fashioned.",
+            "origin": "North America",
+            "category": "Spirits",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

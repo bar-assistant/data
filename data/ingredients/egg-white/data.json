@@ -1,0 +1,31 @@
+{
+    "_id": "egg-white",
+    "_parent_id": null,
+    "name": "Egg White",
+    "strength": 0,
+    "description": "Egg white is the clear liquid part of an egg that surrounds the yolk. It is rich in proteins and is commonly used in cooking and baking for its ability to add structure, foam, and a smooth texture to various dishes.",
+    "origin": "Worldwide",
+    "color": null,
+    "category": "Uncategorized",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": "2024-08-28T14:11:58+00:00",
+    "images": [
+        {
+            "uri": "file:///egg-white-7_XS9UkM.png",
+            "sort": 1,
+            "placeholder_hash": "6OeJHQoPM6awiKZXdmBa/zpbCAiEhIRESA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [
+        {
+            "_id": "egg",
+            "name": "Egg",
+            "strength": 0,
+            "description": "Chicken eggs are a versatile and commonly consumed food product, used in various culinary applications for their nutritional content and cooking properties.\n\nWhole egg is commonly used in \"flip\" style of cocktails.\n\nThe term \"flip\" refers to a category of cocktails that traditionally includes a combination of spirits, sweeteners, and a whole egg. Flips are characterized by their smooth and frothy texture, achieved by vigorously shaking or \"flipping\" the ingredients, which incorporates air and emulsifies the egg.\n\nThe ingredients are shaken together without ice first (a \"dry shake\") to emulsify the egg, and then ice is added for a second round of shaking to chill the mixture. The final drink is strained into a glass, and a sprinkle of nutmeg on top is a common finishing touch.",
+            "origin": "Worldwide",
+            "category": "Uncategorized"
+        }
+    ],
+    "prices": []
+}

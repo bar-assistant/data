@@ -1,0 +1,74 @@
+{
+    "_id": "cynar-flip",
+    "name": "Cynar Flip",
+    "instructions": "1. Dry shake the whole egg in a cocktail shaker\n2. Add Cynar, simple syrup, and ice before shaking again\n3. Strain into a cocktail glass and drop several dashes of the bitters into the foam",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "A magnificent application of Cynar in the holiday canon",
+    "source": "https://tuxedono2.com/cynar-flip-cocktail-recipe",
+    "garnish": "Angostura bitters for garnish",
+    "abv": 13.2,
+    "tags": [
+        "Flip",
+        "Bitter",
+        "Winter"
+    ],
+    "glass": "Wine",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///cynar-flip-7_bwmuNL.jpg",
+            "sort": 1,
+            "placeholder_hash": "BwgGDwIJuIhzc4mEiFjIN9eCiaBnB3gI",
+            "copyright": "TuxedoNo2"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "strength": 16.5,
+            "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
+            "origin": "Italy",
+            "category": "Amaro",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "egg",
+            "name": "Egg",
+            "strength": 0,
+            "description": "Chicken eggs are a versatile and commonly consumed food product, used in various culinary applications for their nutritional content and cooking properties.\n\nWhole egg is commonly used in \"flip\" style of cocktails.\n\nThe term \"flip\" refers to a category of cocktails that traditionally includes a combination of spirits, sweeteners, and a whole egg. Flips are characterized by their smooth and frothy texture, achieved by vigorously shaking or \"flipping\" the ingredients, which incorporates air and emulsifies the egg.\n\nThe ingredients are shaken together without ice first (a \"dry shake\") to emulsify the egg, and then ice is added for a second round of shaking to chill the mixture. The final drink is strained into a glass, and a sprinkle of nutmeg on top is a common finishing touch.",
+            "origin": "Worldwide",
+            "category": "Uncategorized",
+            "amount": 1,
+            "units": "whole",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 2,
+            "units": "barspoon",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

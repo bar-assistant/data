@@ -1,0 +1,22 @@
+{
+    "_id": "coffee-liqueur",
+    "_parent_id": null,
+    "name": "Coffee liqueur",
+    "strength": 20,
+    "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
+    "origin": "Mexico",
+    "color": "#1a0d0a",
+    "category": "Liqueurs",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///coffee-liqueur-7_I4oPF5.png",
+            "sort": 1,
+            "placeholder_hash": "Y1uOFQYeCIZ1eIh3Vwp2hlcHCQmJiYiIeA",
+            "copyright": "Kahlua"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

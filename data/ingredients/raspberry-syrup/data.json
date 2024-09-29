@@ -1,0 +1,22 @@
+{
+    "_id": "raspberry-syrup",
+    "_parent_id": null,
+    "name": "Raspberry Syrup",
+    "strength": 0,
+    "description": "Fruit syrup made from raspberries.",
+    "origin": null,
+    "color": "#b71f23",
+    "category": "Syrups",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///raspberry-syrup-7_0rdwUp.png",
+            "sort": 1,
+            "placeholder_hash": "5ZiWJRYeiHiAiIeoiHmfmPeJBwd5eXdnaA",
+            "copyright": "Monin"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

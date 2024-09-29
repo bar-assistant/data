@@ -1,0 +1,22 @@
+{
+    "_id": "peach-liqueur",
+    "_parent_id": null,
+    "name": "Peach liqueur",
+    "strength": 20,
+    "description": "A peach liqueur is any liqueur that is made through the distillation of peaches and has sugar added to it. Peach liqueurs gained popularity in the mid-20th century, but their exact date of origin is unknown.",
+    "origin": "Worldwide",
+    "color": "#f2a557",
+    "category": "Liqueurs",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///peach-liqueur-7_U52gRu.jpg",
+            "sort": 1,
+            "placeholder_hash": "ZzqKdQweTQi8lnZod5eAiginCQmIiHh4iA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

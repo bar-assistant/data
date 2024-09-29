@@ -1,0 +1,22 @@
+{
+    "_id": "pepper",
+    "_parent_id": null,
+    "name": "Pepper",
+    "strength": 0,
+    "description": "Black pepper",
+    "origin": null,
+    "color": null,
+    "category": "Spices",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///pepper-7_81bo9W.png",
+            "sort": 1,
+            "placeholder_hash": "jyiCBQA6p6eNl40EWIpar6j1aGeGh4CHVw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

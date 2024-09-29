@@ -1,0 +1,22 @@
+{
+    "_id": "fernet-branca",
+    "_parent_id": null,
+    "name": "Fernet Branca",
+    "strength": 39,
+    "description": "Fernet Branca is a bittersweet, herbal liqueur made with a number of different herbs and spices, including myrrh, rhubarb, chamomile, cardamom, aloe, and gentian root.",
+    "origin": "Italy",
+    "color": "#471a0c",
+    "category": "Liqueurs",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///fernet-branca-7_BfOdUd.png",
+            "sort": 1,
+            "placeholder_hash": "EQiOFQIPN3iAfIe5h1eAexj4CAiGhoZmaA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

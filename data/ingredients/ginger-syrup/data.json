@@ -1,0 +1,22 @@
+{
+    "_id": "ginger-syrup",
+    "_parent_id": null,
+    "name": "Ginger syrup",
+    "strength": 0,
+    "description": "Ginger syrup is a spicy-sweet cocktail ingredient that adds a bold, zesty kick to drinks. Made by simmering fresh ginger root with sugar and water, this syrup captures the root's fiery heat and distinctive flavor, offering a perfect balance of sweetness and warmth.\n\nWhen using ginger syrup, it's important to consider its potency. A little can go a long way in terms of both flavor and heat. Homemade versions allow for control over the ginger intensity and sweetness level, though quality commercial options are available. The syrup's versatility makes it a valuable addition to both classic and contemporary cocktail recipes, offering a quick way to infuse drinks with ginger's unique character.",
+    "origin": "Worldwide",
+    "color": "#c6972c",
+    "category": "Syrups",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": "2024-08-28T14:50:10+00:00",
+    "images": [
+        {
+            "uri": "file:///ginger-syrup-7_ZDnldy.png",
+            "sort": 1,
+            "placeholder_hash": "9BiGHQAeTEiQdHGYt4d/iaL2CAiJiXdnaA",
+            "copyright": "Monin"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

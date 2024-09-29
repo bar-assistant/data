@@ -1,0 +1,85 @@
+{
+    "_id": "cable-car",
+    "name": "Cable Car",
+    "instructions": "1. Start with rimming your cocktail glass with cinnamon and sugar!\n2. Put your glass to the side and add ice to your shaker.\n3. Add all the ingredients.\n4. Shake cold!\n5. Strain into your rimmed cocktail glass.\n6. Serve!",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "Tony Abou-Ganim, also known as The Modern Mixologist, is a bartending legend that co-founded the Starlight Room. He created the Cable Car cocktail to pay tribute to San Francisco's cable cars! The cable cars of San Francisco are an icon of a past era. They still climb the hills of San Francisco and carry commuters and tourists up and down busy streets.\n\nThis rum sour is sweet, tart, and lightly spiced, regardless of whether you are familiar with its name. The Cable Car cocktail is a modified Sidecar. It substitutes brandy with spiced rum, back then, spiced rum was very uncommon.\n\nAbou-Ganim's original cocktails helped to establish San Francisco as a cocktail destination in an era that was defined by Cosmopolitan and other similar drinks.\n\nCaptain Morgan was probably the most widely available spiced rum label at the time of Cable Car's inception. The Captain is probably still the most well-known of the category, but today there are plenty of other options. A more luxurious approach is to maybe use something like a Boukman Botanical Rhum.\n\nSimilar to a Sidecar or Brandy Crusta, the Cable Car includes an orange liqueur in addition to simple syrup for sweetness--specifically, orange curacao. using Bol's or something similar can make the drink heavy, so it's better to use a dry curacao. Abou-Ganim uses Marie Brizard Orange Curacao in the original recipe. Grand Marnier or maybe Cointreau would also work great.\n\nAnother aspect that made the Cable Car a classic is the way it was presented. Abou-Ganim uses a mixture of cinnamon and sugar to give the drink a punchier sweetness and a present hint of spice.",
+    "source": "https://www.drinkexistence.com/cable-car-cocktail/",
+    "garnish": "Cinnamon and sugar rim",
+    "abv": 19.2,
+    "tags": [],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///cable-car-7_VpmB3V.webp",
+            "sort": 1,
+            "placeholder_hash": "kQgKHwQZd4d2dHaeiAeWeKlzd7CHB2kI",
+            "copyright": "Liquor.com / Tim Nusog"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "strength": 40,
+            "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "cointreau",
+            "name": "Cointreau",
+            "strength": 40,
+            "description": "Orange-flavoured triple sec liqueur, it was originally called Curaçao Blanco Triple Sec. Usually more dry tasting than Orange Curaçao.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

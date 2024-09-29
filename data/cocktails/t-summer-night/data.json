@@ -1,0 +1,118 @@
+{
+    "_id": "t-summer-night",
+    "name": "T. Summer Night",
+    "instructions": "1. Cut your lime ready for squeeze and garnish and get your mint leaves and mint sprig\n2. Fill your wine glass with cubed ice\n3. Smash the mint in your hand and put it in the glass\n4. Pour your gin, elderflower liqueur, and lime juice over the ice\n5. Using your bar spoon, stir all the ingredients together well\n6. Add more ice if needed and fill up with prosecco\n7. Top up with soda\n8. Stir gently and garnish with lime and mint sprig",
+    "created_at": "2024-08-28T13:52:52+00:00",
+    "updated_at": null,
+    "description": "A special twist on the Hugo cocktail by Tjuvholmen. This breezy sparkling elderflower cocktail will take you straight to Italy in the summertime. And it couldn&#8217;t be easier to make. Bartender Tip:Add gin and mint for this special twist",
+    "source": "https://cocktailclub.com/cocktails/hugo-summertime",
+    "garnish": null,
+    "abv": 11.71,
+    "tags": [
+        "Spritz",
+        "Summer"
+    ],
+    "glass": "Wine",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///t-summer-night-7_BaliAy.jpg",
+            "sort": 1,
+            "placeholder_hash": "DwgKDIBv7FhWdGeGiYYGiTUJWA",
+            "copyright": "Cocktail Club"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "prosecco",
+            "name": "Prosecco",
+            "strength": 11,
+            "description": "Prosecco is a sparkling wine that originates from the Veneto region of Italy. It is made primarily from the Glera grape variety, although other permitted grape varieties may also be used in smaller quantities. Prosecco is known for its fresh and fruity character, and it is one of the most popular and widely consumed sparkling wines globally.\n\nProsecco is known for its effervescence, and the bubbles are generally lighter and less persistent than those in traditional method sparkling wines like Champagne.",
+            "origin": "Italy",
+            "category": "Wines",
+            "amount": 90,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "st-germain",
+            "name": "St-Germain",
+            "strength": 20,
+            "description": "St-Germain is an elderflower liqueur It is made using the petals of Sambucus nigra from the Savoie region in France, and each bottle is numbered with the year the petals were collected. Petals are collected annually in the spring over a period of three to four weeks, and are often transported by bicycle to collection points to avoid damaging the petals and impacting the flavour.",
+            "origin": "France",
+            "category": "Liqueurs",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "mint",
+            "name": "Mint",
+            "strength": 0,
+            "description": "Mint refers to a family of aromatic herbs known for their refreshing flavor and fragrance. The most commonly used and recognized type of mint is spearmint (Mentha spicata), but there are various other species and hybrids, including peppermint (Mentha × piperita).",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 6,
+            "units": "leaves",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "strength": 0,
+            "description": "Club soda is a carbonated water that contains added minerals such as sodium bicarbonate, sodium chloride, and potassium sulfate, which give it a slightly salty and mineral-rich flavor. It is commonly used in cocktails as a mixer to add effervescence and a light, refreshing touch without altering the drink’s flavor profile significantly. The bubbles in club soda help to lift and blend the flavors of other ingredients, creating a more balanced and lively drink.\n\nIn cocktails, club soda is often used to top off drinks, adding volume and fizz. It's a key ingredient in classics like the Tom Collins, where it complements the gin, lemon juice, and simple syrup by adding a sparkling finish. It is also essential in making a Highball, where it dilutes the whiskey and adds a refreshing effervescence, or in a Mojito, where it lightens the mixture of rum, mint, lime, and sugar.\n\nClub soda is preferred over other carbonated waters like tonic water or seltzer when the goal is to add carbonation without additional flavors. Its clean, neutral taste makes it an ideal mixer for a wide range of cocktails, contributing to the drink’s texture and mouthfeel without overshadowing the primary ingredients.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 20,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 6
+        }
+    ]
+}

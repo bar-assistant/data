@@ -1,0 +1,87 @@
+{
+    "_id": "wisconsin-old-fashioned",
+    "name": "Wisconsin Old Fashioned",
+    "instructions": "1. In a chilled old fashioned glass, muddle the sugar, bitters, orange wedge and cherry into a thick paste, careful not to overwork the orange peel.\n2. Add brandy or Cognac and stir.\n3. Fill glass with crushed ice and serve.",
+    "created_at": "2024-08-28T13:52:52+00:00",
+    "updated_at": null,
+    "description": "The Wisconsin Old Fashioned is the state’s variation on the classic Old Fashioned cocktail, with brandy and lemon lime soda. The typical Old Fashioned recipe uses bourbon mixed with a muddled sugar cube and bitters. So where did the brandy Old Fashioned come from?\n\n\nHere’s the theory! (Per Jerry Minnich, at least.) A company of brothers debuted their Korbel brandy at the World’s Fair in 1893 in Chicago, which lots of Wisconsinites attended. A large percentage of Wisconsin at the time was German, and Germans preferred brandy over bourbon. Korbel brandy become a hit, and birthed this state’s funky variation on the classic cocktail. To this day, the drink is often served with Korbel brandy!\n\n\n- Sweet: Lemon lime soda (like 7 Up or Sprite). This is the default option at bars.\n- Sour: Sour mix or grapefruit soda (like Squirt).\n- Press: 50/50 lemon lime soda and soda water (club soda)\n- Soda: Soda water",
+    "source": "https://jeffreymorgenthaler.com/brandy-old-fashioned/",
+    "garnish": "Orange half and 1 cherry",
+    "abv": 33.57,
+    "tags": [
+        "Brandy"
+    ],
+    "glass": "Lowball",
+    "method": "Muddle",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///wisconsin-old-fashioned-7_mHOGLk.webp",
+            "sort": 1,
+            "placeholder_hash": "sigKJgjtdflleMc3iXJ5iIh3FYBiABk",
+            "copyright": "A Couple Cooks"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "brandy",
+            "name": "Brandy",
+            "strength": 40,
+            "description": "Brandy is a distilled alcoholic beverage made from fermented fruit juice, most commonly derived from wine. The fruit used can include grapes, apples, pears, or other fruits. The process of making brandy involves fermenting the fruit sugars into alcohol and then distilling the resulting liquid to increase its alcohol content. After distillation, brandy is often aged in wooden barrels, which contributes to its flavor, color, and aroma.\n\nThere are a few types of brandy:\n\n- V.S. (\"very special\") or ✯✯✯ (three stars) designates a blend in which the youngest brandy has been stored for at least two years in a cask.\n- V.S.O.P. (\"very superior old pale\"), Reserve or ✯✯✯✯✯ (five stars) designates a blend in which the youngest brandy is stored for at least four years in a cask.\n- XO (\"extra old\") or Napoléon designates a blend in which the youngest brandy is stored for at least six years.\n- Hors d'âge ('beyond age') is a designation formally equal to XO for Cognac, but for Armagnac it designates brandy that is at least ten years old. In practice, the term is used by producers to market a high-quality product beyond the official age scale.\n\nBrandy has a rich history and is produced in many regions around the world, each with its own traditions and methods. The quality and characteristics of brandy can vary widely based on factors such as the type of fruit used, the distillation process, and the aging conditions.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "orange",
+            "name": "Orange",
+            "strength": 0,
+            "description": "Orange fruit",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 1,
+            "units": "wedge",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "cocktail-cherry",
+            "name": "Cocktail cherry",
+            "strength": 0,
+            "description": "These are candied cherries soaked in Luxardo marasca cherry syrup. The percentage of marasca cherries in jars and tins is about 50% and so is the percentage of syrup. No thickening agents of any type and no preservatives are used and the dark red color is all natural. Their unique taste comes from the marasca cherry syrup which is made starting from the same juice used to prepare the infusion for the Cherry Liqueur “Sangue Morlacco”. A cutting edge system of pasteurization guarantees the maximum level of preservation and safety. Luxardo Original Maraschino Cherries accurate candying process confers to the fruit a crispiness which is rare to find amongst competing brands. Today, like in the golden age of cocktails, Luxardo Original Maraschino Cherries are used in the worlds’ best bars and by the most famous mixologists as a garnish in their creations. The syrup itself may be used in many cocktails as a flavored sugar. They are also ideal over ice cream.",
+            "origin": "Croatia",
+            "category": "Fruits and vegetables",
+            "amount": 1,
+            "units": "whole",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

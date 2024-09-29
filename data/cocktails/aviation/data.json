@@ -1,0 +1,89 @@
+{
+    "_id": "aviation",
+    "name": "Aviation",
+    "instructions": "1. Add all ingredients into a cocktail shaker.\n2. Shake with cracked ice and strain into a chilled cocktail glass.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "Aviation was created in New York at the Walkick hotel by the head bartender Hugo Ensslin while he was writing his book “Recipes for Mixed Drinks” (1916) one of the last cocktail books published before the start of American Prohibition.\n\nLately David Wondrich found the aviation recipe in a 1911 magazine, so the recipe is thought to have been born earlier then 1916.\n\nIn his book Ensslin also indicates the type of Gin to be used ‘El Bart Gin “and the recipe is made up in addition to gin, with lemon juice, maraschino and Creme di Violette.\n\nThe recipe is found again in Harry Craddock’s 1930 Savoy Cocktail Book but without the Creme de Violette, this probably due to the difficulty of finding the violet cream during the post-war period In the 1960s it was still unavailable and therefore, simply, the basic ingredient of the Aviation cocktail was discontinued and the bartenders definitively gave up the characteristic blue color of the drink.\n\nThe IBA proposes it today in its original version with the creme de violette which is now on the market again.  This fragrant ingredient not only gave the mix a sweetly floral taste, but also gave it a beautiful sky blue color.",
+    "source": "https://iba-world.com/692/",
+    "garnish": "Maraschino Cherry.",
+    "abv": 24.32,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables",
+        "Herbacious"
+    ],
+    "glass": "Cocktail",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///aviation-7_dgEQW6.jpg",
+            "sort": 1,
+            "placeholder_hash": "rgcGFYJrWahQe5WbiIiHlZTjT4T8",
+            "copyright": "The Spruce Eats / Cara Cormack"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "maraschino",
+            "name": "Maraschino",
+            "strength": 32,
+            "description": "Liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.\n\nThe Luxardo family, an Italian producer, is particularly well-known for its Maraschino liqueur.",
+            "origin": "Croatia",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "creme-de-violette",
+            "name": "Crème de Violette",
+            "strength": 16,
+            "description": "Crème de Violette is a floral liqueur with a violet flower flavor. It is known for its vibrant purple color and delicate, aromatic taste. Crème de Violette is often used as an ingredient in cocktails, adding a floral and sweet dimension to drinks. It gained popularity in classic cocktails like the Aviation, where it contributes both flavor and a distinctive hue. The liqueur is made by infusing or distilling violet flowers, sugar, and sometimes additional botanicals. Crème de Violette is enjoyed for its unique and fragrant profile, and its use extends beyond cocktails to include desserts and culinary creations.",
+            "origin": "Worldwide",
+            "category": "Crème de",
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

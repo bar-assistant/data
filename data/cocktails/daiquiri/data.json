@@ -1,0 +1,73 @@
+{
+    "_id": "daiquiri",
+    "name": "Daiquiri",
+    "instructions": "1. In a cocktail shaker add all ingredients.\n2. Stir well to dissolve the sugar.\n3. Add ice and shake.\n4. Strain into chilled cocktail glass.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "Daiquirí is also the name of a beach and an iron mine near Santiago de Cuba, and is a word of Taíno origin. The drink was supposedly invented by an American mining engineer named Jennings Cox, who was in Cuba (then at the tail-end of the Spanish Captaincy-General government) at the time of the Spanish–American War. It is also possible that William A. Chanler, a US congressman who purchased the Santiago iron mines in 1902, introduced the daiquiri to clubs in New York in that year.",
+    "source": "https://iba-world.com/daiquiri/",
+    "garnish": "Lime wedge",
+    "abv": 24,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///daiquiri-7_oKJzvT.jpg",
+            "sort": 1,
+            "placeholder_hash": "ppYJHghVh/d3dzeIeIeKdpeYdKBeBug",
+            "copyright": "A Couple Cooks"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "white-rum",
+            "name": "White Rum",
+            "strength": 40,
+            "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "strength": 0,
+            "description": "Lime juice is a key player in the world of cocktails, renowned for its bright, sharp, and slightly sweeter flavor compared to lemon juice. Extracted from fresh limes, this citrus juice adds a vibrant, zesty kick to drinks, making it an indispensable ingredient in many classic and contemporary cocktails.\n\n\nWhen using lime juice in cocktails, freshly squeezed is highly recommended for its superior taste and aroma. The amount used can vary depending on the recipe, but even a small quantity can significantly brighten and enliven a drink. Its versatility allows it to pair well with a wide range of spirits, from tequila and rum to gin and vodka.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 20,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "sugar",
+            "name": "Sugar",
+            "strength": 0,
+            "description": "Sugar is a fundamental ingredient in cocktails, used primarily as a sweetener to balance the flavors of sour, bitter, or strong alcoholic components. It comes in various forms, including granulated sugar, superfine sugar, and sugar cubes, each of which can be used differently depending on the cocktail. Sugar can also be transformed into simple syrup, a liquid form that dissolves easily in cold beverages, making it a versatile option for many drinks.\n\nIn cocktails, sugar is often used to rim glasses, such as in a classic Margarita or a Sidecar, where the rim is coated with sugar to add sweetness with every sip. Superfine sugar is preferred for drinks like the Daiquiri or the Mojito, where it is muddled with lime or mint to create a balanced and refreshing flavor. Sugar cubes are a key component in classic cocktails like the Old Fashioned, where they are soaked in bitters before being muddled to release their sweetness.\n\nBeyond its role as a sweetener, sugar can also influence the texture and mouthfeel of a cocktail, adding a slight viscosity that enhances the drink's overall experience. Whether used in its solid form or as a syrup, sugar is an essential ingredient that helps create harmony and depth in a wide range of cocktails.",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 2,
+            "units": "barspoon",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

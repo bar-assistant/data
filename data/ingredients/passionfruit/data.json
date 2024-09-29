@@ -1,0 +1,22 @@
+{
+    "_id": "passionfruit",
+    "_parent_id": null,
+    "name": "Passionfruit",
+    "strength": 0,
+    "description": null,
+    "origin": null,
+    "color": "#000",
+    "category": "Fruits and vegetables",
+    "created_at": "2024-08-28T14:54:21+00:00",
+    "updated_at": "2024-08-28T14:54:21+00:00",
+    "images": [
+        {
+            "uri": "file:///passionfruit-7_bgjaia.webp",
+            "sort": 1,
+            "placeholder_hash": "HAqGFQQqXaI1qGX4uZ+yZ3AwCDenh3JpOA",
+            "copyright": "Creative Commons"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

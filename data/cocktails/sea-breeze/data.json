@@ -1,0 +1,73 @@
+{
+    "_id": "sea-breeze",
+    "name": "Sea Breeze",
+    "instructions": "Build all ingredients in a highball glass filled with ice.",
+    "created_at": "2024-08-28T13:52:52+00:00",
+    "updated_at": null,
+    "description": "The cocktail is usually consumed during summer months. The drink may be shaken in order to create a foamy surface.",
+    "source": "https://iba-world.com/sea-breeze/",
+    "garnish": "Garnish with orange zest and cherry",
+    "abv": 7.66,
+    "tags": [
+        "Contemporary Classics",
+        "IBA Cocktail"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///sea-breeze-7_tFohNs.jpg",
+            "sort": 1,
+            "placeholder_hash": "IkkKRxL7SIZZmIerdVhKuHWoefU4B40A",
+            "copyright": "Liquor.com / Tim Nusog"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "vodka",
+            "name": "Vodka",
+            "strength": 40,
+            "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
+            "origin": "Russia",
+            "category": "Spirits",
+            "amount": 40,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "cranberry-juice",
+            "name": "Cranberry juice",
+            "strength": 0,
+            "description": "Juice made from cranberries.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 120,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "grapefruit-juice",
+            "name": "Grapefruit juice",
+            "strength": 0,
+            "description": "Grapefruit juice is a bold and distinctive cocktail ingredient, known for its tart, bitter-sweet flavor profile. Extracted from the grapefruit, a citrus fruit larger and more acidic than oranges, this juice brings a complex taste that can range from bracingly sour to subtly sweet, depending on the variety of grapefruit used.\n\n\nIn cocktails, grapefruit juice adds a sophisticated and refreshing element. Its natural bitterness and acidity make it an excellent counterpoint to sweet liqueurs and spirits, creating well-balanced drinks. The juice also contributes a lovely pink or ruby hue to cocktails, enhancing their visual appeal.\nPopular in classics like the Paloma and the Greyhound, grapefruit juice pairs particularly well with tequila, vodka, and gin. When using grapefruit juice in cocktails, freshly squeezed is ideal for the brightest flavor, though high-quality bottled juices can be a convenient alternative. The amount used can vary, but its strong flavor means a little often goes a long way in cocktail recipes.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

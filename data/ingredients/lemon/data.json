@@ -1,0 +1,22 @@
+{
+    "_id": "lemon",
+    "_parent_id": null,
+    "name": "Lemon",
+    "strength": 0,
+    "description": "Lemon is a citrus fruit known for its bright yellow color and tart flavor.",
+    "origin": null,
+    "color": "#fdf26f",
+    "category": "Fruits and vegetables",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///lemon-7_MZsMbT.png",
+            "sort": 1,
+            "placeholder_hash": "pyyGFQIrVlCljoS2qOPuoAktSnhyhoB2VQ",
+            "copyright": "CC License"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

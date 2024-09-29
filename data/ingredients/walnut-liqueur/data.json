@@ -1,0 +1,22 @@
+{
+    "_id": "walnut-liqueur",
+    "_parent_id": null,
+    "name": "Walnut Liqueur",
+    "strength": 32,
+    "description": "Walnut liqueur is known in Austria and Germany as Nüsse or Nüssenschnaps, in France as Noix, and in Italy as Nocino. Residents of Alpine regions traditionally drink walnut liqueurs during Christmastime. The spice and depth pair well with wintery nights and hearty meals. Serve to guests in a cordial glass, post-dinner or as an unexpected dessert pairing. In cocktails, Nux Alpina is an extraordinary complement to brown spirits and dark fortified wines, like Madeira, sherry and sweet red vermouth.\n\n- Aromatic liqueur renowned for its balance, depth and smooth finish\n- Made from fresh green “Weinsberg” walnuts steeped in grape brandy\n- Infused with spices and alpine botanicals\n- Serve after hearty meals or in coffee, cream or egg drinks\n- Complements brown spirits and dark fortified wines\n- Produced by Austria's Purkhart family for three generations",
+    "origin": "Worldwide",
+    "color": "#3b0e04",
+    "category": "Liqueurs",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///walnut-liqueur-7_Qo87qU.png",
+            "sort": 1,
+            "placeholder_hash": "zViKFQYPKjZwiYyFhyaAeAR4BAR4eId3dw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

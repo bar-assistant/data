@@ -1,0 +1,89 @@
+{
+    "_id": "mint-julep",
+    "name": "Mint Julep",
+    "instructions": "In Julep Stainless Steel Cup gently muddle the mint with sugar and water. Fill the glass with cracked ice, add the Bourbon and stir well until the cup frosts.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": null,
+    "source": "https://iba-world.com/mint-julep/",
+    "garnish": "Garnish with a mint sprig.",
+    "abv": 36.36,
+    "tags": [
+        "Contemporary Classics",
+        "IBA Cocktail",
+        "Julep"
+    ],
+    "glass": "Julep",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///mint-julep-7_JsS4Fz.jpg",
+            "sort": 1,
+            "placeholder_hash": "0jgKJwQ2fMVgZoiaiiiIhpeXd1BYBXID",
+            "copyright": "Liquor.com / Tim Nusog"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "bourbon-whiskey",
+            "name": "Bourbon Whiskey",
+            "strength": 40,
+            "description": "A type of American whiskey, primarily made from corn and aged in new charred oak barrels. Bourbon has a sweet and full-bodied flavor profile.\n\nTo be labeled as bourbon, a whiskey must meet the following criteria:\n\n1. Grain Mash Composition: Bourbon must be made from a grain mash that is at least 51% corn. The remaining portion of the mash can include other grains such as barley, rye, and wheat.\n\n2. Distillation: Bourbon must be distilled to no more than 160 proof (80% alcohol by volume) and entered into the barrel for aging at no more than 125 proof (62.5% alcohol by volume).\n\n3. Barrel Aging: Bourbon must be aged in new charred oak barrels. There is no minimum aging requirement for bourbon, but to be labeled as \"straight bourbon,\" it must be aged for at least two years.\n\n4. No Additives: Bourbon must not contain any additives except water to adjust the proof.\n\n5. Bottling Strength: Bourbon must be bottled at a minimum of 80 proof (40% alcohol by volume).\n\n6. Geographic Origin: While bourbon can be produced anywhere in the United States, it is strongly associated with Kentucky, and many consider Kentucky bourbon to be a distinctive category.",
+            "origin": "North America",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "mint",
+            "name": "Mint",
+            "strength": 0,
+            "description": "Mint refers to a family of aromatic herbs known for their refreshing flavor and fragrance. The most commonly used and recognized type of mint is spearmint (Mentha spicata), but there are various other species and hybrids, including peppermint (Mentha × piperita).",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 4,
+            "units": "sprigs",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "sugar",
+            "name": "Sugar",
+            "strength": 0,
+            "description": "Sugar is a fundamental ingredient in cocktails, used primarily as a sweetener to balance the flavors of sour, bitter, or strong alcoholic components. It comes in various forms, including granulated sugar, superfine sugar, and sugar cubes, each of which can be used differently depending on the cocktail. Sugar can also be transformed into simple syrup, a liquid form that dissolves easily in cold beverages, making it a versatile option for many drinks.\n\nIn cocktails, sugar is often used to rim glasses, such as in a classic Margarita or a Sidecar, where the rim is coated with sugar to add sweetness with every sip. Superfine sugar is preferred for drinks like the Daiquiri or the Mojito, where it is muddled with lime or mint to create a balanced and refreshing flavor. Sugar cubes are a key component in classic cocktails like the Old Fashioned, where they are soaked in bitters before being muddled to release their sweetness.\n\nBeyond its role as a sweetener, sugar can also influence the texture and mouthfeel of a cocktail, adding a slight viscosity that enhances the drink's overall experience. Whether used in its solid form or as a syrup, sugar is an essential ingredient that helps create harmony and depth in a wide range of cocktails.",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 1,
+            "units": "tsp",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "water",
+            "name": "Water",
+            "strength": 0,
+            "description": "It's water.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 2,
+            "units": "tsp",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "_id": "the-turnbuckle",
+    "name": "The Turnbuckle",
+    "instructions": "1. Combine all the ingredients in a mixing tin filled with crushed ice and shake until chilled.\n2. Pour contents of shaker into a double Old-Fashioned glass or tropical tiki glass.\n3. Garnish with an orchid and a mint bouquet.",
+    "created_at": "2024-08-28T13:52:52+00:00",
+    "updated_at": null,
+    "description": "Bartender Jen Akin adds bitter Cynar amaro to her tiki-style cocktail, built on Jamaican rum, for added depth.",
+    "source": "https://punchdrink.com/recipes/the-turnbuckle/",
+    "garnish": "Orchid and a mint bouquet",
+    "abv": 11.45,
+    "tags": [
+        "Tiki"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///the-turnbuckle-7_usN84m.jpg",
+            "sort": 1,
+            "placeholder_hash": "ZQgSHIRfT4WlZ3p3aIkKZLRABg",
+            "copyright": "Punch |  Lizzie Munro"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "strength": 16.5,
+            "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
+            "origin": "Italy",
+            "category": "Amaro",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "jamaican-rum",
+            "name": "Jamaican Rum",
+            "strength": 40,
+            "description": "Jamaican rum refers to rum produced in Jamaica, a Caribbean island known for its rich history of rum production. Jamaican rum is renowned for its bold and distinctive flavor profile, often characterized by robust and complex notes.\n\nJamaican rum has a strong cultural and historical significance, and the island is home to several well-known distilleries, each with its unique approach to rum production. Brands such as Appleton Estate and Wray & Nephew are examples of Jamaican rums that have gained international acclaim.",
+            "origin": "Jamaica",
+            "category": "Spirits",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "dark-rum",
+                    "name": "Dark Rum",
+                    "strength": 40,
+                    "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
+                    "origin": "Caribbean",
+                    "category": "Spirits",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "passionfruit-syrup",
+            "name": "Passionfruit syrup",
+            "strength": 0,
+            "description": "Passionfruit syrup is a vibrant and tropical ingredient that brings an intense, exotic flavor to cocktails. Made from the pulp and juice of passionfruit combined with sugar, this syrup captures the fruit's unique balance of sweet and tart notes, along with its distinctive tropical aroma.\n\nThe syrup's bold flavor can stand up to strong spirits and other intense ingredients, allowing it to shine even in complex drink recipes.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "orgeat-syrup",
+            "name": "Orgeat Syrup",
+            "strength": 0,
+            "description": "Orgeat syrup is a sweet, nutty syrup that plays a crucial role in many classic and tiki-style cocktails. Traditionally made from almonds, sugar, and orange flower water, orgeat has a distinctive flavor profile that combines nuttiness with subtle floral notes and a rich sweetness.\n\n\nIn cocktails, orgeat syrup adds depth, complexity, and a silky texture. Its unique taste complements a wide range of spirits, particularly rum and whiskey, and it's an essential ingredient in iconic drinks like the Mai Tai and the Japanese Cocktail. The syrup's ability to smooth out harsh edges in spirits while adding its own character makes it a valuable tool in a mixologist's arsenal.\n\n\nWhen using orgeat syrup, a little goes a long way due to its concentrated flavor and sweetness. High-quality commercial versions are readily available, but some bartenders prefer to make their own to control the flavor profile and ingredients. While almond is the traditional base, variations using other nuts like pistachio or hazelnut have become popular in craft cocktail scenes.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

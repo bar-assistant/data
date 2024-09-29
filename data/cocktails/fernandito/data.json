@@ -1,0 +1,58 @@
+{
+    "_id": "fernandito",
+    "name": "Fernandito",
+    "instructions": "Pour the Fernet Branca into a double old fashioned glass with ice, fill the glass up with Cola. Gently stir.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "The cocktail first became popular among the youth of the college town of Córdoba, in the 1980s and—impulsed by an advertising campaign led by Fratelli Branca—its consumption grew in popularity during the following decades to become widespread throughout the country, surpassed only by that of beer and wine. It is now considered a cultural icon of Argentina and is especially associated with its home province of Córdoba, where the drink is most consumed. The popularity of fernet con coca is such that Argentina consumes more than 75% of all fernet produced globally. The cocktail can also be found in some of its bordering countries, like Uruguay.\n\nAlthough typically made with Fernet-Branca and Coca-Cola, several amaro brands have appeared in Argentina since its popularization, as well as ready-to-drink versions.",
+    "source": "https://iba-world.com/fernandito/",
+    "garnish": null,
+    "abv": 10.43,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///fernandito-7_GbLo2l.webp",
+            "sort": 1,
+            "placeholder_hash": "CkkGHwoKmZZShHqNmWbHCHeHlASlWGAK",
+            "copyright": "Cocktail Wave"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "fernet-branca",
+            "name": "Fernet Branca",
+            "strength": 39,
+            "description": "Fernet Branca is a bittersweet, herbal liqueur made with a number of different herbs and spices, including myrrh, rhubarb, chamomile, cardamom, aloe, and gentian root.",
+            "origin": "Italy",
+            "category": "Liqueurs",
+            "amount": 50,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "cola",
+            "name": "Cola",
+            "strength": 0,
+            "description": "Cola is a carbonated soft drink flavored with vanilla, cinnamon, citrus oils and other flavorings.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 120,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        }
+    ]
+}

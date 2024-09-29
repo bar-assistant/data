@@ -1,0 +1,31 @@
+{
+    "_id": "orange-juice",
+    "_parent_id": null,
+    "name": "Orange juice",
+    "strength": 0,
+    "description": "Orange juice is a popular and versatile cocktail ingredient, known for its sweet and tangy flavor profile. Extracted from fresh oranges, it brings a natural sweetness and subtle acidity to drinks, along with a bright, sunny color that enhances the visual appeal of cocktails.\n\nWhen using orange juice in cocktails, freshly squeezed is ideal for the best flavor, though high-quality, not-from-concentrate commercial juices can be a convenient alternative. The amount used can vary widely depending on the recipe, from a splash for flavor to being the primary mixer in a drink. Its natural sweetness means it's often used in place of simple syrup in some recipes, adding both flavor and sweetness in one ingredient.",
+    "origin": null,
+    "color": "#ff9518",
+    "category": "Juices",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": "2024-08-31T15:11:56+00:00",
+    "images": [
+        {
+            "uri": "file:///orange-juice-7_mNP79v.webp",
+            "sort": 1,
+            "placeholder_hash": "JpyGFQJLiIWAe4uWV5aPZflYBzeHh4d3eA",
+            "copyright": "Creative Commons"
+        }
+    ],
+    "ingredient_parts": [
+        {
+            "_id": "orange",
+            "name": "Orange",
+            "strength": 0,
+            "description": "Orange fruit",
+            "origin": null,
+            "category": "Fruits and vegetables"
+        }
+    ],
+    "prices": []
+}

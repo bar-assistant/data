@@ -1,0 +1,22 @@
+{
+    "_id": "grapefruit-soda",
+    "_parent_id": null,
+    "name": "Grapefruit soda",
+    "strength": 0,
+    "description": "Carbonized grapefruit soda",
+    "origin": "Worlwide",
+    "color": "#f87d67",
+    "category": "Juices",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///grapefruit-soda-7_Lf5PmF.png",
+            "sort": 1,
+            "placeholder_hash": "KLuGFQIelMiPh3O4aFS/8jOTBgZ3d4V1hw",
+            "copyright": "Schweppes"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": []
+}

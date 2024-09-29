@@ -1,0 +1,100 @@
+{
+    "_id": "new-fashioned",
+    "name": "New Fashioned",
+    "instructions": "1. Place a sugar lump in a glass and add the bitters and Cocchi Americano; muddle to dissolve the sugar.\n2. Add the sake and fill glass with crushed ice, then stir to combine.\n3. Pour the wine over a spoon to “float” atop the drink, creating two layers.",
+    "created_at": "2024-08-28T13:52:52+00:00",
+    "updated_at": null,
+    "description": "This eye-catching spin on the Old Fashioned combines junmai (pure-rice) sake with Italian aperitivo Cocchi Americano and dry red wine.",
+    "source": "https://imbibemagazine.com/recipe/new-fashioned/",
+    "garnish": "Lemon twist",
+    "abv": 15.71,
+    "tags": [],
+    "glass": "Lowball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///new-fashioned-7_xsAUys.jpg",
+            "sort": 1,
+            "placeholder_hash": "9igKFgSgnMh5h8h6dph4d4dnL2PzVBc",
+            "copyright": "Lara Ferroni"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "sake",
+            "name": "Sake",
+            "strength": 20,
+            "description": "Sake is a traditional Japanese alcoholic beverage made from fermented rice. Unlike wine, which is fermented from fruit, sake is brewed more like beer, where the starch from rice is converted into sugars before being fermented into alcohol. Sake has a delicate, nuanced flavor profile that can range from sweet to dry, with notes of fruit, flowers, herbs, and umami, depending on the style and brewing process. The alcohol content typically ranges between 14% and 20%.\n\nIn cocktails, sake is often used as a base spirit or a modifier, bringing a subtle, smooth flavor that complements other ingredients without overpowering them. Its versatility allows it to pair well with a variety of flavors, from citrus and fruit to herbs and spices. Sake-based cocktails, like the Sake Martini or the Tokyo Mule, often emphasize its lightness and delicate flavor, making them ideal for those seeking a refined and refreshing drink.\n\nSake can also be enjoyed on its own, either chilled, at room temperature, or warm, depending on the type and the occasion. It is traditionally served in small ceramic cups and is an integral part of Japanese cuisine and culture. Sake's unique flavor and brewing process make it a distinct and sophisticated option for both traditional and modern cocktail creations.",
+            "origin": "Japan",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "cocchi-aperitivo-americano",
+            "name": "Cocchi Aperitivo Americano",
+            "strength": 16.5,
+            "description": "Cocchi Americano is an aromatized wine created in 1891 by Giulio Cocchi and since then produced without interruption according to the original recipe.\nThe name “Americano” is both due to the alcohol made bitter (“amaricato”) by the addition of herbs and spices and to the American habit of drinking vermouth with ice and soda.\nProduced according to Giulio Cocchi original recipe, Cocchi Americano is recognized in Asti as the aperitif par excellence – a real piece of history of our town.\nOn its label the original futurist rooster designed in the 30’s and representing his aperitif function (“it awakes the appetite”) as well as one of the symbols of the town of Asti.",
+            "origin": "Italy",
+            "category": "Fortified wine",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "red-wine",
+            "name": "Red wine",
+            "strength": 11,
+            "description": "Red wine is a type of wine made from dark-colored grape varieties. The color of red wine comes from the skin of the grapes, which is included in the fermentation process. The skins impart color, tannins, and various flavors to the wine. Red wines can range from light and fruity to rich and full-bodied, and they are typically enjoyed at room temperature. Popular red grape varieties include Cabernet Sauvignon, Merlot, Pinot Noir, and Syrah, among others. Red wine is known for its diverse flavor profiles and is often paired with a variety of foods.",
+            "origin": "Worldwide",
+            "category": "Wines",
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "grapefruit-bitters",
+            "name": "Grapefruit bitters",
+            "strength": 44,
+            "description": "These grapefruit bitters are best friends to gin, vodka, Blanco tequila, and light rum and are a wonderful ingredient for drinks that may otherwise taste excessively sweet. Give a modern twist to a classic Gin & Tonic, add a few dashes to a Daiquiri or Margarita or add a new layer of complexity to cocktails that traditionally didn’t include bitters.",
+            "origin": "Worldwide",
+            "category": "Bitters",
+            "amount": 3,
+            "units": "dashes",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        },
+        {
+            "_id": "sugar",
+            "name": "Sugar",
+            "strength": 0,
+            "description": "Sugar is a fundamental ingredient in cocktails, used primarily as a sweetener to balance the flavors of sour, bitter, or strong alcoholic components. It comes in various forms, including granulated sugar, superfine sugar, and sugar cubes, each of which can be used differently depending on the cocktail. Sugar can also be transformed into simple syrup, a liquid form that dissolves easily in cold beverages, making it a versatile option for many drinks.\n\nIn cocktails, sugar is often used to rim glasses, such as in a classic Margarita or a Sidecar, where the rim is coated with sugar to add sweetness with every sip. Superfine sugar is preferred for drinks like the Daiquiri or the Mojito, where it is muddled with lime or mint to create a balanced and refreshing flavor. Sugar cubes are a key component in classic cocktails like the Old Fashioned, where they are soaked in bitters before being muddled to release their sweetness.\n\nBeyond its role as a sweetener, sugar can also influence the texture and mouthfeel of a cocktail, adding a slight viscosity that enhances the drink's overall experience. Whether used in its solid form or as a syrup, sugar is an essential ingredient that helps create harmony and depth in a wide range of cocktails.",
+            "origin": null,
+            "category": "Uncategorized",
+            "amount": 1,
+            "units": "cube",
+            "optional": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

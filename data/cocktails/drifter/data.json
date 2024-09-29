@@ -1,0 +1,85 @@
+{
+    "_id": "drifter",
+    "name": "Drifter",
+    "instructions": "1. Add all ingredients to a mixing glass with ice and stir gently.\n2. Strain into a double rocks glass over a large ice cube.\n3. Garnish with a grapefruit twist.",
+    "created_at": "2024-08-31T20:39:06+00:00",
+    "updated_at": "2024-08-31T20:39:06+00:00",
+    "description": "At ABV in San Francisco, the concept is simple: The menu is built around the spirits that the owners want to drink, and the drinks they want to make from them. This cocktail, the Drifter, is a straightforward mixture of Japanese whisky, blanc vermouth, Amaro Nonino and Peychaud’s bitters, garnished with a grapefruit twist.",
+    "source": "https://punchdrink.com/recipes/drifter/",
+    "garnish": "grapefruit twist",
+    "abv": 25.84,
+    "tags": [],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///drifter-7_SH3AYx.webp",
+            "sort": 0,
+            "placeholder_hash": "0zgGFwQwI6tolVmliKiIRod3miA1CWMC",
+            "copyright": "Punch Staff | Nicola Parisi"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "japanese-whiskey",
+            "name": "Japanese Whiskey",
+            "strength": 40,
+            "description": "Japanese whisky is a style of whisky that is produced in Japan, and it has gained international acclaim for its quality, craftsmanship, and unique characteristics. Japanese whisky is often crafted using traditional Scottish methods, with an emphasis on precision and attention to detail.\n\nJapanese whisky makers are known for their innovative approaches to whisky production. They may experiment with different types of grains, yeast strains, and cask finishes to create unique and interesting expressions.\n\nIt's important to note that while Japanese whisky draws inspiration from Scotch whisky traditions, it has developed its own identity and style. The category has grown in popularity, leading to increased global demand for Japanese whiskies. As a result, some expressions may be limited or harder to find in certain markets.",
+            "origin": "Japan",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": "preferably Suntory Toki Japanese Whisky",
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "vermouth-bianco",
+            "name": "Vermouth Bianco",
+            "strength": 15,
+            "description": "First launched way back in 1910, Bianco is a wonderful style of vermouth. First inspired by the white flowers of vanilla plants, the bottling has been nicknamed ‘Bianchissimo’, meaning “the whitest of the white”.\n\nWhilst it looks like a dry vermouth, this is a sweeter style, which offers flavours of juicy citrus, berries, peaches and apricots, some mixed herbs, a touch of charcoal, vanilla, honey, apples, and some faint herby bitterness.\n\nDelicate and well balanced, this vermouth is a bartender’s dream, offering sweet complexity that is perfect in White Negronis and Martini style drinks.",
+            "origin": "Italy",
+            "category": "Fortified wine",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": "preferably Dolin Blanc Vermouth",
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "amaro-nonino",
+            "name": "Amaro Nonino",
+            "strength": 35,
+            "description": "Amaro Nonino is an Italian herbal liqueur produced by the Nonino family. It is known for its bittersweet and complex flavor profile, featuring herbs, spices, and citrus. Amaro Nonino is often enjoyed as a digestif and is recognized for its smoothness and balance. It is produced in Friuli, Italy, and has gained popularity both in Italy and internationally as a high-quality amaro.",
+            "origin": "Italy",
+            "category": "Amaro",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "peychauds-bitters",
+            "name": "Peychauds Bitters",
+            "strength": 35,
+            "description": "It is a gentian-based bitters, comparable to Angostura bitters, but with a predominant anise aroma combined with a background of mint.",
+            "origin": "North America",
+            "category": "Bitters",
+            "amount": 3,
+            "units": "dash",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

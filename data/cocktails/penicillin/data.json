@@ -1,0 +1,116 @@
+{
+    "_id": "penicillin",
+    "name": "Penicillin",
+    "instructions": "1. Muddle ginger in a shaker.\n2. Add the remaining ingredients, except for the Islay single malt whiskey.\n3. Fill the shaker with ice and shake.\n4. Double-strain into a chilled old fashioned glass with ice.\n5. Float the single malt whiskey on top.",
+    "created_at": "2024-08-28T13:52:52+00:00",
+    "updated_at": null,
+    "description": "The drink was created in 2005 by Australian bartender Sam Ross living in New York at the time. Its name derives from the drug penicillin, discovered by Scottish scientist Alexander Fleming, hinting to the medicinal properties of some of its ingredients, with suggested effects similar to that of a hot toddy which is said to relieve the symptoms of cold and flu.",
+    "source": "https://iba-world.com/penicillin/",
+    "garnish": "Garnish with candied ginger.",
+    "abv": 19.2,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks",
+        "Smokey"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///penicillin-7_PrBi5d.jpg",
+            "sort": 1,
+            "placeholder_hash": "VAgSHQIoeHB4aLh3d3mWiAeFcoA5",
+            "copyright": "Unknown"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "scotch-whiskey",
+            "name": "Scotch whiskey",
+            "strength": 40,
+            "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+            "origin": "Scotland",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "islay-scotch-whiskey",
+            "name": "Islay Scotch Whiskey",
+            "strength": 40,
+            "description": "Islay Scotch refers to Scotch whisky that is produced on the Isle of Islay, which is one of the whisky-producing regions of Scotland. Islay whiskies are renowned for their distinctive and peaty character, often featuring robust and smoky flavors that set them apart from whiskies produced in other regions.\n\nWell-known Islay distilleries include Ardbeg, Laphroaig, Lagavulin, and Bowmore, among others. Islay Scotch whiskies are appreciated by enthusiasts who enjoy the bold and distinctive flavor profile associated with the region. They are often enjoyed neat or with a splash of water to unlock the complexities of the spirit.",
+            "origin": "Isle of Islay",
+            "category": "Spirits",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "strength": 0,
+            "description": "Lemon juice is a versatile and essential ingredient in many cocktails, prized for its bright, tart flavor and ability to balance sweetness. Extracted from fresh lemons, this citrus juice adds a refreshing zing and acidity that can elevate and harmonize other flavors in a drink.\n\nIn cocktails, lemon juice serves multiple purposes. It provides a crisp, clean finish. Its high acidity also helps to cut through rich or sweet components, creating a more balanced and complex taste experience.\n\n\nWhen using lemon juice in cocktails, freshly squeezed is always preferred over bottled versions for its superior flavor and aroma. The amount used can vary greatly depending on the recipe, but even a small quantity can significantly impact the final taste of a drink.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "strength": 0,
+            "description": "Honey syrup is a natural sweetener used in cocktails to add depth and complexity beyond what standard simple syrup offers. Made by diluting honey with water, usually in a 1:1 ratio, this syrup brings not only sweetness but also subtle floral, herbal, or fruity notes depending on the type of honey used.\n\nWhen incorporating honey syrup into drinks, it's important to consider its distinct flavor profile. The type of honey used can significantly impact the final taste of the cocktail, allowing for creative variations. Bartenders often prefer to make their own honey syrup to control the consistency and flavor, though commercial versions are available. As with other syrups, the amount used can be adjusted to balance the cocktail's sweetness with other components.",
+            "origin": "Worldwide",
+            "category": "Syrups",
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "ginger-syrup",
+                    "name": "Ginger syrup",
+                    "strength": 0,
+                    "description": "Ginger syrup is a spicy-sweet cocktail ingredient that adds a bold, zesty kick to drinks. Made by simmering fresh ginger root with sugar and water, this syrup captures the root's fiery heat and distinctive flavor, offering a perfect balance of sweetness and warmth.\n\nWhen using ginger syrup, it's important to consider its potency. A little can go a long way in terms of both flavor and heat. Homemade versions allow for control over the ginger intensity and sweetness level, though quality commercial options are available. The syrup's versatility makes it a valuable addition to both classic and contemporary cocktail recipes, offering a quick way to infuse drinks with ginger's unique character.",
+                    "origin": "Worldwide",
+                    "category": "Syrups",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ],
+            "sort": 4
+        },
+        {
+            "_id": "ginger",
+            "name": "Ginger",
+            "strength": 0,
+            "description": "Ginger root used as a spice",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 2,
+            "units": "slices",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 5
+        }
+    ]
+}

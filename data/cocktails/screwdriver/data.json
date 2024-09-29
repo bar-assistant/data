@@ -1,0 +1,59 @@
+{
+    "_id": "screwdriver",
+    "name": "Screwdriver",
+    "instructions": "1. Add ice to tumbler glass first.\n2. Add vodka and orange juice next",
+    "created_at": "2024-08-28T13:52:52+00:00",
+    "updated_at": null,
+    "description": "A screwdriver is a simple and popular alcoholic highball drink made with orange juice and vodka. In the UK, it is referred to as a \"vodka and orange\". While the basic drink is simply the two ingredients, there are many variations. Many of the variations have different names in different parts of the world.",
+    "source": "https://baranddrink.com/screwdriver/#mv-creation-7-jtr",
+    "garnish": "Garnish with slice of orange or homemade orange twists",
+    "abv": 14.55,
+    "tags": [
+        "Classics",
+        "Sweet",
+        "Citrusy"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///screwdriver-7_tSVcfM.webp",
+            "sort": 1,
+            "placeholder_hash": "2EkOPwQIt4h5dnh2eXd4eImHd2BoOoAI",
+            "copyright": "Julia Zakrzewski"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "vodka",
+            "name": "Vodka",
+            "strength": 40,
+            "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
+            "origin": "Russia",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "strength": 0,
+            "description": "Orange juice is a popular and versatile cocktail ingredient, known for its sweet and tangy flavor profile. Extracted from fresh oranges, it brings a natural sweetness and subtle acidity to drinks, along with a bright, sunny color that enhances the visual appeal of cocktails.\n\nWhen using orange juice in cocktails, freshly squeezed is ideal for the best flavor, though high-quality, not-from-concentrate commercial juices can be a convenient alternative. The amount used can vary widely depending on the recipe, from a splash for flavor to being the primary mixer in a drink. Its natural sweetness means it's often used in place of simple syrup in some recipes, adding both flavor and sweetness in one ingredient.",
+            "origin": null,
+            "category": "Juices",
+            "amount": 90,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        }
+    ]
+}

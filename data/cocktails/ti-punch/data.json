@@ -1,0 +1,74 @@
+{
+    "_id": "ti-punch",
+    "name": "'Ti Punch",
+    "instructions": "1. Slice half a lime into wedges\n2. Muddle limes and syrup in a rocks glass\n3. Add 2-3 pieces of ice and stir until melted",
+    "created_at": "2024-08-28T13:52:52+00:00",
+    "updated_at": null,
+    "description": "This Caribbean favorite is the laid back cousin to the daiquiri. Kick your feet up with the 'Ti Punch.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/ti-punch",
+    "garnish": "",
+    "abv": 38.96,
+    "tags": [
+        "Caribbean",
+        "Citrusy",
+        "Summer"
+    ],
+    "glass": "Lowball",
+    "method": "Muddle",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///ti-punch-7_wnkkOy.jpg",
+            "sort": 1,
+            "placeholder_hash": "HDkOLwqzl2hgiYiph1h5Z4aJmgfIqIAN",
+            "copyright": "LiberAndCo | Juliet Beletic"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "rhum-agricole",
+            "name": "Rhum agricole",
+            "strength": 50,
+            "description": "Rhum Agricole is a style of rum that is made from fresh sugarcane juice rather than molasses, which is the byproduct of sugar production. The term \"agricole\" is French for \"agricultural,\" highlighting the agricultural origin of the sugarcane used in the production.\n\nRhum Agricole is particularly associated with regions like Martinique and Guadeloupe, where the production of this style of rum has a long and established tradition. The distinctive character of Rhum Agricole has contributed to its popularity among rum enthusiasts and mixologists seeking unique and flavorful spirits.",
+            "origin": "Caribbean",
+            "category": "Spirits",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "strength": 0,
+            "description": "Simple syrup is a basic sweetener used in cocktails, made by dissolving sugar in water. The standard recipe is a 1:1 ratio of sugar to water, although variations exist, such as rich simple syrup, which uses a 2:1 ratio for a thicker, sweeter result. The syrup is clear and easily mixes with both cold and hot liquids, making it an essential ingredient in many drinks.\n\nSimple syrup can also be infused with additional flavors like herbs, spices, or fruits, adding a layer of complexity to cocktails.",
+            "origin": null,
+            "category": "Syrups",
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "lime",
+            "name": "Lime",
+            "strength": 0,
+            "description": "Lime is a citrus fruit known for its small size, vibrant green color, and tart flavor.",
+            "origin": null,
+            "category": "Fruits and vegetables",
+            "amount": 1,
+            "units": "whole",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        }
+    ]
+}

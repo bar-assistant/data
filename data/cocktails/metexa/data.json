@@ -1,0 +1,87 @@
+{
+    "_id": "metexa",
+    "name": "Metexa",
+    "instructions": "1. Combine all ingredients in a mixing glass.\n2. Stir with ice.\n3. Strain into a chilled coupe.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "The Metexa is a tequila drink made with blanco tequila, Lillet and Swedish punsch. Here, Cocchi Americano swaps in for the Lillet.",
+    "source": "https://punchdrink.com/recipes/metexa/",
+    "garnish": "Garnish with a grapefruit twist.",
+    "abv": 19.25,
+    "tags": [
+        "Citrusy"
+    ],
+    "glass": "Cocktail",
+    "method": "Stir",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///metexa-7_ne77r0.jpg",
+            "sort": 1,
+            "placeholder_hash": "5UkKDQJQhp5pl2eId3qHZzh/oMMG",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "cocchi-aperitivo-americano",
+            "name": "Cocchi Aperitivo Americano",
+            "strength": 16.5,
+            "description": "Cocchi Americano is an aromatized wine created in 1891 by Giulio Cocchi and since then produced without interruption according to the original recipe.\nThe name “Americano” is both due to the alcohol made bitter (“amaricato”) by the addition of herbs and spices and to the American habit of drinking vermouth with ice and soda.\nProduced according to Giulio Cocchi original recipe, Cocchi Americano is recognized in Asti as the aperitif par excellence – a real piece of history of our town.\nOn its label the original futurist rooster designed in the 30’s and representing his aperitif function (“it awakes the appetite”) as well as one of the symbols of the town of Asti.",
+            "origin": "Italy",
+            "category": "Fortified wine",
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "strength": 40,
+            "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
+            "origin": "Mexico",
+            "category": "Spirits",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        },
+        {
+            "_id": "swedish-punsch",
+            "name": "Swedish punsch",
+            "strength": 26,
+            "description": "Swedish Punsch (not to be confused with punch) is also known as Arrack Punsch, Caloric Punch, Punssi in Finnish, and simply as Punsch. Based on Batavia arrack, it is a style of liqueur popular in Sweden and other Nordic countries (Norwegian Punsch was also produced by the state-owned monopoly), with a strength ranging from 27% - 50% alc./vol.",
+            "origin": "Sweden",
+            "category": "Liqueurs",
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 3
+        },
+        {
+            "_id": "grapefruit",
+            "name": "Grapefruit",
+            "strength": 0,
+            "description": "Grapefruit is a citrus fruit known for its slightly bitter and tangy flavor. It comes in various colors, including pink, red, and white, and is commonly eaten fresh, juiced, or used in salads and beverages. Grapefruit is rich in vitamins and antioxidants and is often enjoyed for its refreshing taste.",
+            "origin": "Barbados",
+            "category": "Fruits and vegetables",
+            "amount": 1,
+            "units": "peel",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 4
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "_id": "gin-tonic",
+    "name": "Gin & Tonic",
+    "instructions": "1. Add lots of ice to a large cocktail or wine glass and stir to chill the glass. Drain any melted water.\n2. Pour in the gin. Add the garnishes. Pour the tonic water onto a bar spoon into the glass (to increase the bubbles). Stir once and serve.",
+    "created_at": "2024-08-28T13:52:51+00:00",
+    "updated_at": null,
+    "description": "Called a “G and T” or gin tonic in some countries, this refreshing drink is made in countries all around the world. The Gin and Tonic was invented in the 1850’s by British soldiers, who mixed gin with their tonic water as a way to drink quinine (which was thought to cure malaria). Tonic water of today no longer has quinine, but the drink stuck around!",
+    "source": "https://www.acouplecooks.com/best-gin-and-tonic/",
+    "garnish": "Any of the following to spice your cocktail: Lime, lemon, cucumber, mint, orange peel, juniper berries, blood orange slice, rosemary",
+    "abv": 12.12,
+    "tags": [
+        "Summer"
+    ],
+    "glass": "Wine",
+    "method": "Build",
+    "utensils": [],
+    "images": [
+        {
+            "uri": "file:///gin-tonic-7_Dr2jis.jpg",
+            "sort": 1,
+            "placeholder_hash": "mQgSHgRkaAiKeIeXdnWHind3KUCoAvM",
+            "copyright": "A Couple Cooks"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "strength": 40,
+            "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.",
+            "origin": "Worldwide",
+            "category": "Spirits",
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 1
+        },
+        {
+            "_id": "tonic",
+            "name": "Tonic",
+            "strength": 0,
+            "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
+            "origin": "Worldwide",
+            "category": "Beverages",
+            "amount": 120,
+            "units": "ml",
+            "optional": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [],
+            "sort": 2
+        }
+    ]
+}
