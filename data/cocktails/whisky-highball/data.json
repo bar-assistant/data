@@ -52,8 +52,8 @@
             "note": null,
             "substitutes": [
                 {
-                    "_id": "ginger-ale",
-                    "name": "Ginger ale",
+                    "_id": "ginger-beer",
+                    "name": "Ginger beer",
                     "strength": 0,
                     "description": "Ginger ale is a non-alcoholic carbonated beverage flavored with ginger. It is known for its fizzy and slightly spicy taste, derived from the natural or artificial ginger flavorings used in its production. Ginger ale is often consumed on its own as a refreshing soft drink, and it is also a common mixer in various cocktails. There are both commercial and homemade versions of ginger ale, with variations that may include additional ingredients such as citrus or sweeteners.",
                     "origin": "Worldwide",
