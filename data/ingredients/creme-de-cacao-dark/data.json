@@ -5,8 +5,8 @@
     "strength": 25,
     "description": "Crème de Cacao is a sweet liqueur with a rich chocolate flavor. It is made from cacao beans, which are the primary source of chocolate, and often includes additional ingredients such as vanilla and sugar. Dark Crème de Cacao has a deeper, more intense chocolate flavor and a dark brown color.",
     "origin": "France",
-    "color": "Crème de",
-    "category": "#1f0f0c",
+    "color": "#1f0f0c",
+    "category": "Crème de",
     "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "images": [
