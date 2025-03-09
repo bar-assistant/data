@@ -1,0 +1,19 @@
+{
+    "_id": "spirits",
+    "_parent_id": null,
+    "name": "Spirits",
+    "strength": 0,
+    "description": "Alcoholic drinks produced by distillation of grains, fruits, vegetables, or sugar, that have already gone through alcoholic fermentation.",
+    "origin": null,
+    "color": null,
+    "category": null,
+    "created_at": "2025-03-09T12:22:00+00:00",
+    "updated_at": null,
+    "images": [],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null
+}

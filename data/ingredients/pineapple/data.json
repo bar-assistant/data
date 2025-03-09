@@ -1,22 +1,26 @@
 {
     "_id": "pineapple",
-    "_parent_id": null,
+    "_parent_id": "fruits-and-vegetables",
     "name": "Pineapple",
     "strength": 0,
     "description": "Pineapple fruit",
     "origin": null,
-    "color": null,
-    "category": "Fruits and vegetables",
+    "color": "Fruits and vegetables",
+    "category": null,
     "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "images": [
         {
-            "uri": "file:///pineapple-7_LkQtoF.png",
+            "uri": "file:///pineapple-1_jCZ5eI.png",
             "sort": 1,
             "placeholder_hash": "Y0uGDQYpr5RHhqDZ6c6goQhsJDpRqHDJWQ",
             "copyright": ""
         }
     ],
     "ingredient_parts": [],
-    "prices": []
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null
 }

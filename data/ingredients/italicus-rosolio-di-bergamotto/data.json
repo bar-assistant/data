@@ -1,22 +1,26 @@
 {
     "_id": "italicus-rosolio-di-bergamotto",
-    "_parent_id": null,
+    "_parent_id": "liqueurs",
     "name": "Italicus Rosolio di Bergamotto",
     "strength": 20,
     "description": "Italicus Rosolio di Bergamotto is an Italian liqueur based around the brilliance of bergamot! By combining Italian bergamot alongside a selection of other tasty botanicals including chamomile, lavender, Melissa balm and more, the producers have made a tipple excellent for enjoying on toasty evenings in the summer. Enjoy over ice, or splashed in a glass of Prosecco.",
     "origin": "Italy",
-    "color": "#ffffff",
-    "category": "Liqueurs",
+    "color": "Liqueurs",
+    "category": "#ffffff",
     "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "images": [
         {
-            "uri": "file:///italicus-rosolio-di-bergamotto-7_1amNuu.png",
+            "uri": "file:///italicus-rosolio-di-bergamotto-1_HjRtuI.png",
             "sort": 1,
             "placeholder_hash": "pqiFJQwPWB+nRYh3hyhwdwV3BweGhnVlWA",
             "copyright": "Italicus"
         }
     ],
     "ingredient_parts": [],
-    "prices": []
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null
 }

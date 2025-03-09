@@ -1,0 +1,19 @@
+{
+    "_id": "bitters",
+    "_parent_id": null,
+    "name": "Bitters",
+    "strength": 0,
+    "description": "Concentrated flavoring agents",
+    "origin": null,
+    "color": null,
+    "category": null,
+    "created_at": "2025-03-09T12:22:00+00:00",
+    "updated_at": null,
+    "images": [],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null
+}

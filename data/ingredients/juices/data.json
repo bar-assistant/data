@@ -1,0 +1,19 @@
+{
+    "_id": "juices",
+    "_parent_id": null,
+    "name": "Juices",
+    "strength": 0,
+    "description": "Drinks made from the extraction or pressing of the natural liquid contained in fruit and vegetables.",
+    "origin": null,
+    "color": null,
+    "category": null,
+    "created_at": "2025-03-09T12:22:00+00:00",
+    "updated_at": null,
+    "images": [],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null
+}

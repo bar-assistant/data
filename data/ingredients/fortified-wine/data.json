@@ -1,0 +1,19 @@
+{
+    "_id": "fortified-wine",
+    "_parent_id": null,
+    "name": "Fortified wine",
+    "strength": 0,
+    "description": "Wine to which a distilled spirit or other spices has been added",
+    "origin": null,
+    "color": null,
+    "category": null,
+    "created_at": "2025-03-09T12:22:00+00:00",
+    "updated_at": null,
+    "images": [],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null
+}

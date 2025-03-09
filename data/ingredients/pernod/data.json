@@ -1,22 +1,26 @@
 {
     "_id": "pernod",
-    "_parent_id": null,
+    "_parent_id": "liqueurs",
     "name": "Pernod",
     "strength": 40,
     "description": "Pernod is a brand of anise-flavored aperitif that originated in France. It is known for its licorice-like flavor and is often enjoyed as a refreshing apéritif or used as an ingredient in cocktails.",
     "origin": "France",
-    "color": "#c6c0a0",
-    "category": "Liqueurs",
+    "color": "Liqueurs",
+    "category": "#c6c0a0",
     "created_at": "2024-08-28T13:52:51+00:00",
     "updated_at": null,
     "images": [
         {
-            "uri": "file:///pernod-7_fzwql3.png",
+            "uri": "file:///pernod-1_7klki7.png",
             "sort": 1,
             "placeholder_hash": "ZRmKNQgPLTeSc4CI50qfjAaHCAiKinh4dw",
             "copyright": "Pernod"
         }
     ],
     "ingredient_parts": [],
-    "prices": []
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null
 }

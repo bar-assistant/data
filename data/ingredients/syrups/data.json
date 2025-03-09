@@ -1,0 +1,19 @@
+{
+    "_id": "syrups",
+    "_parent_id": null,
+    "name": "Syrups",
+    "strength": 0,
+    "description": "Condiment that is a thick, viscous liquid consisting primarily of a solution of sugar in water, containing a large amount of dissolved sugars but showing little tendency to deposit crystals.",
+    "origin": null,
+    "color": null,
+    "category": null,
+    "created_at": "2025-03-09T12:22:00+00:00",
+    "updated_at": null,
+    "images": [],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null
+}
