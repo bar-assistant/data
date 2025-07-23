@@ -1,0 +1,111 @@
+{
+  "_id": "breakfast-margarita_1830",
+  "name": "Breakfast Margarita",
+  "instructions": "1. Add all of the ingredients to a shaker with ice and shake to chill.\n2. Fine strain into a glass over fresh ice.\n3. Garnish.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "There are several takes on the Breakfast Margarita, a Marg inspired by Salvatore Calabrese's Breakfast Martini. But at Superbueno, Nacho Jimenez mixes the modern classic with the Cadillac Margarita, using Grand Marnier instead of Cointreau. The bar makes its own mole orange marmalade, but Jimenez says a \"good orange marmalade like Bonne Maman\" seasoned with mole spices can be swapped in its place. \"The Grand Marnier adds some complexity to this drink, and the mole orange marmalade adds more depth and flavor from the spices and chiles,\" he says.",
+  "source": "https://imbibemagazine.com/recipe/breakfast-margarita/",
+  "garnish": "Ancho salt rim, orange zest",
+  "abv": 18,
+  "tags": [
+    "Spicy",
+    "Citrusy",
+    "Sour"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///breakfast-margarita-1_rmy16y.webp",
+      "sort": 1,
+      "placeholder_hash": "1HkOLwhXZ4lgiXd2eGh3yHhnhzMINoIA",
+      "copyright": "Imbibe Magazine | Gonzalo Loayza"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "tequila-blanco_91",
+      "name": "Tequila Blanco",
+      "strength": 40,
+      "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
+      "origin": "Mexico",
+      "category": "Tequila",
+      "amount": 1.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "grand-marnier_35",
+      "name": "Grand Marnier",
+      "strength": 40,
+      "description": "Grand Marnier is a premium French liqueur known for its distinctive orange flavor and versatility in cocktails. It belongs to the category of orange liqueurs but stands out due to its unique combination of Cognac (a type of brandy) and bitter orange essence.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "agave-syrup_113",
+      "name": "Agave Syrup",
+      "strength": 0,
+      "description": "Agave syrup, also known as agave nectar, is a sweetener that is derived from the sap of the agave plant, primarily the blue agave plant native to Mexico. The syrup is a popular alternative to traditional sweeteners like sugar and honey, particularly in the context of natural and organic food products.\n\nAgave syrup is praised for its sweetness and versatility. It is sweeter than sugar, so smaller amounts can be used to achieve the same level of sweetness. Additionally, it has a lower glycemic index compared to some other sweeteners, meaning it has a smaller impact on blood sugar levels.\n\nAgave syrup has a mild, neutral flavor, making it suitable for a variety of culinary applications. It is commonly used as a sweetener in beverages, baked goods, and desserts. However, it's essential to note that agave syrup, like any sweetener, should be consumed in moderation due to its high fructose content.",
+      "origin": "Mexico",
+      "category": "Simple Syrup",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "marmalade_533",
+      "name": "Marmalade",
+      "strength": 0,
+      "description": "Marmalade is a fruit preserve made from the peel and juice of citrus fruits, typically oranges. The fruit is boiled with sugar and water to create a sweet and tangy spread with a distinctive citrus flavor. The peel gives marmalade its characteristic texture.",
+      "origin": "Worldwide",
+      "category": null,
+      "amount": 0.25,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

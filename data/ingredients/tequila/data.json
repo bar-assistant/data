@@ -1,0 +1,20 @@
+{
+  "_id": "tequila_952",
+  "_parent_id": "mezcal_92",
+  "name": "Tequila",
+  "strength": 40,
+  "description": "Tequila is a generic category for mescal from Jalisco, Mexico, distilled in whole (100% Blue Agave) or in part (Mixto/Mixed) from the fermented blue agave succulent. The production characteristics of Tequila are very specific and regulated depending on style. The four primary styles of Tequila are blanco (also known as silver or plata), oro (joven or gold), reposado (rested), and añejo (old). A new style, “extra añejo”, was recently added (in 2006) for Tequilas that are aged beyond three years, a recent phenomenon.",
+  "origin": "South America",
+  "color": "#000",
+  "category": "Spirits > Mezcal",
+  "created_at": null,
+  "updated_at": null,
+  "images": [],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

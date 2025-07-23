@@ -1,0 +1,109 @@
+{
+  "_id": "tea-time_774",
+  "name": "Tea Time",
+  "instructions": "1. Add all ingredients, except ginger beer, to a shaker tin\n2. Add ice and shake for 10-15 seconds\n3. Strain over ice and top with ginger beer",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Fruity, spicy, and tea-infused elements converge to create a truly unique and delicious non-alcoholic cocktail!",
+  "source": "https://www.liberandcompany.com/products/tea-time",
+  "garnish": "mint",
+  "abv": 0.25,
+  "tags": [
+    "Virgin"
+  ],
+  "glass": "Highball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///tea-time-1_9NX4JG.jpg",
+      "sort": 1,
+      "placeholder_hash": "1igGDwKVmQdwaXdVV7ZzVnyytVQG3yEI",
+      "copyright": "LiberAndCo"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "tea_534",
+      "name": "Tea",
+      "strength": 0,
+      "description": "Tea offers a versatile and sophisticated dimension to cocktails, introducing complex flavors and aromas that range from earthy and smoky to floral, fruity, or tannic. It can be incorporated in various ways: brewed and chilled as a mixer, steeped into syrups for concentrated flavor and sweetness, or used to infuse spirits directly for a nuanced base. Tea allows for creative experimentation, adding depth, balancing sweetness or acidity, and providing unique aromatic notes that elevate a drink beyond traditional profiles, making it a favorite tool for modern mixologists seeking to craft unique and memorable libations.",
+      "origin": null,
+      "category": null,
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "Earl grey",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "peach-syrup_148",
+      "name": "Peach syrup",
+      "strength": 0,
+      "description": "Peach Simple Syrup is a 3-ingredient homemade add-in that’s used to sweeten all of your favorite cocktails, lemonades, and teas! Ready in just 45 minutes!",
+      "origin": "Worldwide",
+      "category": "Syrups",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "ginger-beer_71",
+      "name": "Ginger beer",
+      "strength": 0,
+      "description": "Ginger ale is a non-alcoholic carbonated beverage flavored with ginger. It is known for its fizzy and slightly spicy taste, derived from the natural or artificial ginger flavorings used in its production. Ginger ale is often consumed on its own as a refreshing soft drink, and it is also a common mixer in various cocktails. There are both commercial and homemade versions of ginger ale, with variations that may include additional ingredients such as citrus or sweeteners.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 1,
+      "units": "topup",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "angostura-aromatic-bitters_22",
+      "name": "Angostura aromatic bitters",
+      "strength": 44.7,
+      "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+      "origin": "Trinidad & Tobago",
+      "category": "Bitters",
+      "amount": 2,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

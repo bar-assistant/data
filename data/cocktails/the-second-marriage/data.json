@@ -1,0 +1,75 @@
+{
+  "_id": "the-second-marriage_1114",
+  "name": "The Second Marriage",
+  "instructions": "Pour the ingredients into the rocks glass over the ice cube. Stir, then garnish with the orange peel.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "How can you not like this one? It all just works together. It would take someone who knows sherry to even begin exploring this path, and Mr. Greenbaum found a great destination for it. Cavaldos is becoming a favorite spirit of mine, because it has a nice flavor AND it is readily available. Maybe an inspiration for another article. The difficult part for most would be finding the right pedro ximenez sherry. If you can do that, the rest will fall right into place.",
+  "source": "https://www.smartguyinatie.com/notes-on-napkins/2015/10/16/day-43-the-second-marriage",
+  "garnish": "Orange peel",
+  "abv": 29.5,
+  "tags": [],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///the-second-marriage-1_7dQkoZ.jpg",
+      "sort": 1,
+      "placeholder_hash": "GAgGJwZjSVdOqZlHqfZ0t4aFZQdZd5AG",
+      "copyright": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "bourbon-whiskey_82",
+      "name": "Bourbon Whiskey",
+      "strength": 40,
+      "description": "A type of American whiskey, primarily made from corn and aged in new charred oak barrels. Bourbon has a sweet and full-bodied flavor profile.\n\nTo be labeled as bourbon, a whiskey must meet the following criteria:\n\n1. Grain Mash Composition: Bourbon must be made from a grain mash that is at least 51% corn. The remaining portion of the mash can include other grains such as barley, rye, and wheat.\n\n2. Distillation: Bourbon must be distilled to no more than 160 proof (80% alcohol by volume) and entered into the barrel for aging at no more than 125 proof (62.5% alcohol by volume).\n\n3. Barrel Aging: Bourbon must be aged in new charred oak barrels. There is no minimum aging requirement for bourbon, but to be labeled as \"straight bourbon,\" it must be aged for at least two years.\n\n4. No Additives: Bourbon must not contain any additives except water to adjust the proof.\n\n5. Bottling Strength: Bourbon must be bottled at a minimum of 80 proof (40% alcohol by volume).\n\n6. Geographic Origin: While bourbon can be produced anywhere in the United States, it is strongly associated with Kentucky, and many consider Kentucky bourbon to be a distinctive category.",
+      "origin": "North America",
+      "category": "Whiskey",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "apple-brandy_90",
+      "name": "Apple Brandy",
+      "strength": 40,
+      "description": "Apple brandy is a distilled spirit made from fermented apple juice or cider. The production involves fermenting apples, distilling the resulting liquid, and often aging it in oak barrels. The final product can range from clear to amber in color and exhibits a variety of apple-derived flavors, influenced by the apple varieties used and the aging process. Apple brandy can be enjoyed on its own or used in cocktails and culinary applications. The term encompasses a broad category of apple-based spirits produced globally, with variations in production methods and flavor profiles.",
+      "origin": "France",
+      "category": "Fruit brandy",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "sherry_124",
+      "name": "Sherry",
+      "strength": 17,
+      "description": "Sherry is a fortified wine that originates from the Jerez region in southwestern Spain. It is made from white grapes, primarily the Palomino grape variety, and is known for its unique production process, diverse styles, and complex flavors. Sherry has a protected designation of origin (DO) status, meaning that only wines produced in the designated region can be labeled as Sherry.",
+      "origin": "Spain",
+      "category": "Fortified wine",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

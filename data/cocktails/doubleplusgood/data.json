@@ -1,0 +1,109 @@
+{
+  "_id": "doubleplusgood_1116",
+  "name": "Doubleplusgood",
+  "instructions": "Dry-shake all ingredients (except the bitters) first without ice, then again with ice added. Double-strain through a fine mesh strainer into a chilled short glass, no ice. Drop the bitters atop the foam in the shape of two plus symbols.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Doubleplusgood is Boston barman John Gertsen’s take on a Mai Tai, crossed with a Pisco Sour. It’s mildly sweet, with the gentle almond flavor of orgeat laced through the delicate foam of egg white (or aquafaba, if you prefer).\n\nThe garnish is a signature of Gertsen’s recipe: two plus signs, drawn in the foam with aromatic bitters.",
+  "source": "https://cocktailvirgin.blogspot.com/2009/06/doubleplusgood.html",
+  "garnish": "two plus signs, drawn in the foam with aromatic bitters",
+  "abv": 17.78,
+  "tags": [
+    "Sour"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///doubleplusgood-1_VU1KAR.jpg",
+      "sort": 1,
+      "placeholder_hash": "KggWDwJGd3iAhoeDiWiIaIeFZ5BXWH8F",
+      "copyright": "cocktailvirgin"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "light-rum_96",
+      "name": "Light Rum",
+      "strength": 40,
+      "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+      "origin": "Caribbean",
+      "category": "Rum",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "orgeat-syrup_109",
+      "name": "Orgeat Syrup",
+      "strength": 0,
+      "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
+      "origin": null,
+      "category": "Simple Syrup",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "cointreau_56",
+      "name": "Cointreau",
+      "strength": 40,
+      "description": "Orange-flavoured triple sec liqueur, it was originally called Curaçao Blanco Triple Sec. Usually more dry tasting than Orange Curaçao.",
+      "origin": "France",
+      "category": "Orange Curaçao",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "egg-white_17",
+      "name": "Egg White",
+      "strength": 0,
+      "description": "Egg white is the clear liquid part of an egg that surrounds the yolk. It is rich in proteins and is commonly used in cooking and baking for its ability to add structure, foam, and a smooth texture to various dishes.",
+      "origin": "Worldwide",
+      "category": "Dairy",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

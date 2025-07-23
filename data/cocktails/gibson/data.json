@@ -1,0 +1,66 @@
+{
+  "_id": "gibson_2186",
+  "name": "Gibson",
+  "instructions": "1. Stir the ingredients with ice to chill, then strain into a chilled cocktail glass.\n2. Garnish with the pickled pearl onion.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "More fun than answering who first plopped a pickled pearl onion—instead of an olive, or a lemon twist—into a dry gin Martini is recalling who didn’t. “The Gibson’s history is as mysterious as the Manhattan’s,” says Leo Robitschek, bar director at The NoMad Bar and Eleven Madison Park in New York City. The drink’s origins have yet to be cracked, although the urban sophistication of a Martini paired with a pickled twist has left largely anyone with the last name Gibson receiving credit for the drink. In the early 20th century, graphic artist Charles Dana Gibson is said to have requested a fresh take on the Martini while visiting New York private social club The Players, resulting in the garnish swap. There’s also an allegedly teetotaling Mr. Gibson who dropped an onion into his water-filled Martini glass to differentiate his drink while maintaining appearances among colleagues. Most perplexing of all, the earliest renditions of the Gibson, such as in William Boothby’s 1908 The World’s Drinks and How to Mix Them, make no mention of an onion. Robitschek’s favorite story remains that of San Francisco businessman Walter Gibson, who supposedly slipped an onion into his drink, believing it prevented colds. “I love any story that showcases the health benefits of drinks, although this one may not be true,” he says. Robitschek keeps his Gibsons golden. “The Gibson is one of my favorite cocktails, a Martini variation that, when made classically, adds a vegetal, briny umami flavor to the mix,” he says. As for the unsolved onion, some veggie tales are best left to the imagination.",
+  "source": "https://imbibemagazine.com/recipe/gibson-cocktail-recipe/",
+  "garnish": "Pickled pearl onion",
+  "abv": 28.1,
+  "tags": [
+    "Dessert",
+    "Savory",
+    "Briny",
+    "Historical",
+    "Dry",
+    "Classics"
+  ],
+  "glass": "Cocktail",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///gibson-1_hjV7I1.webp",
+      "sort": 1,
+      "placeholder_hash": "lOcJBwAIt2d+h3h1ika3iHiIpy93nyMI",
+      "copyright": "Liquor.com"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 2.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "dry-vermouth_118",
+      "name": "Dry Vermouth",
+      "strength": 18,
+      "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    }
+  ],
+  "parent_cocktail_id": "martini_24",
+  "year": null
+}

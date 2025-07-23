@@ -1,0 +1,109 @@
+{
+  "_id": "clarified-new-york-sour_752",
+  "name": "Clarified New York Sour",
+  "instructions": "1. Combine the bourbon, lemon, and simple syrup and pour over the milk in a glass container.\n2. Let sit for 30 minutes, allowing the milk to curdle.\n3. Strain the milk mixture through a coffee filter.\n4. If it’s not clear, re-pour through the same filter.\n5. To serve, pour the mixture over a large ice cube in a glass.\n6. Float with red wine.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This clarified take on the New York Sour achieves a silky mouthfeel and a softened acidity, making for an easy-drinking sipper. \"I’m always looking for ways to use fun techniques to make twists on classic cocktails,\" says Prohibition bar manager Jim McCourt. \"I also like the presentation of the contrasting colors.\"",
+  "source": "https://imbibemagazine.com/recipe/clarified-new-york-sour/",
+  "garnish": null,
+  "abv": 15.94,
+  "tags": [
+    "Clarified"
+  ],
+  "glass": "Lowball",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///clarified-new-york-sour-1_t66oUk.png",
+      "sort": 1,
+      "placeholder_hash": "WBiODQIPY5ahZnCnWM/AwGUJDw+Ih4d4iA",
+      "copyright": "Imbibe Magazine | Andrew Cebulka"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "bourbon-whiskey_82",
+      "name": "Bourbon Whiskey",
+      "strength": 40,
+      "description": "A type of American whiskey, primarily made from corn and aged in new charred oak barrels. Bourbon has a sweet and full-bodied flavor profile.\n\nTo be labeled as bourbon, a whiskey must meet the following criteria:\n\n1. Grain Mash Composition: Bourbon must be made from a grain mash that is at least 51% corn. The remaining portion of the mash can include other grains such as barley, rye, and wheat.\n\n2. Distillation: Bourbon must be distilled to no more than 160 proof (80% alcohol by volume) and entered into the barrel for aging at no more than 125 proof (62.5% alcohol by volume).\n\n3. Barrel Aging: Bourbon must be aged in new charred oak barrels. There is no minimum aging requirement for bourbon, but to be labeled as \"straight bourbon,\" it must be aged for at least two years.\n\n4. No Additives: Bourbon must not contain any additives except water to adjust the proof.\n\n5. Bottling Strength: Bourbon must be bottled at a minimum of 80 proof (40% alcohol by volume).\n\n6. Geographic Origin: While bourbon can be produced anywhere in the United States, it is strongly associated with Kentucky, and many consider Kentucky bourbon to be a distinctive category.",
+      "origin": "North America",
+      "category": "Whiskey",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "milk_530",
+      "name": "Milk",
+      "strength": 0,
+      "description": "Milk in cocktails primarily serves to add richness, body, and a creamy texture, transforming the mouthfeel of a drink. While straightforward additions create creamy concoctions like the White Russian or Brandy Milk Punch, a more sophisticated application is in \"clarified milk punches.\" In this technique, milk is intentionally curdled with acidic ingredients (like citrus juice or other spirits), and the resulting curds are then strained out, leaving behind a crystal-clear liquid. This process not only removes harsh notes and astringency, but also imparts a remarkably smooth, velvety texture and subtle richness to the cocktail without making it opaque or heavy.",
+      "origin": "Cows",
+      "category": "Beverages",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "red-wine_120",
+      "name": "Red wine",
+      "strength": 11,
+      "description": "Red wine is a type of wine made from dark-colored grape varieties. The color of red wine comes from the skin of the grapes, which is included in the fermentation process. The skins impart color, tannins, and various flavors to the wine. Red wines can range from light and fruity to rich and full-bodied, and they are typically enjoyed at room temperature. Popular red grape varieties include Cabernet Sauvignon, Merlot, Pinot Noir, and Syrah, among others. Red wine is known for its diverse flavor profiles and is often paired with a variety of foods.",
+      "origin": "Worldwide",
+      "category": "Wines",
+      "amount": 1,
+      "units": "barspoon",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

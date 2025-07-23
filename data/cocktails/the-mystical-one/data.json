@@ -1,0 +1,93 @@
+{
+  "_id": "the-mystical-one_1146",
+  "name": "The Mystical One",
+  "instructions": "1. Combine the 3 sage leaves and the cinnamon syrup in a cocktail shaker and use a muddler to lightly crush the sage.\n2. Add the lime juice and bourbon.\n3. Add ice and shake until chilled.\n4. Strain into a coupe and garnish with a sage leaf.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This simple, holiday-ready rendition of a Whiskey Sour combines the one-two punch of sage and cinnamon alongside lime juice in place of lemon.",
+  "source": "https://punchdrink.com/recipes/the-mystical-one/",
+  "garnish": "sage leaf",
+  "abv": 19.69,
+  "tags": [
+    "Winter"
+  ],
+  "glass": "Coupe",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///the-mystical-one-1_aBWaG9.jpg",
+      "sort": 0,
+      "placeholder_hash": "ZwgKFwQIpXg6upttpzdal4WGZqAJBLkC",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "bourbon-whiskey_82",
+      "name": "Bourbon Whiskey",
+      "strength": 40,
+      "description": "A type of American whiskey, primarily made from corn and aged in new charred oak barrels. Bourbon has a sweet and full-bodied flavor profile.\n\nTo be labeled as bourbon, a whiskey must meet the following criteria:\n\n1. Grain Mash Composition: Bourbon must be made from a grain mash that is at least 51% corn. The remaining portion of the mash can include other grains such as barley, rye, and wheat.\n\n2. Distillation: Bourbon must be distilled to no more than 160 proof (80% alcohol by volume) and entered into the barrel for aging at no more than 125 proof (62.5% alcohol by volume).\n\n3. Barrel Aging: Bourbon must be aged in new charred oak barrels. There is no minimum aging requirement for bourbon, but to be labeled as \"straight bourbon,\" it must be aged for at least two years.\n\n4. No Additives: Bourbon must not contain any additives except water to adjust the proof.\n\n5. Bottling Strength: Bourbon must be bottled at a minimum of 80 proof (40% alcohol by volume).\n\n6. Geographic Origin: While bourbon can be produced anywhere in the United States, it is strongly associated with Kentucky, and many consider Kentucky bourbon to be a distinctive category.",
+      "origin": "North America",
+      "category": "Whiskey",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "sage_737",
+      "name": "Sage",
+      "strength": 0,
+      "description": "Sage is an evergreen shrub with fragrant gray-green leaves used for cooking. The scent and flavor are often associated with holiday cooking (like Thanksgiving stuffing in the US). In cocktails the leaves impart a savory, comforting note.",
+      "origin": null,
+      "category": "Fruits and vegetables",
+      "amount": 3,
+      "units": "leaves",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "cinnamon-syrup_133",
+      "name": "Cinnamon syrup",
+      "strength": 0,
+      "description": "Simple syrup infused with cinnamon. Follow the recipe to make your own at home:\n\n- 1 cup granulated sugar\n- 1 cup water\n- 4 cinnamon sticks, broken into large pieces\n\nBring all ingredients to a boil over medium heat. Reduce heat to medium-low and let simmer for 8-10 minutes until sugar has dissolved, stirring frequently. Remove from heat and let cool. Discard cinnamon sticks, strain into a clean glass jar and cover. Store refrigerated for up to 2 weeks.",
+      "origin": "Worldwide",
+      "category": "Simple Syrup",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

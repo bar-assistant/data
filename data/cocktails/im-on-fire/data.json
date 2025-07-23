@@ -1,0 +1,109 @@
+{
+  "_id": "im-on-fire_2166",
+  "name": "I’m on Fire",
+  "instructions": "1. Combine all ingredients in a mixing tin and shake with ice.\n2. Strain into a chilled rocks glass over a large ice cube.\n3. Garnish with ancho chili powder and a pineapple leaf.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This take on the spicy Margarita cocktail recipe calls on mezcal in place of tequila and Cholula to up the heat.",
+  "source": "https://punchdrink.com/recipes/im-on-fire/",
+  "garnish": "ancho chili powder, pineapple leaf",
+  "abv": 14.99,
+  "tags": [
+    "Smokey"
+  ],
+  "glass": "Highball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///im-on-fire-1_wsIznS.webp",
+      "sort": 1,
+      "placeholder_hash": "b/gJLwb3bENOuWiEh5lnd2iJh1BoB3YF",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "tabasco_14",
+      "name": "Tabasco",
+      "strength": 0,
+      "description": "Hot sauce made from vinegar, tabasco peppers, and salt.",
+      "origin": null,
+      "category": null,
+      "amount": 2,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "Cholula hot sauce",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "pineapple-juice_536",
+      "name": "Pineapple juice",
+      "strength": 0,
+      "description": "Pineapple juice is extracted by passing fresh, ripe pineapple through a juice extractor (juicer) or by muddling fresh cut pineapple chunks and then straining out the solids.",
+      "origin": null,
+      "category": "Juices",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "honey-syrup_110",
+      "name": "Honey Syrup",
+      "strength": 0,
+      "description": "Syrup made from dissolving honey in water.",
+      "origin": "Worldwide",
+      "category": "Simple Syrup",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "mezcal_92",
+      "name": "Mezcal",
+      "strength": 40,
+      "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+      "origin": "Mexico",
+      "category": "Spirits",
+      "amount": 2,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

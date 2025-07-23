@@ -1,0 +1,93 @@
+{
+  "_id": "your-mothers-spritz_2152",
+  "name": "Your Mother’s Spritz",
+  "instructions": "1. Add the ingredients, except the grapefruit soda, to a wine glass over ice. Top with the soda. Garnish.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The white wine spritzer, popularized by \"ladies who lunch\" during the '50s, gets reimagined through a modern lens. While the original simply called for chilled white wine and club soda, this version is \"punchier, brighter, and far from basic, thanks to citrus-forward Italicus, with notes of bergamot and grapefruit that round it out beautifully,\" says Mary Jones, the director of entertainment and nightlife for Virgin Hotels.",
+  "source": "https://imbibemagazine.com/recipe/your-mothers-spritz-white-wine-spritzer/",
+  "garnish": "Dehydrated grapefruit wheel",
+  "abv": 10.91,
+  "tags": [
+    "Dessert"
+  ],
+  "glass": "Wine",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///your-mothers-spritz-1_uw5fiP.webp",
+      "sort": 1,
+      "placeholder_hash": "4WkGFwQIRrqTh4araihnZWhaBHKmMFgI",
+      "copyright": "Imbibe Magazine"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "white-wine_119",
+      "name": "White wine",
+      "strength": 11,
+      "description": "White wine is a type of wine made from green or yellowish grape varieties, where the grape skins are separated from the grape juice before or during fermentation. This absence of prolonged skin contact results in a wine with a pale or straw-like color. White wines can range from crisp and light to full-bodied and complex, and they are typically served chilled. Common white grape varieties include Chardonnay, Sauvignon Blanc, Riesling, and Pinot Grigio. White wine is known for its refreshing qualities and is often enjoyed as an aperitif or paired with a variety of dishes, including seafood, poultry, and lighter fare.",
+      "origin": "Worldwide",
+      "category": "Wines",
+      "amount": 2,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "Pinot Grigio",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "italicus-rosolio-di-bergamotto_129",
+      "name": "Italicus Rosolio di Bergamotto",
+      "strength": 20,
+      "description": "Italicus Rosolio di Bergamotto is an Italian liqueur based around the brilliance of bergamot! By combining Italian bergamot alongside a selection of other tasty botanicals including chamomile, lavender, Melissa balm and more, the producers have made a tipple excellent for enjoying on toasty evenings in the summer. Enjoy over ice, or splashed in a glass of Prosecco.",
+      "origin": "Italy",
+      "category": "Liqueurs",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "grapefruit-juice_61",
+      "name": "Grapefruit juice",
+      "strength": 0,
+      "description": "Freshly squeezed grapefruit juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "grapefruit-soda_149",
+      "name": "Grapefruit soda",
+      "strength": 0,
+      "description": "Carbonized grapefruit soda",
+      "origin": "Worlwide",
+      "category": "Beverages",
+      "amount": 1,
+      "units": "topup",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

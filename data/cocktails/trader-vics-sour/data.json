@@ -1,0 +1,91 @@
+{
+  "_id": "trader-vics-sour_1488",
+  "name": "Trader Vic's Sour",
+  "instructions": "1. In a cocktail shaker, add all ingredients\n2. Shake with ice for 10-12 seconds\n3. Strain over fresh ice into an old fashioned glass",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Trader Vic created countless variations on the sour. This interpretation calls for Scotch as the choice of spirit and orgeat as the sweetener, bringing it closer to the tiki realm.",
+  "source": "https://stevethebartender.com.au/trader-vics-sour/",
+  "garnish": "Garnish with a lemon wheel and an orchid",
+  "abv": 18.29,
+  "tags": [],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///trader-vics-sour-1_O32yHv.webp",
+      "sort": 1,
+      "placeholder_hash": "TRgOHwJol3hwiHeKeId3d3eIdxB4B4EG",
+      "copyright": "Steve the Bartender"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "scotch-whiskey_84",
+      "name": "Scotch whiskey",
+      "strength": 40,
+      "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+      "origin": "Scotland",
+      "category": "Whiskey",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "orgeat-syrup_109",
+      "name": "Orgeat Syrup",
+      "strength": 0,
+      "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
+      "origin": null,
+      "category": "Simple Syrup",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

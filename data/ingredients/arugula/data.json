@@ -1,0 +1,27 @@
+{
+  "_id": "arugula_732",
+  "_parent_id": "fruits-and-vegetables_941",
+  "name": "Arugula",
+  "strength": 0,
+  "description": "Arugula, also known as rocket or rucola, is a leafy green vegetable with a peppery flavor, commonly used in salads and various dishes. It is part of the Brassica family, which includes vegetables like broccoli and cabbage, and is known for its nutritional benefits, including vitamins and minerals that support health.",
+  "origin": null,
+  "color": "#2e9120",
+  "category": "Fruits and vegetables",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///arugula-1_NDXHmM.png",
+      "sort": 1,
+      "placeholder_hash": "7egRHwL5pXiaZ3ZtlWd3p2h2iFA1+JsM",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "leaves"
+}

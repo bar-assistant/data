@@ -1,0 +1,77 @@
+{
+  "_id": "gin-it_1515",
+  "name": "Gin & It",
+  "instructions": "1. Add all ingredients to a mixing glass and stir with ice.\n2. Strain into a glass on the rocks.\n3. Garnish with a lemon twist.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Gin & It is a classic cocktail recipe made with London dry gin, sweet vermouth, Angostura bitters. Here's how to make it.",
+  "source": "https://punchdrink.com/recipes/gin-it/",
+  "garnish": "lemon twist",
+  "abv": 27.29,
+  "tags": [
+    "Wine"
+  ],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///gin-it-1_nyJRun.webp",
+      "sort": 1,
+      "placeholder_hash": "LDkOPwj4mWd8dnaLdpZ3eXeId1BXCHQF",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 2,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "sweet-vermouth_117",
+      "name": "Sweet Vermouth",
+      "strength": 18,
+      "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Carpano Antica",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "angostura-aromatic-bitters_22",
+      "name": "Angostura aromatic bitters",
+      "strength": 44.7,
+      "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+      "origin": "Trinidad & Tobago",
+      "category": "Bitters",
+      "amount": 2,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

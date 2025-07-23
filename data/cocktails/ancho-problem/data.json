@@ -1,0 +1,94 @@
+{
+  "_id": "ancho-problem_778",
+  "name": "Ancho Problem",
+  "instructions": "1. Shake all ingredients with ice.\n2. Strain into chilled cocktail glass.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "In response to the request for \"something spicy, with tequila,\" Ezra Star whips up this chile- and blanco tequila-spiked cocktail recipe.",
+  "source": "https://punchdrink.com/recipes/ancho-problem/",
+  "garnish": null,
+  "abv": 21.33,
+  "tags": [
+    "Citrusy",
+    "Spicy"
+  ],
+  "glass": "Coupe",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///ancho-problem-1_V9Qfle.jpg",
+      "sort": 0,
+      "placeholder_hash": "yigGFwK/R3RBiIglhmdkiIu8xglIhEAN",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "ancho-reyes_535",
+      "name": "Ancho Reyes",
+      "strength": 40,
+      "description": "Ancho Reyes is a brand of chile liqueur produced in Puebla City, Mexico, based on a 1927 recipe from the same city. The liqueur is made from and named after Puebla's renowned ancho chiles, a dried form of ripe poblano peppers.\n\nThe company produces two types of chile liqueur: the original, red Ancho Reyes liqueur and the newer, green Ancho Reyes Verde liqueur. The liqueur is produced using late harvest chiles that have sun-dried for 2 to 3 weeks. For the Verde version of the drink, early harvested fire-roasted poblano chiles are used in addition to the sun-dried chiles.\n\nBoth the red and green liqueurs are 40% ABV and are popular for adding a bit of spice to classic drinks like a margarita or a Paloma.",
+      "origin": "Mexico",
+      "category": "Liqueurs",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "tequila-blanco_91",
+      "name": "Tequila Blanco",
+      "strength": 40,
+      "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
+      "origin": "Mexico",
+      "category": "Tequila",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "demerara-syrup_135",
+      "name": "Demerara Syrup",
+      "strength": 0,
+      "description": "Syrup made with demerara sugar",
+      "origin": null,
+      "category": "Simple Syrup",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

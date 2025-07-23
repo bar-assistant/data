@@ -1,0 +1,27 @@
+{
+  "_id": "citrus-juice_960",
+  "_parent_id": "juices_940",
+  "name": "Citrus juice",
+  "strength": 0,
+  "description": "Citrus juice is a liquid extracted from citrus fruits like oranges, lemons, limes, and grapefruits, known for their refreshing taste and high vitamin C content. It can be enjoyed on its own or used as an ingredient in various beverages and dishes.",
+  "origin": null,
+  "color": "#000",
+  "category": "Juices",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///citrus-juice-1_Pspx33.webp",
+      "sort": 1,
+      "placeholder_hash": "5AeGBQAmSOiFeYL6eHiScNj2BxhyiXGZaA",
+      "copyright": "AI Generated"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

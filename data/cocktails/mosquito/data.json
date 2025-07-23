@@ -1,0 +1,93 @@
+{
+  "_id": "mosquito_1519",
+  "name": "Mosquito",
+  "instructions": "1. Combine all ingredients in a cocktail shaker with ice and shake until chilled.\n2. Strain into a chilled coupe.\n3. Garnish with candied ginger.\n\n\n ## Editors note:\n\n### Sweetened Ginger Juice\n\nMix 4 parts freshly juiced ginger (skin on) to 3 parts granulated sugar, by weight, until the sugar dissolves. Keeps, refrigerated, for up to 2 days.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Mosquito is an easy mezcal cocktail recipe from New York bar Attaboy. It combines the agave spirit, Campari and lemon and ginger juice.",
+  "source": "https://punchdrink.com/recipes/mosquito/",
+  "garnish": "candied ginger",
+  "abv": 13,
+  "tags": [
+    "Citrusy"
+  ],
+  "glass": "Coupe",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///mosquito-1_JJ6I8i.webp",
+      "sort": 1,
+      "placeholder_hash": "GRgKFwQDh4ead3aDeAinR4d4l9EHCHsA",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "mezcal_92",
+      "name": "Mezcal",
+      "strength": 40,
+      "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+      "origin": "Mexico",
+      "category": "Spirits",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "ginger-syrup_116",
+      "name": "Ginger syrup",
+      "strength": 0,
+      "description": "Syrup infused with ginger root.\n\nThis ginger syrup is fantastic in cocktails, but it also makes an out-of-this-world ginger ale. To make ginger ale, simply fill an ice-filled glass a third of the way with the syrup, top with soda water and a squeeze of lime, stir and enjoy.",
+      "origin": "Worldwide",
+      "category": "Syrups",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "Sweetened Ginger Juice",
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "campari_26",
+      "name": "Campari",
+      "strength": 25,
+      "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+      "origin": "Italy",
+      "category": "Apéritif",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "sparkling-wine_956",
+  "_parent_id": "wines_943",
+  "name": "Sparkling wine",
+  "strength": 0,
+  "description": "Sparkling wine, encompassing everything from Champagne and Prosecco to Cava and Cremant, is a dynamic and essential component in cocktails, primarily valued for its effervescence and ability to add a celebratory lift. Beyond just bubbles, it contributes varying degrees of sweetness, acidity, and specific flavor notes—be it the crisp apple of Prosecco, the yeasty complexity of Champagne, or the citrusy brightness of Cava. In cocktails, sparkling wine lightens heavier spirits, extends refreshing drinks, and adds a luxurious texture, making it perfect for spritzes, fizzes, and iconic drinks like the French 75 or Mimosa, instantly elevating the perceived sophistication and occasion of a drink.",
+  "origin": null,
+  "color": "#000",
+  "category": "Wines",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///sparkling-wine-1_ewlUov.webp",
+      "sort": 1,
+      "placeholder_hash": "5AeGBQAmSOiFeYL6eHiScNj2BxhyiXGZaA",
+      "copyright": "AI Generated"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

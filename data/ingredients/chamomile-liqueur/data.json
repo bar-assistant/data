@@ -1,0 +1,27 @@
+{
+  "_id": "chamomile-liqueur_66",
+  "_parent_id": "liqueurs_939",
+  "name": "Chamomile Liqueur",
+  "strength": 0,
+  "description": "Herbal juice made from chamomile.",
+  "origin": null,
+  "color": "#e2dccc",
+  "category": "Liqueurs",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///chamomile-cordial.png",
+      "sort": 1,
+      "placeholder_hash": "tQiCBQBWi3BrpZWoZlXAXaQEB5iHeHd4eA",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "genepy_1169",
+  "_parent_id": "liqueurs_939",
+  "name": "Génépy",
+  "strength": 38,
+  "description": "Génépy (or Génépi) is a traditional herbal liqueur from the Alpine regions of France and Italy, made from a variety of aromatic mountain plants, primarily Artemisia (a genus that includes wormwood). It has a complex, herbaceous flavor with notes of chamomile, mint, pine, and subtle sweetness, often compared to Chartreuse but with a more delicate and floral profile. The liqueur’s signature golden-green hue comes from the infusion of these alpine herbs.\n\nIf you're looking for a substitute, a mild herbal liqueur like Dolin Génépy des Alpes, Yellow Chartreuse, or even a mix of Green Chartreuse and a floral liqueur (like St-Germain) can work in cocktails that call for Génépy.",
+  "origin": "France",
+  "color": null,
+  "category": "Liqueurs",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///genepy-1_Xm2EB1.webp",
+      "sort": 1,
+      "placeholder_hash": "bRmGFQA89UWEhYx3iDmPgICHBzeFhoVmeA",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "oz"
+}

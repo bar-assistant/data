@@ -1,0 +1,94 @@
+{
+  "_id": "tunnel_2202",
+  "name": "Tunnel",
+  "instructions": "1. Stir all ingredients until chilled in a mixing glass filled with ice.\n2. Strain into a coupe.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This recipe for the Tunnel is a Negroni-like drink from Paris bar Cravan. It combines gin, Campari and two types of vermouth.",
+  "source": "https://punchdrink.com/recipes/tunnel/",
+  "garnish": "grapefruit twist",
+  "abv": 23.82,
+  "tags": [
+    "Bitter",
+    "Aperitivo"
+  ],
+  "glass": "Coupe",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///tunnel-1_l2HpQA.webp",
+      "sort": 1,
+      "placeholder_hash": "1ygKDwKItXUEWYpsl6hpRlmHePSNCY8E",
+      "copyright": "Punch Staff | Puxan Photo"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "dry-vermouth_118",
+      "name": "Dry Vermouth",
+      "strength": 18,
+      "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "campari_26",
+      "name": "Campari",
+      "strength": 25,
+      "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+      "origin": "Italy",
+      "category": "Apéritif",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "punt-e-mes_1401",
+      "name": "Punt e Mes",
+      "strength": 36,
+      "description": "Punt e Mes is a bittersweet Italian aperitivo, originating in Turin, Italy. The name itself translates to 'one and two,' referencing the original ratio of sweet vermouth to Campari used in its creation. It's a complex blend of botanicals, spices, and citrus peels, resulting in a uniquely layered flavor profile that balances bitterness with subtle sweetness and aromatic depth. The precise recipe remains a closely guarded secret, but it's known to include ingredients like gentian root, cinchona bark, and various citrus fruits.\n\nPunt e Mes offers a distinctive taste experience, characterized by a pronounced bitterness that isn't overpowering, but rather balanced by a gentle sweetness and a lingering herbal complexity. It's often enjoyed neat or with a splash of soda water, and its versatility lends itself well to experimentation with other mixers. The ingredient is known for its rich texture and full-bodied mouthfeel, making it a satisfying and sophisticated choice for those seeking an alternative to more common aperitifs.\n\nPunt e Mes is a relatively strong aperitivo, reflecting its Campari base. It's a key ingredient for those looking to add a touch of Italian flair to their drinks program, and its unique flavor profile sets it apart from other bitter components.",
+      "origin": "Italy",
+      "category": "Sweet Vermouth",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

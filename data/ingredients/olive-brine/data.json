@@ -1,0 +1,27 @@
+{
+  "_id": "olive-brine_1394",
+  "_parent_id": null,
+  "name": "Olive brine",
+  "strength": 0,
+  "description": "Olive brine, most famously associated with the Dirty Martini, is the salty, savory liquid found in jars of olives. In cocktails, it serves as a powerful seasoning, adding a briny, umami depth and a subtle saltiness that can round out flavors and enhance the perception of other ingredients. A small amount of olive brine can transform a drink, cutting through richness and providing a distinctive, savory counterpoint, particularly effective with gin or vodka to create a well-balanced, piquantly flavored libation.",
+  "origin": null,
+  "color": "#e2e5bd",
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///olive-brine-1_sXeF1A.webp",
+      "sort": 0,
+      "placeholder_hash": "4TmGDQInkaZfmH0XSELwBFVdgGpEiLC4GQ",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

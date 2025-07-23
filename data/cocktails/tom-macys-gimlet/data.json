@@ -1,0 +1,77 @@
+{
+  "_id": "tom-macys-gimlet_1158",
+  "name": "Tom Macy’s Gimlet",
+  "instructions": "1. Cut a lime in half, then cut one half into quarters.\n2. Muddle the limes in simple syrup.\n3. Add lime juice and gin.\n4. Shake and fine strain into a coupe.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Tom Macy's Gimlet cocktail recipe is simple: two ounces of gin, three-quarters of an ounce of simple syrup and half an ounce of lime juice.",
+  "source": "https://punchdrink.com/recipes/tom-macys-gimlet/",
+  "garnish": null,
+  "abv": 19.69,
+  "tags": [
+    "Citrusy"
+  ],
+  "glass": "Nick and Nora",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///tom-macys-gimlet-1_Bjdj6A.jpg",
+      "sort": 0,
+      "placeholder_hash": "KvgRDwKPSXqUiIZ3eGiIV4h4CWdF9UUG",
+      "copyright": "Punch Staff"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Tanqueray",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

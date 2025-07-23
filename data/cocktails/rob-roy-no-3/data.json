@@ -1,0 +1,75 @@
+{
+  "_id": "rob-roy-no-3_1151",
+  "name": "Rob Roy No. 3",
+  "instructions": "1. Add all ingredients to a mixing glass.\n2. Add ice and stir until chilled.\n3. Strain into a rocks glass over ice.\n4. Garnish with an orange peel.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Brian Silva's overhaul of a classic scotch whisky cocktail recipe is inspired by the structure of a \"perfect\" cocktail.",
+  "source": "https://punchdrink.com/recipes/rob-roy-no-3/",
+  "garnish": "orange peel",
+  "abv": 26.81,
+  "tags": [],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///rob-roy-no-3-1_rqHZDz.jpg",
+      "sort": 0,
+      "placeholder_hash": "5igSFwJ3d4d1d4ePeFd3WGd6ScAYAm0C",
+      "copyright": "Punch Staff | Daniel Krieger"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "scotch-whiskey_84",
+      "name": "Scotch whiskey",
+      "strength": 40,
+      "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+      "origin": "Scotland",
+      "category": "Whiskey",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Famous Grouse",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "dry-vermouth_118",
+      "name": "Dry Vermouth",
+      "strength": 18,
+      "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "vermouth-bianco_185",
+      "name": "Vermouth Bianco",
+      "strength": 15,
+      "description": "First launched way back in 1910, Bianco is a wonderful style of vermouth. First inspired by the white flowers of vanilla plants, the bottling has been nicknamed ‘Bianchissimo’, meaning “the whitest of the white”.\n\nWhilst it looks like a dry vermouth, this is a sweeter style, which offers flavours of juicy citrus, berries, peaches and apricots, some mixed herbs, a touch of charcoal, vanilla, honey, apples, and some faint herby bitterness.\n\nDelicate and well balanced, this vermouth is a bartender’s dream, offering sweet complexity that is perfect in White Negronis and Martini style drinks.",
+      "origin": "Italy",
+      "category": "Fortified wine",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

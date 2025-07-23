@@ -1,0 +1,95 @@
+{
+  "_id": "spanish-monk_2204",
+  "name": "Spanish Monk",
+  "instructions": "1. Add all ingredients to a shaker and dry-shake.\n2. Add ice, then shake again.\n3. Strain into a coupe.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "First published in 1951 in Charles H. Baker Jr.’s The South American Gentleman’s Companion, the Spanish Monk combines gin, lemon, green Chartreuse, simple syrup and an egg white. Nick Flower learned the recipe at New York’s Little Branch, and he now serves the classic at his bar Too Soon in Portland, Oregon.",
+  "source": "https://punchdrink.com/recipes/spanish-monk/",
+  "garnish": null,
+  "abv": 21.54,
+  "tags": [
+    "Citrusy",
+    "Classic",
+    "Sour"
+  ],
+  "glass": "Coupe",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///spanish-monk-1_D33j9x.webp",
+      "sort": 1,
+      "placeholder_hash": "zygSFwQIuHh3dnd0eVeoiJh2VgRIhIAH",
+      "copyright": "Punch Staff | Seth Marquez"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 1.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "green-chartreuse_41",
+      "name": "Green Chartreuse",
+      "strength": 55,
+      "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": 1951
+}

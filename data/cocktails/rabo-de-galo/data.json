@@ -1,0 +1,79 @@
+{
+  "_id": "rabo-de-galo_1103",
+  "name": "Rabo de Galo",
+  "instructions": "1. Pour the cachaça, vermouth and Cynar into a mixing glass with ice and stir until chilled.\n2. Strain into a rocks glass with ice.\n3. Garnish with a lime twist.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Rabo de Galo is a classic cocktail made of cachaça, sweet vermouth and Cynar from Brazil. This bittersweet recipe is aperitivo-ready.",
+  "source": "https://punchdrink.com/recipes/rabo-de-galo/",
+  "garnish": "lime twist",
+  "abv": 25.88,
+  "tags": [
+    "Classics",
+    "Bitter",
+    "Citrusy"
+  ],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///rabo-de-galo-1_xHej7T.jpg",
+      "sort": 0,
+      "placeholder_hash": "HvgRJwaPd4ZmhnqWmYiZeJiId3BYB4YE",
+      "copyright": "Punch Staff"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "cachaca_103",
+      "name": "Cachaça",
+      "strength": 40,
+      "description": "Cachaça (pronounced ka-SHAH-suh) is a Brazilian distilled spirit made from fermented sugarcane juice. It is a key ingredient in the famous Brazilian cocktail, the Caipirinha. Cachaça is often compared to rum, but there are distinct differences in the production process and flavor profile.\n\nCachaça is classified based on aging:\n- White (Prata or Silver): Unaged or briefly aged, maintaining a clear appearance.\n- Gold (Ouro): Aged cachaça, which takes on a golden hue from the wooden barrels.\n- Premium/Extra Aged (Extra Premium or Extra Envelhecida): Aged for an extended period, often in exotic wood barrels.\n\nCachaça holds cultural significance in Brazil and is enjoyed in various ways, from sipping neat to being used as a base spirit in cocktails. It has gained international recognition for its unique production methods and the distinct flavors it brings to mixology.",
+      "origin": "Brazil",
+      "category": "Sugarcane-based spirits",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "sweet-vermouth_117",
+      "name": "Sweet Vermouth",
+      "strength": 18,
+      "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "cynar_143",
+      "name": "Cynar",
+      "strength": 16.5,
+      "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
+      "origin": "Italy",
+      "category": "Amaro",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

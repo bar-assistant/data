@@ -1,0 +1,27 @@
+{
+  "_id": "fruit-brandy_953",
+  "_parent_id": "brandy_87",
+  "name": "Fruit brandy",
+  "strength": 40,
+  "description": "Fruit brandy is a distilled beverage made from the fermentation and distillation of various fruits, excluding grapes. Common types include apple brandy, pear brandy, and cherry brandy, and they typically have an alcohol content of 40% to 45% ABV.",
+  "origin": null,
+  "color": "#000",
+  "category": "Spirits > Brandy",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///fruit-brandy-1_RiVl3l.webp",
+      "sort": 1,
+      "placeholder_hash": "5AeGBQAmSOiFeYL6eHiScNj2BxhyiXGZaA",
+      "copyright": "AI Generated"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

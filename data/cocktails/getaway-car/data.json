@@ -1,0 +1,109 @@
+{
+  "_id": "getaway-car_779",
+  "name": "Getaway Car",
+  "instructions": "1. Fill a shaker tin half-full with pebble ice.\n2. Add all ingredients and shake.\n3. Fill a Zombie mug half-full with pebble ice.\n4. Strain into the mug, and garnish with a lime wheel and a sprinkle of ancho powder.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Meaghan Dorman's take on the Jungle Bird cocktail recipe swaps in Ancho Reyes for Campari—alongside a kick of ancho chili powder.",
+  "source": "https://punchdrink.com/recipes/getaway-car/",
+  "garnish": "lime wheel and a sprinkle of ancho powder",
+  "abv": 14.22,
+  "tags": [
+    "Fruity"
+  ],
+  "glass": "Highball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///getaway-car-1_u3O2zW.jpg",
+      "sort": 1,
+      "placeholder_hash": "dPgNFwIEVGR4iIiJmIeId3h3J3wIQKUC",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "dark-rum_99",
+      "name": "Dark Rum",
+      "strength": 40,
+      "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
+      "origin": "Caribbean",
+      "category": "Rum",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Appleton Reserve",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "pineapple-juice_536",
+      "name": "Pineapple juice",
+      "strength": 0,
+      "description": "Pineapple juice is extracted by passing fresh, ripe pineapple through a juice extractor (juicer) or by muddling fresh cut pineapple chunks and then straining out the solids.",
+      "origin": null,
+      "category": "Juices",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "ancho-reyes_535",
+      "name": "Ancho Reyes",
+      "strength": 40,
+      "description": "Ancho Reyes is a brand of chile liqueur produced in Puebla City, Mexico, based on a 1927 recipe from the same city. The liqueur is made from and named after Puebla's renowned ancho chiles, a dried form of ripe poblano peppers.\n\nThe company produces two types of chile liqueur: the original, red Ancho Reyes liqueur and the newer, green Ancho Reyes Verde liqueur. The liqueur is produced using late harvest chiles that have sun-dried for 2 to 3 weeks. For the Verde version of the drink, early harvested fire-roasted poblano chiles are used in addition to the sun-dried chiles.\n\nBoth the red and green liqueurs are 40% ABV and are popular for adding a bit of spice to classic drinks like a margarita or a Paloma.",
+      "origin": "Mexico",
+      "category": "Liqueurs",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

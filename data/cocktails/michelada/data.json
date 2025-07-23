@@ -1,0 +1,109 @@
+{
+  "_id": "michelada_2198",
+  "name": "Michelada",
+  "instructions": "1. Gather the ingredients.\n2. Spread a layer of flaky salt or the chili-lime blend on a saucer. Wet the rim of a chilled beer mug or large glass by running a lime wedge around it. Dip the rim of the glass in the seasoning or salt, rolling it around to cover the entire circumference.\n3. Fill the glass about halfway with ice, then add the lime juice, chili sauce, soy sauce, and Worcestershire sauce. Stir to combine all of the ingredients.\n4. Slowly pour the beer into the glass. Garnish with lime wedge and serve immediately.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Beer is great. That is unassailable. But beer cocktails combine two wonderful categories into one drink, and that is a union everyone can get behind. Take the Michelada: This Mexican classic kicks up the flavor of beer with an assortment of accessories, including lime and hot sauce.\n\nThe Michelada’s origins are unclear, with multiple legends surrounding its creation. But it likely dates back to the middle of the 20th century when it became popular in Mexico to serve beer with lime and salt. The word itself is a combination of “chela,” which is slang for a light beer, “helada” (cold), and “mi”—essentially “my cold beer.”\n\nMany Michelada recipes call for tomato juice or Clamato (a mixture of clam and tomato juices) to create a Bloody Mary-style drink made with beer instead of vodka. Others choose to skip the tomato juice entirely. In Mexico City, for example, the Michelada is commonly made without tomato juice and instead relies on citrus, spices and hot sauce.\n\nThis recipe aligns closer to the Mexico City version, forgoing tomato in favor of lime juice, hot sauce and seasonings. You can choose your favorite beer as the starting point, but you can’t go wrong with a Mexican lager like Tecate, Sol or Modelo Especial. Rim the glass with a salt-cayenne mixture, and you’ll have a hint of savory spice with each sip.",
+  "source": "https://www.thespruceeats.com/michelada-mexican-beer-cocktail-2342595",
+  "garnish": "Salt the rim of a chilled beer mug by rubbing it with a lime wedge and dipping rim in the coarse salt. Save the lime wedge to squeeze over and drop into finished drink.",
+  "abv": 0,
+  "tags": [
+    "Savory"
+  ],
+  "glass": "Highball",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///michelada-1_PrNbLe.webp",
+      "sort": 1,
+      "placeholder_hash": "JnoKJwR4iGlAiHdtd2eJd4aJZ5YJV48A",
+      "copyright": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "beer_733",
+      "name": "Beer",
+      "strength": 0,
+      "description": "Beer is an alcoholic beverage made from fermented cereal grains, primarily malted barley, along with water, hops, and yeast. It is one of the oldest and most widely consumed drinks in the world, often enjoyed in social settings like pubs and festivals.",
+      "origin": null,
+      "category": null,
+      "amount": 1,
+      "units": "bottle",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "cold, preferably a dark Mexican beer",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "tabasco_14",
+      "name": "Tabasco",
+      "strength": 0,
+      "description": "Hot sauce made from vinegar, tabasco peppers, and salt.",
+      "origin": null,
+      "category": null,
+      "amount": 1,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": 2,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "soy-sauce_1398",
+      "name": "Soy sauce",
+      "strength": 0,
+      "description": "Soy sauce in cocktails might sound unusual, but it's a growing trend adding umami and savory depth. Use it sparingly – \na little goes a long way – to avoid overpowering the other ingredients and aim for a nuanced, savory complexity rather than a salty taste.",
+      "origin": null,
+      "category": null,
+      "amount": 1,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": 2,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "worcestershire-sauce_15",
+      "name": "Worcestershire Sauce",
+      "strength": 0,
+      "description": "Fermented liquid condiment created in the city of Worcester",
+      "origin": null,
+      "category": null,
+      "amount": 1,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": 2,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "grape-brandy_936",
+  "_parent_id": "fruit-brandy_953",
+  "name": "Grape Brandy",
+  "strength": 40,
+  "description": "Grape brandy is a generic category for brandy distilled from fermented grapes and aged in wood barrels or other vessels.\n\nWhenever the term “brandy” is used unqualified in a mixed drink recipe, aged grape brandy is what is meant, particularly Cognac and its imitators. If some other kind of brandy is intended, there will usually be additional context (e.g., “apple brandy” or “Spanish brandy”).",
+  "origin": null,
+  "color": "#000",
+  "category": "Spirits > Brandy > Fruit brandy",
+  "created_at": null,
+  "updated_at": null,
+  "images": [],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

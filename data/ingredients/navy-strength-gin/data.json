@@ -1,0 +1,27 @@
+{
+  "_id": "navy-strength-gin_332",
+  "_parent_id": "gin_75",
+  "name": "Navy Strength Gin",
+  "strength": 57,
+  "description": "Navy strength gin is a high-proof gin with an alcohol content of at least 57% ABV, historically associated with the British Royal Navy and known for its robust flavor and ability to ignite gunpowder.",
+  "origin": "United Kingdom",
+  "color": "#ffffff",
+  "category": "Spirits > Gin",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///navy-strength-gin-1_xuggST.png",
+      "sort": 1,
+      "placeholder_hash": "ZQiCBQA0pwqFaYR6OHeAdtYHB7iGeYZ5eA",
+      "copyright": "Plymouth"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

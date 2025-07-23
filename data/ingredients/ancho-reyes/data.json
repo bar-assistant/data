@@ -1,0 +1,27 @@
+{
+  "_id": "ancho-reyes_535",
+  "_parent_id": "liqueurs_939",
+  "name": "Ancho Reyes",
+  "strength": 40,
+  "description": "Ancho Reyes is a brand of chile liqueur produced in Puebla City, Mexico, based on a 1927 recipe from the same city. The liqueur is made from and named after Puebla's renowned ancho chiles, a dried form of ripe poblano peppers.\n\nThe company produces two types of chile liqueur: the original, red Ancho Reyes liqueur and the newer, green Ancho Reyes Verde liqueur. The liqueur is produced using late harvest chiles that have sun-dried for 2 to 3 weeks. For the Verde version of the drink, early harvested fire-roasted poblano chiles are used in addition to the sun-dried chiles.\n\nBoth the red and green liqueurs are 40% ABV and are popular for adding a bit of spice to classic drinks like a margarita or a Paloma.",
+  "origin": "Mexico",
+  "color": "#712400",
+  "category": "Liqueurs",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///ancho-reyes-1_YI1V69.png",
+      "sort": 1,
+      "placeholder_hash": "3kiKDQRYSfVxjXFcqGh/fPbHB2h3iId4dw",
+      "copyright": "Ancho reyes"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

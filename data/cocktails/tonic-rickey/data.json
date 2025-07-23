@@ -1,0 +1,109 @@
+{
+  "_id": "tonic-rickey_738",
+  "name": "Tonic Rickey",
+  "instructions": "1. In a lowball glass filled with ice, add the lime juice and simple syrup. Stir to combine.\n2. Slowly stir in the tonic water and seltzer water.\n3. Top with the bitters and serve.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This simple non-alcoholic Tonic Rickey from cocktail blogger Camille Wilson combines lime juice, simple syrup, tonic water, seltzer water, and Angostura bitters.",
+  "source": "https://www.liquor.com/tonic-rickey-cocktail-recipe-7091318",
+  "garnish": "Bitters",
+  "abv": 0.29,
+  "tags": [
+    "Virgin"
+  ],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///tonic-rickey-1_4ceMtD.jpg",
+      "sort": 1,
+      "placeholder_hash": "pjkKNwZefYiwh4h8aohnh2h3maAHCXsB",
+      "copyright": "Liquor.com"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "tonic_69",
+      "name": "Tonic",
+      "strength": 0,
+      "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "club-soda_68",
+      "name": "Club soda",
+      "strength": 0,
+      "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer. Also known as soda, siphon soda water, soda water, siphon soda, and siphon water.\n\nSoda water is artificially or naturally carbonated water, to which mineral salts have been added. The product without the salts is termed \"seltzer\" or \"seltzer water.\"\n\nCarbonated water with added minerals—commonly sodium bicarbonate or salt—club soda was designed to approximate mineral water, which is often naturally fizzy, but can carry a hefty price tag. English chemist Joseph Priestly invented the process of carbonation in 1767, when he realized that the carbon dioxide produced during the fermentation of beer could be infused into water. Soon after, Jacob Schweppe, a Swiss watchmaker, figured out how to manufacture carbonated water (which has no added minerals) and club soda. These products would become the cornerstone of the Schweppes Company, which is still in existence today. The added salt or sodium bicarbonate helps to mitigate the sour flavors from the carbonic acid, a byproduct of carbon dioxide.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "angostura-aromatic-bitters_22",
+      "name": "Angostura aromatic bitters",
+      "strength": 44.7,
+      "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+      "origin": "Trinidad & Tobago",
+      "category": "Bitters",
+      "amount": 3,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

@@ -1,0 +1,95 @@
+{
+  "_id": "industry-sour_2153",
+  "name": "Industry Sour",
+  "instructions": "1. Add all ingredients into a shaking tin.\n2. Add ice.\n3. Shake for 8-10 seconds.\n4. Double strain into a chilled coupe.\n5. Enjoy!",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Industry Sour was created by St. Louis bartender Ted Kilgore in 2011. By his own account, it was created for another industry person and the thought going into it was simply “what would happen if I put all my favorite things into one drink” usually this thought leads nowhere good but on this occasion it created a legendary drink.",
+  "source": "https://www.theeducatedbarfly.com/industry-sour/",
+  "garnish": "Dehydrated Lime Wheel",
+  "abv": 18.8,
+  "tags": [
+    "Sour",
+    "Bitter",
+    "Herbacious"
+  ],
+  "glass": "Coupe",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///industry-sour-1_PoKRZU.webp",
+      "sort": 1,
+      "placeholder_hash": "pvcVFwJ2h4hgdoiEd1iIaJmHh/KICH8H",
+      "copyright": "The Educated Barfly"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "fernet-branca_50",
+      "name": "Fernet Branca",
+      "strength": 39,
+      "description": "Fernet Branca is a bittersweet, herbal liqueur made with a number of different herbs and spices, including myrrh, rhubarb, chamomile, cardamom, aloe, and gentian root.",
+      "origin": "Italy",
+      "category": "Amaro",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "green-chartreuse_41",
+      "name": "Green Chartreuse",
+      "strength": 55,
+      "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

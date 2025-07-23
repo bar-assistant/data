@@ -1,0 +1,27 @@
+{
+  "_id": "umeshu_1403",
+  "_parent_id": "liqueurs_939",
+  "name": "Umeshu",
+  "strength": 15,
+  "description": "Umeshu is a traditional Japanese alcoholic beverage made by steeping Ume (Japanese plums) in liquor, typically a neutral spirit like shochu or brandy, and allowing them to macerate with sugar. The process results in a sweet, fruity liqueur with a complex flavor profile that balances the tartness of the plums with the sweetness of the added sugar. The plums used in Umeshu are typically harvested when they are still green and unripe, which contributes to the characteristic tartness of the final product. The aging process can vary, with some Umeshu being ready to consume relatively quickly, while others are aged for extended periods to develop more nuanced flavors.",
+  "origin": "Japan",
+  "color": "#E2D1B3",
+  "category": "Liqueurs",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///umeshu-1_DqwERj.webp",
+      "sort": 0,
+      "placeholder_hash": "ZVqCDQI0e6BrtYqUmHd9cHcHB8iGeXd4iA",
+      "copyright": "Uisuki"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

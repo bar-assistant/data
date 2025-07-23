@@ -1,26 +1,35 @@
 {
-    "_id": "aquavit",
-    "_parent_id": "spirits",
-    "name": "Aquavit",
-    "strength": 37.5,
-    "description": "Aquavit is a strong spirit originating in the Nordic countries, at least 37.5% in the alcohol strength department. While caraway is a defining characteristic, the diverse range of botanicals used in aquavit production results in a spirit with a complex and nuanced flavor profile. Aquavit is appreciated for its role in cultural rituals and celebrations, as well as its versatility in various serving contexts.",
-    "origin": "North Europe",
-    "color": "#f2e6bb",
-    "category": "Spirits",
-    "created_at": "2024-08-28T13:52:51+00:00",
-    "updated_at": null,
-    "images": [
-        {
-            "uri": "file:///aquavit-1_v7XC6n.png",
-            "sort": 1,
-            "placeholder_hash": "JVqKVQIeCLd1hnfGR4ePat8YCAiIiId3dw",
-            "copyright": "Linie"
-        }
-    ],
-    "ingredient_parts": [],
-    "prices": [],
-    "calculator_id": null,
-    "sugar_g_per_ml": null,
-    "acidity": null,
-    "distillery": null
+  "_id": "aquavit_323",
+  "_parent_id": "spirits_938",
+  "name": "Aquavit",
+  "strength": 37.5,
+  "description": "Aquavit is a strong spirit originating in the Nordic countries, at least 37.5% in the alcohol strength department. While caraway is a defining characteristic, the diverse range of botanicals used in aquavit production results in a spirit with a complex and nuanced flavor profile. Aquavit is appreciated for its role in cultural rituals and celebrations, as well as its versatility in various serving contexts.\n\nNotably, however, Linie Aquavit is aged in cask shipboard traveling from Oslo, Norway down under the equator, and back again - giving it a softer mouthfeel and light amber color uncharacteristic for aquavits. The ship and date a particular bottle of Linie aquavit made this journey may be viewed on the reverse of the front label, looking through the bottle to see this information. Both versions of aquavit are excellent.",
+  "origin": "North Europe",
+  "color": "#f2e6bb",
+  "category": "Spirits",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///aquavit-1_H7v9ty.png",
+      "sort": 1,
+      "placeholder_hash": "oUmCDQI0d6iMc3A/p4ePcKgICNd2iXd4hw",
+      "copyright": "Linie"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [
+    {
+      "price_category_name": "Hrvatska",
+      "price": 2999,
+      "currency": "EUR",
+      "amount": 700,
+      "units": "ml"
+    }
+  ],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
 }

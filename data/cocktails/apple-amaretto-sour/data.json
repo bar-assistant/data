@@ -1,0 +1,125 @@
+{
+  "_id": "apple-amaretto-sour_423",
+  "name": "Apple Amaretto Sour",
+  "instructions": "Shake",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Autumn variation of Amaretto Sour by Anders",
+  "source": "https://www.youtube.com/watch?v=_nIr7E-cMOs",
+  "garnish": "Express lemon oils, add cocktail cherry",
+  "abv": 15.09,
+  "tags": [
+    "Sour",
+    "Sweet",
+    "Fruity"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [
+    "Shaker"
+  ],
+  "images": [
+    {
+      "uri": "file:///apple-amaretto-sour-1_4Qb3wM.webp",
+      "sort": 1,
+      "placeholder_hash": "0xgOHwQIhWWEh3hxiXimWIaHuVA3C3UD",
+      "copyright": "Epicurious | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "amaretto_29",
+      "name": "Amaretto",
+      "strength": 24,
+      "description": "Amaretto is a sweet Italian liqueur that is known for its distinct almond flavor. The name \"Amaretto\" is derived from the Italian word \"amaro,\" which means bitter, indicating the traditional bitter almond flavor. However, modern Amaretto is typically sweet rather than bitter.\n\nThe primary flavor in Amaretto comes from apricot pits or almonds, though today many commercial brands use a combination of both. The production process involves soaking the almonds or apricot pits in alcohol, which extracts their flavors. The resulting liquid is then sweetened with sugar, and sometimes flavored with vanilla or other spices.\n\nAmaretto is often enjoyed on its own as a digestif or as an ingredient in various cocktails and culinary recipes. It is a versatile liqueur that adds a rich and nutty flavor to beverages and desserts. Classic cocktails like the Amaretto Sour, as well as desserts like tiramisu, often feature this popular Italian liqueur.",
+      "origin": "Italy",
+      "category": "Liqueurs",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "apple-brandy_90",
+      "name": "Apple Brandy",
+      "strength": 40,
+      "description": "Apple brandy is a distilled spirit made from fermented apple juice or cider. The production involves fermenting apples, distilling the resulting liquid, and often aging it in oak barrels. The final product can range from clear to amber in color and exhibits a variety of apple-derived flavors, influenced by the apple varieties used and the aging process. Apple brandy can be enjoyed on its own or used in cocktails and culinary applications. The term encompasses a broad category of apple-based spirits produced globally, with variations in production methods and flavor profiles.",
+      "origin": "France",
+      "category": "Fruit brandy",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [
+        {
+          "_id": "cinnamon-syrup_133",
+          "name": "Cinnamon syrup",
+          "strength": 0,
+          "description": "Simple syrup infused with cinnamon. Follow the recipe to make your own at home:\n\n- 1 cup granulated sugar\n- 1 cup water\n- 4 cinnamon sticks, broken into large pieces\n\nBring all ingredients to a boil over medium heat. Reduce heat to medium-low and let simmer for 8-10 minutes until sugar has dissolved, stirring frequently. Remove from heat and let cool. Discard cinnamon sticks, strain into a clean glass jar and cover. Store refrigerated for up to 2 weeks.",
+          "origin": "Worldwide",
+          "category": "Simple Syrup",
+          "amount": null,
+          "units": null,
+          "amount_max": null
+        }
+      ],
+      "sort": 4
+    },
+    {
+      "_id": "egg-white_17",
+      "name": "Egg White",
+      "strength": 0,
+      "description": "Egg white is the clear liquid part of an egg that surrounds the yolk. It is rich in proteins and is commonly used in cooking and baking for its ability to add structure, foam, and a smooth texture to various dishes.",
+      "origin": "Worldwide",
+      "category": "Dairy",
+      "amount": 1,
+      "units": "whole",
+      "optional": true,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": "amaretto-sour_93",
+  "year": null
+}

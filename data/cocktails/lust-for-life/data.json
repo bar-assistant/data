@@ -1,0 +1,109 @@
+{
+  "_id": "lust-for-life_2154",
+  "name": "Lust for Life",
+  "instructions": "1. Add all ingredients to a shaker with ice and shake until chilled.\n2. Strain into a rocks glass over ice.\n3. Garnish with cocoa powder.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This easy mezcal cocktail recipe combines the agave spirit with palo cortado sherry, orgeat, pineapple and lemon juice.",
+  "source": "https://punchdrink.com/recipes/lust-for-life/",
+  "garnish": "cocoa powder",
+  "abv": 14.55,
+  "tags": [
+    "Citrusy"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///lust-for-life-1_FS9wZZ.webp",
+      "sort": 1,
+      "placeholder_hash": "HDkSDwInipqfh5eTiohoeHiGOHQHgncA",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "mezcal_92",
+      "name": "Mezcal",
+      "strength": 40,
+      "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+      "origin": "Mexico",
+      "category": "Spirits",
+      "amount": 1.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "sherry_124",
+      "name": "Sherry",
+      "strength": 17,
+      "description": "Sherry is a fortified wine that originates from the Jerez region in southwestern Spain. It is made from white grapes, primarily the Palomino grape variety, and is known for its unique production process, diverse styles, and complex flavors. Sherry has a protected designation of origin (DO) status, meaning that only wines produced in the designated region can be labeled as Sherry.",
+      "origin": "Spain",
+      "category": "Fortified wine",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "Palo cortado",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "orgeat-syrup_109",
+      "name": "Orgeat Syrup",
+      "strength": 0,
+      "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
+      "origin": null,
+      "category": "Simple Syrup",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "pineapple-juice_536",
+      "name": "Pineapple juice",
+      "strength": 0,
+      "description": "Pineapple juice is extracted by passing fresh, ripe pineapple through a juice extractor (juicer) or by muddling fresh cut pineapple chunks and then straining out the solids.",
+      "origin": null,
+      "category": "Juices",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

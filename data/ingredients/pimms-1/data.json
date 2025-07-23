@@ -1,0 +1,27 @@
+{
+  "_id": "pimms-1_1399",
+  "_parent_id": "beverages_945",
+  "name": "Pimm’s #1",
+  "strength": 40,
+  "description": "Proprietary British bottled spiced gin sling cocktail to which is added a mixer, like soda water, ginger ale, ginger beer, or 7-Up in a tall glass with ice.",
+  "origin": "England",
+  "color": "#f66151",
+  "category": "Beverages",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///pimms-1-cup-1_qnJlsx.webp",
+      "sort": 1,
+      "placeholder_hash": "njiOBQJYh1eAfIiolwd1mfB3B2h2iId4eA",
+      "copyright": "Pimm's"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

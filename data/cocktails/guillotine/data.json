@@ -1,0 +1,75 @@
+{
+  "_id": "guillotine_1504",
+  "name": "Guillotine",
+  "instructions": "1. Combine all ingredients in a mixing glass with ice and stir until chilled and diluted.\n2. Strain into a chilled cocktail glass.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Guillotine is a mezcal cocktail recipe from San Francisco bar Stoa that combines the spirit with Cynar and dry vermouth.",
+  "source": "https://punchdrink.com/recipes/guillotine/",
+  "garnish": null,
+  "abv": 23.75,
+  "tags": [],
+  "glass": "Coupe",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///guillotine-1_pFeNJl.webp",
+      "sort": 1,
+      "placeholder_hash": "CFkGFwRWiIdCiIeeiAeXuHiWZwXjQCMK",
+      "copyright": "Punch Staff | Nicola Parisi"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "mezcal_92",
+      "name": "Mezcal",
+      "strength": 40,
+      "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+      "origin": "Mexico",
+      "category": "Spirits",
+      "amount": 1.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Del Maguey Vida",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "cynar_143",
+      "name": "Cynar",
+      "strength": 16.5,
+      "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
+      "origin": "Italy",
+      "category": "Amaro",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "dry-vermouth_118",
+      "name": "Dry Vermouth",
+      "strength": 18,
+      "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Dolin",
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

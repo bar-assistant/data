@@ -1,0 +1,27 @@
+{
+  "_id": "midori_1386",
+  "_parent_id": "liqueurs_939",
+  "name": "Midori",
+  "strength": 24,
+  "description": "Proprietary Japanese melon-flavored liqueur with artificial color.\n\nMidori was created developed by Suntory of Japan in 1978 for the American market based on its earlier Hermes Melon Liqueur. Following its rising popularity in the US, Suntory expanded its original Japanese Midori production with facilities in Mexico and France in the early 1980s.",
+  "origin": "Japan",
+  "color": "#04860e",
+  "category": "Liqueurs",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///midori-1_iPJjOa.webp",
+      "sort": 1,
+      "placeholder_hash": "V0mFDQI0imB7lHWpaIdwl/eIB9iGeHd4iA",
+      "copyright": "Midori"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": "Suntory",
+  "units": "ml"
+}

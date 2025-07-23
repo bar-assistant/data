@@ -1,0 +1,27 @@
+{
+  "_id": "hot-chocolate_1397",
+  "_parent_id": "beverages_945",
+  "name": "Hot chocolate",
+  "strength": 0,
+  "description": "Hot chocolate, also known as hot cocoa, is a warm beverage made from melted chocolate or cocoa powder mixed with milk or water, often sweetened and garnished with toppings like whipped cream or marshmallows. It has a rich history dating back thousands of years, originating in Mesoamerica and becoming popular in Europe after being introduced from the New World.",
+  "origin": null,
+  "color": "#63452c",
+  "category": "Beverages",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///hot-chocolate-1_ADGMIT.webp",
+      "sort": 1,
+      "placeholder_hash": "ZkmGDQJHl3ifYZkmRzpglgVmCHd3iHV4Zw",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

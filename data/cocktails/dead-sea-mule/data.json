@@ -1,0 +1,91 @@
+{
+  "_id": "dead-sea-mule_761",
+  "name": "Dead Sea Mule",
+  "instructions": "1. Fill a Collins glass with ice, then add the mezcal, lime juice and grenadine.\n2. Top with the ginger beer and stir briefly and gently to combine.\n3. Garnish with the mint sprig and 2 skewered pieces of candied ginger.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "A house-made pomegranate grenadine is the key to the Dead Sea Mule, a mezcal-laced twist on the classic Moscow Mule.",
+  "source": "https://www.liquor.com/recipes/dead-sea-mule/",
+  "garnish": null,
+  "abv": 8.31,
+  "tags": [],
+  "glass": null,
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///dead-sea-mule-1_TSm3Op.jpg",
+      "sort": 1,
+      "placeholder_hash": "p0gKLw79R6kjmHaadpiHiHh5aGBYBoYE",
+      "copyright": "Liquor.com"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "mezcal_92",
+      "name": "Mezcal",
+      "strength": 40,
+      "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+      "origin": "Mexico",
+      "category": "Spirits",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "freshly squeezed",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "grenadine-syrup_112",
+      "name": "Grenadine Syrup",
+      "strength": 0,
+      "description": "Fruit syrup made from pomegranates.",
+      "origin": "Worldwide",
+      "category": "Syrups",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "ginger-beer_71",
+      "name": "Ginger beer",
+      "strength": 0,
+      "description": "Ginger ale is a non-alcoholic carbonated beverage flavored with ginger. It is known for its fizzy and slightly spicy taste, derived from the natural or artificial ginger flavorings used in its production. Ginger ale is often consumed on its own as a refreshing soft drink, and it is also a common mixer in various cocktails. There are both commercial and homemade versions of ginger ale, with variations that may include additional ingredients such as citrus or sweeteners.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 150,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "to top",
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

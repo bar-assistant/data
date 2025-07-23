@@ -1,0 +1,75 @@
+{
+  "_id": "chrysanthemum_787",
+  "name": "Chrysanthemum",
+  "instructions": "1. Stir all of the ingredients in a mixing glass with ice until chilled. Strain into a chilled glass and garnish.\n2. Tip“I would also try this with blanc vermouth, as many of the recipes of this era like the Algonquin, El Presidente, and Blackthorn that call for dry vermouth taste better with blanc vermouth, in my opinion,” notes Meehan.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Hard to spell but easy to drink, the Chrysanthemum falls into the category of lesser-known classics—still held in good regard, but not often invited to the party. However, with a formula that ticks the current trendy cocktail boxes, the Chrysanthemum might just be ready to bloom once more. Debuting more than a century ago, the recipe first appeared in Hugo Ensslin’s Recipes for Mixed Drinks in 1916, followed by an adaptation by Harry Craddock in 1930 for The Savoy Cocktail Book. Eschewing a base spirit altogether, the Chrysanthemum puts vermouth in the spotlight, augmented with herbal liqueur Bénédictine and boosted by a few dashes of absinthe. “When absinthe was legalized [in the U.S.] at the end of 2006, a lot of bartenders went looking for golden age recipes to see what we could do with the newly legalized spirit,” says bartender and author Jim Meehan, pointing to the drink’s initial resurgence within the craft cocktail renaissance. The primary variation is seen in the ratio of the cocktail, evolving over thedecades in step with drinkers’ tastes. While Ensslin’s early recipe called for equal parts dry vermouth and Bénédictine, Craddock’s version dialed back the sweetness with a 2:1 ratio, which remains more or less the standard today. “The key to resurrecting recipes like this is bringing the big flavors into balance and bringing the sweetness down from the original formula,” says Meehan. “Adding more dry vermouth also throttles the strength of the drink, which makes it more appealing for the aperitif audience. The recipe is a delicious puzzle, with much complexity to consider.",
+  "source": "https://imbibemagazine.com/recipe/chrysanthemum-cocktail/",
+  "garnish": "Orange twist",
+  "abv": 21.24,
+  "tags": [],
+  "glass": "Absinthe",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///chrysanthemum-cocktail-1_aorILM.jpg",
+      "sort": 1,
+      "placeholder_hash": "SAgGDwIJuldTiIZ4i0W3p1d7h4A1CHgB",
+      "copyright": "Imbibe Magazine"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "dry-vermouth_118",
+      "name": "Dry Vermouth",
+      "strength": 18,
+      "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "benedictine_45",
+      "name": "Bénédictine",
+      "strength": 40,
+      "description": "Herbal liqueur flavored with twenty-seven flowers, berries, herbs, roots, and spices. The liqueur has a complex flavor profile with notes of honey, citrus, herbs, and spices. Bénédictine is often enjoyed as a sipping liqueur and is also used as an ingredient in various cocktails, including classic drinks like the Bénédictine and Brandy. The production of Bénédictine dates back to the 19th century, and the liqueur is known for its unique and distinctive taste.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "absinthe_107",
+      "name": "Absinthe",
+      "strength": 40,
+      "description": "Absinthe is a highly alcoholic and anise-flavored spirit that is historically known for its association with bohemian culture and its supposed hallucinogenic properties. It is typically green in color, but clear variations also exist. Absinthe is renowned for its distinctive herbal and botanical profile, which often includes ingredients like wormwood (Artemisia absinthium), anise, fennel, and other herbs.\n\nThe production of absinthe involves macerating and distilling these botanicals to create a highly concentrated liquid. The key component, wormwood, was once believed to contain a compound called thujone, thought to induce hallucinations. However, modern absinthes are produced with strict regulations regarding thujone content, and the hallucinogenic effects of traditional absinthe are now considered to be largely exaggerated.\n\nAbsinthe is often served by diluting it with water, typically by pouring cold water over a sugar cube placed on a slotted spoon, which is then held over the glass. This process, known as the \"louche,\" causes the absinthe to cloud and release its herbal flavors.\n\nThe drink gained notoriety in the late 19th and early 20th centuries, particularly in the bohemian and artistic communities of Europe. It was banned in many countries for a period due to concerns about its alleged psychoactive effects and its association with absinthe-induced madness. However, the ban has been lifted in most places, and today absinthe is produced and consumed legally with regulated thujone levels.\n\nAbsinthe has experienced a resurgence in popularity, and while its reputation as a mind-altering substance has been debunked, it is still enjoyed for its unique flavor and the ritualistic manner in which it is often served.",
+      "origin": "France",
+      "category": "Spirits",
+      "amount": 3,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

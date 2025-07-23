@@ -1,0 +1,77 @@
+{
+  "_id": "black-walnut-old-fashioned_1472",
+  "name": "Black Walnut Old Fashioned",
+  "instructions": "Combine ingredients in a mixing glass with ice. Stir until chilled. Strain into an Old Fashioned glass with fresh ice.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "If you are after an Old Fashioned riff with a warming complexity then a Walnut Old Fashioned should hit the spot. So further spike your Bourbon & Orange Bitters with a little Walnut Liqueur for a drink that glides effortlessly down your throat.",
+  "source": "https://cocktailsdistilled.com/recipe/walnut-old-fashioned/",
+  "garnish": "Orange twist",
+  "abv": 31.39,
+  "tags": [
+    "Old Fashioned"
+  ],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///black-walnut-old-fashioned-1_qHQ6pp.webp",
+      "sort": 1,
+      "placeholder_hash": "JykKJwSgqIVneamcd3lnmmaFWQRaVpAF",
+      "copyright": "cookinginmygenes"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "bourbon-whiskey_82",
+      "name": "Bourbon Whiskey",
+      "strength": 40,
+      "description": "A type of American whiskey, primarily made from corn and aged in new charred oak barrels. Bourbon has a sweet and full-bodied flavor profile.\n\nTo be labeled as bourbon, a whiskey must meet the following criteria:\n\n1. Grain Mash Composition: Bourbon must be made from a grain mash that is at least 51% corn. The remaining portion of the mash can include other grains such as barley, rye, and wheat.\n\n2. Distillation: Bourbon must be distilled to no more than 160 proof (80% alcohol by volume) and entered into the barrel for aging at no more than 125 proof (62.5% alcohol by volume).\n\n3. Barrel Aging: Bourbon must be aged in new charred oak barrels. There is no minimum aging requirement for bourbon, but to be labeled as \"straight bourbon,\" it must be aged for at least two years.\n\n4. No Additives: Bourbon must not contain any additives except water to adjust the proof.\n\n5. Bottling Strength: Bourbon must be bottled at a minimum of 80 proof (40% alcohol by volume).\n\n6. Geographic Origin: While bourbon can be produced anywhere in the United States, it is strongly associated with Kentucky, and many consider Kentucky bourbon to be a distinctive category.",
+      "origin": "North America",
+      "category": "Whiskey",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "walnut-liqueur_152",
+      "name": "Walnut Liqueur",
+      "strength": 32,
+      "description": "Walnut liqueur is known in Austria and Germany as Nüsse or Nüssenschnaps, in France as Noix, and in Italy as Nocino. Residents of Alpine regions traditionally drink walnut liqueurs during Christmastime. The spice and depth pair well with wintery nights and hearty meals. Serve to guests in a cordial glass, post-dinner or as an unexpected dessert pairing. In cocktails, Nux Alpina is an extraordinary complement to brown spirits and dark fortified wines, like Madeira, sherry and sweet red vermouth.\n\n- Aromatic liqueur renowned for its balance, depth and smooth finish\n- Made from fresh green “Weinsberg” walnuts steeped in grape brandy\n- Infused with spices and alpine botanicals\n- Serve after hearty meals or in coffee, cream or egg drinks\n- Complements brown spirits and dark fortified wines\n- Produced by Austria's Purkhart family for three generations",
+      "origin": "Worldwide",
+      "category": "Liqueurs",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "orange-bitters_21",
+      "name": "Orange bitters",
+      "strength": 28,
+      "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
+      "origin": "Worldwide",
+      "category": "Bitters",
+      "amount": 4,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

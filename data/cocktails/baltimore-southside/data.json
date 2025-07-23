@@ -1,0 +1,109 @@
+{
+  "_id": "baltimore-southside_1832",
+  "name": "Baltimore Southside",
+  "instructions": "1. Combine the rum, lemon juice, simple syrup and mint in a shaker with ice.\n2. Shake until chilled.\n3. Strain into a double rocks glass over 1.25-inch ice cubes.\n4. Top with about 1 1/2 ounces of club soda.\n5. Garnish with mint and a lemon wheel.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "A Southside that honors the legacy of Baltimore's Black bartenders.",
+  "source": "https://punchdrink.com/recipes/aaron-josephs-southside/",
+  "garnish": "mint bouquet, lemon wheel or dehydrated lemon wheel",
+  "abv": 18.29,
+  "tags": [
+    "Citrusy"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///baltimore-southside-1_HpsPdG.webp",
+      "sort": 1,
+      "placeholder_hash": "1PgVHwIFeYmEeXiHeHiHd4h3R6CI9IQI",
+      "copyright": "Punch Staff | Punch"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "light-rum_96",
+      "name": "Light Rum",
+      "strength": 40,
+      "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+      "origin": "Caribbean",
+      "category": "Rum",
+      "amount": 2,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "such as Don Q Cristal or El Dorado 3-year",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "mint_7",
+      "name": "Mint",
+      "strength": 0,
+      "description": "Mint refers to a family of aromatic herbs known for their refreshing flavor and fragrance. The most commonly used and recognized type of mint is spearmint (Mentha spicata), but there are various other species and hybrids, including peppermint (Mentha × piperita).",
+      "origin": null,
+      "category": "Fruits and vegetables",
+      "amount": 6,
+      "units": "leaves",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": 8,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "club-soda_68",
+      "name": "Club soda",
+      "strength": 0,
+      "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer. Also known as soda, siphon soda water, soda water, siphon soda, and siphon water.\n\nSoda water is artificially or naturally carbonated water, to which mineral salts have been added. The product without the salts is termed \"seltzer\" or \"seltzer water.\"\n\nCarbonated water with added minerals—commonly sodium bicarbonate or salt—club soda was designed to approximate mineral water, which is often naturally fizzy, but can carry a hefty price tag. English chemist Joseph Priestly invented the process of carbonation in 1767, when he realized that the carbon dioxide produced during the fermentation of beer could be infused into water. Soon after, Jacob Schweppe, a Swiss watchmaker, figured out how to manufacture carbonated water (which has no added minerals) and club soda. These products would become the cornerstone of the Schweppes Company, which is still in existence today. The added salt or sodium bicarbonate helps to mitigate the sour flavors from the carbonic acid, a byproduct of carbon dioxide.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 1,
+      "units": "topup",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

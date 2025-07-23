@@ -1,0 +1,110 @@
+{
+  "_id": "ultima-palabra_786",
+  "name": "Ultima Palabra",
+  "instructions": "1. SHAKE all ingredients with ice and fine strain into chilled glass",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Named after the direct Spanish translation of Last Word, hence the use of mezcal in place of the gin in a classic Last Word cocktail. Pineapple juice, another distinguishing feature of this riff on the classic, works brilliantly – adding a fruity sweetness and complexity.",
+  "source": "https://www.diffordsguide.com/cocktails/recipe/3663/ultima-palabra",
+  "garnish": "Thyme sprig",
+  "abv": 20.32,
+  "tags": [
+    "Herbacious",
+    "Sour"
+  ],
+  "glass": "Coupe",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///ultima-palabra-1_8Q36Pa.jpg",
+      "sort": 1,
+      "placeholder_hash": "TAgGFwAsyIh6hXhwexbHiHeMWpA39FcL",
+      "copyright": "Simone De Luca"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "mezcal_92",
+      "name": "Mezcal",
+      "strength": 40,
+      "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+      "origin": "Mexico",
+      "category": "Spirits",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "green-chartreuse_41",
+      "name": "Green Chartreuse",
+      "strength": 55,
+      "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "maraschino_37",
+      "name": "Maraschino",
+      "strength": 32,
+      "description": "Liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.\n\nThe Luxardo family, an Italian producer, is particularly well-known for its Maraschino liqueur.",
+      "origin": "Croatia",
+      "category": "Liqueurs",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "pineapple-juice_536",
+      "name": "Pineapple juice",
+      "strength": 0,
+      "description": "Pineapple juice is extracted by passing fresh, ripe pineapple through a juice extractor (juicer) or by muddling fresh cut pineapple chunks and then straining out the solids.",
+      "origin": null,
+      "category": "Juices",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "freshly squeezed",
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

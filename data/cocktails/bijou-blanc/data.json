@@ -1,0 +1,111 @@
+{
+  "_id": "bijou-blanc_2200",
+  "name": "Bijou Blanc",
+  "instructions": "1. Combine all ingredients in a mixing glass with ice.\n2. Stir until chilled.\n3. Strain into a rocks glass over ice.\n4. Garnish with a lemon peel “flag.”",
+  "created_at": null,
+  "updated_at": null,
+  "description": "A modern take on the Bijou, this cocktail recipe puts a fresh spin on the classic Chartreuse cocktail, similar to a White Negroni.",
+  "source": "https://punchdrink.com/recipes/bijou-blanc/",
+  "garnish": "lemon peel",
+  "abv": 33.97,
+  "tags": [
+    "Bitter",
+    "Aperitivo",
+    "Dry"
+  ],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///bijou-blanc-1_kU44l4.webp",
+      "sort": 1,
+      "placeholder_hash": "cikOLwSZiWZ/eYd5hXh4d4h4dQRId3AG",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "navy-strength-gin_332",
+      "name": "Navy Strength Gin",
+      "strength": 57,
+      "description": "Navy strength gin is a high-proof gin with an alcohol content of at least 57% ABV, historically associated with the British Royal Navy and known for its robust flavor and ability to ignite gunpowder.",
+      "origin": "United Kingdom",
+      "category": "Gin",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "such as Four Pillars",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "green-chartreuse_41",
+      "name": "Green Chartreuse",
+      "strength": 55,
+      "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "dry-vermouth_118",
+      "name": "Dry Vermouth",
+      "strength": 18,
+      "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "such as Bordiga",
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "vermouth-bianco_185",
+      "name": "Vermouth Bianco",
+      "strength": 15,
+      "description": "First launched way back in 1910, Bianco is a wonderful style of vermouth. First inspired by the white flowers of vanilla plants, the bottling has been nicknamed ‘Bianchissimo’, meaning “the whitest of the white”.\n\nWhilst it looks like a dry vermouth, this is a sweeter style, which offers flavours of juicy citrus, berries, peaches and apricots, some mixed herbs, a touch of charcoal, vanilla, honey, apples, and some faint herby bitterness.\n\nDelicate and well balanced, this vermouth is a bartender’s dream, offering sweet complexity that is perfect in White Negronis and Martini style drinks.",
+      "origin": "Italy",
+      "category": "Fortified wine",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "such as Bordiga",
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "salers_1168",
+      "name": "Salers",
+      "strength": 16,
+      "description": "One of the most classic French aperitifs is a pour of gentiane liqueur on the rocks with a squeeze of lemon. Salers is the oldest gentian liqueur of the Massif Central, birthplace to this style of product. It distinguishes itself with a pure, firm, rustic earthy profile. Unlike its larger rivals, Salers is less sweet and does not add artificial yellow color, revealing a beautiful natural straw color. Enjoy with ice and lemon, lemonade, in the Blond Negroni with gin and Dolin blanc, or as an earthy base note in a variety of cocktails. With the addition of a pinch of salt, Salers takes on herbal, tequila-like flavors.",
+      "origin": "France",
+      "category": "Gentian Liqueur",
+      "amount": 0.25,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": "bijou_98",
+  "year": null
+}

@@ -1,0 +1,109 @@
+{
+  "_id": "cosa-nostra-2_422",
+  "name": "Cosa Nostra №2",
+  "instructions": "Shake everything except the ginger ale with ice and strain into a pilsner glass over crushed ice.\nTop with the ginger ale",
+  "created_at": null,
+  "updated_at": null,
+  "description": "A delicious and simple Highball created by Dane Barca at Smuggler's Cove",
+  "source": "https://www.reddit.com/r/cocktails/comments/17p3tyu/cosa_nostra_2/",
+  "garnish": null,
+  "abv": 20.6,
+  "tags": [
+    "Tiki"
+  ],
+  "glass": "Hurricane",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///cosa-nostra-2-1_T84uES.webp",
+      "sort": 1,
+      "placeholder_hash": "UBgSFwRXhndwl3maeGeHiJameYBXB3gE",
+      "copyright": "Reddit"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "amaro-averna_126",
+      "name": "Amaro Averna",
+      "strength": 29,
+      "description": "Amaro Averna is the most popular cocktail amaro in the amber, bittersweet style that makes up much of the “common” amari stocked on shelves. Because of this, Averna is often one of the easiest bottles to procure, and may be used as a substitute in a pinch for other harder to find styles like Montenegro, Ramazzotti, and Ciociaro. Most folks will tell you that “each amaro is different” and effectively—yes—this is true, but many amari will substitute for one-another just fine, with the understanding that the drink will be subtly different.",
+      "origin": "Italy",
+      "category": "Amaro",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "light-rum_96",
+      "name": "Light Rum",
+      "strength": 40,
+      "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+      "origin": "Caribbean",
+      "category": "Rum",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "angostura-aromatic-bitters_22",
+      "name": "Angostura aromatic bitters",
+      "strength": 44.7,
+      "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+      "origin": "Trinidad & Tobago",
+      "category": "Bitters",
+      "amount": 1,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "ginger-beer_71",
+      "name": "Ginger beer",
+      "strength": 0,
+      "description": "Ginger ale is a non-alcoholic carbonated beverage flavored with ginger. It is known for its fizzy and slightly spicy taste, derived from the natural or artificial ginger flavorings used in its production. Ginger ale is often consumed on its own as a refreshing soft drink, and it is also a common mixer in various cocktails. There are both commercial and homemade versions of ginger ale, with variations that may include additional ingredients such as citrus or sweeteners.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 1,
+      "units": "topup",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

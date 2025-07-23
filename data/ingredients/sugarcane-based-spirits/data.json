@@ -1,0 +1,20 @@
+{
+  "_id": "sugarcane-based-spirits_955",
+  "_parent_id": "spirits_938",
+  "name": "Sugarcane-based spirits",
+  "strength": 0,
+  "description": "Sugarcane & molasses-based spirits is an abstract category for spirits distilled from one (or more) of the following: fermented sugarcane juice, fermented sugarcane syrup—which is sugarcane juice boiled down to a syrup for storage—or sugarcane molasses. Sugarcane molasses is the principle byproduct of refining cane sugar. Many—but not all—sugar cane spirits are aged in wood to some degree.",
+  "origin": null,
+  "color": "#000",
+  "category": "Spirits",
+  "created_at": null,
+  "updated_at": null,
+  "images": [],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

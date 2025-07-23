@@ -1,0 +1,27 @@
+{
+  "_id": "becherovka_1385",
+  "_parent_id": "aperitif_959",
+  "name": "Becherovka",
+  "strength": 38,
+  "description": "Becherovka (Czech pronunciation: [ˈbɛxɛˌrofka]), formerly Karlsbader Becherbitter, is a herbal bitters, often drunk as a digestif. It is produced in Karlovy Vary, Czech Republic by the Jan Becher company. The brand is owned by Pernod Ricard. It is made from a secret recipe based on more than twenty types of herbs and spices.\n\nBecherovka is often described as having a gingery or cinnamon flavor.",
+  "origin": "Czech",
+  "color": "#884202",
+  "category": "Apéritif",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///becherovka-1_rbICFf.webp",
+      "sort": 1,
+      "placeholder_hash": "nvmJPQQPBxeEeoqGVziIjyAXBwd5eYmJdw",
+      "copyright": "Becherovka"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": "Jan Becher",
+  "units": "ml"
+}

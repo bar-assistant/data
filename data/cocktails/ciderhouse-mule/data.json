@@ -1,0 +1,109 @@
+{
+  "_id": "ciderhouse-mule_751",
+  "name": "Ciderhouse Mule",
+  "instructions": "1. Add all of the ingredients, except the sparkling rosé, to a shaker with ice.\n2. Shake until chilled.\n3. Add the sparkling rosé to the shaker before straining the cocktail into a glass filled with ice.\n4. Garnish.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Taking the Moscow Mule into spritz territory, Tim Sweeney, head bartender of Pebble Bar in New York City, combines vodka, lime, and ginger syrup with a touch of raspberry liqueur and sparkling rosé.",
+  "source": "https://imbibemagazine.com/recipe/ciderhouse-mule-from-pebble-bar/",
+  "garnish": "Lemon wheel",
+  "abv": 11.54,
+  "tags": [
+    "Mule"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///ciderhouse-mule-1_hX4m3d.png",
+      "sort": 1,
+      "placeholder_hash": "UhgKFwQSm3ZwioaVW6d5Z1aYNwAnBYAE",
+      "copyright": "Imbibe Magazine | Max Flatow/@mflatowphoto"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "vodka_78",
+      "name": "Vodka",
+      "strength": 40,
+      "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
+      "origin": "Russia",
+      "category": "Spirits",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "chambord_39",
+      "name": "Chambord",
+      "strength": 16.5,
+      "description": "Chambord is a premium black raspberry liqueur produced in the Loire Valley of France. It is renowned for its rich and luxurious flavor profile, which combines blackberries, Madagascan vanilla, Moroccan citrus peel, honey, and cognac. The liqueur is known for its deep purple color and its distinctive, ornate bottle.\n\nChambord is often used as a flavoring agent in cocktails, adding a sweet and fruity dimension to drinks. It is a popular ingredient in classic cocktails like the \"Chambord Royale,\" where it is mixed with champagne or sparkling wine, and in modern mixology for creating a variety of creative and flavorful beverages.\n\nAdditionally, Chambord can be enjoyed on its own or drizzled over desserts, as its complex and indulgent taste makes it a versatile addition to both cocktails and culinary creations.",
+      "origin": "Worldwide",
+      "category": "Liqueurs",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "ginger-syrup_116",
+      "name": "Ginger syrup",
+      "strength": 0,
+      "description": "Syrup infused with ginger root.\n\nThis ginger syrup is fantastic in cocktails, but it also makes an out-of-this-world ginger ale. To make ginger ale, simply fill an ice-filled glass a third of the way with the syrup, top with soda water and a squeeze of lime, stir and enjoy.",
+      "origin": "Worldwide",
+      "category": "Syrups",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "prosecco_121",
+      "name": "Prosecco",
+      "strength": 11,
+      "description": "Prosecco is a sparkling wine that originates from the Veneto region of Italy. It is made primarily from the Glera grape variety, although other permitted grape varieties may also be used in smaller quantities. Prosecco is known for its fresh and fruity character, and it is one of the most popular and widely consumed sparkling wines globally.\n\nProsecco is known for its effervescence, and the bubbles are generally lighter and less persistent than those in traditional method sparkling wines like Champagne.",
+      "origin": "Italy",
+      "category": "Sparkling wine",
+      "amount": 75,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

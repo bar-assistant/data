@@ -1,0 +1,93 @@
+{
+  "_id": "st-john-frizells-irish-coffee_1508",
+  "name": "St. John Frizell’s Irish Coffee",
+  "instructions": "1. Add the whiskey and simple syrup into a mixing tin.\n2. Add a small amount of boiling water to an 11-ounce mug to heat it, and nestle the tin in the mug so that the tin heats as well.\n3. Dump the water out of the mug, add the whiskey-sugar mixture and top with boiling water to about 1 inch below the rim of the glass.\n4. Pour the espresso shot directly into the mug.\n5. Float the cream on top and garnish with freshly grated cinnamon.\n\n\n ## Editors note:\n\n### Whipped Heavy Cream:\n\nPour several ounces of heavy cream into a mixing tin. Dry shake without ice until the cream begins to thicken, but is still pourable.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The best Irish Coffee cocktail recipe, which won our tasting of variations on the drink, combines Irish whiskey, espresso and whipped cream.",
+  "source": "https://punchdrink.com/recipes/st-john-frizells-irish-coffee/",
+  "garnish": "freshly grated cinnamon",
+  "abv": 13.64,
+  "tags": [
+    "Coffee"
+  ],
+  "glass": "Glass mug",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///st-john-frizells-irish-coffee-1_NWqxz8.webp",
+      "sort": 1,
+      "placeholder_hash": "phgWDwC3iHmPdXeHiGeHiHiIh2UFZ1AC",
+      "copyright": "Punch Staff"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "irish-whiskey_86",
+      "name": "Irish whiskey",
+      "strength": 40,
+      "description": "Produced in Ireland, often made from a mix of malted and unmalted barley and aged for a minimum period in wooden casks. Styles include single malt, single pot still, blended Irish whiskey, and others.",
+      "origin": "Ireland",
+      "category": "Whiskey",
+      "amount": 1.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Powers Gold Label Irish Whiskey",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "espresso_72",
+      "name": "Espresso",
+      "strength": 0,
+      "description": "Espresso is generally thicker than coffee brewed by other methods, with a viscosity similar to that of warm honey.",
+      "origin": "Italy",
+      "category": "Coffee",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "cream_11",
+      "name": "Cream",
+      "strength": 0,
+      "description": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization.",
+      "origin": null,
+      "category": "Dairy",
+      "amount": 1,
+      "units": "topup",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

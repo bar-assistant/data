@@ -1,0 +1,109 @@
+{
+  "_id": "frozen-margarita_2194",
+  "name": "Frozen Margarita",
+  "instructions": "1. Prepare the glass, if using the lime-salt rim. Moisten half the rim of a double rocks glass with a lime wheel, then dip gently in kosher salt.\n2. Combine all ingredients in a blender.\n3. Fill a 13-ounce double rocks glass with a heaping scoop of pebble ice (see Editor’s Note).\n4. Add ice to the blender and blend until smooth.\n5. Pour into a double rocks glass.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "A frozen Margarita cocktail recipe made with tequila, Cointreau, fresh lime and orange juices and raw agave.",
+  "source": "https://punchdrink.com/recipes/haley-traubs-frozen-margarita/",
+  "garnish": "lime and kosher salt rim, optional",
+  "abv": 20,
+  "tags": [
+    "Fruity"
+  ],
+  "glass": "Lowball",
+  "method": "Blend",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///frozen-margarita-1_MOwA17.webp",
+      "sort": 1,
+      "placeholder_hash": "2RgWLwZVeXdwh3iVeZiXVniJeAa3eHAM",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "tequila-blanco_91",
+      "name": "Tequila Blanco",
+      "strength": 40,
+      "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
+      "origin": "Mexico",
+      "category": "Tequila",
+      "amount": 1.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Milagro Silver",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "cointreau_56",
+      "name": "Cointreau",
+      "strength": 40,
+      "description": "Orange-flavoured triple sec liqueur, it was originally called Curaçao Blanco Triple Sec. Usually more dry tasting than Orange Curaçao.",
+      "origin": "France",
+      "category": "Orange Curaçao",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "orange-juice_60",
+      "name": "Orange juice",
+      "strength": 0,
+      "description": "Freshly squeezed orange juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.25,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "agave-syrup_113",
+      "name": "Agave Syrup",
+      "strength": 0,
+      "description": "Agave syrup, also known as agave nectar, is a sweetener that is derived from the sap of the agave plant, primarily the blue agave plant native to Mexico. The syrup is a popular alternative to traditional sweeteners like sugar and honey, particularly in the context of natural and organic food products.\n\nAgave syrup is praised for its sweetness and versatility. It is sweeter than sugar, so smaller amounts can be used to achieve the same level of sweetness. Additionally, it has a lower glycemic index compared to some other sweeteners, meaning it has a smaller impact on blood sugar levels.\n\nAgave syrup has a mild, neutral flavor, making it suitable for a variety of culinary applications. It is commonly used as a sweetener in beverages, baked goods, and desserts. However, it's essential to note that agave syrup, like any sweetener, should be consumed in moderation due to its high fructose content.",
+      "origin": "Mexico",
+      "category": "Simple Syrup",
+      "amount": 0.25,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": "margarita_45",
+  "year": null
+}

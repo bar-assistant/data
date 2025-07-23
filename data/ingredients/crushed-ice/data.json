@@ -1,0 +1,27 @@
+{
+  "_id": "crushed-ice_1392",
+  "_parent_id": null,
+  "name": "Crushed ice",
+  "strength": 0,
+  "description": "Crushed ice is finely broken ice that melts quickly, making it ideal for cocktails like Mint Juleps and tiki drinks, as it dilutes the drink faster. It has a snow-like texture and is often used to enhance the presentation and taste of beverages.",
+  "origin": null,
+  "color": "#ffffff",
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///crushed-ice-1_0TV5lj.webp",
+      "sort": 0,
+      "placeholder_hash": "9QeCBQApQJnLeIZohgS8tD+zCUaRd3J5Rg",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

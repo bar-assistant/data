@@ -1,0 +1,27 @@
+{
+  "_id": "aquafaba_1171",
+  "_parent_id": null,
+  "name": "Aquafaba",
+  "strength": 0,
+  "description": "The starchy liquid found in a can of chickpeas.",
+  "origin": null,
+  "color": null,
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///aquafaba-1_gxpet6.webp",
+      "sort": 0,
+      "placeholder_hash": "LTqGDQA2cp92mbineAyK8KEICGeJd3B6Zw",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

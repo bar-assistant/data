@@ -1,0 +1,27 @@
+{
+  "_id": "cinnamon_738",
+  "_parent_id": null,
+  "name": "Cinnamon",
+  "strength": 0,
+  "description": "Cinnamon is a spice derived from the inner bark of trees from the genus Cinnamomum, primarily Ceylon cinnamon (Cinnamomum verum) and cassia cinnamon (Cinnamomum aromaticum). It is commonly used in cooking and baking for its distinct flavor and aroma.",
+  "origin": null,
+  "color": "#865e3c",
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///cinnamon-1_t10Jad.webp",
+      "sort": 0,
+      "placeholder_hash": "lGmCBQA1aoWMdmYIpkt/kvUHV2iFeHC5lw",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

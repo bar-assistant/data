@@ -1,0 +1,94 @@
+{
+  "_id": "poets-dream_2196",
+  "name": "Poet’s Dream",
+  "instructions": "Combine all ingredients in a mixing glass and stir with ice. Strain into a chilled coupe and garnish.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Manhattan’s Lantern’s Keep adapted this poetic sipper from a 1930s English bar guide. 2 oz. gin 3/4 oz. dry vermouth 1/4 oz. Bénédictine 2 dash orange bitters Tools: mixing glass, barspoon, strainer Glass: coupe Garnish: lemon twist Combine all ingredients in a mixing glass and stir with ice. Strain into a chilled coupe and garnish. […]",
+  "source": "https://imbibemagazine.com/recipe/poets-dream-recipe/",
+  "garnish": "lemon twist",
+  "abv": 26.43,
+  "tags": [
+    "Herbal",
+    "Classics"
+  ],
+  "glass": "Coupe",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///poets-dream-1_J9dzZk.webp",
+      "sort": 1,
+      "placeholder_hash": "nBgOFwJWmHdgdoh5eaeYZ4eG2cMGr30C",
+      "copyright": "Reddit"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "dry-vermouth_118",
+      "name": "Dry Vermouth",
+      "strength": 18,
+      "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "benedictine_45",
+      "name": "Bénédictine",
+      "strength": 40,
+      "description": "Herbal liqueur flavored with twenty-seven flowers, berries, herbs, roots, and spices. The liqueur has a complex flavor profile with notes of honey, citrus, herbs, and spices. Bénédictine is often enjoyed as a sipping liqueur and is also used as an ingredient in various cocktails, including classic drinks like the Bénédictine and Brandy. The production of Bénédictine dates back to the 19th century, and the liqueur is known for its unique and distinctive taste.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "orange-bitters_21",
+      "name": "Orange bitters",
+      "strength": 28,
+      "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
+      "origin": "Worldwide",
+      "category": "Bitters",
+      "amount": 2,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

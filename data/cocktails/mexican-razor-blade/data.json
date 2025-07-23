@@ -1,0 +1,105 @@
+{
+  "_id": "mexican-razor-blade_1110",
+  "name": "Mexican Razor Blade",
+  "instructions": "1. Add ingredients to a shaking tin with ice and shake until chilled.\n2. Strain into a coupe, if using, or a rocks glass over fresh ice.\n3. Float a cucumber slice as garnish and sprinkle piquín chile, cayenne or other powdered chile on top.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Mexican Razor Blade is anything but basic. Simple but bold, the recipe is a mix of cucumber, lime, syrup and tequila or mezcal.",
+  "source": "https://punchdrink.com/recipes/mexican-razor-blade/",
+  "garnish": "cucumber slice and piquín chile, cayenne or other powdered chile",
+  "abv": 17.07,
+  "tags": [
+    "Citrusy"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///mexican-razor-blade-1_Ly3gSC.jpg",
+      "sort": 0,
+      "placeholder_hash": "KAgSHwLFaod0ZYhwhziHSIiGuDBmClIK",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "tequila-blanco_91",
+      "name": "Tequila Blanco",
+      "strength": 40,
+      "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
+      "origin": "Mexico",
+      "category": "Tequila",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [
+        {
+          "_id": "mezcal_92",
+          "name": "Mezcal",
+          "strength": 40,
+          "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+          "origin": "Mexico",
+          "category": "Spirits",
+          "amount": null,
+          "units": null,
+          "amount_max": null
+        }
+      ],
+      "sort": 1
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "cucumber_144",
+      "name": "Cucumber",
+      "strength": 0,
+      "description": "Cucumbers are a type of vegetable that grow on creeping vines and are known for their cylindrical shape and high water content, making them refreshing to eat.",
+      "origin": null,
+      "category": "Fruits and vegetables",
+      "amount": 2,
+      "units": "slice",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

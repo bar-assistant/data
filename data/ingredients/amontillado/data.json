@@ -1,0 +1,27 @@
+{
+  "_id": "amontillado_957",
+  "_parent_id": "sherry_124",
+  "name": "Amontillado",
+  "strength": 18,
+  "description": "Amontillado sherry is a Spanish fortified wine that falls between fino and oloroso sherries in terms of flavor and body. It starts as a fino sherry, aging under a layer of yeast (flor), but is later exposed to oxygen, which deepens its color and develops nutty, caramelized flavors. This dual aging process gives Amontillado a unique balance of crisp dryness and rich, oxidative complexity, with notes of toasted almonds, dried fruit, and subtle spice.\n\nIn cocktails, Amontillado sherry is prized for its ability to add depth and complexity without overpowering other ingredients. It works well in low-ABV cocktails, where its layered flavors shine, and it also pairs beautifully with whiskey, rum, or vermouth in more spirit-forward drinks. Classic cocktails like the Sherry Cobbler or the Bamboo highlight its versatility, bringing out its nutty and slightly savory character.\n\nBeyond cocktails, Amontillado is excellent as an aperitif or paired with food, especially with nuts, cheeses, cured meats, or seafood. Its dry yet rich profile makes it a sophisticated ingredient in both classic and modern mixology.",
+  "origin": "Spain",
+  "color": "#000",
+  "category": "Fortified wine > Sherry",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///amontillado-1_vNI8gd.webp",
+      "sort": 0,
+      "placeholder_hash": "1iiCBQA0eoBxrnyTOGdwiAY3CNeGeXeIhw",
+      "copyright": "Lustau"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": 0.65,
+  "distillery": null,
+  "units": null
+}

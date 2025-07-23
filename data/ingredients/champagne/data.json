@@ -1,26 +1,27 @@
 {
-    "_id": "champagne",
-    "_parent_id": "wines",
-    "name": "Champagne",
-    "strength": 12,
-    "description": "Champagne is a sparkling wine that comes from the Champagne region of France. It is one of the most famous and prestigious types of sparkling wine globally. The name \"Champagne\" is legally protected, and only wines produced in the Champagne region using specific methods can be labeled as such.\n\nChampagne is often associated with celebrations and is widely used in toasts. It comes in various styles, including non-vintage (a blend of multiple years), vintage (made from grapes of a single year), and prestige cuvées (high-quality, limited-production wines from a specific producer). The versatility of Champagne allows it to be enjoyed on its own or paired with a variety of foods.",
-    "origin": "France",
-    "color": "#f6e1b0",
-    "category": "Wines",
-    "created_at": "2024-08-28T13:52:51+00:00",
-    "updated_at": null,
-    "images": [
-        {
-            "uri": "file:///champagne-1_Z0ojZQ.png",
-            "sort": 1,
-            "placeholder_hash": "VOqFJQIsKtuPQ3zTuASWtvrXCDiDdHd4eA",
-            "copyright": "Berat-Schenk"
-        }
-    ],
-    "ingredient_parts": [],
-    "prices": [],
-    "calculator_id": null,
-    "sugar_g_per_ml": null,
-    "acidity": null,
-    "distillery": null
+  "_id": "champagne_122",
+  "_parent_id": "sparkling-wine_956",
+  "name": "Champagne",
+  "strength": 12,
+  "description": "Champagne is a sparkling wine that comes from the Champagne region of France. It is one of the most famous and prestigious types of sparkling wine globally. The name \"Champagne\" is legally protected, and only wines produced in the Champagne region using specific methods can be labeled as such.\n\nChampagne is often associated with celebrations and is widely used in toasts. It comes in various styles, including non-vintage (a blend of multiple years), vintage (made from grapes of a single year), and prestige cuvées (high-quality, limited-production wines from a specific producer). The versatility of Champagne allows it to be enjoyed on its own or paired with a variety of foods.",
+  "origin": "France",
+  "color": "#f6e1b0",
+  "category": "Wines > Sparkling wine",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///champagne.png",
+      "sort": 1,
+      "placeholder_hash": "nQmCDQAzeJV6hY8xB3eOgNf3CNeFeXeIiA",
+      "copyright": "Berat-Schenk"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
 }

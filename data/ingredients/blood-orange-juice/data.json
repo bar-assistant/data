@@ -1,26 +1,20 @@
 {
-    "_id": "blood-orange-juice",
-    "_parent_id": "orange-juice",
-    "name": "Blood Orange Juice",
-    "strength": 0,
-    "description": "Blood orange juice is a distinctive and flavorful citrus juice known for its deep red color and complex taste, which combines the sweetness of regular orange juice with a subtle, tart berry-like undertone. This unique flavor profile makes it a popular choice in cocktails, where it adds both vibrant color and a burst of fresh, citrusy flavor.",
-    "origin": null,
-    "color": "#c41c09",
-    "category": "Juices > Orange juice",
-    "created_at": "2024-08-28T13:52:51+00:00",
-    "updated_at": "2024-08-31T15:10:51+00:00",
-    "images": [
-        {
-            "uri": "file:///blood-orange-juice-1_VaCLEY.webp",
-            "sort": 1,
-            "placeholder_hash": "IAuHDQRLiIVwe4uWV5aPZflYBzeHh4d3eA",
-            "copyright": "Creative Commons"
-        }
-    ],
-    "ingredient_parts": [],
-    "prices": [],
-    "calculator_id": null,
-    "sugar_g_per_ml": null,
-    "acidity": null,
-    "distillery": null
+  "_id": "blood-orange-juice_165",
+  "_parent_id": "orange-juice_60",
+  "name": "Blood Orange Juice",
+  "strength": 0,
+  "description": "Blood orange juice is prized in cocktails for its vibrant, crimson hue and unique flavor profile, which combines the familiar sweetness and tang of a traditional orange with distinct notes of raspberry, cranberry, or sometimes even subtle floral and bitter undertones. This complexity allows it to add both visual appeal and a deeper, more intriguing taste dimension than standard orange juice. It pairs exceptionally well with a variety of spirits, from gin and vodka to tequila and whiskey, lending itself to sophisticated twists on classics like Margaritas, Negronis, and sours, as well as inspiring entirely new creations.",
+  "origin": null,
+  "color": "#c41c09",
+  "category": "Juices > Citrus juice > Orange juice",
+  "created_at": null,
+  "updated_at": null,
+  "images": [],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
 }

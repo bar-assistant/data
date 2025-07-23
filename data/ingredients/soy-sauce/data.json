@@ -1,0 +1,20 @@
+{
+  "_id": "soy-sauce_1398",
+  "_parent_id": null,
+  "name": "Soy sauce",
+  "strength": 0,
+  "description": "Soy sauce in cocktails might sound unusual, but it's a growing trend adding umami and savory depth. Use it sparingly – \na little goes a long way – to avoid overpowering the other ingredients and aim for a nuanced, savory complexity rather than a salty taste.",
+  "origin": null,
+  "color": "#2a0d02",
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

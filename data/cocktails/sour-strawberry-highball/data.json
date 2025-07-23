@@ -1,0 +1,77 @@
+{
+  "_id": "sour-strawberry-highball_2146",
+  "name": "Sour Strawberry Highball",
+  "instructions": "1. Add the tequila and strawberry shrub to a chilled highball glass. Briefly stir to mix. Nearly fill with ice. Pour seltzer down the neck of a barspoon to top. Garnish with a lime wedge.\nStrawberry Shrub SyrupWash, trim, and quarter 1 lb. of ripe strawberries. Add to a mixing bowl with 2 cups of granulated sugar and toss to coat. Gently mash the fruit with a fork. Cover and let stand at room temperature for 1 hour, then refrigerate for at least 1 day (but 2 is ideal), periodically shaking the container to redistribute the contents. Mix in 1 1/2 cups of apple cider vinegar, then strain and transfer the mixture into a resealable bottle, squeezing out as much liquid as you can. Refrigerate and use within 2 weeks.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Can a compelling cocktail be made with just two ingredients? That's the basis for Roger Kamholz's book Pour Together, which features classic two-ingredient drinks like the Dark & Stormy and the Gibson. But he also includes a few recipes that, although still simple, do require some assembly, such as this Sour Strawberry Highball. A homemade strawberry shrub brings a punch of tart sweetness but, Kamholz says, don't stop there. \"You’re welcome to mingle with other spirits and other fruits\" in this highly modifiable highball recipe.",
+  "source": "https://imbibemagazine.com/recipe/sour-strawberry-highball/",
+  "garnish": "Lime wedge",
+  "abv": 22.22,
+  "tags": [
+    "Dessert"
+  ],
+  "glass": "Highball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///sour-strawberry-highball-1_vu2P4F.webp",
+      "sort": 1,
+      "placeholder_hash": "6UoKHwQNPIeKiIiHmIl4dneJ94ZnP4QI",
+      "copyright": "Imbibe Magazine"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "tequila_952",
+      "name": "Tequila",
+      "strength": 40,
+      "description": "Tequila is a generic category for mescal from Jalisco, Mexico, distilled in whole (100% Blue Agave) or in part (Mixto/Mixed) from the fermented blue agave succulent. The production characteristics of Tequila are very specific and regulated depending on style. The four primary styles of Tequila are blanco (also known as silver or plata), oro (joven or gold), reposado (rested), and añejo (old). A new style, “extra añejo”, was recently added (in 2006) for Tequilas that are aged beyond three years, a recent phenomenon.",
+      "origin": "South America",
+      "category": "Mezcal",
+      "amount": 2,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "strawberry-shrub-syrup_1379",
+      "name": "Strawberry shrub syrup",
+      "strength": 0,
+      "description": "- Wash, trim, and quarter 1 lb. of ripe strawberries.\n- Add to a mixing bowl with 2 cups of granulated sugar and toss to coat.\n- Gently mash the fruit with a fork.\n- Cover and let stand at room temperature for 1 hour, then refrigerate for at least 1 day (but 2 is ideal), periodically shaking the container to redistribute the contents.\n- Mix in 1 1/2 cups of apple cider vinegar, then strain and transfer the mixture into a resealable bottle, squeezing out as much liquid as you can.\n- Refrigerate and use within 2 weeks.",
+      "origin": null,
+      "category": "Infusions",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "club-soda_68",
+      "name": "Club soda",
+      "strength": 0,
+      "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer. Also known as soda, siphon soda water, soda water, siphon soda, and siphon water.\n\nSoda water is artificially or naturally carbonated water, to which mineral salts have been added. The product without the salts is termed \"seltzer\" or \"seltzer water.\"\n\nCarbonated water with added minerals—commonly sodium bicarbonate or salt—club soda was designed to approximate mineral water, which is often naturally fizzy, but can carry a hefty price tag. English chemist Joseph Priestly invented the process of carbonation in 1767, when he realized that the carbon dioxide produced during the fermentation of beer could be infused into water. Soon after, Jacob Schweppe, a Swiss watchmaker, figured out how to manufacture carbonated water (which has no added minerals) and club soda. These products would become the cornerstone of the Schweppes Company, which is still in existence today. The added salt or sodium bicarbonate helps to mitigate the sour flavors from the carbonic acid, a byproduct of carbon dioxide.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 1,
+      "units": "topup",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "whiskey-apple-highball_1513",
+  "name": "Whiskey Apple Highball",
+  "instructions": "1. Build in a highball filled with ice.\n2. Stir.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "It isn’t plausible to say one bar invented such a simple highball. But Shady Pines Saloon in Sydney, and later The Baxter Inn in the same city—both owned by the same team, including Anton Forte and Jason Scott—certainly perfected and popularized this unusual highball. Shady Pines, a Western-themed bar, has a whiskey focus. After a while, the owners began to pair that whiskey with freshly squeezed green apple juice, using a Breville juicer. The novel combination was a hit with the public immediately, partly due to its eye-catching, vivid-green color. The drink never really had a proper name and it wasn’t on the menu. (Forte calls it “Whiskey Apple.”) People just knew it was available and ordered it. Soon bars across Sydney were serving the drink. Beginning in 2017, the highball hopped the Pacific and began showing up on menus at New York cocktail bars like Diamond Reef, The Suffolk Arms and Peppi’s Cellar (opened by Scott himself). That the Granny Smith apples are of good quality and are freshly juiced is vital to the success of the drink. The original whiskey used at the beginning was Jim Beam Rye, but many other ryes works just as well.",
+  "source": "Shady Pines Saloon, Sydney, Australia, 2010",
+  "garnish": null,
+  "abv": 7.27,
+  "tags": [
+    "Fruity"
+  ],
+  "glass": "Highball",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///whiskey-apple-highball-1_DolT6H.webp",
+      "sort": 1,
+      "placeholder_hash": "mQgaLwJ2h3iAhYmZiIeWZ4eHeHBHB3cE",
+      "copyright": "Educated Bar Fly"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "rye-whiskey_83",
+      "name": "Rye whiskey",
+      "strength": 40,
+      "description": "Rye whiskey is a type of whiskey made primarily from rye grain. To be labeled as rye whiskey in the United States, the mash (grain mixture fermented to make alcohol) must be composed of at least 51% rye. The remaining ingredients in the mash can include other grains such as corn and barley. Rye whiskey is aged in new charred oak barrels, and the final product must be distilled to no more than 160 proof and entered into the barrel for aging at no more than 125 proof.\n\nAmerican rye whiskey tends to have a spicier and more robust flavor profile compared to bourbon, which is primarily made from corn.\n\nIn Canada, the term \"rye\" is often used broadly and doesn't necessarily mean that the whiskey is made predominantly from rye grain. Canadian rye whisky can contain a mix of grains, and the flavor profile may vary. Some Canadian whiskies labeled as \"rye\" are made with little or no rye content.\n\nRye whiskey is known for its distinctive taste, which can include spicy, fruity, and sometimes peppery notes. It can be enjoyed neat, on the rocks, or used in various cocktails such as the classic Manhattan or Old Fashioned.",
+      "origin": "North America",
+      "category": "Whiskey",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "apple-juice_131",
+      "name": "Apple Juice",
+      "strength": 0,
+      "description": "Apple juice is a beverage made from apples, typically extracted through crushing and then milling. The juice is often pasteurized to extend its shelf life and prevent spoilage, although unpasteurized versions are also available. The flavor profile can vary significantly depending on the apple variety used, ranging from tart and crisp to sweet and mellow.",
+      "origin": "United States",
+      "category": "Juices",
+      "amount": 120,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "Freshly pressed Granny Smith",
+      "substitutes": [],
+      "sort": 2
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

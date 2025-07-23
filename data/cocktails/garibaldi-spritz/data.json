@@ -1,0 +1,77 @@
+{
+  "_id": "garibaldi-spritz_2172",
+  "name": "Garibaldi Spritz",
+  "instructions": "1. To an ice-filled Collins glass, add the Campari and orange juice and stir to combine.\n2. Top with prosecco and garnish.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This version of the classic Garibaldi cocktail recipe dials back the Campari and tops all with prosecco, turning the classic into a spritz.",
+  "source": "https://punchdrink.com/recipes/garibaldi-spritz/",
+  "garnish": "orange slice",
+  "abv": 6.25,
+  "tags": [
+    "Spritz"
+  ],
+  "glass": "Highball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///garibaldi-spritz-1_FDaDnd.webp",
+      "sort": 1,
+      "placeholder_hash": "YFkKJwY/SmiOZYholje4h3d4mJAnCWQE",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "campari_26",
+      "name": "Campari",
+      "strength": 25,
+      "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+      "origin": "Italy",
+      "category": "Apéritif",
+      "amount": 1.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "orange-juice_60",
+      "name": "Orange juice",
+      "strength": 0,
+      "description": "Freshly squeezed orange juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 3.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "prosecco_121",
+      "name": "Prosecco",
+      "strength": 11,
+      "description": "Prosecco is a sparkling wine that originates from the Veneto region of Italy. It is made primarily from the Glera grape variety, although other permitted grape varieties may also be used in smaller quantities. Prosecco is known for its fresh and fruity character, and it is one of the most popular and widely consumed sparkling wines globally.\n\nProsecco is known for its effervescence, and the bubbles are generally lighter and less persistent than those in traditional method sparkling wines like Champagne.",
+      "origin": "Italy",
+      "category": "Sparkling wine",
+      "amount": 1,
+      "units": "topup",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

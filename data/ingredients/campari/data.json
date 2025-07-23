@@ -1,26 +1,35 @@
 {
-    "_id": "campari",
-    "_parent_id": "liqueurs",
-    "name": "Campari",
-    "strength": 25,
-    "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
-    "origin": "Italy",
-    "color": "#ca101e",
-    "category": "Liqueurs",
-    "created_at": "2024-08-28T13:52:51+00:00",
-    "updated_at": null,
-    "images": [
-        {
-            "uri": "file:///campari-1_W84W4t.png",
-            "sort": 1,
-            "placeholder_hash": "n1iKLQ4eKUVwm3dWh5d9f/r3CwuJiXiIhw",
-            "copyright": "Campari"
-        }
-    ],
-    "ingredient_parts": [],
-    "prices": [],
-    "calculator_id": null,
-    "sugar_g_per_ml": null,
-    "acidity": null,
-    "distillery": null
+  "_id": "campari_26",
+  "_parent_id": "aperitif_959",
+  "name": "Campari",
+  "strength": 25,
+  "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+  "origin": "Italy",
+  "color": "#ca101e",
+  "category": "Apéritif",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///campari.png",
+      "sort": 1,
+      "placeholder_hash": "HomGDQRGaLZzjHf4eIeNb/joCKeGeHZ4dw",
+      "copyright": "Campari"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [
+    {
+      "price_category_name": "Hrvatska",
+      "price": 2300,
+      "currency": "EUR",
+      "amount": 1000,
+      "units": "ml"
+    }
+  ],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
 }

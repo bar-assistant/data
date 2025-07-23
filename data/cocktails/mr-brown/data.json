@@ -1,0 +1,110 @@
+{
+  "_id": "mr-brown_764",
+  "name": "Mr. Brown",
+  "instructions": "1. Combine all ingredients in a mixing glass with ice and stir until chilled.\n2. Strain into a rocks glass over a large ice cube.\n3. Garnish with an orange twist.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "A modern Manhattan cocktail recipe, a combination of bourbon, Coffee Heering, and vanilla syrup served on the rocks.",
+  "source": "https://punchdrink.com/recipes/mr-brown/",
+  "garnish": "orange twist",
+  "abv": 27.17,
+  "tags": [
+    "Manhattan",
+    "Coffee"
+  ],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///mr-brown-1_ewuR9Y.jpg",
+      "sort": 1,
+      "placeholder_hash": "3TgSLwiZmFVwc4aFdninZ5iHhXBJB4YD",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "bourbon-whiskey_82",
+      "name": "Bourbon Whiskey",
+      "strength": 40,
+      "description": "A type of American whiskey, primarily made from corn and aged in new charred oak barrels. Bourbon has a sweet and full-bodied flavor profile.\n\nTo be labeled as bourbon, a whiskey must meet the following criteria:\n\n1. Grain Mash Composition: Bourbon must be made from a grain mash that is at least 51% corn. The remaining portion of the mash can include other grains such as barley, rye, and wheat.\n\n2. Distillation: Bourbon must be distilled to no more than 160 proof (80% alcohol by volume) and entered into the barrel for aging at no more than 125 proof (62.5% alcohol by volume).\n\n3. Barrel Aging: Bourbon must be aged in new charred oak barrels. There is no minimum aging requirement for bourbon, but to be labeled as \"straight bourbon,\" it must be aged for at least two years.\n\n4. No Additives: Bourbon must not contain any additives except water to adjust the proof.\n\n5. Bottling Strength: Bourbon must be bottled at a minimum of 80 proof (40% alcohol by volume).\n\n6. Geographic Origin: While bourbon can be produced anywhere in the United States, it is strongly associated with Kentucky, and many consider Kentucky bourbon to be a distinctive category.",
+      "origin": "North America",
+      "category": "Whiskey",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "coffee-liqueur_28",
+      "name": "Coffee liqueur",
+      "strength": 20,
+      "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
+      "origin": "Mexico",
+      "category": "Liqueurs",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Coffee Heering",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 1,
+      "units": "barspoon",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "Vanilla infused",
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "orange-bitters_21",
+      "name": "Orange bitters",
+      "strength": 28,
+      "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
+      "origin": "Worldwide",
+      "category": "Bitters",
+      "amount": 1,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "angostura-aromatic-bitters_22",
+      "name": "Angostura aromatic bitters",
+      "strength": 44.7,
+      "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+      "origin": "Trinidad & Tobago",
+      "category": "Bitters",
+      "amount": 1,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

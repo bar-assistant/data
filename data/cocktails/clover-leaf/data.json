@@ -1,0 +1,103 @@
+{
+  "_id": "clover-leaf_1092",
+  "name": "Clover Leaf",
+  "instructions": "1. Combine the Chambord or grenadine, lemon juice, egg white or half-and-half, and gin in a cocktail shaker with ice cubes.\n2. Shake vigorously for 10 seconds, until the ingredients are cold and the mix is frothy with a pink blush.\n3. Strain into a Martini or coupe cocktail glass, making sure there is a thin layer of foam and a few small ice chips floating on top.\n4. Garnish with the mint leaf.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This recipe from James Beard Award-winning culinary historian and journalist Toni Tipton-Martin is a modern take on a century-old relative of the Clover Club cocktail, utilizing a base of gin and Chambord to create a berry-forward delight.",
+  "source": "https://www.liquor.com/clover-leaf-cocktail-recipe-8576334",
+  "garnish": null,
+  "abv": null,
+  "tags": [],
+  "glass": "Coupe",
+  "method": null,
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///clover-leaf-1_Q7wmnP.jpg",
+      "sort": 0,
+      "placeholder_hash": "z2gODwYpiJePdniciGe5SMmGWAXVZ3AI",
+      "copyright": "Liquor.com"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "chambord_39",
+      "name": "Chambord",
+      "strength": 16.5,
+      "description": "Chambord is a premium black raspberry liqueur produced in the Loire Valley of France. It is renowned for its rich and luxurious flavor profile, which combines blackberries, Madagascan vanilla, Moroccan citrus peel, honey, and cognac. The liqueur is known for its deep purple color and its distinctive, ornate bottle.\n\nChambord is often used as a flavoring agent in cocktails, adding a sweet and fruity dimension to drinks. It is a popular ingredient in classic cocktails like the \"Chambord Royale,\" where it is mixed with champagne or sparkling wine, and in modern mixology for creating a variety of creative and flavorful beverages.\n\nAdditionally, Chambord can be enjoyed on its own or drizzled over desserts, as its complex and indulgent taste makes it a versatile addition to both cocktails and culinary creations.",
+      "origin": "Worldwide",
+      "category": "Liqueurs",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [
+        {
+          "_id": "grenadine-syrup_112",
+          "name": "Grenadine Syrup",
+          "strength": 0,
+          "description": "Fruit syrup made from pomegranates.",
+          "origin": "Worldwide",
+          "category": "Syrups",
+          "amount": null,
+          "units": null,
+          "amount_max": null
+        }
+      ],
+      "sort": 1
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "egg-white_17",
+      "name": "Egg White",
+      "strength": 0,
+      "description": "Egg white is the clear liquid part of an egg that surrounds the yolk. It is rich in proteins and is commonly used in cooking and baking for its ability to add structure, foam, and a smooth texture to various dishes.",
+      "origin": "Worldwide",
+      "category": "Dairy",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "old-tom-gin_77",
+      "name": "Old Tom Gin",
+      "strength": 40,
+      "description": "It is slightly sweeter than London Dry, but slightly drier than the Dutch Jenever, thus is sometimes called \"the missing link\".",
+      "origin": "UK",
+      "category": "Gin",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": 45,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

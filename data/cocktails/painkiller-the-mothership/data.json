@@ -1,0 +1,93 @@
+{
+  "_id": "painkiller-the-mothership_759",
+  "name": "Painkiller (The Mothership)",
+  "instructions": "1. Add all of the ingredients except the tonic water to a shaker with crushed ice.\n2. Briefly shake, then pour everything into a double Old Fashioned glass.\n3. Add more crushed ice, then top with chilled tonic water.\n4. Garnish.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "For this spirit-free Painkiller recipe, Mothership owner Ricky Ramirez introduces tonic water to the mix. “It adds a bittering effect where you’d never know it’s nonalcoholic,” he says.",
+  "source": "https://imbibemagazine.com/recipe/the-motherships-spirit-free-painkiller/?utm_source=Tasting+Notes&utm_campaign=6736e886b0-2024-JAN16-Tasting-Notes&utm_medium=email&utm_term=0_34951449a6-6736e886b0-114967543",
+  "garnish": "Nutmeg and pineapple fronds",
+  "abv": 0,
+  "tags": [
+    "Virgin"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///painkiller-the-mothership-1_JYjxGV.jpg",
+      "sort": 1,
+      "placeholder_hash": "pggGHwR7r5efVJk4m5VKmXuYUaUBZRYA",
+      "copyright": "Imbibe Magazine | Kelly Puleio"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "pineapple-juice_536",
+      "name": "Pineapple juice",
+      "strength": 0,
+      "description": "Pineapple juice is extracted by passing fresh, ripe pineapple through a juice extractor (juicer) or by muddling fresh cut pineapple chunks and then straining out the solids.",
+      "origin": null,
+      "category": "Juices",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "orange-juice_60",
+      "name": "Orange juice",
+      "strength": 0,
+      "description": "Freshly squeezed orange juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "cream-of-coconut_19",
+      "name": "Cream of Coconut",
+      "strength": 0,
+      "description": "Coconut cream is a thick, rich, and smooth substance extracted from the flesh of mature coconuts. Coconut cream is similar to coconut milk, but it has a higher concentration of coconut solids, giving it a thicker consistency. It is often used in both savory and sweet recipes, including curries, soups, desserts, and beverages. Coconut cream is a key ingredient in many dishes in Southeast Asian, Caribbean, and other tropical cuisines.",
+      "origin": "Tropical",
+      "category": null,
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "tonic_69",
+      "name": "Tonic",
+      "strength": 0,
+      "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 1,
+      "units": "topup",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": "painkiller_2174",
+  "year": null
+}

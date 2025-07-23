@@ -1,0 +1,93 @@
+{
+  "_id": "nuclear-daiquiri_2192",
+  "name": "Nuclear Daiquiri",
+  "instructions": "1. Combine all ingredients in a cocktail shaker with ice and shake until chilled.\n2. Strain into a coupe or cocktail glass.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Nuclear Daiquiri combines green Chartreuse, overproof rum, lime juice and falernum. This cocktail recipe is a cult favorite online.",
+  "source": "https://punchdrink.com/recipes/nuclear-daiquiri/",
+  "garnish": null,
+  "abv": 25.07,
+  "tags": [
+    "Citrusy"
+  ],
+  "glass": null,
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///nuclear-daiquiri-1_B8rgaX.webp",
+      "sort": 1,
+      "placeholder_hash": "1wcSDwAIl4d1dnhlijapZ5d4x7AIfYAI",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "overproof-rum_102",
+      "name": "Overproof Rum",
+      "strength": 50,
+      "description": "Rum much higher than the standard 40% ABV (80 proof), with many as high as 75% (150 proof) to 80% (160 proof) available.",
+      "origin": "Caribbean",
+      "category": "Rum",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Wray & Nephew",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "green-chartreuse_41",
+      "name": "Green Chartreuse",
+      "strength": 55,
+      "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "falernum_40",
+      "name": "Falernum",
+      "strength": 11,
+      "description": "Liqueur with flavors of ginger, lime, and almond, and frequently cloves or allspice. It may be thought of as a spicier version of orgeat syrup.",
+      "origin": "Caribbean",
+      "category": "Liqueurs",
+      "amount": 0.25,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": "daiquiri_22",
+  "year": 2005
+}

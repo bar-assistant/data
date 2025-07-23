@@ -1,0 +1,27 @@
+{
+  "_id": "beer_733",
+  "_parent_id": null,
+  "name": "Beer",
+  "strength": 0,
+  "description": "Beer is an alcoholic beverage made from fermented cereal grains, primarily malted barley, along with water, hops, and yeast. It is one of the oldest and most widely consumed drinks in the world, often enjoyed in social settings like pubs and festivals.",
+  "origin": null,
+  "color": "#e5a50a",
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///beer-1_uBNeyP.webp",
+      "sort": 0,
+      "placeholder_hash": "5VqGJQQqplS/d8+Dd0tAsTQFH4SGZ4Z2Zw",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

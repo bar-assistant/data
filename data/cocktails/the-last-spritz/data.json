@@ -1,0 +1,93 @@
+{
+  "_id": "the-last-spritz_1161",
+  "name": "The Last Spritz",
+  "instructions": "1. Add the first 3 ingredients to a Collins glass with ice. Top with soda water and garnish.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Transforming the classic, equal-parts Last Word into a refreshing spritz, this recipe replaces gin and lengthens the drink with soda water. “It’s light, bright, and herbaceous, with a touch of sweetness from the cherry liqueur,” says Danny Webber, general manager at aperitivo bar Capri Club in LA’s Eagle Rock neighborhood. “It’s a great lighter cocktail for warm afternoons.”",
+  "source": "https://imbibemagazine.com/recipe/the-last-spritz/",
+  "garnish": "Cherry",
+  "abv": 26.36,
+  "tags": [
+    "Dessert"
+  ],
+  "glass": "Highball",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///the-last-spritz-1_kOD6Xs.jpg",
+      "sort": 1,
+      "placeholder_hash": "tCkGHwKOeYhvl4elZteVZ0mWdwWHoHQN",
+      "copyright": "Imbibe Magazine | John Valls"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "maraschino_37",
+      "name": "Maraschino",
+      "strength": 32,
+      "description": "Liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.\n\nThe Luxardo family, an Italian producer, is particularly well-known for its Maraschino liqueur.",
+      "origin": "Croatia",
+      "category": "Liqueurs",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "green-chartreuse_41",
+      "name": "Green Chartreuse",
+      "strength": 55,
+      "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "or other herbal liqueur such as Centum Herbis or Genepy",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "club-soda_68",
+      "name": "Club soda",
+      "strength": 0,
+      "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer. Also known as soda, siphon soda water, soda water, siphon soda, and siphon water.\n\nSoda water is artificially or naturally carbonated water, to which mineral salts have been added. The product without the salts is termed \"seltzer\" or \"seltzer water.\"\n\nCarbonated water with added minerals—commonly sodium bicarbonate or salt—club soda was designed to approximate mineral water, which is often naturally fizzy, but can carry a hefty price tag. English chemist Joseph Priestly invented the process of carbonation in 1767, when he realized that the carbon dioxide produced during the fermentation of beer could be infused into water. Soon after, Jacob Schweppe, a Swiss watchmaker, figured out how to manufacture carbonated water (which has no added minerals) and club soda. These products would become the cornerstone of the Schweppes Company, which is still in existence today. The added salt or sodium bicarbonate helps to mitigate the sour flavors from the carbonic acid, a byproduct of carbon dioxide.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 1,
+      "units": "topup",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

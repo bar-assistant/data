@@ -1,0 +1,93 @@
+{
+  "_id": "daiquiri-4_2190",
+  "name": "Daiquiri #4",
+  "instructions": "1. Blend all ingredients with a scoop of crushed ice for 15 seconds.\n2. Pour into an 8 1/2-ounce coupe glass.\n3. Serve with straws.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "A frozen Daiquiri cocktail recipe from Cafe La Trova, also known as the Hemingway Daiquiri, after the author who was known to drink them.",
+  "source": "https://punchdrink.com/recipes/daiquiri-4-daiquiri-floridita-hemingway-daiquiri/",
+  "garnish": null,
+  "abv": 21.06,
+  "tags": [
+    "Citrusy"
+  ],
+  "glass": "Coupe",
+  "method": "Blend",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///daiquiri-4-1_U6gveX.webp",
+      "sort": 1,
+      "placeholder_hash": "FugRFwIKiYiIhneMdjeoV4aEWQr3sUAM",
+      "copyright": "Punch Staff | Anthony J. Rayburn"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "light-rum_96",
+      "name": "Light Rum",
+      "strength": 40,
+      "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+      "origin": "Caribbean",
+      "category": "Rum",
+      "amount": 1.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "maraschino_37",
+      "name": "Maraschino",
+      "strength": 32,
+      "description": "Liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.\n\nThe Luxardo family, an Italian producer, is particularly well-known for its Maraschino liqueur.",
+      "origin": "Croatia",
+      "category": "Liqueurs",
+      "amount": 0.25,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "sugar_16",
+      "name": "Sugar",
+      "strength": 0,
+      "description": "White sugar",
+      "origin": null,
+      "category": "Sweeteners",
+      "amount": 0.5,
+      "units": "barspoon",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": "daiquiri_22",
+  "year": null
+}

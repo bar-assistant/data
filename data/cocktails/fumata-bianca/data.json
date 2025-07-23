@@ -1,0 +1,94 @@
+{
+  "_id": "fumata-bianca_1518",
+  "name": "Fumata Bianca",
+  "instructions": "1. Combine all the ingredients except the grapefruit twist in a collins glass.\n2. Add ice and top with club soda.\n3. Express a grapefruit twist over the drink and drop into the glass.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This cocktail recipe is a soft, yet edgy mixture of sweet blanca vermouth, herbal Suze, and smoky mezcal that goes down easy.",
+  "source": "https://punchdrink.com/recipes/fumata-bianca/",
+  "garnish": "grapefruit twist",
+  "abv": 18.18,
+  "tags": [
+    "Fruity",
+    "Smokey"
+  ],
+  "glass": "Highball",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///fumata-bianca-1_GJopnm.webp",
+      "sort": 1,
+      "placeholder_hash": "aToGRwKrWHh0ZKmAaHd2SXhoZlCHA1wM",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "vermouth-bianco_185",
+      "name": "Vermouth Bianco",
+      "strength": 15,
+      "description": "First launched way back in 1910, Bianco is a wonderful style of vermouth. First inspired by the white flowers of vanilla plants, the bottling has been nicknamed ‘Bianchissimo’, meaning “the whitest of the white”.\n\nWhilst it looks like a dry vermouth, this is a sweeter style, which offers flavours of juicy citrus, berries, peaches and apricots, some mixed herbs, a touch of charcoal, vanilla, honey, apples, and some faint herby bitterness.\n\nDelicate and well balanced, this vermouth is a bartender’s dream, offering sweet complexity that is perfect in White Negronis and Martini style drinks.",
+      "origin": "Italy",
+      "category": "Fortified wine",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "suze_36",
+      "name": "Suze",
+      "strength": 15,
+      "description": "Bitter flavored drink made with the roots of the plant gentian.",
+      "origin": "Switzerland",
+      "category": "Gentian Liqueur",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "mezcal_92",
+      "name": "Mezcal",
+      "strength": 40,
+      "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+      "origin": "Mexico",
+      "category": "Spirits",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Del Maguey Vida",
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "club-soda_68",
+      "name": "Club soda",
+      "strength": 0,
+      "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer. Also known as soda, siphon soda water, soda water, siphon soda, and siphon water.\n\nSoda water is artificially or naturally carbonated water, to which mineral salts have been added. The product without the salts is termed \"seltzer\" or \"seltzer water.\"\n\nCarbonated water with added minerals—commonly sodium bicarbonate or salt—club soda was designed to approximate mineral water, which is often naturally fizzy, but can carry a hefty price tag. English chemist Joseph Priestly invented the process of carbonation in 1767, when he realized that the carbon dioxide produced during the fermentation of beer could be infused into water. Soon after, Jacob Schweppe, a Swiss watchmaker, figured out how to manufacture carbonated water (which has no added minerals) and club soda. These products would become the cornerstone of the Schweppes Company, which is still in existence today. The added salt or sodium bicarbonate helps to mitigate the sour flavors from the carbonic acid, a byproduct of carbon dioxide.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 1,
+      "units": "topup",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

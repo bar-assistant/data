@@ -1,0 +1,91 @@
+{
+  "_id": "godfather-iv_1115",
+  "name": "Godfather IV",
+  "instructions": "1. Combine all ingredients in a mixing glass over ice and stir until chilled.\n2. Strain into a rocks glass over a large ice cube.\n3. Garnish with a lemon twist.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "A riff on the amaretto-sweetened Godfather cocktail recipe, this drink adds on walnut liqueur for extra depth and nutty richness.",
+  "source": "https://punchdrink.com/recipes/godfather-iv/",
+  "garnish": "lemon twist",
+  "abv": 31.38,
+  "tags": [],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///godfather-iv-1_o5uETa.jpg",
+      "sort": 0,
+      "placeholder_hash": "pBgKJwbzlUVjgpiYiIWZh3Z4imApCJMC",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "scotch-whiskey_84",
+      "name": "Scotch whiskey",
+      "strength": 40,
+      "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+      "origin": "Scotland",
+      "category": "Whiskey",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Compass Box Glasgow Blend",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "amaretto_29",
+      "name": "Amaretto",
+      "strength": 24,
+      "description": "Amaretto is a sweet Italian liqueur that is known for its distinct almond flavor. The name \"Amaretto\" is derived from the Italian word \"amaro,\" which means bitter, indicating the traditional bitter almond flavor. However, modern Amaretto is typically sweet rather than bitter.\n\nThe primary flavor in Amaretto comes from apricot pits or almonds, though today many commercial brands use a combination of both. The production process involves soaking the almonds or apricot pits in alcohol, which extracts their flavors. The resulting liquid is then sweetened with sugar, and sometimes flavored with vanilla or other spices.\n\nAmaretto is often enjoyed on its own as a digestif or as an ingredient in various cocktails and culinary recipes. It is a versatile liqueur that adds a rich and nutty flavor to beverages and desserts. Classic cocktails like the Amaretto Sour, as well as desserts like tiramisu, often feature this popular Italian liqueur.",
+      "origin": "Italy",
+      "category": "Liqueurs",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "walnut-liqueur_152",
+      "name": "Walnut Liqueur",
+      "strength": 32,
+      "description": "Walnut liqueur is known in Austria and Germany as Nüsse or Nüssenschnaps, in France as Noix, and in Italy as Nocino. Residents of Alpine regions traditionally drink walnut liqueurs during Christmastime. The spice and depth pair well with wintery nights and hearty meals. Serve to guests in a cordial glass, post-dinner or as an unexpected dessert pairing. In cocktails, Nux Alpina is an extraordinary complement to brown spirits and dark fortified wines, like Madeira, sherry and sweet red vermouth.\n\n- Aromatic liqueur renowned for its balance, depth and smooth finish\n- Made from fresh green “Weinsberg” walnuts steeped in grape brandy\n- Infused with spices and alpine botanicals\n- Serve after hearty meals or in coffee, cream or egg drinks\n- Complements brown spirits and dark fortified wines\n- Produced by Austria's Purkhart family for three generations",
+      "origin": "Worldwide",
+      "category": "Liqueurs",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "angostura-aromatic-bitters_22",
+      "name": "Angostura aromatic bitters",
+      "strength": 44.7,
+      "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+      "origin": "Trinidad & Tobago",
+      "category": "Bitters",
+      "amount": 2,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

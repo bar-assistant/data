@@ -1,0 +1,20 @@
+{
+  "_id": "cherry-juice_1173",
+  "_parent_id": "juices_940",
+  "name": "Cherry juice",
+  "strength": 0,
+  "description": "Cherry juice is a beverage made from the juice of cherries, often consumed for its health benefits. It is typically available in both tart and sweet varieties.",
+  "origin": null,
+  "color": "#a51d2d",
+  "category": "Juices",
+  "created_at": null,
+  "updated_at": null,
+  "images": [],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "oz"
+}

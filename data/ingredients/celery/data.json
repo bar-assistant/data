@@ -1,0 +1,27 @@
+{
+  "_id": "celery_730",
+  "_parent_id": null,
+  "name": "Celery",
+  "strength": 0,
+  "description": "Celery is a crunchy, water-rich vegetable belonging to the Apiaceae family, commonly used in various cuisines around the world. It is primarily known for its long, fibrous stalks, which can be eaten raw or cooked in dishes like soups and salads.",
+  "origin": null,
+  "color": "#57e389",
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///celery-1_adUUBX.webp",
+      "sort": 0,
+      "placeholder_hash": "ZquBBQI26UiDemf1p60ghw2GSnd1dnCqVw",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "stalk"
+}

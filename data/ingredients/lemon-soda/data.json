@@ -1,0 +1,27 @@
+{
+  "_id": "lemon-soda_1400",
+  "_parent_id": "beverages_945",
+  "name": "Lemon soda",
+  "strength": 0,
+  "description": "In the cocktail world, \"lemon soda\" typically refers to a simple, refreshing mixer. It's essentially lemon-flavored sparkling water, often used to add a bubbly, citrusy lift to \nvarious drinks. Think of it as a lighter alternative to regular soda, providing a clean, tart counterpoint to stronger spirits like gin, vodka, or rum. It's a versatile ingredient, \nfrequently found in classics like a Gin Rickey or a Vodka Soda, and allows for a bright, crisp finish without overpowering the main flavors.",
+  "origin": null,
+  "color": "#fffbe3",
+  "category": "Beverages",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///lemon-soda-1_KuWhDQ.webp",
+      "sort": 1,
+      "placeholder_hash": "4/qBDQJGmAhdwbRtKOeAlF9nBol2iIZ4Zw",
+      "copyright": "Sprite"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

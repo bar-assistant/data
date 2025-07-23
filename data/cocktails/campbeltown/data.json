@@ -1,0 +1,75 @@
+{
+  "_id": "campbeltown_1127",
+  "name": "Campbeltown",
+  "instructions": "1. Add the Springbank 10-year-old scotch, Cherry Heering liqueur, and green Chartreuse into a mixing glass with ice and stir until well-chilled.\n2. Strain into a chilled Nick &amp; Nora glass.\n3. Express the oil of a lemon peel over the drink and discard.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Three ingredients add up to one perfect sip in this expensive and utterly delicious Scottish cocktail",
+  "source": "https://www.liquor.com/recipes/campbeltown/",
+  "garnish": null,
+  "abv": 30.6,
+  "tags": [],
+  "glass": "Coupe",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///campbeltown-1_SXOj54.jpg",
+      "sort": 1,
+      "placeholder_hash": "IzkOFwRraIdQeIdlpWhXWHeFRioHYoAC",
+      "copyright": "Liquor.com"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "scotch-whiskey_84",
+      "name": "Scotch whiskey",
+      "strength": 40,
+      "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+      "origin": "Scotland",
+      "category": "Whiskey",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "cherry-heering_156",
+      "name": "Cherry heering",
+      "strength": 21,
+      "description": "Cherry Heering is a Danish cherry-flavored liqueur with a deep red color. It is made from a base of spirits, sugar, and cherries, specifically sour cherries, which contribute to its rich and sweet flavor profile. Cherry Heering is known for its versatility in cocktails and is often used in classic and modern mixology. One of the most famous cocktails featuring Cherry Heering is the Singapore Sling. The liqueur has a distinct cherry taste with hints of almond and spices, making it a popular choice for adding depth and complexity to a variety of drinks.",
+      "origin": "Denmark",
+      "category": "Liqueurs",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "green-chartreuse_41",
+      "name": "Green Chartreuse",
+      "strength": 55,
+      "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

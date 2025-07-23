@@ -1,0 +1,93 @@
+{
+  "_id": "arrowhead-limited_2180",
+  "name": "Arrowhead Limited",
+  "instructions": "1. Add Campari, mezcal and Carpano Antica to a high ball glass.\n2. Add ice, and top with IPA.\n3. Garnish with grapefruit slices.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Ever a lover of combining beer with bitters, Damon Boelte tops this \"mezcal Negroni\" cocktail recipe with IPA.",
+  "source": "https://punchdrink.com/recipes/arrowhead-limited/",
+  "garnish": "grapefruit slices",
+  "abv": 9.18,
+  "tags": [
+    "Savory"
+  ],
+  "glass": "Highball",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///arrowhead-limited-1_Ge6qYB.webp",
+      "sort": 1,
+      "placeholder_hash": "4igOLwq2d2h/eHebhniIiHd3doBHB3gE",
+      "copyright": "Punch Staff | Daniel Krieger"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "mezcal_92",
+      "name": "Mezcal",
+      "strength": 40,
+      "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+      "origin": "Mexico",
+      "category": "Spirits",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Del Maguey Vida",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "campari_26",
+      "name": "Campari",
+      "strength": 25,
+      "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+      "origin": "Italy",
+      "category": "Apéritif",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "sweet-vermouth_117",
+      "name": "Sweet Vermouth",
+      "strength": 18,
+      "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "beer_733",
+      "name": "Beer",
+      "strength": 0,
+      "description": "Beer is an alcoholic beverage made from fermented cereal grains, primarily malted barley, along with water, hops, and yeast. It is one of the oldest and most widely consumed drinks in the world, often enjoyed in social settings like pubs and festivals.",
+      "origin": null,
+      "category": null,
+      "amount": 3,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": 4,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

@@ -1,0 +1,109 @@
+{
+  "_id": "stones-throw_2145",
+  "name": "Stone’s Throw",
+  "instructions": "1. Add all the ingredients to a shaker with ice.\n2. Shake to chill and strain into the glass.\n3. Garnish.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "What started as a thoughtful exercise about balance, turned into one of the favorite cocktails at Juniper and Ivy in San Diego. \"I wanted something bright, grounded, herbal but refreshing, a cocktail that felt like it belonged in the roaring '20s—whether in a dimly lit bar or on a sun-drenched patio,\" says drink creator and bar lead Alex Siegelin.",
+  "source": "https://imbibemagazine.com/recipe/stones-throw-from-juniper-and-ivy/",
+  "garnish": "Dehydrated lemon wheel",
+  "abv": 16.34,
+  "tags": [
+    "Dessert"
+  ],
+  "glass": "Coupe",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///stones-throw-1_FUmbYG.webp",
+      "sort": 1,
+      "placeholder_hash": "5gcKDwJ/WrWiiWdLmJZXaoh3t5EFGmgA",
+      "copyright": "Imbibe Magazine | Courtesy of Juniper and Ivy"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "cynar_143",
+      "name": "Cynar",
+      "strength": 16.5,
+      "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
+      "origin": "Italy",
+      "category": "Amaro",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "orange-curacao_53",
+      "name": "Orange Curaçao",
+      "strength": 20,
+      "description": "Liqueur flavored with the dried peel of the bitter orange laraha, a citrus fruit grown on the Dutch island of Curaçao. Curaçao is used by liqueur makers overt the world as a generic name for orange-flavoured liqueurs.",
+      "origin": "Netherlands",
+      "category": "Liqueurs",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "mint_7",
+      "name": "Mint",
+      "strength": 0,
+      "description": "Mint refers to a family of aromatic herbs known for their refreshing flavor and fragrance. The most commonly used and recognized type of mint is spearmint (Mentha spicata), but there are various other species and hybrids, including peppermint (Mentha × piperita).",
+      "origin": null,
+      "category": "Fruits and vegetables",
+      "amount": 5,
+      "units": "leaves",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": 6,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

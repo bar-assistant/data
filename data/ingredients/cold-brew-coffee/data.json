@@ -1,0 +1,27 @@
+{
+  "_id": "cold-brew-coffee_961",
+  "_parent_id": "coffee_73",
+  "name": "Cold brew coffee",
+  "strength": 0,
+  "description": "Cold brew coffee is made by steeping coarsely ground coffee beans in cold or room temperature water for 12 to 24 hours, resulting in a smooth and less acidic flavor compared to traditional hot brewed coffee. It can be served chilled or hot, often diluted with water or milk to taste.",
+  "origin": null,
+  "color": "#63452c",
+  "category": "Beverages > Coffee",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///cold-brew-coffee-1_GREkwC.webp",
+      "sort": 0,
+      "placeholder_hash": "VBiGDQBH4zePcapiV1mPnvPoB4aGeIWIdw",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

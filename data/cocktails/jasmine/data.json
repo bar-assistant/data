@@ -1,0 +1,94 @@
+{
+  "_id": "jasmine_766",
+  "name": "Jasmine",
+  "instructions": "1. Combine all the ingredients except the lemon twist in a cocktail shaker three-quarters filled with ice.\n2. Shake until chilled.\n3. Strain into a chilled cocktail glass.\n4. Garnish with the lemon twist.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This cocktail recipe by Paul Harrington, was named after his best friend Matt Jasmin. It features gin, Campari, Cointreau and lemon juice.",
+  "source": "https://punchdrink.com/recipes/jasmine/",
+  "garnish": "lemon twist",
+  "abv": 22.18,
+  "tags": [
+    "Dry",
+    "Citrusy"
+  ],
+  "glass": "Cocktail",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///jasmine-1_fZuvLE.jpg",
+      "sort": 1,
+      "placeholder_hash": "XigODwIwyHc7dYh+eSeZ6nWExgmInYAG",
+      "copyright": "Punch Staff | Kelly Puleio"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "cointreau_56",
+      "name": "Cointreau",
+      "strength": 40,
+      "description": "Orange-flavoured triple sec liqueur, it was originally called Curaçao Blanco Triple Sec. Usually more dry tasting than Orange Curaçao.",
+      "origin": "France",
+      "category": "Orange Curaçao",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "campari_26",
+      "name": "Campari",
+      "strength": 25,
+      "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+      "origin": "Italy",
+      "category": "Apéritif",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

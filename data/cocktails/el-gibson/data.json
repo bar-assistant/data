@@ -1,0 +1,81 @@
+{
+  "_id": "el-gibson_2185",
+  "name": "El Gibson",
+  "instructions": "1. Place the pickled onion wedge in a chilled Nick &amp; Nora glass. In a mixing glass, stir all of the ingredients with ice, then strain into the prepared glass.\n2. Pickled Spring OnionsThoroughly wash a bunch of spring onions, and use a knife to remove all of the green parts. Cut the onions into wedges, maintaining the root end (to hold the onion together). Pack the onions into a sanitized canning jar or a large food-safe plastic storage container.\n3. In a pot, combine a mixture of 60 percent water and 40 percent champagne vinegar (the quantity will depend on the size of the batch you’re preparing). Weigh this liquid mixture and add 5 percent of its weight in sugar, and 3 percent of its weight in salt. Add several bay leaves, 1 Tbsp. of black peppercorns, and 1 Tbsp. of coriander seeds, and bring the mixture to a boil, whisking to dissolve the sugar.\n4. Once the mixture is boiling, remove it from the heat and pour it over the onions, to cover. Cover the container and let it cool; will keep refrigerated for up to 1 month.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "\"In the spring, we went hard on spring onions at the farmers market, and pickled them,” says John Douglass of Imbibe 75 Place to Watch, Pretty Decent in Louisville, Kentucky. “The brine became the dirty in this Gibson riff from our second menu.” Douglass notes that if spring onions aren’t in season, the recipe still works perfectly well using small yellow onions.",
+  "source": "https://imbibemagazine.com/recipe/el-gibson-mezcal-gibson/",
+  "garnish": "Small wedge of pickled onion",
+  "abv": 21.59,
+  "tags": [
+    "Dessert",
+    "Savory",
+    "Smokey",
+    "Briny",
+    "Classics"
+  ],
+  "glass": "Nick and Nora",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///el-gibson-1_MitqPf.webp",
+      "sort": 1,
+      "placeholder_hash": "oigWFwRkh3eAiImXiId4d4h3mPe2en8K",
+      "copyright": "Imbibe Magazine | Andrew Hyslop"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "mezcal_92",
+      "name": "Mezcal",
+      "strength": 40,
+      "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+      "origin": "Mexico",
+      "category": "Spirits",
+      "amount": 1.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "vermouth-bianco_185",
+      "name": "Vermouth Bianco",
+      "strength": 15,
+      "description": "First launched way back in 1910, Bianco is a wonderful style of vermouth. First inspired by the white flowers of vanilla plants, the bottling has been nicknamed ‘Bianchissimo’, meaning “the whitest of the white”.\n\nWhilst it looks like a dry vermouth, this is a sweeter style, which offers flavours of juicy citrus, berries, peaches and apricots, some mixed herbs, a touch of charcoal, vanilla, honey, apples, and some faint herby bitterness.\n\nDelicate and well balanced, this vermouth is a bartender’s dream, offering sweet complexity that is perfect in White Negronis and Martini style drinks.",
+      "origin": "Italy",
+      "category": "Fortified wine",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "onion-brine_1395",
+      "name": "Onion brine",
+      "strength": 0,
+      "description": "Onion brine, typically from pickled pearl onions, is a distinctive ingredient in cocktails, most famously in the Gibson Martini where it replaces olive brine. It introduces a savory, slightly tangy, and subtly sweet or even spicy (depending on the pickling spices) umami note to drinks, providing a unique counterpoint to the spirit's botanicals. A small dash of onion brine can add depth and complexity, transforming a classic cocktail into a more intriguing, savory experience.",
+      "origin": null,
+      "category": null,
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": "gibson_2186",
+  "year": null
+}

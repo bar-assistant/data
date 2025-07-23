@@ -1,0 +1,110 @@
+{
+  "_id": "tequila-spritz_1162",
+  "name": "Tequila Spritz",
+  "instructions": "1. In a 750ml bottle, combine the tequila, Aperol, sweet vermouth and bitters. Cap the bottle securely, then shake well to mix. Store in the freezer.\n2. To serve, pour into a wine glass filled halfway with ice cubes and an orange slice. Top with tonic water.\n3. NOTEStarting with a full bottle Pour off 15 oz. (450ml). Makes 5 to 7 cocktails.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "For those times when it's just too hot to make an effort, Freezer Door Cocktails author J.M. Hirsch shared 75 cocktails that can be built right in the liquor bottle and stored in the freezer. His batched Tequila Spritz is especially perfect for poolside sipping. \"This cocktail lives in a happy place somewhere between sangria and an Aperol Spritz,\" he writes. For those who prefer it without the tonic water, Hirsch suggests serving it in a coupe that's filled halfway with crushed ice.",
+  "source": "https://imbibemagazine.com/recipe/tequila-spritz-a-freezer-door-cocktail/",
+  "garnish": "Orange slice",
+  "abv": 23.05,
+  "tags": [
+    "Spritz",
+    "Batch"
+  ],
+  "glass": "Wine",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///tequila-spritz-1_pp4X21.jpg",
+      "sort": 1,
+      "placeholder_hash": "UigKDwRAk4dlh4praod3SIl6lTBnDIYC",
+      "copyright": "Imbibe Magazine | Yuliya Razudkevichus."
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "tequila-blanco_91",
+      "name": "Tequila Blanco",
+      "strength": 40,
+      "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
+      "origin": "Mexico",
+      "category": "Tequila",
+      "amount": 300,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "aperol_27",
+      "name": "Aperol",
+      "strength": 11,
+      "description": "Aperol is an Italian orange-flavored aperitif liqueur known for its vibrant orange color and bittersweet taste. It is produced by the Campari Group and contains a blend of herbs, spices, and botanicals. Aperol is characterized by its lower alcohol content compared to some other aperitifs, making it a popular choice for refreshing cocktails. Aperol's distinct flavor profile and versatility make it a favorite ingredient in a variety of cocktails and spritz variations.\n\nThe labels explicitly credit the product to Barbieri Brothers in 1919, and admit to “an infusion of orange, rhubarb, china and gentian”. (“China” in this case means cinchona.) Today, Aperol is “produced from the original recipe of Barbieri” by Campari, and could be described as “like Campari” but milder, with the orange flavor dominant, and a yellower (orange) color.",
+      "origin": "Italy",
+      "category": "Apéritif",
+      "amount": 202.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "sweet-vermouth_117",
+      "name": "Sweet Vermouth",
+      "strength": 18,
+      "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 202.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "orange-bitters_21",
+      "name": "Orange bitters",
+      "strength": 28,
+      "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
+      "origin": "Worldwide",
+      "category": "Bitters",
+      "amount": 0.25,
+      "units": "barspoon",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "tonic_69",
+      "name": "Tonic",
+      "strength": 0,
+      "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 1,
+      "units": "topup",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "to serve",
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

@@ -1,70 +1,98 @@
 [
     {
         "name": "Cocktail",
-        "description": "A cocktail glass is a stemmed glass with an inverted cone bowl, mainly used to serve straight-up cocktails. The term cocktail glass is often used interchangeably with martini glass, despite their differing slightly. A standard cocktail glass contains 90 to 300 millilitres."
+        "description": "A cocktail glass is a stemmed glass with an inverted cone bowl, mainly used to serve straight-up cocktails. The term cocktail glass is often used interchangeably with martini glass, despite their differing slightly. A standard cocktail glass contains 90 to 300 millilitres.",
+        "volume": null,
+        "volume_units": null
     },
     {
         "name": "Lowball",
-        "description": "The old fashioned glass, otherwise known as the rocks glass and lowball glass (or simply lowball), is a short tumbler used for serving spirits, such as whisky, neat or with ice cubes (\"on the rocks\"). Old fashioned glasses usually contain 180–300 ml."
+        "description": "The old fashioned glass, otherwise known as the rocks glass and lowball glass (or simply lowball), is a short tumbler used for serving spirits, such as whisky, neat or with ice cubes (\"on the rocks\"). Old fashioned glasses usually contain 180–300 ml.",
+        "volume": null,
+        "volume_units": null
     },
     {
         "name": "Highball",
-        "description": "A highball glass is a glass tumbler that can contain 240 to 350 millilitres (8 to 12 US fl oz)."
+        "description": "A highball glass is a glass tumbler that can contain 240 to 350 millilitres (8 to 12 US fl oz).",
+        "volume": null,
+        "volume_units": null
     },
     {
         "name": "Shot",
-        "description": "A shot glass is a glass originally designed to hold or measure spirits or liquor, which is either imbibed straight from the glass (\"a shot\") or poured into a cocktail (\"a drink\")."
+        "description": "A shot glass is a glass originally designed to hold or measure spirits or liquor, which is either imbibed straight from the glass (\"a shot\") or poured into a cocktail (\"a drink\").",
+        "volume": null,
+        "volume_units": null
     },
     {
         "name": "Coupe",
-        "description": "The champagne coupe is a shallow, broad-bowled saucer shaped stemmed glass generally capable of containing 180 to 240 ml (6.1 to 8.1 US fl oz) of liquid."
+        "description": "The champagne coupe is a shallow, broad-bowled saucer shaped stemmed glass generally capable of containing 180 to 240 ml (6.1 to 8.1 US fl oz) of liquid.",
+        "volume": null,
+        "volume_units": null
     },
     {
         "name": "Margarita",
-        "description": "A variant of the classic champagne coupe."
+        "description": "A variant of the classic champagne coupe.",
+        "volume": null,
+        "volume_units": null
     },
     {
         "name": "Wine",
-        "description": "A wine glass is a type of glass that is used to drink and taste wine. Most wine glasses are stemware (goblets), i.e., they are composed of three parts: the bowl, stem, and foot."
+        "description": "A wine glass is a type of glass that is used to drink and taste wine. Most wine glasses are stemware (goblets), i.e., they are composed of three parts: the bowl, stem, and foot.",
+        "volume": null,
+        "volume_units": null
     },
     {
         "name": "Champagne",
-        "description": "A champagne glass is stemware designed for champagne and other sparkling wines."
+        "description": "A champagne glass is stemware designed for champagne and other sparkling wines.",
+        "volume": null,
+        "volume_units": null
     },
     {
         "name": "Hurricane",
-        "description": "A hurricane glass is a form of drinking glass which typically will contain 20 US fluid ounces."
+        "description": "A hurricane glass is a form of drinking glass which typically will contain 20 US fluid ounces.",
+        "volume": 150,
+        "volume_units": "ml"
     },
     {
         "name": "Nick and Nora",
-        "description": "A Nick & Nora glass is a stemmed glass with an inverted bowl, mainly used to serve straight-up cocktails. The glass is similar to a cocktail glass or martini glass."
+        "description": "A Nick & Nora glass is a stemmed glass with an inverted bowl, mainly used to serve straight-up cocktails. The glass is similar to a cocktail glass or martini glass.",
+        "volume": null,
+        "volume_units": null
     },
     {
         "name": "Fizzio",
-        "description": "Wide flat bowl on a stem."
-    },
-    {
-        "name": "Sour",
-        "description": "Tulip shaped with a fatter stem."
+        "description": "Wide flat bowl on a stem.",
+        "volume": null,
+        "volume_units": null
     },
     {
         "name": "Julep",
-        "description": "Metal bucket shaped glass."
+        "description": "Metal bucket shaped glass.",
+        "volume": null,
+        "volume_units": null
     },
     {
         "name": "Absinthe",
-        "description": "Absinthe glasses have a reservoir in the stem to measure the correct amount of Absinthe for one serving."
+        "description": "Absinthe glasses have a reservoir in the stem to measure the correct amount of Absinthe for one serving.",
+        "volume": null,
+        "volume_units": null
     },
     {
         "name": "Glass mug",
-        "description": "A mug made of glass."
+        "description": "A mug made of glass.",
+        "volume": null,
+        "volume_units": null
     },
     {
         "name": "Copper mug",
-        "description": "A mug made of copper."
+        "description": "A mug made of copper.",
+        "volume": null,
+        "volume_units": null
     },
     {
         "name": "Tiki",
-        "description": "The term \"tiki mug\" is a blanket term for the sculptural drinkware even though they vary in size and most do not contain handles."
+        "description": "The term \"tiki mug\" is a blanket term for the sculptural drinkware even though they vary in size and most do not contain handles.",
+        "volume": null,
+        "volume_units": null
     }
 ]

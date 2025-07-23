@@ -1,0 +1,109 @@
+{
+  "_id": "red-morning-light_1132",
+  "name": "Red Morning Light",
+  "instructions": "1. Stir all of the ingredients in a mixing glass with ice until chilled.\n2. Strain into a glass holding a large ice cube.\n3. Use an atomizer to spray the drink with a smoky scotch, then garnish. (Alternately, drip several drops of scotch atop the drink, then garnish.)",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Smoky scotch and bittersweet Campari combine for the perfect cold-weather sipper from Vegas.",
+  "source": "https://imbibemagazine.com/recipe/scotch-cocktail-red-morning-light/",
+  "garnish": "Orange twist",
+  "abv": 25.55,
+  "tags": [
+    "Smokey"
+  ],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///red-morning-light-1_aoOn4o.jpg",
+      "sort": 0,
+      "placeholder_hash": "FhgKDwKCinjfZ2mrhpeGSphX9jOdDOgL",
+      "copyright": "Imbibe Magazine"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "scotch-whiskey_84",
+      "name": "Scotch whiskey",
+      "strength": 40,
+      "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+      "origin": "Scotland",
+      "category": "Whiskey",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "campari_26",
+      "name": "Campari",
+      "strength": 25,
+      "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+      "origin": "Italy",
+      "category": "Apéritif",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "dry-vermouth_118",
+      "name": "Dry Vermouth",
+      "strength": 18,
+      "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "coffee-liqueur_28",
+      "name": "Coffee liqueur",
+      "strength": 20,
+      "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
+      "origin": "Mexico",
+      "category": "Liqueurs",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "mole-bitters_157",
+      "name": "Mole Bitters",
+      "strength": 53,
+      "description": "Mole (pronounced MO-lay) bitters are inspired by mole, a spicy Mexican chocolate sauce",
+      "origin": "Mexico",
+      "category": "Bitters",
+      "amount": 2,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

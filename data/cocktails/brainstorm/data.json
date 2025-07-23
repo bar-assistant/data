@@ -1,0 +1,91 @@
+{
+  "_id": "brainstorm_1827",
+  "name": "Brainstorm",
+  "instructions": "1. Stir all of the ingredients with ice, then strain into a chilled glass.\n2. Twist an orange peel over the cocktail and use as garnish.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This classic Irish whiskey cocktail from Hugo Ensslin’s 1917 Recipes for Mixed Drinks has been adapted for contemporary use, with the French vermouth and honeyed herbal liqueur Bénédictine given greater billing in the glass.",
+  "source": "https://imbibemagazine.com/recipe/brainstorm-irish-whiskey-cocktail/",
+  "garnish": "Orange twist",
+  "abv": 30.25,
+  "tags": [],
+  "glass": "Coupe",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///brainstorm-1_mEmMW7.webp",
+      "sort": 1,
+      "placeholder_hash": "WZoGFwImcyD/jDqKlJmWZ6ZLKPRaQY8E",
+      "copyright": "Imbibe Magazine"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "irish-whiskey_86",
+      "name": "Irish whiskey",
+      "strength": 40,
+      "description": "Produced in Ireland, often made from a mix of malted and unmalted barley and aged for a minimum period in wooden casks. Styles include single malt, single pot still, blended Irish whiskey, and others.",
+      "origin": "Ireland",
+      "category": "Whiskey",
+      "amount": 2,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "dry-vermouth_118",
+      "name": "Dry Vermouth",
+      "strength": 18,
+      "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "benedictine_45",
+      "name": "Bénédictine",
+      "strength": 40,
+      "description": "Herbal liqueur flavored with twenty-seven flowers, berries, herbs, roots, and spices. The liqueur has a complex flavor profile with notes of honey, citrus, herbs, and spices. Bénédictine is often enjoyed as a sipping liqueur and is also used as an ingredient in various cocktails, including classic drinks like the Bénédictine and Brandy. The production of Bénédictine dates back to the 19th century, and the liqueur is known for its unique and distinctive taste.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "orange-bitters_21",
+      "name": "Orange bitters",
+      "strength": 28,
+      "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
+      "origin": "Worldwide",
+      "category": "Bitters",
+      "amount": 1,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

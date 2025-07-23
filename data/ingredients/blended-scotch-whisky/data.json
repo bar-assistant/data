@@ -1,0 +1,20 @@
+{
+  "_id": "blended-scotch-whisky_951",
+  "_parent_id": "scotch-whiskey_84",
+  "name": "Blended Scotch Whisky",
+  "strength": 40,
+  "description": "Blended scotch is a generic category for whisky made in Scotland, combining aged, single malt scotch whiskies (typically from multiple distilleries) with grain neutral spirits for a lighter, milder flavor. Historically, the aims of blended scotch are smoothness, approachability, and taste profile consistency across potentially large volumes over time (very difficult to maintain for several reasons).",
+  "origin": "Scotland",
+  "color": "#ca5804",
+  "category": "Spirits > Whiskey > Scotch whiskey",
+  "created_at": null,
+  "updated_at": null,
+  "images": [],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "dairy_1388",
+  "_parent_id": null,
+  "name": "Dairy",
+  "strength": 0,
+  "description": "Dairy refers to food products made from milk, such as milk, cheese, yogurt, and butter.",
+  "origin": null,
+  "color": "#ffffff",
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///dairy-1_8JPw5J.webp",
+      "sort": 0,
+      "placeholder_hash": "thiCDQA0WcVuonoGmrDCBStbB6iFeYaZVw",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "celery-bitters_1381",
+  "_parent_id": "bitters_944",
+  "name": "Celery bitters",
+  "strength": 44,
+  "description": "Celery bitters are a type of cocktail bitters that add a savory flavor to drinks, often used in cocktails like the Bloody Mary or Gin and Tonic. They can be purchased from specialty liquor stores or made at home using celery and other flavoring ingredients.",
+  "origin": null,
+  "color": "#f6f5f4",
+  "category": "Bitters",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///celery-bitters-1_Pir9sF.webp",
+      "sort": 1,
+      "placeholder_hash": "2yiGBQJJuAaBe3qGVyeNgPSXB1iGh4Z3eA",
+      "copyright": "The Bitter Truth Bitters"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "dash"
+}

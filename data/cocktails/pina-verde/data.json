@@ -1,0 +1,94 @@
+{
+  "_id": "pina-verde_763",
+  "name": "Piña Verde",
+  "instructions": "1. Combine all ingredients in a cocktail shaker with ice and shake until chilled.\n2. Strain into rocks glass over pebble ice.\n3. Garnish with a mint sprig.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This Piña Colada riff relies on Green Chartreuse rather than rum. Pineapple juice and lime add a fruity kick, and Coco Lopez adds coconut.",
+  "source": "https://punchdrink.com/recipes/pina-verde/",
+  "garnish": "mint sprig",
+  "abv": 15.53,
+  "tags": [
+    "Herbacious",
+    "Fruity"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///pina-verde-1_MSmfI7.jpg",
+      "sort": 1,
+      "placeholder_hash": "WBkSHwgJdphxh3ileoiWdmh5mAK5p2AI",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "green-chartreuse_41",
+      "name": "Green Chartreuse",
+      "strength": 55,
+      "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "pineapple-juice_536",
+      "name": "Pineapple juice",
+      "strength": 0,
+      "description": "Pineapple juice is extracted by passing fresh, ripe pineapple through a juice extractor (juicer) or by muddling fresh cut pineapple chunks and then straining out the solids.",
+      "origin": null,
+      "category": "Juices",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "cream-of-coconut_19",
+      "name": "Cream of Coconut",
+      "strength": 0,
+      "description": "Coconut cream is a thick, rich, and smooth substance extracted from the flesh of mature coconuts. Coconut cream is similar to coconut milk, but it has a higher concentration of coconut solids, giving it a thicker consistency. It is often used in both savory and sweet recipes, including curries, soups, desserts, and beverages. Coconut cream is a key ingredient in many dishes in Southeast Asian, Caribbean, and other tropical cuisines.",
+      "origin": "Tropical",
+      "category": null,
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

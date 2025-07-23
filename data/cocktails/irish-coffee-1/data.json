@@ -1,0 +1,96 @@
+{
+  "_id": "irish-coffee_37",
+  "name": "Irish Coffee",
+  "instructions": "1. Warm black coffee is poured into a pre-heated Irish coffee glass.\n2. Whiskey and at least one teaspoon of sugar is added and stirred until dissolved.\n3. Fresh thick chilled cream is carefully poured over the back of a spoon held just above the surface of the coffee.\n4. The layer of cream will float on the coffee without mixing.\n5. Plain sugar can be replaced with sugar syrup",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Caffeinated alcoholic drink consisting of Irish whiskey, hot coffee, and sugar, stirred, and topped with cream (sometimes cream liqueur) The coffee is drunk through the cream.",
+  "source": "https://iba-world.com/irish-coffee/",
+  "garnish": null,
+  "abv": 8.26,
+  "tags": [
+    "Contemporary Classics",
+    "IBA Cocktail",
+    "Coffee",
+    "Hot"
+  ],
+  "glass": "Glass mug",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///irish-coffee.jpg",
+      "sort": 1,
+      "placeholder_hash": "yPcJDwIIuHeJhXh5d0ioJ8hzp/d4aJ8I",
+      "copyright": "VinePair"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "irish-whiskey_86",
+      "name": "Irish whiskey",
+      "strength": 40,
+      "description": "Produced in Ireland, often made from a mix of malted and unmalted barley and aged for a minimum period in wooden casks. Styles include single malt, single pot still, blended Irish whiskey, and others.",
+      "origin": "Ireland",
+      "category": "Whiskey",
+      "amount": 50,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "coffee_73",
+      "name": "Coffee",
+      "strength": 0,
+      "description": "Coffee is a beverage made from roasted coffee beans. The beans are ground and brewed with hot water to produce a flavorful and aromatic drink. Coffee is enjoyed worldwide and comes in various styles, including espresso, drip coffee, and specialty beverages. It contains caffeine, a natural stimulant, and is often consumed for its energizing effects and rich, complex taste.",
+      "origin": "Africa",
+      "category": "Beverages",
+      "amount": 120,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "cream_11",
+      "name": "Cream",
+      "strength": 0,
+      "description": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization.",
+      "origin": null,
+      "category": "Dairy",
+      "amount": 50,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "sugar_16",
+      "name": "Sugar",
+      "strength": 0,
+      "description": "White sugar",
+      "origin": null,
+      "category": "Sweeteners",
+      "amount": 1,
+      "units": "teaspoon",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

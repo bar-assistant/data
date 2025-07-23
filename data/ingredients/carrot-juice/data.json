@@ -1,0 +1,20 @@
+{
+  "_id": "carrot-juice_525",
+  "_parent_id": "juices_940",
+  "name": "Carrot juice",
+  "strength": 0,
+  "description": "Carrot juice is a nutritious drink made from carrots, rich in beta-carotene and vitamin A. It has a slightly sweet and earthy flavor, and can be enjoyed on its own or mixed with other juices.",
+  "origin": null,
+  "color": null,
+  "category": "Juices",
+  "created_at": null,
+  "updated_at": null,
+  "images": [],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

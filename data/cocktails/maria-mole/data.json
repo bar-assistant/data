@@ -1,0 +1,59 @@
+{
+  "_id": "maria-mole_1496",
+  "name": "Maria Mole",
+  "instructions": "1. In a mixing glass with ice, stir both ingredients to chill and dilute the mixture.\n2. Strain into your desired glass. If using a cocktail glass, chill it beforehand; if serving in a lowball glass, add one large ice cube.\n3. Finish with an orange twist.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Maria Mole is a cocktail recipe from Brazil that combines Cognac or other brandies and bianco vermouth in a stirred drink.",
+  "source": "https://punchdrink.com/recipes/maria-mole/",
+  "garnish": "orange twist",
+  "abv": 23.86,
+  "tags": [],
+  "glass": null,
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///maria-mole-1_Cj7rxR.webp",
+      "sort": 1,
+      "placeholder_hash": "6hgGJwTXmitaYVgvZ/ZbR4/MqFBHC4UC",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "cognac_88",
+      "name": "Cognac",
+      "strength": 40,
+      "description": "Cognac is a high-quality French brandy produced in the Cognac region, located in the Charente department. It is renowned for its refined and complex flavor profile, resulting from a meticulous production process. Cognac is made exclusively from white grapes, primarily Ugni Blanc, Folle Blanche, and Colombard, which are fermented and distilled using traditional copper pot stills.\n\nCognac's aging process plays a crucial role in its development, as it absorbs characteristics from the oak barrels, contributing notes of vanilla, caramel, and spices. The region's unique maritime climate, with a mix of oceanic and continental influences, further enhances the maturation process.\n\nCognac is renowned for its smooth and elegant taste, with a harmonious balance of fruity, floral, and oaky elements. It is often enjoyed as a sipping spirit and is a key ingredient in classic cocktails like the Sidecar and Brandy Alexander. The production of Cognac is strictly regulated, ensuring that only spirits meeting specific criteria can bear the prestigious Cognac label.",
+      "origin": "France",
+      "category": "Brandy",
+      "amount": 1.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "vermouth-bianco_185",
+      "name": "Vermouth Bianco",
+      "strength": 15,
+      "description": "First launched way back in 1910, Bianco is a wonderful style of vermouth. First inspired by the white flowers of vanilla plants, the bottling has been nicknamed ‘Bianchissimo’, meaning “the whitest of the white”.\n\nWhilst it looks like a dry vermouth, this is a sweeter style, which offers flavours of juicy citrus, berries, peaches and apricots, some mixed herbs, a touch of charcoal, vanilla, honey, apples, and some faint herby bitterness.\n\nDelicate and well balanced, this vermouth is a bartender’s dream, offering sweet complexity that is perfect in White Negronis and Martini style drinks.",
+      "origin": "Italy",
+      "category": "Fortified wine",
+      "amount": 1.25,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Martini Bianco",
+      "substitutes": [],
+      "sort": 2
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

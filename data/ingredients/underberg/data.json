@@ -1,0 +1,42 @@
+{
+  "_id": "underberg_1389",
+  "_parent_id": "bitters_944",
+  "name": "Underberg",
+  "strength": 44,
+  "description": "Underberg is a digestif bitter produced at Rheinberg in Germany by Underberg AG. It is made from aromatic herbs from 43 countries that undergo inspections and are formulated based on a secret recipe of the Underberg family, whose members are personally responsible for the production of the drink. Underberg is one of the most widespread kräuterlikörs on the market. Underberg contains 1.3 percent herbal extract by weight and naturally occurring vitamin B1. The effects are known to subside digestive issues. The drink matures in Slovenian oak barrels for several months to enhance the taste. Underberg is classified under \"food and drinks: oils, herbs and spices\" in the United States and can be sold without any sort of liquor license.",
+  "origin": "Germany",
+  "color": "#803617",
+  "category": "Bitters",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///underberg-1_1ci8nW.webp",
+      "sort": 1,
+      "placeholder_hash": "XhmGFQQ3SuWgLHe4Z3hfgvdEAH+GiHd4dw",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [
+    {
+      "price_category_name": "Hrvatska",
+      "price": 175,
+      "currency": "EUR",
+      "amount": 20,
+      "units": "ml"
+    },
+    {
+      "price_category_name": "Hrvatska",
+      "price": 175,
+      "currency": "EUR",
+      "amount": 1,
+      "units": "bottle"
+    }
+  ],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": "Underberg AG",
+  "units": "ml"
+}

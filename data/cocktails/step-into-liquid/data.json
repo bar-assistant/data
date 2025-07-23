@@ -1,0 +1,80 @@
+{
+  "_id": "step-into-liquid_2205",
+  "name": "Step Into Liquid",
+  "instructions": "Stir with ice, strain into an old fashioned glass with a large ice cube, and garnish with orange oil from a twist.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Two Wednesdays ago, I returned the online recipe flashcards for the Liholiho Yacht Club in San Francisco that I utilized for the Pineapple Dance, and I landed on the Step into Liquid. As for a time estimate, I was able to spot the drink on a 2019 menu on Yelp, and it was perhaps named after the 2003 surfing documentary. While I have had other pineapple rum-Campari drinks in the Negroni ballpark, like the Pineapple Kingston Negroni, Best Fronds, and Jungle Boulevard, they all called for regular sweet vermouth instead of Punt e Mes. Once prepared, the Step into Liquid offered up orange, dark rum, pineapple, and herbal aromas to the nose. Next, grape and caramel notes on the sip gave way to rum, pineapple, bitter orange, and herbal flavors on the swallow.",
+  "source": "https://cocktailvirgin.blogspot.com/2025/07/step-into-liquid.html",
+  "garnish": null,
+  "abv": 28.72,
+  "tags": [
+    "Aperitivo",
+    "Bitter",
+    "Tropical",
+    "Herbal"
+  ],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///step-into-liquid-1_Shqcrn.webp",
+      "sort": 1,
+      "placeholder_hash": "2okGPwivm1WClmpaiGi3Z0l5iAhZfNIA",
+      "copyright": "Cocktail Slut"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "pineapple-rum_1402",
+      "name": "Pineapple Rum",
+      "strength": 40,
+      "description": "Pineapple rum is a captivating blend of Caribbean tradition and tropical fruit essence. It begins with a base of high-quality rum, typically aged to impart a smooth, mellow character. This rum is then infused with the vibrant flavor of pineapple, often utilizing juice or extract to achieve a rich, fruity profile. The resulting spirit offers a complex interplay of warm, molasses notes from the rum, balanced by the bright, tangy sweetness of the pineapple. It's a versatile ingredient, appreciated for its distinct flavor and aromatic complexity.",
+      "origin": "Caribbean Islands",
+      "category": "Rum",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "campari_26",
+      "name": "Campari",
+      "strength": 25,
+      "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+      "origin": "Italy",
+      "category": "Apéritif",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "punt-e-mes_1401",
+      "name": "Punt e Mes",
+      "strength": 36,
+      "description": "Punt e Mes is a bittersweet Italian aperitivo, originating in Turin, Italy. The name itself translates to 'one and two,' referencing the original ratio of sweet vermouth to Campari used in its creation. It's a complex blend of botanicals, spices, and citrus peels, resulting in a uniquely layered flavor profile that balances bitterness with subtle sweetness and aromatic depth. The precise recipe remains a closely guarded secret, but it's known to include ingredients like gentian root, cinchona bark, and various citrus fruits.\n\nPunt e Mes offers a distinctive taste experience, characterized by a pronounced bitterness that isn't overpowering, but rather balanced by a gentle sweetness and a lingering herbal complexity. It's often enjoyed neat or with a splash of soda water, and its versatility lends itself well to experimentation with other mixers. The ingredient is known for its rich texture and full-bodied mouthfeel, making it a satisfying and sophisticated choice for those seeking an alternative to more common aperitifs.\n\nPunt e Mes is a relatively strong aperitivo, reflecting its Campari base. It's a key ingredient for those looking to add a touch of Italian flair to their drinks program, and its unique flavor profile sets it apart from other bitter components.",
+      "origin": "Italy",
+      "category": "Sweet Vermouth",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

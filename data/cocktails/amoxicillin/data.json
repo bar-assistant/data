@@ -1,0 +1,94 @@
+{
+  "_id": "amoxicillin_744",
+  "name": "Amoxicillin",
+  "instructions": "1. Combine all ingredients, except the peated Scotch, in a mixing tin and shake with ice.\n2. Strain into a rocks glass over ice.\n3. Finish with six sprays of peated Scotch from an atomizer.\n4. Garnish with a lemon wheel.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Unlike the classic Penicillin, which calls for ¾ ounce honey-ginger syrup, this cocktail recipe uses yellow Chartreuse for honeyed sweetness.",
+  "source": "https://punchdrink.com/recipes/amoxicillin/",
+  "garnish": "lemon wheel",
+  "abv": 22.86,
+  "tags": [
+    "Smokey",
+    "Sour"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///amoxicillin-1_wOmy4r.jpg",
+      "sort": 0,
+      "placeholder_hash": "p2sKLwKTpJifl2ZohpeZWGWIV2AoN6AB",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "scotch-whiskey_84",
+      "name": "Scotch whiskey",
+      "strength": 40,
+      "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+      "origin": "Scotland",
+      "category": "Whiskey",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "yellow-chartreuse_42",
+      "name": "Yellow Chartreuse",
+      "strength": 40,
+      "description": "Yellow Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is a milder and slightly sweeter version of Green Chartreuse, another famous liqueur produced by the same monks. Yellow Chartreuse is characterized by its yellow color and a complex flavor profile derived from a secret blend of 130 herbs and botanicals. It has a sweet and honeyed taste with herbal, floral, and spicy notes.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "ginger-syrup_116",
+      "name": "Ginger syrup",
+      "strength": 0,
+      "description": "Syrup infused with ginger root.\n\nThis ginger syrup is fantastic in cocktails, but it also makes an out-of-this-world ginger ale. To make ginger ale, simply fill an ice-filled glass a third of the way with the syrup, top with soda water and a squeeze of lime, stir and enjoy.",
+      "origin": "Worldwide",
+      "category": "Syrups",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

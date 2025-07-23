@@ -1,0 +1,91 @@
+{
+  "_id": "betty-is-back_1118",
+  "name": "Betty Is Back",
+  "instructions": "1. Combine all of the ingredients, except the Champagne, in a mixing glass filled with ice and stir until well chilled. Strain into a flute and gently pour in the Champagne. Garnish.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Named for the Connaught Bar's head bartender during the 1940s, this sparkler was the first cocktail on the famed bar's menu when it reopened in 2008. \"Betty is Back is a dry, bubbly sip with delicate floral and citrus notes from a complex blend of Aperol ... and elderflower liqueurs and fresh lemon juice,\" writes Ago Perrone in his book, The Connaught Bar: Recipes and Iconic Creations, \"while the Champagne raises a toast to this memorable wartime bartender and her customers, who kept returning to this iconic spot for more.\"",
+  "source": "https://imbibemagazine.com/recipe/the-connaught-bar-betty-is-back/",
+  "garnish": "Cocktail cherry",
+  "abv": 9.78,
+  "tags": [],
+  "glass": "Champagne",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///betty-is-back-1_uGjeEM.jpg",
+      "sort": 0,
+      "placeholder_hash": "TRgKDwJoqGdAeYhdilWoaId7hZEICIcB",
+      "copyright": "Imbibe Magazine | Lateef Okunnu"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "aperol_27",
+      "name": "Aperol",
+      "strength": 11,
+      "description": "Aperol is an Italian orange-flavored aperitif liqueur known for its vibrant orange color and bittersweet taste. It is produced by the Campari Group and contains a blend of herbs, spices, and botanicals. Aperol is characterized by its lower alcohol content compared to some other aperitifs, making it a popular choice for refreshing cocktails. Aperol's distinct flavor profile and versatility make it a favorite ingredient in a variety of cocktails and spritz variations.\n\nThe labels explicitly credit the product to Barbieri Brothers in 1919, and admit to “an infusion of orange, rhubarb, china and gentian”. (“China” in this case means cinchona.) Today, Aperol is “produced from the original recipe of Barbieri” by Campari, and could be described as “like Campari” but milder, with the orange flavor dominant, and a yellower (orange) color.",
+      "origin": "Italy",
+      "category": "Apéritif",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "st-germain_52",
+      "name": "St-Germain",
+      "strength": 20,
+      "description": "St-Germain is an elderflower liqueur It is made using the petals of Sambucus nigra from the Savoie region in France, and each bottle is numbered with the year the petals were collected. Petals are collected annually in the spring over a period of three to four weeks, and are often transported by bicycle to collection points to avoid damaging the petals and impacting the flavour.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 1,
+      "units": "barspoon",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 1,
+      "units": "barspoon",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "champagne_122",
+      "name": "Champagne",
+      "strength": 12,
+      "description": "Champagne is a sparkling wine that comes from the Champagne region of France. It is one of the most famous and prestigious types of sparkling wine globally. The name \"Champagne\" is legally protected, and only wines produced in the Champagne region using specific methods can be labeled as such.\n\nChampagne is often associated with celebrations and is widely used in toasts. It comes in various styles, including non-vintage (a blend of multiple years), vintage (made from grapes of a single year), and prestige cuvées (high-quality, limited-production wines from a specific producer). The versatility of Champagne allows it to be enjoyed on its own or paired with a variety of foods.",
+      "origin": "France",
+      "category": "Sparkling wine",
+      "amount": 105,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

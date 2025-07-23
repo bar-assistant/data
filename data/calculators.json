@@ -1,0 +1,428 @@
+[
+    {
+        "_id": "simple-syrup-1",
+        "name": "Simple syrup",
+        "description": "Add water and put to light simmer until it combines",
+        "blocks": [
+            {
+                "label": "Sugar",
+                "variable_name": "sugar",
+                "value": "150",
+                "type": "input",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": null
+                },
+                "description": null,
+                "sort": 1
+            },
+            {
+                "label": "Water",
+                "variable_name": "water",
+                "value": "sugar * 1.5",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 1
+            }
+        ]
+    },
+    {
+        "_id": "lemon-aid-brian-tasch-2",
+        "name": "Lemon Aid (Brian Tasch)",
+        "description": "Clean lemons to remove wax. Peel lemons. Combine all ingredients and blend. Do NOT add the actual lemon juice of the lemon. Strain result. Store in fridge. Nearly Shelf-Stable in fridge.",
+        "blocks": [
+            {
+                "label": "Lemon Peels",
+                "variable_name": "peels",
+                "value": "30",
+                "type": "input",
+                "settings": {
+                    "suffix": "grams",
+                    "prefix": null,
+                    "decimal_places": null
+                },
+                "description": null,
+                "sort": 1
+            },
+            {
+                "label": "Lemon Peels",
+                "variable_name": "eval1",
+                "value": "peels",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 1
+            },
+            {
+                "label": "Sugar",
+                "variable_name": "eval2",
+                "value": "peels",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 2
+            },
+            {
+                "label": "Citric Acid",
+                "variable_name": "eval3",
+                "value": "peels / 30 * 27",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 3
+            },
+            {
+                "label": "Malic Acid",
+                "variable_name": "eval4",
+                "value": "peels / 30 * 3",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 4
+            },
+            {
+                "label": "Water",
+                "variable_name": "eval5",
+                "value": "peels / 30 * 500",
+                "type": "eval",
+                "settings": {
+                    "suffix": "ml",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 5
+            },
+            {
+                "label": "Salt",
+                "variable_name": "eval6",
+                "value": "peels / 30 * 1",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 6
+            }
+        ]
+    },
+    {
+        "_id": "lime-super-juice-kevin-koss-3",
+        "name": "Lime Super Juice (Kevin Koss)",
+        "description": "Peel one large lime (zest only, little white pith as possible). Weight the peels to calculate required acids and water needed. Let acids work on the peels for 2 hours to extract oils then blends peels, acids, water and juice of the lime.  Blend well until smooth. Strain out solids with cheesecloth and squeeze remaining solids to extract as much liquid as possible.  Bottle, store refrigerated, consume within 2 weeks.",
+        "blocks": [
+            {
+                "label": "Lime Peel",
+                "variable_name": "peels",
+                "value": "12",
+                "type": "input",
+                "settings": {
+                    "suffix": "grams",
+                    "prefix": null,
+                    "decimal_places": null
+                },
+                "description": null,
+                "sort": 1
+            },
+            {
+                "label": "Citric Acid",
+                "variable_name": "citric_acid",
+                "value": "peels * 0.66",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 1
+            },
+            {
+                "label": "Malic Acid",
+                "variable_name": "malic_acid",
+                "value": "peels * 0.33",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 2
+            },
+            {
+                "label": "Water",
+                "variable_name": "water",
+                "value": "peels * 16.66",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 3
+            }
+        ]
+    },
+    {
+        "_id": "lemon-super-juice-kevin-koss-4",
+        "name": "Lemon Super Juice (Kevin Koss)",
+        "description": "Peel one lemon (zest only, little white pith as possible). Use an equal weight the peels in acid and calculated water needed. Let acid work on the peels for 2 hours to extract oils then blends peels, acid, water and juice of the lemon.  Blend well until smooth. Strain out solids with cheesecloth. Squeeze remaining solids to extract as much liquid as possible.  Bottle, store refrigerated, consume within 2 weeks.",
+        "blocks": [
+            {
+                "label": "Lemon Peel",
+                "variable_name": "peels",
+                "value": "15",
+                "type": "input",
+                "settings": {
+                    "suffix": "grams",
+                    "prefix": null,
+                    "decimal_places": null
+                },
+                "description": null,
+                "sort": 1
+            },
+            {
+                "label": "Citric Acid",
+                "variable_name": "citric_acid",
+                "value": "peels",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 1
+            },
+            {
+                "label": "Water",
+                "variable_name": "water",
+                "value": "peels * 16.66",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 3
+            }
+        ]
+    },
+    {
+        "_id": "orange-super-juice-kevin-koss-5",
+        "name": "Orange Super Juice (Kevin Koss)",
+        "description": "Acid-adjusted orange juice to replace lemon or lime; perfect for cognac or tequila sours. Peel one orange (zest only, little white pith as possible). Weight the peels to calculate required acids and water needed. Let acids work on the peels for 2 hours to extract oils then blends peels, acids, water and juice of the lime.  Blend well until smooth. Strain out solids with cheesecloth and squeeze remaining solids to extract as much liquid as possible.  Bottle, store refrigerated, consume within 2 weeks.",
+        "blocks": [
+            {
+                "label": "Orange Peel",
+                "variable_name": "peels",
+                "value": "20",
+                "type": "input",
+                "settings": {
+                    "suffix": "grams",
+                    "prefix": null,
+                    "decimal_places": null
+                },
+                "description": null,
+                "sort": 1
+            },
+            {
+                "label": "Citric Acid",
+                "variable_name": "citric_acid",
+                "value": "peels * 0.9",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 1
+            },
+            {
+                "label": "Malic Acid",
+                "variable_name": "malic_acid",
+                "value": "peels * 0.11",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 2
+            },
+            {
+                "label": "Water",
+                "variable_name": "water",
+                "value": "peels * 16.66",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 3
+            }
+        ]
+    },
+    {
+        "_id": "grapefruit-super-juice-kevin-koss-6",
+        "name": "Grapefruit Super Juice (Kevin Koss)",
+        "description": "A zesty, acid-adjusted substitute for creating bold Palomas and Hemingway Daiquiris. Peel one grapefruit (zest only, little white pith as possible). Weight the peels to calculate required acids, MSG and water needed. Let acids work on the peels for 2 hours to extract oils then blends peels, acids, water and juice of the lime.  Blend well until smooth. Strain out solids with cheesecloth and squeeze remaining solids to extract as much liquid as possible.  Bottle, store refrigerated, consume within 2 weeks.",
+        "blocks": [
+            {
+                "label": "Grapefruit Peel",
+                "variable_name": "peels",
+                "value": "30",
+                "type": "input",
+                "settings": {
+                    "suffix": "grams",
+                    "prefix": null,
+                    "decimal_places": null
+                },
+                "description": null,
+                "sort": 1
+            },
+            {
+                "label": "Citric Acid",
+                "variable_name": "citric_acid",
+                "value": "peels * 0.8",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 1
+            },
+            {
+                "label": "Malic Acid",
+                "variable_name": "malic_acid",
+                "value": "peels * 0.2",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 2
+            },
+            {
+                "label": "MSG",
+                "variable_name": "msg",
+                "value": "peels * 0.033",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": "monosodium glutamate",
+                "sort": 3
+            },
+            {
+                "label": "Water",
+                "variable_name": "water",
+                "value": "peels * 16.66",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 4
+            }
+        ]
+    },
+    {
+        "_id": "kumquat-super-juice-7",
+        "name": "Kumquat Super Juice",
+        "description": "Acid-adjusted kumquat juice for a tangy twist in exotic and tropical cocktails.",
+        "blocks": [
+            {
+                "label": "Enter weight of Kumquat fruit",
+                "variable_name": "fruit",
+                "value": "100",
+                "type": "input",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": null
+                },
+                "description": null,
+                "sort": 1
+            },
+            {
+                "label": "Citric acid",
+                "variable_name": "eval1",
+                "value": "fruit * 0.25",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 1
+            },
+            {
+                "label": "Ascorbic Acid",
+                "variable_name": "eval2",
+                "value": "fruit * 0.002",
+                "type": "eval",
+                "settings": {
+                    "suffix": null,
+                    "prefix": null,
+                    "decimal_places": "2"
+                },
+                "description": null,
+                "sort": 2
+            },
+            {
+                "label": "Water",
+                "variable_name": "eval3",
+                "value": "fruit * 4.165",
+                "type": "eval",
+                "settings": {
+                    "suffix": "g",
+                    "prefix": null,
+                    "decimal_places": "0"
+                },
+                "description": null,
+                "sort": 3
+            }
+        ]
+    }
+]

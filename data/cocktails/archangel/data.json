@@ -1,0 +1,77 @@
+{
+  "_id": "archangel_1111",
+  "name": "Archangel",
+  "instructions": "1. In a mixing glass, bruise cucumber slices with a muddler.\n2. Add gin, Aperol, ice and stir until chilled.\n3. Strain into a chilled coupe or cocktail glass.\n4. Garnish with a lemon peel.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "A play on a Pink Gin, the Archangel cocktail recipe combines the aromatic subtlety of cucumbers, the orange of Aperol and the strength of gin.",
+  "source": "https://punchdrink.com/recipes/archangel/",
+  "garnish": "lemon peel",
+  "abv": 27.29,
+  "tags": [
+    "Bitter"
+  ],
+  "glass": "Wine",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///archangel-1_xFvaXx.jpg",
+      "sort": 0,
+      "placeholder_hash": "XAgSDwJglZqHaJiHh4iHaIh4t/AWDXwC",
+      "copyright": "Punch Staff | Daniel Krieger"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 67.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "aperol_27",
+      "name": "Aperol",
+      "strength": 11,
+      "description": "Aperol is an Italian orange-flavored aperitif liqueur known for its vibrant orange color and bittersweet taste. It is produced by the Campari Group and contains a blend of herbs, spices, and botanicals. Aperol is characterized by its lower alcohol content compared to some other aperitifs, making it a popular choice for refreshing cocktails. Aperol's distinct flavor profile and versatility make it a favorite ingredient in a variety of cocktails and spritz variations.\n\nThe labels explicitly credit the product to Barbieri Brothers in 1919, and admit to “an infusion of orange, rhubarb, china and gentian”. (“China” in this case means cinchona.) Today, Aperol is “produced from the original recipe of Barbieri” by Campari, and could be described as “like Campari” but milder, with the orange flavor dominant, and a yellower (orange) color.",
+      "origin": "Italy",
+      "category": "Apéritif",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "cucumber_144",
+      "name": "Cucumber",
+      "strength": 0,
+      "description": "Cucumbers are a type of vegetable that grow on creeping vines and are known for their cylindrical shape and high water content, making them refreshing to eat.",
+      "origin": null,
+      "category": "Fruits and vegetables",
+      "amount": 2,
+      "units": "slice",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

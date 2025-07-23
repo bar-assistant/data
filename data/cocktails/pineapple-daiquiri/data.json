@@ -1,0 +1,93 @@
+{
+  "_id": "pineapple-daiquiri_2191",
+  "name": "Pineapple Daiquiri",
+  "instructions": "1. Combine all ingredients in a mixing tin and shake with ice.\n2. Strain into a chilled coupe or cocktail glass.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This simple and slightly fruity Daiquiri variation incorporates fresh pineapple juice alongside white rum, lime juice and simple syrup.",
+  "source": "https://punchdrink.com/recipes/pineapple-daiquiri/",
+  "garnish": null,
+  "abv": 16,
+  "tags": [
+    "Fruity"
+  ],
+  "glass": "Coupe",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///pineapple-daiquiri-1_qwpcOE.webp",
+      "sort": 1,
+      "placeholder_hash": "KegJHwIve4h8lYiKhnd4R5iGZ9AXB30E",
+      "copyright": "Punch Staff"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "light-rum_96",
+      "name": "Light Rum",
+      "strength": 40,
+      "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+      "origin": "Caribbean",
+      "category": "Rum",
+      "amount": 2,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Barbancourt",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "pineapple-juice_536",
+      "name": "Pineapple juice",
+      "strength": 0,
+      "description": "Pineapple juice is extracted by passing fresh, ripe pineapple through a juice extractor (juicer) or by muddling fresh cut pineapple chunks and then straining out the solids.",
+      "origin": null,
+      "category": "Juices",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": "daiquiri_22",
+  "year": null
+}

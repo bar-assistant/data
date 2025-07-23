@@ -1,0 +1,111 @@
+{
+  "_id": "j-tonys-kold-brew-americano_1121",
+  "name": "J & Tony’s Kold Brew Americano",
+  "instructions": "1. Fill a Collins glass with ice. Add the first four ingredients and stir.\n2. Top with seltzer, then garnish with half an orange wheel.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This Americano cocktail recipe combines the Italian cocktail and the espresso drink for a bitter, low-proof serve.",
+  "source": "https://punchdrink.com/recipes/j-tonys-kold-brew-americano/",
+  "garnish": "half orange wheel",
+  "abv": 7.45,
+  "tags": [
+    "Coffee",
+    "Bitter",
+    "Sweet"
+  ],
+  "glass": "Highball",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///j-tonys-kold-brew-americano-1_wpRKU9.jpg",
+      "sort": 1,
+      "placeholder_hash": "njgOFwybiHe/d4eTZ3eIiIiE9wJ1a2AM",
+      "copyright": "Punch Staff | Arlene Ibarra"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "campari_26",
+      "name": "Campari",
+      "strength": 25,
+      "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+      "origin": "Italy",
+      "category": "Apéritif",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "sweet-vermouth_117",
+      "name": "Sweet Vermouth",
+      "strength": 18,
+      "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "coffee_73",
+      "name": "Coffee",
+      "strength": 0,
+      "description": "Coffee is a beverage made from roasted coffee beans. The beans are ground and brewed with hot water to produce a flavorful and aromatic drink. Coffee is enjoyed worldwide and comes in various styles, including espresso, drip coffee, and specialty beverages. It contains caffeine, a natural stimulant, and is often consumed for its energizing effects and rich, complex taste.",
+      "origin": "Africa",
+      "category": "Beverages",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "Cold brew",
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "club-soda_68",
+      "name": "Club soda",
+      "strength": 0,
+      "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer. Also known as soda, siphon soda water, soda water, siphon soda, and siphon water.\n\nSoda water is artificially or naturally carbonated water, to which mineral salts have been added. The product without the salts is termed \"seltzer\" or \"seltzer water.\"\n\nCarbonated water with added minerals—commonly sodium bicarbonate or salt—club soda was designed to approximate mineral water, which is often naturally fizzy, but can carry a hefty price tag. English chemist Joseph Priestly invented the process of carbonation in 1767, when he realized that the carbon dioxide produced during the fermentation of beer could be infused into water. Soon after, Jacob Schweppe, a Swiss watchmaker, figured out how to manufacture carbonated water (which has no added minerals) and club soda. These products would become the cornerstone of the Schweppes Company, which is still in existence today. The added salt or sodium bicarbonate helps to mitigate the sour flavors from the carbonic acid, a byproduct of carbon dioxide.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

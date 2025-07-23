@@ -1,0 +1,77 @@
+{
+  "_id": "sin-cyn_1124",
+  "name": "Sin Cyn",
+  "instructions": "1. Add all the ingredients into a mixing glass with ice and stir until well-chilled.\n2. Strain into a rocks glass over fresh ice.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The simple Sin Cyn cocktail combines scotch with Cynar and sweet vermouth. It’s part Rob Roy, part Boulevardier and wholly delicious.",
+  "source": "https://www.liquor.com/recipes/sin-cyn/",
+  "garnish": null,
+  "abv": 20.69,
+  "tags": [
+    "Negroni"
+  ],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///sin-cyn-1_znBYex.jpg",
+      "sort": 1,
+      "placeholder_hash": "UVkKFwaEZ3eQhnh3dpiXZ4iGBSh6BIMD",
+      "copyright": "Liquor.com"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "scotch-whiskey_84",
+      "name": "Scotch whiskey",
+      "strength": 40,
+      "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+      "origin": "Scotland",
+      "category": "Whiskey",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "cynar_143",
+      "name": "Cynar",
+      "strength": 16.5,
+      "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
+      "origin": "Italy",
+      "category": "Amaro",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "sweet-vermouth_117",
+      "name": "Sweet Vermouth",
+      "strength": 18,
+      "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

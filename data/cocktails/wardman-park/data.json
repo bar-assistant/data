@@ -1,0 +1,71 @@
+{
+  "_id": "wardman-park_1517",
+  "name": "Wardman Park",
+  "instructions": "1. Stir with ice.\n2. Strain into a cocktail glass.",
+  "created_at": null,
+  "updated_at": null,
+  "description": null,
+  "source": "Wardman Park Hotel, Washington, D. C.",
+  "garnish": null,
+  "abv": 24.62,
+  "tags": [
+    "Fruity",
+    "Smokey"
+  ],
+  "glass": "Cocktail",
+  "method": "Stir",
+  "utensils": [],
+  "images": [],
+  "ingredients": [
+    {
+      "_id": "sherry_124",
+      "name": "Sherry",
+      "strength": 17,
+      "description": "Sherry is a fortified wine that originates from the Jerez region in southwestern Spain. It is made from white grapes, primarily the Palomino grape variety, and is known for its unique production process, diverse styles, and complex flavors. Sherry has a protected designation of origin (DO) status, meaning that only wines produced in the designated region can be labeled as Sherry.",
+      "origin": "Spain",
+      "category": "Fortified wine",
+      "amount": 37.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "Fino sherry",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "grape-brandy_936",
+      "name": "Grape Brandy",
+      "strength": 40,
+      "description": "Grape brandy is a generic category for brandy distilled from fermented grapes and aged in wood barrels or other vessels.\n\nWhenever the term “brandy” is used unqualified in a mixed drink recipe, aged grape brandy is what is meant, particularly Cognac and its imitators. If some other kind of brandy is intended, there will usually be additional context (e.g., “apple brandy” or “Spanish brandy”).",
+      "origin": null,
+      "category": "Fruit brandy",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "drambuie_44",
+      "name": "Drambuie",
+      "strength": 40,
+      "description": "Drambuie is a sweet and herbal liqueur from Scotland. It is made from Scotch whisky, honey, herbs, and spices. Drambuie has a distinctive flavor profile that combines the warmth of Scotch whisky with the sweetness of honey and the complexity of herbs and spices. It is often enjoyed on its own, over ice, or used as a key ingredient in cocktails. One of the most well-known cocktails featuring Drambuie is the Rusty Nail, where it is typically mixed with Scotch whisky.",
+      "origin": "Scotland",
+      "category": "Liqueurs",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

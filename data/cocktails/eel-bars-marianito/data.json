@@ -1,0 +1,93 @@
+{
+  "_id": "eel-bars-marianito_1493",
+  "name": "Eel Bar’s Marianito",
+  "instructions": "1. Combine all the ingredients in a mixing glass with ice and stir until chilled.\n2. Strain into a rocks glass over fresh ice, then garnish with an olive on a pick and an orange twist.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This Marianito cocktail recipe swaps the typical gin for rum, specifically an agricole rhum. It's a low-proof, Negroni-like drink.",
+  "source": "https://punchdrink.com/recipes/eel-bars-marianito/",
+  "garnish": "green olive, orange twist",
+  "abv": 22.65,
+  "tags": [
+    "Negroni"
+  ],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///eel-bars-marianito-1_Udxd1d.webp",
+      "sort": 1,
+      "placeholder_hash": "ahgOHwifXcSfdHl5d0iIp4h3p0BXCmMF",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "sweet-vermouth_117",
+      "name": "Sweet Vermouth",
+      "strength": 18,
+      "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 2,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Atxa Rojo",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "rhum-agricole_101",
+      "name": "Rhum agricole",
+      "strength": 50,
+      "description": "Rhum Agricole is a style of rum that is made from fresh sugarcane juice rather than molasses, which is the byproduct of sugar production. The term \"agricole\" is French for \"agricultural,\" highlighting the agricultural origin of the sugarcane used in the production.\n\nRhum Agricole is particularly associated with regions like Martinique and Guadeloupe, where the production of this style of rum has a long and established tradition. The distinctive character of Rhum Agricole has contributed to its popularity among rum enthusiasts and mixologists seeking unique and flavorful spirits.",
+      "origin": "Caribbean",
+      "category": "Rum",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Holmes Cay Reunion Island",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "cointreau_56",
+      "name": "Cointreau",
+      "strength": 40,
+      "description": "Orange-flavoured triple sec liqueur, it was originally called Curaçao Blanco Triple Sec. Usually more dry tasting than Orange Curaçao.",
+      "origin": "France",
+      "category": "Orange Curaçao",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Pierre Ferrand",
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "angostura-aromatic-bitters_22",
+      "name": "Angostura aromatic bitters",
+      "strength": 44.7,
+      "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+      "origin": "Trinidad & Tobago",
+      "category": "Bitters",
+      "amount": 3,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

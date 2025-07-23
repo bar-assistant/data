@@ -1,19 +1,27 @@
 {
-    "_id": "bitters",
-    "_parent_id": null,
-    "name": "Bitters",
-    "strength": 0,
-    "description": "Concentrated flavoring agents",
-    "origin": null,
-    "color": null,
-    "category": null,
-    "created_at": "2025-03-09T12:22:00+00:00",
-    "updated_at": null,
-    "images": [],
-    "ingredient_parts": [],
-    "prices": [],
-    "calculator_id": null,
-    "sugar_g_per_ml": null,
-    "acidity": null,
-    "distillery": null
+  "_id": "bitters_944",
+  "_parent_id": null,
+  "name": "Bitters",
+  "strength": 0,
+  "description": "Bitters are concentrated alcoholic tinctures made by infusing a high-proof spirit with a diverse array of botanicals, including aromatic herbs, roots, fruits, spices, and barks. While often containing bittering agents like gentian or cinchona, they are not solely bitter; rather, they serve as a highly concentrated seasoning for cocktails, used in very small quantities (typically dashes or drops). Their purpose is to enhance and balance flavors, add aromatic complexity, and sometimes provide a unifying bridge between disparate ingredients in a drink.\n\nThere's a vast spectrum of bitters available, ranging from classic aromatic bitters like Angostura and Peychaud's (which offer notes of baking spices, citrus, and a hint of bitterness) to orange bitters, and an ever-growing variety of \"new wave\" or \"craft\" bitters featuring specific flavors such as chocolate, celery, or various fruit and floral notes. Despite their small volume in a drink, bitters are considered an indispensable ingredient in mixology, often referred to as the \"salt and pepper\" of the cocktail world, due to their profound impact on a drink's overall character and balance.",
+  "origin": null,
+  "color": null,
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///bitters-1_yPGdVe.webp",
+      "sort": 1,
+      "placeholder_hash": "5AeGBQAmSOiFeYL6eHiScNj2BxhyiXGZaA",
+      "copyright": "AI Generated"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
 }

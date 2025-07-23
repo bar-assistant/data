@@ -1,0 +1,94 @@
+{
+  "_id": "cane-tables-royal-hawaiian_748",
+  "name": "Cane & Table’s Royal Hawaiian",
+  "instructions": "1. Combine all ingredients in a shaker.\n2. Add a handful of pebble ice and whip-shake.\n3. Pour into a chilled double rocks glass, and top with more pebble ice.\n4. Garnish with a mint bouquet and serve with a straw.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "A tropical gin cocktail recipe, the Royal Hawaiian is reimagined at Cane & Table, where the pineapple drink is served on crushed ice.",
+  "source": "https://punchdrink.com/recipes/cane-tables-royal-hawaiian/",
+  "garnish": "mint bouquet",
+  "abv": 13.71,
+  "tags": [
+    "Citrusy",
+    "Fruity"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///cane-tables-royal-hawaiian-1_4tRs5W.jpg",
+      "sort": 1,
+      "placeholder_hash": "nQgWHwRQh4eFl3iYZ4eGmIZqaFBpVpAH",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Bombay Dry",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "orgeat-syrup_109",
+      "name": "Orgeat Syrup",
+      "strength": 0,
+      "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
+      "origin": null,
+      "category": "Simple Syrup",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "pineapple-juice_536",
+      "name": "Pineapple juice",
+      "strength": 0,
+      "description": "Pineapple juice is extracted by passing fresh, ripe pineapple through a juice extractor (juicer) or by muddling fresh cut pineapple chunks and then straining out the solids.",
+      "origin": null,
+      "category": "Juices",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

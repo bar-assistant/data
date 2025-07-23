@@ -1,0 +1,94 @@
+{
+  "_id": "hemingway-daiquiri_2189",
+  "name": "Hemingway Daiquiri",
+  "instructions": "1. Combine all ingredients in a shaker over cracked ice\n2. Shake until the sides are frosty\n3. Strain into a coupe and garnish with a lime wedge",
+  "created_at": null,
+  "updated_at": null,
+  "description": "A bittersweet twist on the rum classic, with a storied past",
+  "source": "https://tuxedono2.com/hemingway-daiquiri-cocktail-recipe",
+  "garnish": "lime wedge for garnish",
+  "abv": 17.37,
+  "tags": [
+    "Dry",
+    "Bitter"
+  ],
+  "glass": "Coupe",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///hemingway-daiquiri-1_xDOwoU.webp",
+      "sort": 1,
+      "placeholder_hash": "yPcJBwAIp4d6hXh0ikbHSKeJaNBWmIAF",
+      "copyright": "TuxedoNo2"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "light-rum_96",
+      "name": "Light Rum",
+      "strength": 40,
+      "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
+      "origin": "Caribbean",
+      "category": "Rum",
+      "amount": 1.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "grapefruit-juice_61",
+      "name": "Grapefruit juice",
+      "strength": 0,
+      "description": "Freshly squeezed grapefruit juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "maraschino_37",
+      "name": "Maraschino",
+      "strength": 32,
+      "description": "Liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.\n\nThe Luxardo family, an Italian producer, is particularly well-known for its Maraschino liqueur.",
+      "origin": "Croatia",
+      "category": "Liqueurs",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": "daiquiri_22",
+  "year": null
+}

@@ -1,0 +1,91 @@
+{
+  "_id": "willsour_780",
+  "name": "Willsour",
+  "instructions": "Shake",
+  "created_at": null,
+  "updated_at": null,
+  "description": null,
+  "source": null,
+  "garnish": null,
+  "abv": 18.13,
+  "tags": [],
+  "glass": "Highball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///willsour-1_abLGHv.png",
+      "sort": 1,
+      "placeholder_hash": "oBgKDwIBuYdoiIeEh0eJSImFtS8U/GUF",
+      "copyright": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "pear-brandy-williams_168",
+      "name": "Pear Brandy (Williams)",
+      "strength": 40,
+      "description": "The Purkhart Pear Williams Brandy uses only “Williams” pears from South Tirol (also known as Alto Adige or Südtirol), whose pears are prized for their opulent and creamy ripe fruit fragrance. Lively and stimulating on the palate, this eau-de-vie reveals a depth of pear flavor that carries well into the finish. Made only from distilled pears and water. Enjoy on its own, stir with dry vermouth for a perfumed Martini variation, or make uncommonly aromatic sour cocktails. 100% Reines Destillat Williamsbrand.\n\n- Lively eau-de-vie distilled from Williams pears\n- Williams pears have an opulent and creamy ripe fruit fragrance\n- Floral, fruity complexity; makes aromatic sour cocktails\n- Mix with dry vermouth and orange bitters for a Martini variation\n- Purkhart has captured authentic regional tastes since 1932",
+      "origin": "Germany",
+      "category": "Fruit brandy",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "st-germain_52",
+      "name": "St-Germain",
+      "strength": 20,
+      "description": "St-Germain is an elderflower liqueur It is made using the petals of Sambucus nigra from the Savoie region in France, and each bottle is numbered with the year the petals were collected. Petals are collected annually in the spring over a period of three to four weeks, and are often transported by bicycle to collection points to avoid damaging the petals and impacting the flavour.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "cream-of-coconut_19",
+  "_parent_id": null,
+  "name": "Cream of Coconut",
+  "strength": 0,
+  "description": "Coconut cream is a thick, rich, and smooth substance extracted from the flesh of mature coconuts. Coconut cream is similar to coconut milk, but it has a higher concentration of coconut solids, giving it a thicker consistency. It is often used in both savory and sweet recipes, including curries, soups, desserts, and beverages. Coconut cream is a key ingredient in many dishes in Southeast Asian, Caribbean, and other tropical cuisines.",
+  "origin": "Tropical",
+  "color": "#ffffff",
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///coconut-cream-1_O7ULZC.png",
+      "sort": 1,
+      "placeholder_hash": "JaeJHQQeSdVwe3h3lweMd4B5CAiIiIiIhw",
+      "copyright": "Coco Lopez"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

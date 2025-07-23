@@ -1,0 +1,20 @@
+{
+  "_id": "bouquet-bitters_1172",
+  "_parent_id": "bitters_944",
+  "name": "Bouquet bitters",
+  "strength": 0,
+  "description": "Combine 4 oz. of caraway seeds, 4 oz. of fennel seeds, 4 oz. of dried whole tarragon, and 1 cup of vodka in a sealable container. Leave it to infuse for 30 hours at room temperature. Afterward, fine-strain out the herbs.",
+  "origin": null,
+  "color": null,
+  "category": "Bitters",
+  "created_at": null,
+  "updated_at": null,
+  "images": [],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "dash"
+}

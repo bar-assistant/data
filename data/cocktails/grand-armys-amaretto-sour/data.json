@@ -1,0 +1,94 @@
+{
+  "_id": "grand-armys-amaretto-sour_1494",
+  "name": "Grand Army’s Amaretto Sour",
+  "instructions": "1. Combine ingredients in a cocktail shaker and dry-shake without ice.\n2. Add ice and shake again until chilled.\n3. Strain into a rocks glass.\n4. Express an orange twist over the drink, then discard.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This Amaretto Sour cocktail recipe from New York bar Grand Army combines Campari, amaretto, lemon juice and an egg white.",
+  "source": "https://punchdrink.com/recipes/grand-armys-amaretto-sour/",
+  "garnish": "orange twist (expressed and discarded)",
+  "abv": 13.35,
+  "tags": [
+    "Citrusy",
+    "Sour"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///grand-armys-amaretto-sour-1_dM25fx.webp",
+      "sort": 1,
+      "placeholder_hash": "LDkGFwTRApV0d3y3mraa+Whzd3DXCoQL",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "amaretto_29",
+      "name": "Amaretto",
+      "strength": 24,
+      "description": "Amaretto is a sweet Italian liqueur that is known for its distinct almond flavor. The name \"Amaretto\" is derived from the Italian word \"amaro,\" which means bitter, indicating the traditional bitter almond flavor. However, modern Amaretto is typically sweet rather than bitter.\n\nThe primary flavor in Amaretto comes from apricot pits or almonds, though today many commercial brands use a combination of both. The production process involves soaking the almonds or apricot pits in alcohol, which extracts their flavors. The resulting liquid is then sweetened with sugar, and sometimes flavored with vanilla or other spices.\n\nAmaretto is often enjoyed on its own as a digestif or as an ingredient in various cocktails and culinary recipes. It is a versatile liqueur that adds a rich and nutty flavor to beverages and desserts. Classic cocktails like the Amaretto Sour, as well as desserts like tiramisu, often feature this popular Italian liqueur.",
+      "origin": "Italy",
+      "category": "Liqueurs",
+      "amount": 2,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Lazzaroni",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "campari_26",
+      "name": "Campari",
+      "strength": 25,
+      "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+      "origin": "Italy",
+      "category": "Apéritif",
+      "amount": 0.25,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "egg-white_17",
+      "name": "Egg White",
+      "strength": 0,
+      "description": "Egg white is the clear liquid part of an egg that surrounds the yolk. It is rich in proteins and is commonly used in cooking and baking for its ability to add structure, foam, and a smooth texture to various dishes.",
+      "origin": "Worldwide",
+      "category": "Dairy",
+      "amount": 1,
+      "units": "whole",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": "amaretto-sour_93",
+  "year": null
+}

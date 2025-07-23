@@ -1,0 +1,27 @@
+{
+  "_id": "balsamic-vinegar_731",
+  "_parent_id": null,
+  "name": "Balsamic vinegar",
+  "strength": 0,
+  "description": "Balsamic vinegar, traditionally a culinary staple, has surprisingly found its way into the world of cocktails, offering a unique and complex dimension. Made from grape must and aged in wooden barrels, balsamic vinegar boasts a flavor profile that ranges from intensely sweet and fruity to deeply tangy and acidic, often with notes of caramel, dried fruit, and wood. When incorporated thoughtfully, it can act as a sophisticated alternative to traditional citrus, providing acidity that cuts through sweetness while simultaneously adding layers of rich, savory, and sometimes subtly sweet characteristics.",
+  "origin": null,
+  "color": null,
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///balsamic-vinegar-1_wzoDXj.webp",
+      "sort": 0,
+      "placeholder_hash": "15iGBQI1tA6bVJR4l1WPhvRXCJd2iHSaeA",
+      "copyright": "Modena PGI"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "drops"
+}

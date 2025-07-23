@@ -1,0 +1,109 @@
+{
+  "_id": "vitamin-parade_739",
+  "name": "Vitamin Parade",
+  "instructions": "1. Combine the carrot juice, pineapple juice, lemon juice, syrup, and egg white in a shaker.\n2. Dry-shake with no ice for 15–20 seconds until foam forms.\n3. Add ice and shake. Fine-strain into a fizz glass.\n4. Top with ginger beer.\n5. Express a lemon twist over cocktail then discard.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Natasha David combines fresh carrot and pineapple juices, citrus, ginger beer, and cinnamon syrup for this feel-good spirit-free drink.",
+  "source": "https://www.liquor.com/vitamin-parade-cocktail-recipe-7091326",
+  "garnish": "Garnish with a pineapple wedge.",
+  "abv": 0,
+  "tags": [
+    "Virgin"
+  ],
+  "glass": "Highball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///vitamin-parade-1_sXloBf.jpg",
+      "sort": 1,
+      "placeholder_hash": "6hgGRwjJWYabdol/dVmHl4iDinBHCHYE",
+      "copyright": "Liquor.com"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "carrot-juice_525",
+      "name": "Carrot juice",
+      "strength": 0,
+      "description": "Carrot juice is a nutritious drink made from carrots, rich in beta-carotene and vitamin A. It has a slightly sweet and earthy flavor, and can be enjoyed on its own or mixed with other juices.",
+      "origin": null,
+      "category": "Juices",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "pineapple-juice_536",
+      "name": "Pineapple juice",
+      "strength": 0,
+      "description": "Pineapple juice is extracted by passing fresh, ripe pineapple through a juice extractor (juicer) or by muddling fresh cut pineapple chunks and then straining out the solids.",
+      "origin": null,
+      "category": "Juices",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "cinnamon-syrup_133",
+      "name": "Cinnamon syrup",
+      "strength": 0,
+      "description": "Simple syrup infused with cinnamon. Follow the recipe to make your own at home:\n\n- 1 cup granulated sugar\n- 1 cup water\n- 4 cinnamon sticks, broken into large pieces\n\nBring all ingredients to a boil over medium heat. Reduce heat to medium-low and let simmer for 8-10 minutes until sugar has dissolved, stirring frequently. Remove from heat and let cool. Discard cinnamon sticks, strain into a clean glass jar and cover. Store refrigerated for up to 2 weeks.",
+      "origin": "Worldwide",
+      "category": "Simple Syrup",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "ginger-beer_71",
+      "name": "Ginger beer",
+      "strength": 0,
+      "description": "Ginger ale is a non-alcoholic carbonated beverage flavored with ginger. It is known for its fizzy and slightly spicy taste, derived from the natural or artificial ginger flavorings used in its production. Ginger ale is often consumed on its own as a refreshing soft drink, and it is also a common mixer in various cocktails. There are both commercial and homemade versions of ginger ale, with variations that may include additional ingredients such as citrus or sweeteners.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 1,
+      "units": "topup",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

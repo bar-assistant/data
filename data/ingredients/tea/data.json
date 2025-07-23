@@ -1,0 +1,27 @@
+{
+  "_id": "tea_534",
+  "_parent_id": null,
+  "name": "Tea",
+  "strength": 0,
+  "description": "Tea offers a versatile and sophisticated dimension to cocktails, introducing complex flavors and aromas that range from earthy and smoky to floral, fruity, or tannic. It can be incorporated in various ways: brewed and chilled as a mixer, steeped into syrups for concentrated flavor and sweetness, or used to infuse spirits directly for a nuanced base. Tea allows for creative experimentation, adding depth, balancing sweetness or acidity, and providing unique aromatic notes that elevate a drink beyond traditional profiles, making it a favorite tool for modern mixologists seeking to craft unique and memorable libations.",
+  "origin": null,
+  "color": null,
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///tea-1_QZs6ac.webp",
+      "sort": 0,
+      "placeholder_hash": "rDiKFQQs14iMdI9EVwhzgzAHGDiGhoGXCA",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

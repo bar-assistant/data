@@ -1,19 +1,27 @@
 {
-    "_id": "fruits-and-vegetables",
-    "_parent_id": null,
-    "name": "Fruits and vegetables",
-    "strength": 0,
-    "description": null,
-    "origin": null,
-    "color": null,
-    "category": null,
-    "created_at": "2025-03-09T12:22:00+00:00",
-    "updated_at": null,
-    "images": [],
-    "ingredient_parts": [],
-    "prices": [],
-    "calculator_id": null,
-    "sugar_g_per_ml": null,
-    "acidity": null,
-    "distillery": null
+  "_id": "fruits-and-vegetables_941",
+  "_parent_id": null,
+  "name": "Fruits and vegetables",
+  "strength": 0,
+  "description": "Fruits and vegetables are fundamental to cocktail creation, contributing far more than just aesthetic appeal. They are crucial for providing balance, depth, and a wide spectrum of flavors and aromas. Citrus fruits like lemons, limes, oranges, and grapefruits are indispensable, offering essential acidity to brighten drinks and cut through sweetness, creating the sour component in countless classic cocktails. Berries, stone fruits, and tropical fruits bring natural sweetness, tartness, and vibrant fruit notes, along with beautiful colors and textures, whether muddled, juiced, or used as garnishes.\n\n\nBeyond fruits, vegetables are increasingly embraced by modern mixologists for their unique savory, earthy, and sometimes spicy profiles. Cucumbers lend a refreshing, clean note; bell peppers can add a subtle sweetness and vegetal aroma; and root vegetables like beets or carrots contribute earthy depth and vibrant hues. Herbs such as mint, basil, and rosemary, often categorized with vegetables in this context, offer aromatic complexity. Together, fruits and vegetables allow for endless creativity, enabling bartenders to craft innovative and balanced drinks that range from crisp and refreshing to complex and savory.",
+  "origin": null,
+  "color": null,
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///fruits-and-vegetables-1_wza6AI.webp",
+      "sort": 0,
+      "placeholder_hash": "HFqGDQI4YoqGaJy3BwqKd2CIJ2h2iICIaA",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
 }

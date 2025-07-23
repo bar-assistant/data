@@ -1,0 +1,27 @@
+{
+  "_id": "pineapple-rum_1402",
+  "_parent_id": "rum_954",
+  "name": "Pineapple Rum",
+  "strength": 40,
+  "description": "Pineapple rum is a captivating blend of Caribbean tradition and tropical fruit essence. It begins with a base of high-quality rum, typically aged to impart a smooth, mellow character. This rum is then infused with the vibrant flavor of pineapple, often utilizing juice or extract to achieve a rich, fruity profile. The resulting spirit offers a complex interplay of warm, molasses notes from the rum, balanced by the bright, tangy sweetness of the pineapple. It's a versatile ingredient, appreciated for its distinct flavor and aromatic complexity.",
+  "origin": "Caribbean Islands",
+  "color": "#F0E68C",
+  "category": "Spirits > Sugarcane-based spirits > Rum",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///pineapple-rum-1_oNqaUJ.webp",
+      "sort": 1,
+      "placeholder_hash": "YGqKNQ4eanhAiXaomWVvd/aHBydzdINEZw",
+      "copyright": "Plantation"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

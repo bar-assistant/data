@@ -1,26 +1,27 @@
 {
-    "_id": "blackberries",
-    "_parent_id": "fruits-and-vegetables",
-    "name": "Blackberries",
-    "strength": 0,
-    "description": "Blackberries are known for their sweet and tart flavor, and they are commonly used in a variety of culinary applications, including desserts, jams, jellies, and beverages.",
-    "origin": null,
-    "color": "#16173d",
-    "category": "Fruits and vegetables",
-    "created_at": "2024-08-28T13:52:51+00:00",
-    "updated_at": null,
-    "images": [
-        {
-            "uri": "file:///blackberries-1_60mO6v.png",
-            "sort": 1,
-            "placeholder_hash": "TviBDQAq64eMik4Bgl+EC6lWdVpjtVCpVw",
-            "copyright": "D&B Grant"
-        }
-    ],
-    "ingredient_parts": [],
-    "prices": [],
-    "calculator_id": null,
-    "sugar_g_per_ml": null,
-    "acidity": null,
-    "distillery": null
+  "_id": "blackberries_181",
+  "_parent_id": "fruits-and-vegetables_941",
+  "name": "Blackberries",
+  "strength": 0,
+  "description": "Blackberries are known for their sweet and tart flavor, and they are commonly used in a variety of culinary applications, including desserts, jams, jellies, and beverages.",
+  "origin": null,
+  "color": "#16173d",
+  "category": "Fruits and vegetables",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///blackberries-1_m9EGjF.png",
+      "sort": 1,
+      "placeholder_hash": "T/iBDQA3+4eKh0ogdZ+HCId3V1l1l3C5Zw",
+      "copyright": "D&B Grant"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "whole"
 }

@@ -1,0 +1,20 @@
+{
+  "_id": "rum_954",
+  "_parent_id": "sugarcane-based-spirits_955",
+  "name": "Rum",
+  "strength": 0,
+  "description": "Rum is a generic category for rums of any style or origin. For mixed drink use, the unqualified term typically indicates a light-bodied Cuban-style rum, but whether specified or not, the other components in a given recipe will suggest what style of rum ought to be used in order to be in balance with the flavors of those ingredients. Rum is traditionally made all over the tropics, and where it is produced, its weather, soil, rainfall, cane preparation, fermentation, distillation, and aging methods all contribute to the wide range of flavors rum as a spirit embraces.",
+  "origin": null,
+  "color": "#000",
+  "category": "Spirits > Sugarcane-based spirits",
+  "created_at": null,
+  "updated_at": null,
+  "images": [],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

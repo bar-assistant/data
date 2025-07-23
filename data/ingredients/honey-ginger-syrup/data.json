@@ -1,0 +1,37 @@
+{
+  "_id": "honey-ginger-syrup_734",
+  "_parent_id": "syrups_942",
+  "name": "Honey ginger syrup",
+  "strength": 0,
+  "description": "Honey ginger syrup is a flavorful and versatile sweetener created by infusing honey with fresh ginger. The process involves combining honey, typically a lighter variety to allow the ginger's character to shine through, with thinly sliced or grated ginger. The mixture then steeps for a period, allowing the ginger's spicy and aromatic compounds to fully integrate into the honey. This results in a syrup with a complex profile – the sweetness of honey balanced by the warmth and subtle heat of ginger.\n\nThis syrup offers a unique depth of flavor that can be used to add complexity to a wide range of beverages. The ginger provides a pleasant zing and a touch of spice, while the honey contributes a natural sweetness and a smooth texture. The resulting syrup is a delightful combination of sweet and savory notes, making it a popular choice for those seeking a more nuanced flavor profile. It's a great alternative to simple syrup when a touch of spice is desired.\n\nHoney ginger syrup is a relatively simple preparation, often made at home, but commercially produced versions are also readily available. The quality of the honey used significantly impacts the final product, with raw or wildflower honey often preferred for their richer flavor.",
+  "origin": null,
+  "color": "#F0E68C",
+  "category": "Syrups",
+  "created_at": null,
+  "updated_at": null,
+  "images": [],
+  "ingredient_parts": [
+    {
+      "_id": "honey-syrup_110",
+      "name": "Honey Syrup",
+      "strength": 0,
+      "description": "Syrup made from dissolving honey in water.",
+      "origin": "Worldwide",
+      "category": "Simple Syrup"
+    },
+    {
+      "_id": "ginger-syrup_116",
+      "name": "Ginger syrup",
+      "strength": 0,
+      "description": "Syrup infused with ginger root.\n\nThis ginger syrup is fantastic in cocktails, but it also makes an out-of-this-world ginger ale. To make ginger ale, simply fill an ice-filled glass a third of the way with the syrup, top with soda water and a squeeze of lime, stir and enjoy.",
+      "origin": "Worldwide",
+      "category": "Syrups"
+    }
+  ],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

@@ -1,0 +1,109 @@
+{
+  "_id": "sea-legs_2149",
+  "name": "Sea Legs",
+  "instructions": "1. Add all ingredients to a Hybrid Cocktail Shaker.\n2. Add ice and shake hard for 20 seconds.\n3. Strain into a chilled coupe.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Sea Legs cocktail encapsulates \"a nautical feel without the kitsch\", says its creator Alejandro Olivares. Big smoke flavor from the scotch and mezcal is lightened up with fresh lime and almond orgeat... and don't skip the celery bitters on this one.",
+  "source": "https://elevatedcraft.com/blogs/cocktail-recipes/sea-legs",
+  "garnish": "Garnish with a salted rim and lime wheel.",
+  "abv": 18.39,
+  "tags": [
+    "Smokey"
+  ],
+  "glass": "Coupe",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///sea-legs-1_0FXn2M.webp",
+      "sort": 1,
+      "placeholder_hash": "WBgODwJUiYiAeId5icZ3aGaY2aIATQkC",
+      "copyright": "Liber &amp;amp; Co."
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "islay-scotch-whiskey_85",
+      "name": "Islay Scotch Whiskey",
+      "strength": 40,
+      "description": "Islay Scotch refers to Scotch whisky that is produced on the Isle of Islay, which is one of the whisky-producing regions of Scotland. Islay whiskies are renowned for their distinctive and peaty character, often featuring robust and smoky flavors that set them apart from whiskies produced in other regions.\n\nWell-known Islay distilleries include Ardbeg, Laphroaig, Lagavulin, and Bowmore, among others. Islay Scotch whiskies are appreciated by enthusiasts who enjoy the bold and distinctive flavor profile associated with the region. They are often enjoyed neat or with a splash of water to unlock the complexities of the spirit.",
+      "origin": "Isle of Islay",
+      "category": "Scotch whiskey",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "mezcal_92",
+      "name": "Mezcal",
+      "strength": 40,
+      "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+      "origin": "Mexico",
+      "category": "Spirits",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "orgeat-syrup_109",
+      "name": "Orgeat Syrup",
+      "strength": 0,
+      "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
+      "origin": null,
+      "category": "Simple Syrup",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "celery-bitters_1381",
+      "name": "Celery bitters",
+      "strength": 44,
+      "description": "Celery bitters are a type of cocktail bitters that add a savory flavor to drinks, often used in cocktails like the Bloody Mary or Gin and Tonic. They can be purchased from specialty liquor stores or made at home using celery and other flavoring ingredients.",
+      "origin": null,
+      "category": "Bitters",
+      "amount": 2,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

@@ -1,0 +1,112 @@
+{
+  "_id": "pimms-cup_2199",
+  "name": "Pimm’s Cup",
+  "instructions": "Build in the order given in a tall ice-filled glass, adding the fruits and cucumber at the end and stirring gently to submerge.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Pimm's cup is a cocktail that is popular in England, in the United Kingdom. It is one of numerous fruit cups, a type of cocktail with gin, a soft drink, and fruit. Its primary spirit is Pimm's No. 1 Cup, a gin-based beverage flavoured with fruits and spices invented around 1823 as a health drink. The Pimm's cup is the official cocktail of many summer events in England, including the Chelsea Flower Show, the Henley Royal Regatta and the Royal Ascot.",
+  "source": null,
+  "garnish": "Garnish with a french sprig of mint, or a handful of borage or other edible flowers.",
+  "abv": 9.09,
+  "tags": [
+    "Classics",
+    "Fruity",
+    "Summer",
+    "Historical"
+  ],
+  "glass": "Highball",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///pimms-cup-1_vrpxnH.webp",
+      "sort": 1,
+      "placeholder_hash": "JTkGDwaW7MBhYtZ5dxSKKZiTSIIMWJAB",
+      "copyright": "Imbibe | Pieter Estersohn"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "pimms-1_1399",
+      "name": "Pimm’s #1",
+      "strength": 40,
+      "description": "Proprietary British bottled spiced gin sling cocktail to which is added a mixer, like soda water, ginger ale, ginger beer, or 7-Up in a tall glass with ice.",
+      "origin": "England",
+      "category": "Beverages",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lemon-soda_1400",
+      "name": "Lemon soda",
+      "strength": 0,
+      "description": "In the cocktail world, \"lemon soda\" typically refers to a simple, refreshing mixer. It's essentially lemon-flavored sparkling water, often used to add a bubbly, citrusy lift to \nvarious drinks. Think of it as a lighter alternative to regular soda, providing a clean, tart counterpoint to stronger spirits like gin, vodka, or rum. It's a versatile ingredient, \nfrequently found in classics like a Gin Rickey or a Vodka Soda, and allows for a bright, crisp finish without overpowering the main flavors.",
+      "origin": null,
+      "category": "Beverages",
+      "amount": 6,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "cucumber_144",
+      "name": "Cucumber",
+      "strength": 0,
+      "description": "Cucumbers are a type of vegetable that grow on creeping vines and are known for their cylindrical shape and high water content, making them refreshing to eat.",
+      "origin": null,
+      "category": "Fruits and vegetables",
+      "amount": 4,
+      "units": "slice",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "lemon_2",
+      "name": "Lemon",
+      "strength": 0,
+      "description": "Lemon is a citrus fruit known for its bright yellow color and tart flavor.",
+      "origin": null,
+      "category": "Fruits and vegetables",
+      "amount": 4,
+      "units": "slice",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "strawberry_166",
+      "name": "Strawberry",
+      "strength": 0,
+      "description": "Strawberries are a popular fruit known for their bright red color, sweet flavor, and juicy texture. They are often eaten fresh or used in various dishes like jams, desserts, and ice creams.",
+      "origin": null,
+      "category": "Fruits and vegetables",
+      "amount": 4,
+      "units": "slice",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

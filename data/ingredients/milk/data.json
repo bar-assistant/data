@@ -1,0 +1,27 @@
+{
+  "_id": "milk_530",
+  "_parent_id": "beverages_945",
+  "name": "Milk",
+  "strength": 0,
+  "description": "Milk in cocktails primarily serves to add richness, body, and a creamy texture, transforming the mouthfeel of a drink. While straightforward additions create creamy concoctions like the White Russian or Brandy Milk Punch, a more sophisticated application is in \"clarified milk punches.\" In this technique, milk is intentionally curdled with acidic ingredients (like citrus juice or other spirits), and the resulting curds are then strained out, leaving behind a crystal-clear liquid. This process not only removes harsh notes and astringency, but also imparts a remarkably smooth, velvety texture and subtle richness to the cocktail without making it opaque or heavy.",
+  "origin": "Cows",
+  "color": "#ffffff",
+  "category": "Beverages",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///milk-1_30Pays.png",
+      "sort": 1,
+      "placeholder_hash": "NAiGBQArQJ+XhqaIeDqA1AaIA2iWl3WWdw",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

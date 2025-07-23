@@ -1,0 +1,94 @@
+{
+  "_id": "mickey-finn_2203",
+  "name": "Mickey Finn",
+  "instructions": "1. Combine the ingredients in a mixing glass over cracked ice and stir until well-chilled.\n2. Strain into a chilled coupe.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Mickey Finn is a classic stirred cocktail recipe combining navy-strength dry gin, vermouth, absinthe and crème de menthe.",
+  "source": "https://punchdrink.com/recipes/mickey-finn/",
+  "garnish": null,
+  "abv": 34.58,
+  "tags": [
+    "Herbal",
+    "Minty"
+  ],
+  "glass": "Coupe",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///mickey-finn-1_JfwTFN.webp",
+      "sort": 1,
+      "placeholder_hash": "UUkOHwQDiHp2h4aWmFeIaHmHBSl2smAI",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "navy-strength-gin_332",
+      "name": "Navy Strength Gin",
+      "strength": 57,
+      "description": "Navy strength gin is a high-proof gin with an alcohol content of at least 57% ABV, historically associated with the British Royal Navy and known for its robust flavor and ability to ignite gunpowder.",
+      "origin": "United Kingdom",
+      "category": "Gin",
+      "amount": 1.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "such as Plymouth",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "dry-vermouth_118",
+      "name": "Dry Vermouth",
+      "strength": 18,
+      "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "such as Dolin",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "absinthe_107",
+      "name": "Absinthe",
+      "strength": 40,
+      "description": "Absinthe is a highly alcoholic and anise-flavored spirit that is historically known for its association with bohemian culture and its supposed hallucinogenic properties. It is typically green in color, but clear variations also exist. Absinthe is renowned for its distinctive herbal and botanical profile, which often includes ingredients like wormwood (Artemisia absinthium), anise, fennel, and other herbs.\n\nThe production of absinthe involves macerating and distilling these botanicals to create a highly concentrated liquid. The key component, wormwood, was once believed to contain a compound called thujone, thought to induce hallucinations. However, modern absinthes are produced with strict regulations regarding thujone content, and the hallucinogenic effects of traditional absinthe are now considered to be largely exaggerated.\n\nAbsinthe is often served by diluting it with water, typically by pouring cold water over a sugar cube placed on a slotted spoon, which is then held over the glass. This process, known as the \"louche,\" causes the absinthe to cloud and release its herbal flavors.\n\nThe drink gained notoriety in the late 19th and early 20th centuries, particularly in the bohemian and artistic communities of Europe. It was banned in many countries for a period due to concerns about its alleged psychoactive effects and its association with absinthe-induced madness. However, the ban has been lifted in most places, and today absinthe is produced and consumed legally with regulated thujone levels.\n\nAbsinthe has experienced a resurgence in popularity, and while its reputation as a mind-altering substance has been debunked, it is still enjoyed for its unique flavor and the ritualistic manner in which it is often served.",
+      "origin": "France",
+      "category": "Spirits",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "such as Pernod Absinthe Superieure",
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "creme-de-menthe_178",
+      "name": "Crème de menthe",
+      "strength": 20,
+      "description": "Sweet, mint-flavored alcoholic beverage. It is available commercially in a colorless version (called \"white\") and a green version (colored by the mint leaves or by added coloring if made from extract instead of leaves). Both varieties have similar flavor and are interchangeable in recipes, except where color is important. It is usually made with Corsican mint or peppermint, which is steeped in grain alcohol for several weeks before it is filtered and sweetened to create the final product. It typically has 25% alcohol by volume.",
+      "origin": "France",
+      "category": "Crème de",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "such as Giffard Menthe-Pastille",
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

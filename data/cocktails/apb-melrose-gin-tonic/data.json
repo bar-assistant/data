@@ -1,0 +1,109 @@
+{
+  "_id": "apb-melrose-gin-tonic_754",
+  "name": "APB Melrose Gin & Tonic",
+  "instructions": "1. Add the first 4 ingredients to a shaker with ice. Shake until chilled, then strain into a glass over fresh ice. Add the tonic, top with pebble ice, then drizzle the blue Chareau on top. Garnish.\n2. Blue ChareauAnd 1/8 tsp. of blue spirulina to 1/2 cup Chareau and whisk. Will keep in the refrigerator for 2 weeks.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This mesmerizingly azure-topped gin and tonic from Los Angeles' APB (A Plant Bar) Melrose draws inspiration from the state of California. Drink creator Julian Cox selected the Golden State's Gray Whale gin for its Californian ingredients, such as citrus and sea kelp. But he says that a botanical forward new Western gin can also be used in its place. \"The cocktail takes you on a journey of floral and citrus flavors,\" Cox says. \"It starts with a light and effervescent quality that lingers through the finish.\"",
+  "source": "https://imbibemagazine.com/recipe/gin-and-tonic-from-apb-melrose/",
+  "garnish": "Thin lemon wheel; viola flowers (optional)",
+  "abv": 10.7,
+  "tags": [
+    "Bitter"
+  ],
+  "glass": "Highball",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///apb-melrose-gin-tonic-1_Tlq57h.jpg",
+      "sort": 1,
+      "placeholder_hash": "IBkSLwZQh3hhiYd1iJiJV4d2CGum4GUK",
+      "copyright": "Imbibe Magazine | Kristina Cox/@Kodawari_Global"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "st-germain_52",
+      "name": "St-Germain",
+      "strength": 20,
+      "description": "St-Germain is an elderflower liqueur It is made using the petals of Sambucus nigra from the Savoie region in France, and each bottle is numbered with the year the petals were collected. Petals are collected annually in the spring over a period of three to four weeks, and are often transported by bicycle to collection points to avoid damaging the petals and impacting the flavour.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "tonic_69",
+      "name": "Tonic",
+      "strength": 0,
+      "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

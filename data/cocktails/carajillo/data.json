@@ -1,0 +1,63 @@
+{
+  "_id": "carajillo_2210",
+  "name": "Carajillo",
+  "instructions": "1. Brew 3 oz. of espresso per drink and cool to room temperature or chill in\nthe fridge to prevent excess dilution. In a shaker filled with ice, add chilled espresso and Licor 43. Shake well until creamy and frothy, then strain into the glass filled with fresh ice, and garnish.\nTIPThe Carajillo is as much a coffee drink as it is a cocktail—brewing the espresso fresh, and using a high-quality coffee, will have a big impact on the final flavor.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Bolstering one’s coffee with a shot of booze is more or less a universally accepted practice, regardless of time of day or occasion. The exact origins of Spain’s version, the Carajillo, remain up for debate. Some point to Spanish soldiers in Cuba adding rum to their coffee to muster the coraje needed for battle, while others have suggested the drink’s roots are in southern Spain’s Andalusia region, with the name derived from the Spanish expletive carajo. It’s perhaps a fitting sentiment while doctoring your cup—why not? The drink has since migrated overseas, becoming popular in Latin American countries and Mexico City in particular, where a Carajillo recipe can be found on virtually any bar menu. The go-to booze these days is also a Spanish export, Licor 43—a sweet, botanical liqueur with notes of vanilla and citrus—thanks to savvy marketing by the brand. The drink has been on the menu at Mexico City institution Contramar “since always,” notes operations director Armando Camacho. “However, it really became popular shortly after the pandemic, when the Licor 43 brand made a significant advertising effort.” The stateside popularity of Espresso Martinis and their ilk have extended an affinity for coffee-based cocktails more broadly, making the Carajillo cocktail a perfect two-ingredient fit for any hour of the day. “The acidity of the coffee goes very well with the sweetness of the liqueur. It’s perfect after an abundant meal,” says Camacho. “It often happens to us that a table full of people orders Carajillos, and the next table sees it and orders a round for themselves. It’s a cocktail that you crave when you see it.\"",
+  "source": "https://imbibemagazine.com/recipe/carajillo/",
+  "garnish": "Orange twist",
+  "abv": 12.4,
+  "tags": [
+    "Coffee",
+    "Sweet",
+    "Digestivo"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///carajillo-1_iD5Xps.webp",
+      "sort": 1,
+      "placeholder_hash": "XacFFwRmaMt7pK2Klwno6EaecWAHCIUC",
+      "copyright": "Imbibe Magazine"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "licor-43_1404",
+      "name": "Licor 43",
+      "strength": 31,
+      "description": "Licor 43 is a Spanish liqueur produced in Cartagena, Spain, known for its complex and intriguing flavor profile. It's a sweet, creamy liqueur with a distinctive velvety texture, achieved through a unique blend of 43 different ingredients. These ingredients are kept secret, but are rumored to include vanilla, caramel, chocolate, citrus, and a variety of spices, creating a layered and nuanced taste experience. The production process involves careful maceration, distillation, and aging, resulting in a rich and satisfying spirit.",
+      "origin": "Spain",
+      "category": "Liqueurs",
+      "amount": 3,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "espresso_72",
+      "name": "Espresso",
+      "strength": 0,
+      "description": "Espresso is generally thicker than coffee brewed by other methods, with a viscosity similar to that of warm honey.",
+      "origin": "Italy",
+      "category": "Coffee",
+      "amount": 3,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "cooled to room temperature or chilled",
+      "substitutes": [],
+      "sort": 2
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

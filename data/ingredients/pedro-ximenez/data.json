@@ -1,0 +1,27 @@
+{
+  "_id": "pedro-ximenez_958",
+  "_parent_id": "sherry_124",
+  "name": "Pedro Ximénez",
+  "strength": 15,
+  "description": "Pedro Ximénez (often abbreviated as PX) is a highly distinctive sweet sherry from Andalusia, Spain. It's made from the white Pedro Ximénez grape, which undergoes a unique process: after harvesting, the grapes are traditionally laid out on mats to dry in the sun (a process called *asoleo*), concentrating their sugars to an incredibly high level.\n\nThis results in a deeply colored, intensely sweet, and viscous wine. Tasting notes typically include rich flavors of raisins, figs, dates, molasses, caramel, and sometimes hints of coffee, chocolate, and liquorice. It's often described as being like \"liquid dessert\" due to its unctuous sweetness and complex dried fruit character, making it a popular ingredient for adding richness and depth to cocktails.",
+  "origin": null,
+  "color": "#000",
+  "category": "Fortified wine > Sherry",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///pedro-ximenez-1_gyn4hM.webp",
+      "sort": 0,
+      "placeholder_hash": "EAiGBQBXqxBzm3xDl0aDbyb4CHeGeHd4dw",
+      "copyright": "Lustau"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

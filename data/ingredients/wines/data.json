@@ -1,19 +1,27 @@
 {
-    "_id": "wines",
-    "_parent_id": null,
-    "name": "Wines",
-    "strength": 0,
-    "description": "Alcoholic beverage made from fermented grapes or other fruits",
-    "origin": null,
-    "color": null,
-    "category": null,
-    "created_at": "2025-03-09T12:22:00+00:00",
-    "updated_at": null,
-    "images": [],
-    "ingredient_parts": [],
-    "prices": [],
-    "calculator_id": null,
-    "sugar_g_per_ml": null,
-    "acidity": null,
-    "distillery": null
+  "_id": "wines_943",
+  "_parent_id": null,
+  "name": "Wines",
+  "strength": 0,
+  "description": "Wines, in the context of cocktails, extend beyond just the sparkling varieties, offering a diverse palette of flavors and textures. Still wines—red, white, and rosé—can contribute acidity, fruit notes, tannins, and body, allowing for lower-alcohol drinks or a nuanced complexity not easily achieved with spirits alone. Fortified wines like Sherry and Port are particularly versatile, adding richness, nuttiness, or oxidative notes that can elevate a cocktail's depth and mouthfeel, often acting as a bridge between spirits and other ingredients. While often used for spritzers or Sangrias, modern mixology increasingly explores wine's full potential to create sophisticated, balanced, and unique libations.",
+  "origin": null,
+  "color": null,
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///wines-1_lTzgpH.webp",
+      "sort": 0,
+      "placeholder_hash": "jFiGDQI3N8hwinRopwZqYbAmJ4h/d3l5iA",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
 }

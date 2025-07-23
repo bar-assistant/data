@@ -1,0 +1,94 @@
+{
+  "_id": "salmoncito_1155",
+  "name": "Salmoncito",
+  "instructions": "1. Combine the first three ingredients in a highball glass filled with ice.\n2. Top with tonic water.\n3. Garnish with a supremed grapefruit wedge and a grapefruit twist; express oil from the grapefruit peel and then discard it.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This bittersweet, citrusy highball made with gin, Campari, grapefruit and tonic is a Mexico City-born modern classic.",
+  "source": "https://punchdrink.com/recipes/salmoncito/",
+  "garnish": "A supremed grapefruit wedge and a discarded grapefruit twist",
+  "abv": 10.07,
+  "tags": [
+    "Summer",
+    "Light"
+  ],
+  "glass": "Highball",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///salmoncito-1_n6HHph.jpg",
+      "sort": 1,
+      "placeholder_hash": "03kKJwYllJpgeoaMfpZnZ0aHcKX1GXYP",
+      "copyright": "Punch Staff | Alan Carranza"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "campari_26",
+      "name": "Campari",
+      "strength": 25,
+      "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+      "origin": "Italy",
+      "category": "Apéritif",
+      "amount": 10,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "grapefruit-juice_61",
+      "name": "Grapefruit juice",
+      "strength": 0,
+      "description": "Freshly squeezed grapefruit juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 10,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "tonic_69",
+      "name": "Tonic",
+      "strength": 0,
+      "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 120,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": 150,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

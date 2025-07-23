@@ -1,0 +1,91 @@
+{
+  "_id": "truly-scrumptious_1130",
+  "name": "Truly Scrumptious",
+  "instructions": "Shake all of the ingredients with ice, then strain into a glass holding a single large ice cube. Garnish.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Pear eau de vie and unaged South American grape brandy combine their fragrant forces in this luscious cocktail.",
+  "source": "https://imbibemagazine.com/recipe/truly-scrumptious-pear-eau-de-vie/",
+  "garnish": "Freshly grated cinnamon",
+  "abv": 16,
+  "tags": [],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///truly-scrumptious-pear-eau-de-vie-cocktail-1_zwHchq.jpg",
+      "sort": 1,
+      "placeholder_hash": "6BgOFwLOiHefdXh3dpeX6GZnSaIFNFsA",
+      "copyright": "Imbibe Magazine | Anna Wick"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "pisco_104",
+      "name": "Pisco",
+      "strength": 40,
+      "description": "Pisco is a type of brandy that originates from the winemaking regions of Peru and Chile. It is produced through the distillation of fermented grape juice, and its production is governed by strict regulations in both countries.\n\nPisco is typically distilled only once, which sets it apart from some other brandies that may undergo multiple distillations.",
+      "origin": "South America",
+      "category": "Fruit brandy",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "pineapple-syrup_179",
+      "name": "Pineapple Syrup",
+      "strength": 0,
+      "description": "In a blender, combine 10 oz. of pineapple juice, 10 oz. of granulated sugar, 1/2 oz. of gum Arabic powder (available in natural foods stores or online), and 1/4 tsp. citric acid, and blend until combined. Pour into a zip-sealed bag and place in a hot water bath (set to 145 degrees F, if using an immersion circulator) for 2 hours. Bottle for use; keeps refrigerated for up to 2 weeks.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "pear-brandy-williams_168",
+      "name": "Pear Brandy (Williams)",
+      "strength": 40,
+      "description": "The Purkhart Pear Williams Brandy uses only “Williams” pears from South Tirol (also known as Alto Adige or Südtirol), whose pears are prized for their opulent and creamy ripe fruit fragrance. Lively and stimulating on the palate, this eau-de-vie reveals a depth of pear flavor that carries well into the finish. Made only from distilled pears and water. Enjoy on its own, stir with dry vermouth for a perfumed Martini variation, or make uncommonly aromatic sour cocktails. 100% Reines Destillat Williamsbrand.\n\n- Lively eau-de-vie distilled from Williams pears\n- Williams pears have an opulent and creamy ripe fruit fragrance\n- Floral, fruity complexity; makes aromatic sour cocktails\n- Mix with dry vermouth and orange bitters for a Martini variation\n- Purkhart has captured authentic regional tastes since 1932",
+      "origin": "Germany",
+      "category": "Fruit brandy",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

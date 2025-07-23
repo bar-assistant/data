@@ -1,0 +1,27 @@
+{
+  "_id": "domaine-la-boheme-gentiane-extra-bitter-aperitif_735",
+  "_parent_id": "gentian-liqueur_1167",
+  "name": "Domaine La Bohème Gentiane Extra Bitter Aperitif",
+  "strength": 20,
+  "description": "A natural wine based aperitif from cult wine maker Patrick Bouju. Being based in the Auvergne, where traditional medicinal plants like gentian and other bitter roots and botanicals thrive, it was a natural leap for Patrick to make this special liqueur. More like a great vermouth or ancient wine based liqueur than any other modern reference, this is best sipped slowly with a slight chill. Extraordinary and like everything else from this small artisan producer, quite limited.",
+  "origin": "Auvergne",
+  "color": "#f4f4f4",
+  "category": "Liqueurs > Gentian Liqueur",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///domaine-la-boheme-gentiane-extra-bitter-aperitif-1_xPOzxh.png",
+      "sort": 1,
+      "placeholder_hash": "dfgRFwD4R4h6hnd6hoh4d4h4eRB4+I4J",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

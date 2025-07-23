@@ -1,0 +1,110 @@
+{
+  "_id": "lite-treason_429",
+  "name": "Lite Treason",
+  "instructions": "1. In a mixing glass, combine the vodka, coffee liqueur and amaro.\n2. Stir with ice and strain into a rocks glass with one large ice cube, then top with the whipped cream. Garnish.\n\nMezcal Whipped Cream: Whip ½ cup of heavy cream with ½ oz. of mezcal until thick, then add rich simple syrup [2:1] to taste.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "In this twist on the White Russian, Kask bar manager Beau Burtnick plays off coffee’s chocolatey, earthy notes with the addition of amaro and a mezcal-infused whipped cream.",
+  "source": "https://imbibemagazine.com/recipe/white-russian-riff-lite-treason/",
+  "garnish": "Grated coffee bean",
+  "abv": 16.3,
+  "tags": [
+    "Coffee",
+    "Smokey"
+  ],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///lite-treason-1_VRujmw.jpg",
+      "sort": 1,
+      "placeholder_hash": "jCgKDwJdY3mGiHcwuXlmtnqI5xA4GpAF",
+      "copyright": "Imbibe Magazine | Charles Campos"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "vodka_78",
+      "name": "Vodka",
+      "strength": 40,
+      "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
+      "origin": "Russia",
+      "category": "Spirits",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "coffee-liqueur_28",
+      "name": "Coffee liqueur",
+      "strength": 20,
+      "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
+      "origin": "Mexico",
+      "category": "Liqueurs",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "cynar_143",
+      "name": "Cynar",
+      "strength": 16.5,
+      "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
+      "origin": "Italy",
+      "category": "Amaro",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "cream_11",
+      "name": "Cream",
+      "strength": 0,
+      "description": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization.",
+      "origin": null,
+      "category": "Dairy",
+      "amount": 1,
+      "units": "part",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "Make Cream Infused with Mezcal",
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 15,
+      "units": "ml",
+      "optional": true,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "Add to taste",
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

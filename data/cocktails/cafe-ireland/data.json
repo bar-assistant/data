@@ -1,0 +1,77 @@
+{
+  "_id": "cafe-ireland_750",
+  "name": "Cafe Ireland",
+  "instructions": "1. Combine all of the ingredients with ice and stir very briefly, only for 5 seconds or so. Strain into the glass and serve.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Likening this cocktail to a dry Irish whiskey Manhattan, Yanni Kehagiaras notes that the drinkshould be stirred very briefly with ice. “It’s about retaining the texture and viscosity,” says Kehagiaras, co-owner of Stoa in San Francisco, one of this year’s Imbibe 75 Places to Watch. “Just a brief chill and it’s good.”",
+  "source": "https://imbibemagazine.com/recipe/cafe-ireland-irish-whiskey-cocktail/",
+  "garnish": null,
+  "abv": 26.33,
+  "tags": [
+    "Coffee"
+  ],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///cafe-ireland-1_Uq2ctG.jpg",
+      "sort": 0,
+      "placeholder_hash": "YkkKDwJqZ2pvmFpklVmYhodrtdsgehUA",
+      "copyright": "Imbibe Magazine | Kelly Puleio"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "irish-whiskey_86",
+      "name": "Irish whiskey",
+      "strength": 40,
+      "description": "Produced in Ireland, often made from a mix of malted and unmalted barley and aged for a minimum period in wooden casks. Styles include single malt, single pot still, blended Irish whiskey, and others.",
+      "origin": "Ireland",
+      "category": "Whiskey",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "dry-vermouth_118",
+      "name": "Dry Vermouth",
+      "strength": 18,
+      "description": "Dry Vermouth is a type of fortified wine that is aromatized with various botanicals, including herbs, spices, and sometimes citrus peels. It is characterized by its dry and less sweet profile compared to sweet vermouth. Dry Vermouth is a key ingredient in classic cocktails such as the Martini and the Manhattan, where it adds complexity and a subtle herbal note to the drink. It is typically white or pale yellow in color and is often enjoyed as a chilled aperitif on its own. The alcohol content of Dry Vermouth is fortified with additional spirits, usually grape brandy, which also contributes to its flavor and preservation.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "coffee-liqueur_28",
+      "name": "Coffee liqueur",
+      "strength": 20,
+      "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
+      "origin": "Mexico",
+      "category": "Liqueurs",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

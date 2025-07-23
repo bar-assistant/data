@@ -1,0 +1,27 @@
+{
+  "_id": "strega_527",
+  "_parent_id": "liqueurs_939",
+  "name": "Strega",
+  "strength": 40,
+  "description": "Strega Liqueur (Liquore Strega) is an herbal Italian liqueur with a unique flavor and a distinctive bright yellow color. It's a digestif (or amaro) made from a secret recipe that includes about 70 botanicals, most notably saffron, mint, and juniper berries. It hails from the town of Benevento, Italy and is also known as the \"witches liqueur.\" A very popular liqueur in Italy, it's enjoyed on its own or in cocktails and has dedicated fans throughout the world.",
+  "origin": "Italy",
+  "color": "#f9d922",
+  "category": "Liqueurs",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///strega-1_FvE3YC.png",
+      "sort": 1,
+      "placeholder_hash": "YDuCDQI0VvqLZXZpKGeMcBj4CMeGeXZ4iA",
+      "copyright": "Strega"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

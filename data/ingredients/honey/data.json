@@ -1,0 +1,27 @@
+{
+  "_id": "honey_736",
+  "_parent_id": "fruits-and-vegetables_941",
+  "name": "Honey",
+  "strength": 0,
+  "description": "Honey is a naturally sweet substance produced by bees from the nectar of flowers. It's a viscous liquid composed primarily of sugars (fructose and glucose), water, and small amounts of minerals, vitamins, enzymes, and amino acids. The flavor profile of honey varies greatly depending on the floral source – some varieties are light and delicate, while others possess bolder, more complex notes. It's prized not only for its sweetness but also for its unique aromatic qualities and potential health benefits.\n\nBeyond its culinary uses, honey has a long history of use in traditional medicine and as a preservative. The consistency can range from thin and runny to thick and crystallized, depending on factors like temperature and storage. Different floral sources impart distinct characteristics, influencing the overall taste and texture. It's a versatile ingredient that can be used in a wide variety of applications, adding sweetness and complexity.\n\nMake sure you get the real stuff, not “honey-flavored syrup.”",
+  "origin": null,
+  "color": "#F0E68C",
+  "category": "Fruits and vegetables",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///honey-1_RrLoL8.png",
+      "sort": 1,
+      "placeholder_hash": "bjkOHwbZpod4hnhvhZeJl3iHZzAKJYYA",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "infusions_950",
+  "_parent_id": null,
+  "name": "Infusions",
+  "strength": 0,
+  "description": "Infusions, in the context of cocktails, refer to the process of steeping various ingredients in a liquid base, typically spirits, to extract and impart their flavors and aromas. This technique allows mixologists to customize and deepen the complexity of their base spirits, creating unique flavor profiles that wouldn't be achievable otherwise. Common infusion ingredients include fruits, vegetables, herbs, spices, coffee, and even tea, each contributing distinct characteristics to the resulting infused spirit.\n\n\nThe process itself can range from simple cold infusions, where ingredients are left to steep over hours or days, to rapid infusions using techniques like sous-vide or nitrous oxide for quicker extraction. Infusions offer immense creative freedom, allowing bartenders to craft bespoke ingredients for their cocktails, leading to drinks with more nuanced flavors, enhanced aromatics, and a greater sense of bespoke craftsmanship. They are a powerful tool for adding layers of complexity and originality to classic recipes or inventing entirely new libations.",
+  "origin": null,
+  "color": null,
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

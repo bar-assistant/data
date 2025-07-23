@@ -1,0 +1,77 @@
+{
+  "_id": "the-coffee-house_1507",
+  "name": "The Coffee House",
+  "instructions": "1. Combine all ingredients in a mixing glass over ice and stir until chilled.\n2. Strain into a rocks glass over a large ice cube.\n3. Garnish with a long orange twist.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "An improved, coffee-inflected Old-Fashioned cocktail recipe from the 1930 recipe book, The Saloon in the Home or a Garland of Rumblossoms.",
+  "source": "https://punchdrink.com/recipes/the-coffee-house/",
+  "garnish": "orange twist",
+  "abv": 29.57,
+  "tags": [
+    "Coffee"
+  ],
+  "glass": "Glass mug",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///the-coffee-house-1_xhmbSw.webp",
+      "sort": 1,
+      "placeholder_hash": "KikOJwS7h3V/h4h4hqd3eIh5RzA3AnIC",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "rye-whiskey_83",
+      "name": "Rye whiskey",
+      "strength": 40,
+      "description": "Rye whiskey is a type of whiskey made primarily from rye grain. To be labeled as rye whiskey in the United States, the mash (grain mixture fermented to make alcohol) must be composed of at least 51% rye. The remaining ingredients in the mash can include other grains such as corn and barley. Rye whiskey is aged in new charred oak barrels, and the final product must be distilled to no more than 160 proof and entered into the barrel for aging at no more than 125 proof.\n\nAmerican rye whiskey tends to have a spicier and more robust flavor profile compared to bourbon, which is primarily made from corn.\n\nIn Canada, the term \"rye\" is often used broadly and doesn't necessarily mean that the whiskey is made predominantly from rye grain. Canadian rye whisky can contain a mix of grains, and the flavor profile may vary. Some Canadian whiskies labeled as \"rye\" are made with little or no rye content.\n\nRye whiskey is known for its distinctive taste, which can include spicy, fruity, and sometimes peppery notes. It can be enjoyed neat, on the rocks, or used in various cocktails such as the classic Manhattan or Old Fashioned.",
+      "origin": "North America",
+      "category": "Whiskey",
+      "amount": 1.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Redemption or Old Overholt",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "coffee-liqueur_28",
+      "name": "Coffee liqueur",
+      "strength": 20,
+      "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
+      "origin": "Mexico",
+      "category": "Liqueurs",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Varnelli Caffe Moka",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "orange-bitters_21",
+      "name": "Orange bitters",
+      "strength": 28,
+      "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
+      "origin": "Worldwide",
+      "category": "Bitters",
+      "amount": 2,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

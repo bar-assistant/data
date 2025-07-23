@@ -1,0 +1,75 @@
+{
+  "_id": "sentimental-gentleman_733",
+  "name": "Sentimental Gentleman",
+  "instructions": "1. Stir all ingredients.\n2. Strain into a rocks glass over a large ice cube.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Two Sundays ago, Andrea and I ate dinner at Veggie Galaxy and headed over to Brick and Mortar where bartenders Kenny Belanger and Misty Kalkofen were making drinks. For my first cocktail, I asked Kenny for the Sentimental Gentleman which offered up a peaty smoke aroma from the Scotch that later gained walnut notes as it warmed up. The malt from the Scotch filled the sip, and the swallow was an interplay of the herbal Benedictine and the walnut. Rather poetically, the Sentimental Gentleman got a bit more bitter and sharp over time as it acclimated to room temperature.",
+  "source": "https://cocktailvirgin.blogspot.com/2012/02/sentimental-gentleman.html",
+  "garnish": null,
+  "abv": 32.22,
+  "tags": [],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///sentimental-gentleman-1_PNDTBE.jpg",
+      "sort": 1,
+      "placeholder_hash": "HzkGFwStvER3U5SAWJdmOYeHiCBoCYIF",
+      "copyright": "Reddit"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "scotch-whiskey_84",
+      "name": "Scotch whiskey",
+      "strength": 40,
+      "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+      "origin": "Scotland",
+      "category": "Whiskey",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "benedictine_45",
+      "name": "Bénédictine",
+      "strength": 40,
+      "description": "Herbal liqueur flavored with twenty-seven flowers, berries, herbs, roots, and spices. The liqueur has a complex flavor profile with notes of honey, citrus, herbs, and spices. Bénédictine is often enjoyed as a sipping liqueur and is also used as an ingredient in various cocktails, including classic drinks like the Bénédictine and Brandy. The production of Bénédictine dates back to the 19th century, and the liqueur is known for its unique and distinctive taste.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "walnut-liqueur_152",
+      "name": "Walnut Liqueur",
+      "strength": 32,
+      "description": "Walnut liqueur is known in Austria and Germany as Nüsse or Nüssenschnaps, in France as Noix, and in Italy as Nocino. Residents of Alpine regions traditionally drink walnut liqueurs during Christmastime. The spice and depth pair well with wintery nights and hearty meals. Serve to guests in a cordial glass, post-dinner or as an unexpected dessert pairing. In cocktails, Nux Alpina is an extraordinary complement to brown spirits and dark fortified wines, like Madeira, sherry and sweet red vermouth.\n\n- Aromatic liqueur renowned for its balance, depth and smooth finish\n- Made from fresh green “Weinsberg” walnuts steeped in grape brandy\n- Infused with spices and alpine botanicals\n- Serve after hearty meals or in coffee, cream or egg drinks\n- Complements brown spirits and dark fortified wines\n- Produced by Austria's Purkhart family for three generations",
+      "origin": "Worldwide",
+      "category": "Liqueurs",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

@@ -1,0 +1,91 @@
+{
+  "_id": "shoot-the-moon_1148",
+  "name": "Shoot the Moon",
+  "instructions": "1. In a double Old-Fashioned glass, combine all ingredients with ice.\n2. Stir until chilled and diluted.\n3. Garnish with dehydrated pear and dust with cinnamon.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "A cocktail recipe for a riff on the Gin Old-Fashioned made with Fords Gin and pear brandy and designed to minimize water waste.",
+  "source": "https://punchdrink.com/recipes/shoot-the-moon/",
+  "garnish": "Dehydrated pear, cinnamon powder",
+  "abv": 29.69,
+  "tags": [],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///shoot-the-moon-1_SgOotV.jpg",
+      "sort": 0,
+      "placeholder_hash": "NfgFBwIHh4YqWYdbrTcsCXgu1AIKeZAF",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "pear-brandy-williams_168",
+      "name": "Pear Brandy (Williams)",
+      "strength": 40,
+      "description": "The Purkhart Pear Williams Brandy uses only “Williams” pears from South Tirol (also known as Alto Adige or Südtirol), whose pears are prized for their opulent and creamy ripe fruit fragrance. Lively and stimulating on the palate, this eau-de-vie reveals a depth of pear flavor that carries well into the finish. Made only from distilled pears and water. Enjoy on its own, stir with dry vermouth for a perfumed Martini variation, or make uncommonly aromatic sour cocktails. 100% Reines Destillat Williamsbrand.\n\n- Lively eau-de-vie distilled from Williams pears\n- Williams pears have an opulent and creamy ripe fruit fragrance\n- Floral, fruity complexity; makes aromatic sour cocktails\n- Mix with dry vermouth and orange bitters for a Martini variation\n- Purkhart has captured authentic regional tastes since 1932",
+      "origin": "Germany",
+      "category": "Fruit brandy",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "cinnamon-syrup_133",
+      "name": "Cinnamon syrup",
+      "strength": 0,
+      "description": "Simple syrup infused with cinnamon. Follow the recipe to make your own at home:\n\n- 1 cup granulated sugar\n- 1 cup water\n- 4 cinnamon sticks, broken into large pieces\n\nBring all ingredients to a boil over medium heat. Reduce heat to medium-low and let simmer for 8-10 minutes until sugar has dissolved, stirring frequently. Remove from heat and let cool. Discard cinnamon sticks, strain into a clean glass jar and cover. Store refrigerated for up to 2 weeks.",
+      "origin": "Worldwide",
+      "category": "Simple Syrup",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "grapefruit-bitters_171",
+      "name": "Grapefruit bitters",
+      "strength": 44,
+      "description": "These grapefruit bitters are best friends to gin, vodka, Blanco tequila, and light rum and are a wonderful ingredient for drinks that may otherwise taste excessively sweet. Give a modern twist to a classic Gin & Tonic, add a few dashes to a Daiquiri or Margarita or add a new layer of complexity to cocktails that traditionally didn’t include bitters.",
+      "origin": "Worldwide",
+      "category": "Bitters",
+      "amount": 2,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

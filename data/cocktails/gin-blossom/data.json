@@ -1,0 +1,91 @@
+{
+  "_id": "gin-blossom_771",
+  "name": "Gin Blossom",
+  "instructions": "1. Add all ingredients to a mixing glass.\n2. Add ice, and stir to chill.\n3. Strain into a coupe glass and garnish with an expressed orange peel.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Gin Blossom is Julie Reiner's (of Brooklyn's Clover Club) modern play on the classic Martini cocktail recipe.",
+  "source": "https://punchdrink.com/recipes/gin-blossom/",
+  "garnish": "orange peel",
+  "abv": 24.99,
+  "tags": [],
+  "glass": "Coupe",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///gin-blossom-1_rDcjnz.jpg",
+      "sort": 0,
+      "placeholder_hash": "jRgKDwIVeYiFh4d4igeXqHhoaDCWBGAO",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Plymouth",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "vermouth-bianco_185",
+      "name": "Vermouth Bianco",
+      "strength": 15,
+      "description": "First launched way back in 1910, Bianco is a wonderful style of vermouth. First inspired by the white flowers of vanilla plants, the bottling has been nicknamed ‘Bianchissimo’, meaning “the whitest of the white”.\n\nWhilst it looks like a dry vermouth, this is a sweeter style, which offers flavours of juicy citrus, berries, peaches and apricots, some mixed herbs, a touch of charcoal, vanilla, honey, apples, and some faint herby bitterness.\n\nDelicate and well balanced, this vermouth is a bartender’s dream, offering sweet complexity that is perfect in White Negronis and Martini style drinks.",
+      "origin": "Italy",
+      "category": "Fortified wine",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Martini & Rossi",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "apricot-brandy_89",
+      "name": "Apricot Brandy",
+      "strength": 40,
+      "description": "Apricot brandy is a fruit-flavored liqueur made by infusing apricots in brandy or by distilling apricot fruit. The result is a sweet and flavorful spirit with the essence of apricots. Apricot brandy is commonly used in cocktails, adding a fruity and aromatic dimension to mixed drinks. It can vary in sweetness and intensity of apricot flavor depending on the production methods and the brand. Apricot brandy is versatile and can be enjoyed on its own, in cocktails, or as an ingredient in both sweet and savory culinary applications.",
+      "origin": "Worldwide",
+      "category": "Fruit brandy",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "orange-bitters_21",
+      "name": "Orange bitters",
+      "strength": 28,
+      "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
+      "origin": "Worldwide",
+      "category": "Bitters",
+      "amount": 2,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

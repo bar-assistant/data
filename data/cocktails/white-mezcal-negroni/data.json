@@ -1,0 +1,89 @@
+{
+  "_id": "white-mezcal-negroni_1122",
+  "name": "White Mezcal Negroni",
+  "instructions": "1. Combine in a mixing glass with ice and stir briefly for five seconds.\n2. Strain into a rocks glass over a large ice cube or whatever ice you have.\n3. Garnish with a lemon twist expressed over the drink, then discarded.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This White Negroni cocktail recipe swaps gin for mezcal and the expected Suze for Domaine La Bohème Gentiane Extra Bitter Aperitif.",
+  "source": "https://punchdrink.com/recipes/white-mezcal-negroni-2/",
+  "garnish": "expressed lemon twist (discarded)",
+  "abv": 24.62,
+  "tags": [
+    "Citrusy"
+  ],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///white-mezcal-negroni-1_3HSenx.jpg",
+      "sort": 1,
+      "placeholder_hash": "FwgaBwBYd3iAh3iIend3iHiIaEBKHlgA",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "mezcal_92",
+      "name": "Mezcal",
+      "strength": 40,
+      "description": "Mezcal is a distilled alcoholic beverage that originates from Mexico, known for its distinctive smoky flavor. It is made from the agave plant, primarily the species Agave espadin, although other agave varieties can be used. The production of mezcal involves roasting the agave hearts (piñas) in underground pits, which imparts a smoky character to the final product. After roasting, the agave is crushed, fermented, and then distilled, resulting in a spirit with a wide range of flavors, including earthy, fruity, and herbal notes.\n\nThe traditional production methods involve cooking the agave in earthen pits lined with lava rocks and filled with wood and charcoal. This underground roasting process gives mezcal its distinctive smoky taste.\n\nMezcal is produced in specific regions of Mexico, with Oaxaca being a particularly renowned area for its high-quality mezcals. The production of mezcal is regulated, and the spirit has a Denomination of Origin (DO) to ensure authenticity and quality.\n\nUnlike some other agave spirits, such as tequila, which is made from Blue Agave, mezcal can be produced from a variety of agave types, contributing to the spirit's diversity.\n\nMezcal is deeply rooted in Mexican culture and has gained international recognition for its artisanal production methods and diverse flavor profile.",
+      "origin": "Mexico",
+      "category": "Spirits",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "vermouth-bianco_185",
+      "name": "Vermouth Bianco",
+      "strength": 15,
+      "description": "First launched way back in 1910, Bianco is a wonderful style of vermouth. First inspired by the white flowers of vanilla plants, the bottling has been nicknamed ‘Bianchissimo’, meaning “the whitest of the white”.\n\nWhilst it looks like a dry vermouth, this is a sweeter style, which offers flavours of juicy citrus, berries, peaches and apricots, some mixed herbs, a touch of charcoal, vanilla, honey, apples, and some faint herby bitterness.\n\nDelicate and well balanced, this vermouth is a bartender’s dream, offering sweet complexity that is perfect in White Negronis and Martini style drinks.",
+      "origin": "Italy",
+      "category": "Fortified wine",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Alessio Vermouth Bianco",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "domaine-la-boheme-gentiane-extra-bitter-aperitif_735",
+      "name": "Domaine La Bohème Gentiane Extra Bitter Aperitif",
+      "strength": 20,
+      "description": "A natural wine based aperitif from cult wine maker Patrick Bouju. Being based in the Auvergne, where traditional medicinal plants like gentian and other bitter roots and botanicals thrive, it was a natural leap for Patrick to make this special liqueur. More like a great vermouth or ancient wine based liqueur than any other modern reference, this is best sipped slowly with a slight chill. Extraordinary and like everything else from this small artisan producer, quite limited.",
+      "origin": "Auvergne",
+      "category": "Gentian Liqueur",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [
+        {
+          "_id": "suze_36",
+          "name": "Suze",
+          "strength": 15,
+          "description": "Bitter flavored drink made with the roots of the plant gentian.",
+          "origin": "Switzerland",
+          "category": "Gentian Liqueur",
+          "amount": null,
+          "units": null,
+          "amount_max": null
+        }
+      ],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": "white-negroni_95",
+  "year": null
+}

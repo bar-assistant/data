@@ -1,0 +1,112 @@
+{
+  "_id": "reading-nook_1837",
+  "name": "Reading Nook",
+  "instructions": "1. Add all of the ingredients to a shaker and dry shake vigorously for 45 seconds.\n2. Add ice and shake again for 15 to 30 seconds to fully chill.\n3. Strain into the glass.\n4. Express orange oil atop the drink before serving.\n5. Garnish.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The type of coffee used greatly impacts the flavor of this spirit-free coffee drink from 2025 Imbibe 75er Morgan Eckroth. \"I would suggest a fruit-forward coffee, roasted light-medium,\" Eckroth says. \"Something like a natural Ethiopian or Colombian coffee would work well.\"",
+  "source": "https://imbibemagazine.com/recipe/reading-nook-a-coffee-drink/",
+  "garnish": "Speared cherries, orange peel",
+  "abv": 0,
+  "tags": [
+    "Dessert",
+    "Virgin",
+    "Fruity",
+    "Coffee"
+  ],
+  "glass": "Coupe",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///reading-nook-1_0L3ZC7.webp",
+      "sort": 1,
+      "placeholder_hash": "DAgKHwYbdYiYeXVgm1mXqGh6mHIIJ3YA",
+      "copyright": "Imbibe Magazine | Morgan Eckroth"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "cherry-juice_1173",
+      "name": "Cherry juice",
+      "strength": 0,
+      "description": "Cherry juice is a beverage made from the juice of cherries, often consumed for its health benefits. It is typically available in both tart and sweet varieties.",
+      "origin": null,
+      "category": "Juices",
+      "amount": 1.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "tart",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "espresso_72",
+      "name": "Espresso",
+      "strength": 0,
+      "description": "Espresso is generally thicker than coffee brewed by other methods, with a viscosity similar to that of warm honey.",
+      "origin": "Italy",
+      "category": "Coffee",
+      "amount": 1,
+      "units": "shot",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "double espresso",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "orgeat-syrup_109",
+      "name": "Orgeat Syrup",
+      "strength": 0,
+      "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
+      "origin": null,
+      "category": "Simple Syrup",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "saline-solution_176",
+      "name": "Saline solution",
+      "strength": 0,
+      "description": "20% saline\n\nSaline solution, often simply referred to as salt solution, is a mixture of water and sodium chloride (salt). It's a surprisingly versatile ingredient, primarily used to enhance and balance flavors rather than contribute a distinct taste of its own. The precise ratio of salt to water can be adjusted to achieve different levels of intensity, though a standard ratio is typically employed. It's a fundamental component in many culinary applications beyond beverages, often used to season food and create brines.\n\nBeyond its simple composition, saline solution plays a crucial role in manipulating perceived sweetness and acidity. A small addition can soften harsh edges and create a more rounded, palatable experience. It's important to note that the quality of the salt used significantly impacts the final product; finer salts generally dissolve more readily and provide a more consistent result. The ingredient is often used to create a 'salty' rim for glasses, or to add a subtle savory note to drinks.",
+      "origin": null,
+      "category": null,
+      "amount": 5,
+      "units": "drops",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "egg-white_17",
+      "name": "Egg White",
+      "strength": 0,
+      "description": "Egg white is the clear liquid part of an egg that surrounds the yolk. It is rich in proteins and is commonly used in cooking and baking for its ability to add structure, foam, and a smooth texture to various dishes.",
+      "origin": "Worldwide",
+      "category": "Dairy",
+      "amount": 1,
+      "units": "whole",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

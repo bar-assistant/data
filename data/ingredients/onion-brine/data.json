@@ -1,0 +1,27 @@
+{
+  "_id": "onion-brine_1395",
+  "_parent_id": null,
+  "name": "Onion brine",
+  "strength": 0,
+  "description": "Onion brine, typically from pickled pearl onions, is a distinctive ingredient in cocktails, most famously in the Gibson Martini where it replaces olive brine. It introduces a savory, slightly tangy, and subtly sweet or even spicy (depending on the pickling spices) umami note to drinks, providing a unique counterpoint to the spirit's botanicals. A small dash of onion brine can add depth and complexity, transforming a classic cocktail into a more intriguing, savory experience.",
+  "origin": null,
+  "color": "#f6f5f4",
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///onion-brine-1_uTKMeX.webp",
+      "sort": 0,
+      "placeholder_hash": "bBmGDQBFiWR2iXIMqHeJP0z3B6h4h4aIeA",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

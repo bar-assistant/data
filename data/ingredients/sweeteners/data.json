@@ -1,0 +1,20 @@
+{
+  "_id": "sweeteners_1387",
+  "_parent_id": null,
+  "name": "Sweeteners",
+  "strength": 0,
+  "description": "Sweeteners are crucial for balancing the acidity and bitterness in cocktails, providing the necessary sugar component to create a harmonious drink. They can range from simple sugars like granulated sugar and simple syrup to more complex options such as honey, agave nectar, maple syrup, or various liqueurs, each contributing unique flavors and textures to the final concoction.",
+  "origin": null,
+  "color": null,
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

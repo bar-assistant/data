@@ -1,0 +1,75 @@
+{
+  "_id": "toby-cecchinis-gin-tonic_1500",
+  "name": "Toby Cecchini’s Gin & Tonic",
+  "instructions": "1. Clean well a fat, fresh lime. Cut in half and juice both halves, setting the juice aside for another use. Julienne the spent hulls into thin strips and put into a small mixing tin or glass. Add gin and muddle well for a minute or so.\n2. In a large highball glass half-filled with ice, pour the tonic water carefully at a slant, so as to not disturb the effervescence, and slip a straw down the side of the glass now.\n3. Strain the gin-lime mixture over a spoon onto the top, so that it floats. With tongs or a spoon, garnish atop with the julienned strips of lime. Present as such, but mix lightly before drinking.\n\n\n ## Editors note:\n\nThis may seem a stiff pour, but in maceration the juiced hulls will actually soak up a significant cut of the gin&mdash;up to 3/4 ounce&mdash;and can leave the drink wan if not fortified a touch.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The best Gin and Tonic cocktail recipe, which won our blind tasting of the drink, combines Tanqueray gin, tonic water and julienned lime.",
+  "source": "https://punchdrink.com/recipes/toby-cecchinis-gin-and-tonic/",
+  "garnish": "lime strips",
+  "abv": 12.12,
+  "tags": [],
+  "glass": "Highball",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///toby-cecchinis-gin-tonic-1_D0PazT.webp",
+      "sort": 1,
+      "placeholder_hash": "5CgWDwR6d4iQeHhkiYh1eHeHSK9V028H",
+      "copyright": "Punch Staff | PUNCH"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 3,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "tonic_69",
+      "name": "Tonic",
+      "strength": 0,
+      "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 6,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": 8,
+      "note": "well-chilled",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lime_1",
+      "name": "Lime",
+      "strength": 0,
+      "description": "Lime is a citrus fruit known for its small size, vibrant green color, and tart flavor.",
+      "origin": null,
+      "category": "Fruits and vegetables",
+      "amount": 1,
+      "units": "whole",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

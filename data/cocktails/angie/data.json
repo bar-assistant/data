@@ -1,0 +1,94 @@
+{
+  "_id": "angie_1828",
+  "name": "Angie",
+  "instructions": "1. Add all of the ingredients to a shaker with ice. Shake to chill, then strain into the glass. Garnish.\nPassion Fruit SyrupCombine 1 cup of passion fruit purée and 1 cup of superfine sugar in a pot and boil. Allow to cool, then strain. Will keep in the refrigerator for 2 weeks.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "During a visit to Panama in 2017, Bratislav Glisic, head bartender and co-founder of Dear Strangers in New York, had his first taste of maracujá, aka passion fruit. Enamored by its appearance and flavor, he decided to create a tropical cocktail to showcase the fruit. Using the classic Pisco Sour as a template, Glisic balances the sweet tartness of passion fruit with gin, elderflower, and lemon. The earthiness from a sprinkle of matcha powder rounds out the flavors.",
+  "source": "https://imbibemagazine.com/recipe/angie-a-passion-fruit-gin-sour/",
+  "garnish": "Matcha powder and dehydrated lime wheel",
+  "abv": 18,
+  "tags": [
+    "Sweet",
+    "Fruity"
+  ],
+  "glass": "Nick and Nora",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///angie-1_PVcWpe.webp",
+      "sort": 1,
+      "placeholder_hash": "FggSFwQxiIegiHiId2enV6eYeABXJoAG",
+      "copyright": "Imbibe Magazine | Andrea Grujic"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "gin_75",
+      "name": "Gin",
+      "strength": 40,
+      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
+      "origin": "Worldwide",
+      "category": "Spirits",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "passionfruit-syrup_173",
+      "name": "Passionfruit syrup",
+      "strength": 0,
+      "description": "Passionfruit syrup is trickier to make and sometimes requires more obscure ingredients. This makes it one of the only flavored syrups worth buying over the counter.",
+      "origin": "Worldwide",
+      "category": "Syrups",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "st-germain_52",
+      "name": "St-Germain",
+      "strength": 20,
+      "description": "St-Germain is an elderflower liqueur It is made using the petals of Sambucus nigra from the Savoie region in France, and each bottle is numbered with the year the petals were collected. Petals are collected annually in the spring over a period of three to four weeks, and are often transported by bicycle to collection points to avoid damaging the petals and impacting the flavour.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

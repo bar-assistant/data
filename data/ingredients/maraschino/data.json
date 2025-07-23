@@ -1,26 +1,35 @@
 {
-    "_id": "maraschino",
-    "_parent_id": "liqueurs",
-    "name": "Maraschino",
-    "strength": 32,
-    "description": "Liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.\n\nThe Luxardo family, an Italian producer, is particularly well-known for its Maraschino liqueur.",
-    "origin": "Croatia",
-    "color": "#ffffff",
-    "category": "Liqueurs",
-    "created_at": "2024-08-28T13:52:51+00:00",
-    "updated_at": null,
-    "images": [
-        {
-            "uri": "file:///maraschino-1_fwBVcu.png",
-            "sort": 1,
-            "placeholder_hash": "KQiKBQIPB1h4h4iYd6mAiwO3BgZ4eHd3iA",
-            "copyright": "Maraska"
-        }
-    ],
-    "ingredient_parts": [],
-    "prices": [],
-    "calculator_id": null,
-    "sugar_g_per_ml": null,
-    "acidity": null,
-    "distillery": null
+  "_id": "maraschino_37",
+  "_parent_id": "liqueurs_939",
+  "name": "Maraschino",
+  "strength": 32,
+  "description": "Liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.\n\nThe Luxardo family, an Italian producer, is particularly well-known for its Maraschino liqueur.",
+  "origin": "Croatia",
+  "color": "#ffffff",
+  "category": "Liqueurs",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///maraschino.png",
+      "sort": 1,
+      "placeholder_hash": "KQiKBQItB4h3h4iHh8qAiQOYBxd4eId3eA",
+      "copyright": "Maraska"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [
+    {
+      "price_category_name": "Hrvatska",
+      "price": 1699,
+      "currency": "EUR",
+      "amount": 1000,
+      "units": "ml"
+    }
+  ],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
 }

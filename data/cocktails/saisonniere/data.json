@@ -1,0 +1,93 @@
+{
+  "_id": "saisonniere_1147",
+  "name": "Saisonnière",
+  "instructions": "1. Add all ingredients to a cocktail shaker.\n2. Add ice and shake until chilled.\n3. Strain into a chilled coupe glass.\n4. Garnish with a sage leaf and a lemon twist.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The winter version of Lafayette's seasonally changing staple cocktail recipe—hence, the name Saisonnière—is an herbal riff on the basic sour.",
+  "source": "https://punchdrink.com/recipes/saisonniere/",
+  "garnish": "sage leaf and a lemon twist",
+  "abv": 17.23,
+  "tags": [
+    "Citrusy"
+  ],
+  "glass": "Coupe",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///saisonniere-1_prh3xz.jpg",
+      "sort": 0,
+      "placeholder_hash": "pRgOHwSVd2hgeIdyeGeGaJeIuQg4q4AH",
+      "copyright": "Punch Staff | Daniel Krieger"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "vodka_78",
+      "name": "Vodka",
+      "strength": 40,
+      "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
+      "origin": "Russia",
+      "category": "Spirits",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "pear-brandy-williams_168",
+      "name": "Pear Brandy (Williams)",
+      "strength": 40,
+      "description": "The Purkhart Pear Williams Brandy uses only “Williams” pears from South Tirol (also known as Alto Adige or Südtirol), whose pears are prized for their opulent and creamy ripe fruit fragrance. Lively and stimulating on the palate, this eau-de-vie reveals a depth of pear flavor that carries well into the finish. Made only from distilled pears and water. Enjoy on its own, stir with dry vermouth for a perfumed Martini variation, or make uncommonly aromatic sour cocktails. 100% Reines Destillat Williamsbrand.\n\n- Lively eau-de-vie distilled from Williams pears\n- Williams pears have an opulent and creamy ripe fruit fragrance\n- Floral, fruity complexity; makes aromatic sour cocktails\n- Mix with dry vermouth and orange bitters for a Martini variation\n- Purkhart has captured authentic regional tastes since 1932",
+      "origin": "Germany",
+      "category": "Fruit brandy",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "demerara-syrup_135",
+      "name": "Demerara Syrup",
+      "strength": 0,
+      "description": "Syrup made with demerara sugar",
+      "origin": null,
+      "category": "Simple Syrup",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

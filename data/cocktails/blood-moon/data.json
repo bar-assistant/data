@@ -1,0 +1,93 @@
+{
+  "_id": "blood-moon_2173",
+  "name": "Blood Moon",
+  "instructions": "1. Build in a wine glass over ice and garnish with a orange half-moon",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Blood Moon cocktail recipe is just one example of Joe Campanale's ode to aperitivo, on the menu at Alta Linea.",
+  "source": "https://punchdrink.com/recipes/blood-moon/",
+  "garnish": "orange half moon.",
+  "abv": 0,
+  "tags": [
+    "Bitter"
+  ],
+  "glass": "Wine",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///blood-moon-1_lZepGO.webp",
+      "sort": 1,
+      "placeholder_hash": "nEkOJwoGh5q0iGZZinemiGd3SHBJBXQD",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "amaro_947",
+      "name": "Amaro",
+      "strength": 0,
+      "description": "Amaro (plural: Amari) is a broad category of bittersweet Italian herbal liqueurs, with \"amaro\" literally meaning \"bitter\" in Italian. These spirits are traditionally consumed as a digestif after meals, believed to aid digestion.\n\nAmaro is made by macerating (soaking) a complex, often secret, blend of botanicals—including herbs, roots, flowers, bark, and citrus peels—in an alcohol base (often neutral spirits or wine/grape brandy). This infusion is then typically sweetened with sugar syrup and aged, sometimes for extended periods.\n\nThe flavor profiles of amari are incredibly diverse, ranging from intensely bitter and medicinal to more subtle, sweet, and citrusy. Common tasting notes can include anything from gentian, cinchona, rhubarb, and wormwood (for bitterness) to orange peel, mint, licorice, caramel, and various baking spices. Each amaro brand offers a unique character, often reflecting the regional ingredients and traditional recipes of its origin.\n\nIn cocktails, amari are prized for their ability to add depth, complexity, and a balancing bittersweet note. They can act as a bridge between other ingredients, provide a backbone of bitterness, or introduce intriguing herbal and aromatic layers.",
+      "origin": null,
+      "category": "Apéritif",
+      "amount": 2,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "tonic_69",
+      "name": "Tonic",
+      "strength": 0,
+      "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 3,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Fever Tree",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "orange-bitters_21",
+      "name": "Orange bitters",
+      "strength": 28,
+      "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
+      "origin": "Worldwide",
+      "category": "Bitters",
+      "amount": 2,
+      "units": "drops",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

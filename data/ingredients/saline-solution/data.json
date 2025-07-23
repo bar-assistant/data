@@ -1,26 +1,27 @@
 {
-    "_id": "saline-solution",
-    "_parent_id": "uncategorized",
-    "name": "Saline solution",
-    "strength": 0,
-    "description": null,
-    "origin": null,
-    "color": "#ffffff",
-    "category": "Uncategorized",
-    "created_at": "2024-08-28T13:52:51+00:00",
-    "updated_at": null,
-    "images": [
-        {
-            "uri": "file:///saline-solution-1_bd3Poo.jpg",
-            "sort": 1,
-            "placeholder_hash": "s/eBBQAjhgqHd3d3eMB1aY93CKd4h4eIeA",
-            "copyright": ""
-        }
-    ],
-    "ingredient_parts": [],
-    "prices": [],
-    "calculator_id": null,
-    "sugar_g_per_ml": null,
-    "acidity": null,
-    "distillery": null
+  "_id": "saline-solution_176",
+  "_parent_id": null,
+  "name": "Saline solution",
+  "strength": 0,
+  "description": "20% saline\n\nSaline solution, often simply referred to as salt solution, is a mixture of water and sodium chloride (salt). It's a surprisingly versatile ingredient, primarily used to enhance and balance flavors rather than contribute a distinct taste of its own. The precise ratio of salt to water can be adjusted to achieve different levels of intensity, though a standard ratio is typically employed. It's a fundamental component in many culinary applications beyond beverages, often used to season food and create brines.\n\nBeyond its simple composition, saline solution plays a crucial role in manipulating perceived sweetness and acidity. A small addition can soften harsh edges and create a more rounded, palatable experience. It's important to note that the quality of the salt used significantly impacts the final product; finer salts generally dissolve more readily and provide a more consistent result. The ingredient is often used to create a 'salty' rim for glasses, or to add a subtle savory note to drinks.",
+  "origin": null,
+  "color": "#ffffff",
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///saline-solution_xaU0BX.jpg",
+      "sort": 1,
+      "placeholder_hash": "6veBBQARN8h4h4v0qJePf+j4COh6hXdYVw",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "drops"
 }

@@ -1,0 +1,93 @@
+{
+  "_id": "second-serve_1834",
+  "name": "Second Serve",
+  "instructions": "1. Add all ingredients except soda water to a cocktail shaker.\n2. Shake and strain into an ice-filled Collins glass.\n3. Top with soda and garnish with a half orange wheel.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "As a lower-alcohol, softer-hitting cocktail recipe, this combination of Amaro Montenegro and fino sherry is a Spain vs. Italy matchup.",
+  "source": "https://punchdrink.com/recipes/second-serve/",
+  "garnish": "half orange wheel",
+  "abv": 4.91,
+  "tags": [
+    "Savory"
+  ],
+  "glass": "Highball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///second-serve-1_aBHjhf.webp",
+      "sort": 1,
+      "placeholder_hash": "WTkOJwYH+oiBhmiJi1aHZ3hnVhDZRpAM",
+      "copyright": "Punch Staff | Shannon Sturgis"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "amaro-montenegro_127",
+      "name": "Amaro Montenegro",
+      "strength": 23,
+      "description": "Although not as popular as Averna, Montenegro packs an incredible bouquet of flavors ranging from carmel and chocolate to chartreuse-like herbals, all at a very workable price. As an added bonus, Montenegro is delicious on the rocks and sports an eye-catching bottle.",
+      "origin": "Italy",
+      "category": "Amaro",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "fino_1170",
+      "name": "Fino",
+      "strength": 0,
+      "description": "Fino sherry is a dry, pale, and delicate fortified wine from Spain’s Jerez region, known for its light body and crisp, nutty flavor. It is aged under a layer of flor (a protective yeast) in a process called biological aging, which prevents oxidation and gives it a fresh, slightly saline taste. This method results in a sherry that is bone-dry with notes of almonds, green apples, fresh bread, and a hint of sea breeze.",
+      "origin": null,
+      "category": "Sherry",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "such as Valdespino Inocente",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

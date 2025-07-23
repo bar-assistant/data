@@ -1,0 +1,91 @@
+{
+  "_id": "appetizer-a-litalienne_734",
+  "name": "Appetizer à l’Italienne",
+  "instructions": "1. Stir all of the ingredients with ice, then strain into a chilled glass. Express the twists over the finished cocktail, and use as a garnish.\n2. Tip Schmidt didn’t specify a garnish for the drink in his 1892 book, but Yarm says a lemon twist “would smooth out the fernet’s aggression, and an orange twist to sweeten things would be nice, too.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "It could be argued that the difference between a forgotten cocktail and a beloved classic is simply the size of the audience. The Appetizer à l’Italienne appeared in William Schmidt’s The Flowing Bowl in 1892, then largely disappeared. (A similar recipe, for the absinthe-free Bonsoni Cocktail, appeared in Hugo Ensslin’s Recipes for Mixed Drinks in 1917.) With its aggressive match of sweet vermouth and Fernet-Branca accented with absinthe, the cocktail’s character is rooted in the late 19th century, and out of place in the 20th.\n\nBut the cocktail renaissance brought both a taste for bold, bitter combinations, and an interest in historical spelunking. Boston bartender Frederic Yarm recalls being served the Appetizer à l’Italienne in 2009 at the cocktail bar Drink, years before he joined the team (he left the bar in November). Yarm says the recipe is still included in Drink’s cocktail manual, and its simple formula fills a certain historical niche. “It’s a recipe I wouldn’t want to modify, since it is what it is and a showing of what some bartenders were doing 130 years ago,” Yarm says. \n\nTo balance the brawn of fernet and absinthe, Yarm says it’s important to use a richer style of vermouth, such as Carpano Antica Formula or a Vermouth di Torino. And don’t skip the simple syrup: “The sugar’s important here to convert fernet from a digestif to an aperitif, as suggested by the drink’s name,” Yarm says. “The drier version pushes the digestive system to wrap up eating.\"",
+  "source": "https://imbibemagazine.com/recipe/anatomy-of-a-drink-appetizer-a-litalienne/",
+  "garnish": "Lemon and orange twists",
+  "abv": 20.42,
+  "tags": [],
+  "glass": "Nick and Nora",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///appetizer-a-litalienne-1_OY61Sl.jpg",
+      "sort": 0,
+      "placeholder_hash": "iRgGDwQGmneDeIeDiYeHmId5WEEHJnYA",
+      "copyright": "Imbibe Magazine | RECIPE: Adaptation courtesy of Frederic Yarm, Drink, Boston"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "sweet-vermouth_117",
+      "name": "Sweet Vermouth",
+      "strength": 18,
+      "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "fernet-branca_50",
+      "name": "Fernet Branca",
+      "strength": 39,
+      "description": "Fernet Branca is a bittersweet, herbal liqueur made with a number of different herbs and spices, including myrrh, rhubarb, chamomile, cardamom, aloe, and gentian root.",
+      "origin": "Italy",
+      "category": "Amaro",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 1,
+      "units": "barspoon",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "absinthe_107",
+      "name": "Absinthe",
+      "strength": 40,
+      "description": "Absinthe is a highly alcoholic and anise-flavored spirit that is historically known for its association with bohemian culture and its supposed hallucinogenic properties. It is typically green in color, but clear variations also exist. Absinthe is renowned for its distinctive herbal and botanical profile, which often includes ingredients like wormwood (Artemisia absinthium), anise, fennel, and other herbs.\n\nThe production of absinthe involves macerating and distilling these botanicals to create a highly concentrated liquid. The key component, wormwood, was once believed to contain a compound called thujone, thought to induce hallucinations. However, modern absinthes are produced with strict regulations regarding thujone content, and the hallucinogenic effects of traditional absinthe are now considered to be largely exaggerated.\n\nAbsinthe is often served by diluting it with water, typically by pouring cold water over a sugar cube placed on a slotted spoon, which is then held over the glass. This process, known as the \"louche,\" causes the absinthe to cloud and release its herbal flavors.\n\nThe drink gained notoriety in the late 19th and early 20th centuries, particularly in the bohemian and artistic communities of Europe. It was banned in many countries for a period due to concerns about its alleged psychoactive effects and its association with absinthe-induced madness. However, the ban has been lifted in most places, and today absinthe is produced and consumed legally with regulated thujone levels.\n\nAbsinthe has experienced a resurgence in popularity, and while its reputation as a mind-altering substance has been debunked, it is still enjoyed for its unique flavor and the ritualistic manner in which it is often served.",
+      "origin": "France",
+      "category": "Spirits",
+      "amount": 1,
+      "units": "barspoon",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

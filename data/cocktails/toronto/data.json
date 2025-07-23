@@ -1,0 +1,95 @@
+{
+  "_id": "toronto_736",
+  "name": "Toronto",
+  "instructions": "1. Combine the rye whiskey, Fernet-Branca, syrup and bitters in a cocktail mixing glass (or any other type of glass).\n2. Fill the mixing glass with 1 handful ice and stir continuously for 30 seconds.\n3. Strain into a glass.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This flavorful Toronto cocktail combines the depth and warmth of whiskey with the intrigue of herbal Fernet-Branca liqueur.\n\nA recipe for the Fernet Cocktail calling for equal parts fernet and either cognac or rye whiskey was first printed in Robert Vermeire's 1922 Cocktails: How to Mix Them with the addendum that \"this cocktail is much appreciated by the Canadians of Toronto.\"",
+  "source": "https://www.acouplecooks.com/toronto-cocktail/",
+  "garnish": "Garnish with an orange peel and serve.",
+  "abv": 30.04,
+  "tags": [
+    "Classic",
+    "Bitter",
+    "Aperitivo"
+  ],
+  "glass": "Coupe",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///toronto-cocktail-1_iVwBE7.webp",
+      "sort": 1,
+      "placeholder_hash": "SggKDwKQ0pSipJaLhjaXiHlllwL2CWEN",
+      "copyright": "Sonja Overhiser"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "rye-whiskey_83",
+      "name": "Rye whiskey",
+      "strength": 40,
+      "description": "Rye whiskey is a type of whiskey made primarily from rye grain. To be labeled as rye whiskey in the United States, the mash (grain mixture fermented to make alcohol) must be composed of at least 51% rye. The remaining ingredients in the mash can include other grains such as corn and barley. Rye whiskey is aged in new charred oak barrels, and the final product must be distilled to no more than 160 proof and entered into the barrel for aging at no more than 125 proof.\n\nAmerican rye whiskey tends to have a spicier and more robust flavor profile compared to bourbon, which is primarily made from corn.\n\nIn Canada, the term \"rye\" is often used broadly and doesn't necessarily mean that the whiskey is made predominantly from rye grain. Canadian rye whisky can contain a mix of grains, and the flavor profile may vary. Some Canadian whiskies labeled as \"rye\" are made with little or no rye content.\n\nRye whiskey is known for its distinctive taste, which can include spicy, fruity, and sometimes peppery notes. It can be enjoyed neat, on the rocks, or used in various cocktails such as the classic Manhattan or Old Fashioned.",
+      "origin": "North America",
+      "category": "Whiskey",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "fernet-branca_50",
+      "name": "Fernet Branca",
+      "strength": 39,
+      "description": "Fernet Branca is a bittersweet, herbal liqueur made with a number of different herbs and spices, including myrrh, rhubarb, chamomile, cardamom, aloe, and gentian root.",
+      "origin": "Italy",
+      "category": "Amaro",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "angostura-aromatic-bitters_22",
+      "name": "Angostura aromatic bitters",
+      "strength": 44.7,
+      "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+      "origin": "Trinidad & Tobago",
+      "category": "Bitters",
+      "amount": 4,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "aperitif_959",
+  "_parent_id": null,
+  "name": "Apéritif",
+  "strength": 0,
+  "description": "Aperitif/digestif bitters is a generic category for bitter-sweet spirit- or wine-based beverage bitters. Consumed straight or in mixed drinks in larger proportions than aromatic bitters or fruit bitters. Prominent examples are Amer Picon, Fernet Branca, Unicum, and Campari.\n\nNearly all aperitif/digestif bitters are complex, proprietary formulas and even products that aim to copy better-known brands tend to noticeably distinct. Factoring the extreme flavor potency of all these liqueurs, none are true substitutes for each other, but often, with careful discretion, not willy-nilly, one can be substituted for a similar one to different (but satisfying) effect.",
+  "origin": null,
+  "color": "#000",
+  "category": null,
+  "created_at": null,
+  "updated_at": null,
+  "images": [],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": 0.25,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "sage_737",
+  "_parent_id": "fruits-and-vegetables_941",
+  "name": "Sage",
+  "strength": 0,
+  "description": "Sage is an evergreen shrub with fragrant gray-green leaves used for cooking. The scent and flavor are often associated with holiday cooking (like Thanksgiving stuffing in the US). In cocktails the leaves impart a savory, comforting note.",
+  "origin": null,
+  "color": "#2e5c12",
+  "category": "Fruits and vegetables",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///sage-1_P9w1fu.png",
+      "sort": 1,
+      "placeholder_hash": "dfgNDwL4ZoiJd4d/g1iHiHh4doEG+YcO",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "leaves"
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "beton_2163",
+  "name": "Beton",
+  "instructions": "1. Add ingredients to a highball glass with ice.\n2. Garnish with a lemon slice.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Beton is a Czech cocktail starring Becherovka, an herbal liqueur, and tonic water, that is sometimes compared to a Gin and Tonic.",
+  "source": "https://punchdrink.com/recipes/beton/",
+  "garnish": "lemon slice",
+  "abv": 11.52,
+  "tags": [
+    "Light"
+  ],
+  "glass": "Highball",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///beton-1_L5TCnO.webp",
+      "sort": 1,
+      "placeholder_hash": "1fcRFwIIx3iChnhmeYeIaJh4VvSnpn8K",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "tonic_69",
+      "name": "Tonic",
+      "strength": 0,
+      "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 120,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "becherovka_1385",
+      "name": "Becherovka",
+      "strength": 38,
+      "description": "Becherovka (Czech pronunciation: [ˈbɛxɛˌrofka]), formerly Karlsbader Becherbitter, is a herbal bitters, often drunk as a digestif. It is produced in Karlovy Vary, Czech Republic by the Jan Becher company. The brand is owned by Pernod Ricard. It is made from a secret recipe based on more than twenty types of herbs and spices.\n\nBecherovka is often described as having a gingery or cinnamon flavor.",
+      "origin": "Czech",
+      "category": "Apéritif",
+      "amount": 2,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

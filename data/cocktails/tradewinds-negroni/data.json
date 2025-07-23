@@ -1,0 +1,75 @@
+{
+  "_id": "tradewinds-negroni_1478",
+  "name": "Tradewinds Negroni",
+  "instructions": "Add sweet vermouth, Cointreau, and Angostura bitters to a mixing glass and fill with ice. Stir until well chilled, about 25 seconds. Strain into an Old Fashioned glass with a large ice cube. Express orange oils from twist over drink, garnish with twist, and serve.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "Justin Elliott of The Townsend in Austin created this spicy variation on the Negroni using equal parts sweet vermouth, Cointreau, and Angostura bitters. That's right: It's a lot of Angostura bitters.",
+  "source": "https://www.seriouseats.com/tradewinds-angostura-negroni-sweet-vermouth-cinnamon-cocktail",
+  "garnish": "Orange peel",
+  "abv": 25.15,
+  "tags": [],
+  "glass": "Lowball",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///tradewinds-negroni-angostura-sweet-vermouth-and-cointreau-cocktail-recipe-1_oi4ls5.webp",
+      "sort": 1,
+      "placeholder_hash": "2fkGFwbDZXiRhHh1hQfYiWebh2UI+HcK",
+      "copyright": "Serious eats"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "sweet-vermouth_117",
+      "name": "Sweet Vermouth",
+      "strength": 18,
+      "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "cointreau_56",
+      "name": "Cointreau",
+      "strength": 40,
+      "description": "Orange-flavoured triple sec liqueur, it was originally called Curaçao Blanco Triple Sec. Usually more dry tasting than Orange Curaçao.",
+      "origin": "France",
+      "category": "Orange Curaçao",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "angostura-aromatic-bitters_22",
+      "name": "Angostura aromatic bitters",
+      "strength": 44.7,
+      "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+      "origin": "Trinidad & Tobago",
+      "category": "Bitters",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

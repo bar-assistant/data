@@ -1,0 +1,93 @@
+{
+  "_id": "painkiller_2174",
+  "name": "Painkiller",
+  "instructions": "1. Add the rum, pineapple juice, orange juice, and cream of coconut to a shaker with cubed ice and shake vigorously but briefly to combine.\n2. Strain into a hurricane glass or snifter over crushed ice.\n3. Garnish with freshly grated nutmeg and a pineapple wedge. Serve with a straw.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Painkiller combines dark rum, pineapple juice, cream of coconut, and orange juice to create a refreshing drink perfect for the beach.",
+  "source": "https://www.foodandwine.com/painkiller-cocktail-recipe-11749373?hid=dec8fc2165b72d88598eae22c0501f2158b61050&did=18311640-20250705&utm_campaign=faw-bottle-service_newsletter&utm_source=faw&utm_medium=email&utm_content=070525&lctg=dec8fc2165b72d88598eae22c0501f2158b61050&lr_input=0b09e40904724adff668f21361ae04dde7989c3ffd9deb3afb8c6bde01b57ac1",
+  "garnish": "Pineapple wedge",
+  "abv": 8,
+  "tags": [
+    "Tiki"
+  ],
+  "glass": "Hurricane",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///painkiller-1_6qmv3d.webp",
+      "sort": 1,
+      "placeholder_hash": "pHoGDwIH21XphnlyaXe5WIeZV0MJ9GMJ",
+      "copyright": ""
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "dark-rum_99",
+      "name": "Dark Rum",
+      "strength": 40,
+      "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
+      "origin": "Caribbean",
+      "category": "Rum",
+      "amount": 2,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "such as Pusser's rum",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "pineapple-juice_536",
+      "name": "Pineapple juice",
+      "strength": 0,
+      "description": "Pineapple juice is extracted by passing fresh, ripe pineapple through a juice extractor (juicer) or by muddling fresh cut pineapple chunks and then straining out the solids.",
+      "origin": null,
+      "category": "Juices",
+      "amount": 4,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "orange-juice_60",
+      "name": "Orange juice",
+      "strength": 0,
+      "description": "Freshly squeezed orange juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "freshly squeezed",
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "cream-of-coconut_19",
+      "name": "Cream of Coconut",
+      "strength": 0,
+      "description": "Coconut cream is a thick, rich, and smooth substance extracted from the flesh of mature coconuts. Coconut cream is similar to coconut milk, but it has a higher concentration of coconut solids, giving it a thicker consistency. It is often used in both savory and sweet recipes, including curries, soups, desserts, and beverages. Coconut cream is a key ingredient in many dishes in Southeast Asian, Caribbean, and other tropical cuisines.",
+      "origin": "Tropical",
+      "category": null,
+      "amount": 1,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

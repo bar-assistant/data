@@ -1,26 +1,27 @@
 {
-    "_id": "creme-de-banane",
-    "_parent_id": "creme-de",
-    "name": "Crème de banane",
-    "strength": 0,
-    "description": "Perfectly ripened bananas are small-batch distilled to extract the rich banana flavor and natural amber color",
-    "origin": "Worldwide",
-    "color": "#b28432",
-    "category": "Crème de",
-    "created_at": "2024-08-28T13:52:51+00:00",
-    "updated_at": null,
-    "images": [
-        {
-            "uri": "file:///creme-de-banane-1_epyXTw.webp",
-            "sort": 1,
-            "placeholder_hash": "myiKFQQsrFRSiY9XCJhwXwf6J3hwg4NmiA",
-            "copyright": "Tempus Fugit"
-        }
-    ],
-    "ingredient_parts": [],
-    "prices": [],
-    "calculator_id": null,
-    "sugar_g_per_ml": null,
-    "acidity": null,
-    "distillery": null
+  "_id": "creme-de-banane_136",
+  "_parent_id": "creme-de_949",
+  "name": "Crème de banane",
+  "strength": 0,
+  "description": "Perfectly ripened bananas are small-batch distilled to extract the rich banana flavor and natural amber color",
+  "origin": "Worldwide",
+  "color": "#b28432",
+  "category": "Crème de",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///creme-de-banane.webp",
+      "sort": 1,
+      "placeholder_hash": "myiKFQQrrFRRiY5XCIhwXxf5B2hxdYR3iA",
+      "copyright": "Tempus Fugit"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "barspoon"
 }

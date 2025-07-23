@@ -1,0 +1,77 @@
+{
+  "_id": "white-negroni-sbagliato_1149",
+  "name": "White Negroni Sbagliato",
+  "instructions": "1. Build over a large cube in a double Old-Fashioned glass.\n2. Garnish with a long slice of cucumber and a twist of orange zest.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This White Negroni Sbagliato recipe by Brooklyn's Long Island Bar mixes herbal Suze and bianco vermouth for a summer to fall spritz.",
+  "source": "https://punchdrink.com/recipes/white-negroni-sbagliato/",
+  "garnish": "cucumber and orange peel",
+  "abv": 11.21,
+  "tags": [
+    "Savory"
+  ],
+  "glass": "Lowball",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///white-negroni-sbagliato-1_8nXm6Q.jpg",
+      "sort": 0,
+      "placeholder_hash": "bSkKLwT8ozrMZYejh6ZJOYiYZXA2BFgI",
+      "copyright": "Punch Staff | Lizzie Munro"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "suze_36",
+      "name": "Suze",
+      "strength": 15,
+      "description": "Bitter flavored drink made with the roots of the plant gentian.",
+      "origin": "Switzerland",
+      "category": "Gentian Liqueur",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "vermouth-bianco_185",
+      "name": "Vermouth Bianco",
+      "strength": 15,
+      "description": "First launched way back in 1910, Bianco is a wonderful style of vermouth. First inspired by the white flowers of vanilla plants, the bottling has been nicknamed ‘Bianchissimo’, meaning “the whitest of the white”.\n\nWhilst it looks like a dry vermouth, this is a sweeter style, which offers flavours of juicy citrus, berries, peaches and apricots, some mixed herbs, a touch of charcoal, vanilla, honey, apples, and some faint herby bitterness.\n\nDelicate and well balanced, this vermouth is a bartender’s dream, offering sweet complexity that is perfect in White Negronis and Martini style drinks.",
+      "origin": "Italy",
+      "category": "Fortified wine",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "prosecco_121",
+      "name": "Prosecco",
+      "strength": 11,
+      "description": "Prosecco is a sparkling wine that originates from the Veneto region of Italy. It is made primarily from the Glera grape variety, although other permitted grape varieties may also be used in smaller quantities. Prosecco is known for its fresh and fruity character, and it is one of the most popular and widely consumed sparkling wines globally.\n\nProsecco is known for its effervescence, and the bubbles are generally lighter and less persistent than those in traditional method sparkling wines like Champagne.",
+      "origin": "Italy",
+      "category": "Sparkling wine",
+      "amount": 120,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

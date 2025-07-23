@@ -1,0 +1,27 @@
+{
+  "_id": "peach-bitters_23",
+  "_parent_id": "bitters_944",
+  "name": "Peach bitters",
+  "strength": 35,
+  "description": "Peach bitters flavored with peaches and herbs.",
+  "origin": "Worldwide",
+  "color": "#ca7c00",
+  "category": "Bitters",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///peach-bitters.png",
+      "sort": 1,
+      "placeholder_hash": "7SiCBQAziHdwj4Qbd3iHgDgICNd2iHeIdw",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

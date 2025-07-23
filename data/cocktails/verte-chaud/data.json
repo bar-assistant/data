@@ -1,0 +1,78 @@
+{
+  "_id": "verte-chaud_2197",
+  "name": "Verte Chaud",
+  "instructions": "1. Stir together hot water and shaved chocolate until combined\n2. Add Chartreuse and top with wet cream",
+  "created_at": null,
+  "updated_at": null,
+  "description": "An après-ski staple perfect for the chilly chartreuse fan",
+  "source": "https://tuxedono2.com/verte-chaud-cocktail-recipe",
+  "garnish": "wet heavy cream to top",
+  "abv": 8.8,
+  "tags": [
+    "Herbacious",
+    "Hot"
+  ],
+  "glass": "Wine",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///verte-chaud-1_A5xDod.webp",
+      "sort": 1,
+      "placeholder_hash": "BvgJBwAGuYZ8g3mHeDi4J8iFh2A4CIkA",
+      "copyright": "TuxedoNo2"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "green-chartreuse_41",
+      "name": "Green Chartreuse",
+      "strength": 55,
+      "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 1.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "hot-chocolate_1397",
+      "name": "Hot chocolate",
+      "strength": 0,
+      "description": "Hot chocolate, also known as hot cocoa, is a warm beverage made from melted chocolate or cocoa powder mixed with milk or water, often sweetened and garnished with toppings like whipped cream or marshmallows. It has a rich history dating back thousands of years, originating in Mesoamerica and becoming popular in Europe after being introduced from the New World.",
+      "origin": null,
+      "category": "Beverages",
+      "amount": 6,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "cream_11",
+      "name": "Cream",
+      "strength": 0,
+      "description": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization.",
+      "origin": null,
+      "category": "Dairy",
+      "amount": 1,
+      "units": "topup",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

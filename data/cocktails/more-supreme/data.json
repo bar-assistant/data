@@ -1,0 +1,91 @@
+{
+  "_id": "more-supreme_1139",
+  "name": "More Supreme",
+  "instructions": "1. Combine all ingredients, except Campari, in a mixing tin and shake with ice.\n2. Strain into a chilled cocktail glass.\n3. Slowly pour Campari against the inside edge of the glass.\n4. Garnish with freshly cracked black pepper.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The first cocktail recipe Alec Bales landed on the Ticonderoga Club menu, the More Supreme hews closely to the Daiquiri blueprint.",
+  "source": "https://punchdrink.com/recipes/more-supreme/",
+  "garnish": "freshly cracked black pepper",
+  "abv": 21.67,
+  "tags": [],
+  "glass": "Coupe",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///more-supreme-1_S7SApk.jpg",
+      "sort": 0,
+      "placeholder_hash": "zCgKFwIEt5dsdniHeia4J7d5Z2BHBoAE",
+      "copyright": "Punch Staff | Angie Webb"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "rhum-agricole_101",
+      "name": "Rhum agricole",
+      "strength": 50,
+      "description": "Rhum Agricole is a style of rum that is made from fresh sugarcane juice rather than molasses, which is the byproduct of sugar production. The term \"agricole\" is French for \"agricultural,\" highlighting the agricultural origin of the sugarcane used in the production.\n\nRhum Agricole is particularly associated with regions like Martinique and Guadeloupe, where the production of this style of rum has a long and established tradition. The distinctive character of Rhum Agricole has contributed to its popularity among rum enthusiasts and mixologists seeking unique and flavorful spirits.",
+      "origin": "Caribbean",
+      "category": "Rum",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Rhum Clement Select Barrel",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "demerara-syrup_135",
+      "name": "Demerara Syrup",
+      "strength": 0,
+      "description": "Syrup made with demerara sugar",
+      "origin": null,
+      "category": "Simple Syrup",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "campari_26",
+      "name": "Campari",
+      "strength": 25,
+      "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
+      "origin": "Italy",
+      "category": "Apéritif",
+      "amount": 7.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

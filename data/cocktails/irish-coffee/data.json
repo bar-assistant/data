@@ -1,90 +1,93 @@
 {
-    "_id": "irish-coffee",
-    "name": "Irish Coffee",
-    "instructions": "1. Warm black coffee is poured into a pre-heated Irish coffee glass.\n2. Whiskey and at least one teaspoon of sugar is added and stirred until dissolved.\n3. Fresh thick chilled cream is carefully poured over the back of a spoon held just above the surface of the coffee.\n4. The layer of cream will float on the coffee without mixing.\n5. Plain sugar can be replaced with sugar syrup",
-    "created_at": "2024-08-28T13:52:51+00:00",
-    "updated_at": null,
-    "description": "Caffeinated alcoholic drink consisting of Irish whiskey, hot coffee, and sugar, stirred, and topped with cream (sometimes cream liqueur) The coffee is drunk through the cream.",
-    "source": "https://iba-world.com/irish-coffee/",
-    "garnish": null,
-    "abv": 8.26,
-    "tags": [
-        "Contemporary Classics",
-        "IBA Cocktail",
-        "Coffee",
-        "Hot"
-    ],
-    "glass": "Glass mug",
-    "method": "Build",
-    "utensils": [],
-    "images": [
-        {
-            "uri": "file:///irish-coffee-7_WU2tDg.jpg",
-            "sort": 1,
-            "placeholder_hash": "CAgKDgIIuIdniHiHd4N7gmynaY+o9Jg",
-            "copyright": "VinePair"
-        }
-    ],
-    "ingredients": [
-        {
-            "_id": "irish-whiskey",
-            "name": "Irish whiskey",
-            "strength": 40,
-            "description": "Produced in Ireland, often made from a mix of malted and unmalted barley and aged for a minimum period in wooden casks. Styles include single malt, single pot still, blended Irish whiskey, and others.",
-            "origin": "Ireland",
-            "category": "Spirits",
-            "amount": 50,
-            "units": "ml",
-            "optional": false,
-            "amount_max": null,
-            "note": null,
-            "substitutes": [],
-            "sort": 1
-        },
-        {
-            "_id": "coffee",
-            "name": "Coffee",
-            "strength": 0,
-            "description": "Coffee is a beverage made from roasted coffee beans. The beans are ground and brewed with hot water to produce a flavorful and aromatic drink. Coffee is enjoyed worldwide and comes in various styles, including espresso, drip coffee, and specialty beverages. It contains caffeine, a natural stimulant, and is often consumed for its energizing effects and rich, complex taste.",
-            "origin": "Africa",
-            "category": "Beverages",
-            "amount": 120,
-            "units": "ml",
-            "optional": false,
-            "amount_max": null,
-            "note": null,
-            "substitutes": [],
-            "sort": 2
-        },
-        {
-            "_id": "cream",
-            "name": "Cream",
-            "strength": 0,
-            "description": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization.",
-            "origin": null,
-            "category": "Uncategorized",
-            "amount": 50,
-            "units": "ml",
-            "optional": false,
-            "amount_max": null,
-            "note": null,
-            "substitutes": [],
-            "sort": 3
-        },
-        {
-            "_id": "sugar",
-            "name": "Sugar",
-            "strength": 0,
-            "description": "Sugar is a fundamental ingredient in cocktails, used primarily as a sweetener to balance the flavors of sour, bitter, or strong alcoholic components. It comes in various forms, including granulated sugar, superfine sugar, and sugar cubes, each of which can be used differently depending on the cocktail. Sugar can also be transformed into simple syrup, a liquid form that dissolves easily in cold beverages, making it a versatile option for many drinks.\n\nIn cocktails, sugar is often used to rim glasses, such as in a classic Margarita or a Sidecar, where the rim is coated with sugar to add sweetness with every sip. Superfine sugar is preferred for drinks like the Daiquiri or the Mojito, where it is muddled with lime or mint to create a balanced and refreshing flavor. Sugar cubes are a key component in classic cocktails like the Old Fashioned, where they are soaked in bitters before being muddled to release their sweetness.\n\nBeyond its role as a sweetener, sugar can also influence the texture and mouthfeel of a cocktail, adding a slight viscosity that enhances the drink's overall experience. Whether used in its solid form or as a syrup, sugar is an essential ingredient that helps create harmony and depth in a wide range of cocktails.",
-            "origin": null,
-            "category": "Uncategorized",
-            "amount": 1,
-            "units": "teaspoon",
-            "optional": false,
-            "amount_max": null,
-            "note": null,
-            "substitutes": [],
-            "sort": 4
-        }
-    ]
+  "_id": "irish-coffee_1509",
+  "name": "Irish Coffee",
+  "instructions": "1. Prepare an Irish Coffee glass (or a wine glass or mug) by filling it with hot water.\n2. Discard hot water, and drop in sugar cubes (or sugar).\n3. Add hot coffee and stir to dissolve sugar.\n4. Add Irish whiskey and stir again.\n5. Gently ladle a collar of lightly whipped cream to float on top of the drink.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "First introduced to the United States by way of San Francisco’s Buena Vista Café, the Irish Coffee was invented at the Foynes Airport’s restaurant in 1943. At the time, Foynes acted as a major intercontinental hub to the U.K. and, one evening, when a flight bound for Newfoundland was forced to turn back due to poor weather, airport staff led the returning passengers to the airport’s cafe. Chef Joe Sheridan greeted the travelers with glasses of warm coffee laced with Irish Whiskey, which he appropriately christened the “Irish Coffee.” Eventually, Foynes Flying Boat Station was closed and the Shannon Airport took its place, where the national cocktail still greets weary travelers today. The drink finally made its way to the U.S. in 1952 when the Buena Vista’s then-owner combined efforts with the travel writer Stanton Delaplane to recreate the storied cocktail. Today, on any given afternoon, the waterfront tavern is packed with drinkers awaiting Irish Coffees churned out by the white-jacketed bartenders who can, all at once, make small talk, dose a dozen glasses with hot coffee and gracefully float a dollop of perfectly whipped cream atop each one.",
+  "source": "https://punchdrink.com/recipes/irish-coffee/",
+  "garnish": null,
+  "abv": 9.92,
+  "tags": [
+    "Coffee"
+  ],
+  "glass": "Glass mug",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///irish-coffee-1-1_8eKgCr.webp",
+      "sort": 1,
+      "placeholder_hash": "1igGDwIKXJPDeGitJvg95YdtpJCJCowE",
+      "copyright": "Punch Staff | Eric Wolfinger"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "irish-whiskey_86",
+      "name": "Irish whiskey",
+      "strength": 40,
+      "description": "Produced in Ireland, often made from a mix of malted and unmalted barley and aged for a minimum period in wooden casks. Styles include single malt, single pot still, blended Irish whiskey, and others.",
+      "origin": "Ireland",
+      "category": "Whiskey",
+      "amount": 1.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "preferably Tullamore Dew",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "coffee_73",
+      "name": "Coffee",
+      "strength": 0,
+      "description": "Coffee is a beverage made from roasted coffee beans. The beans are ground and brewed with hot water to produce a flavorful and aromatic drink. Coffee is enjoyed worldwide and comes in various styles, including espresso, drip coffee, and specialty beverages. It contains caffeine, a natural stimulant, and is often consumed for its energizing effects and rich, complex taste.",
+      "origin": "Africa",
+      "category": "Beverages",
+      "amount": 4,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "hot",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "sugar_16",
+      "name": "Sugar",
+      "strength": 0,
+      "description": "White sugar",
+      "origin": null,
+      "category": "Sweeteners",
+      "amount": 2,
+      "units": "cube",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "or 2 teaspoons sugar",
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "cream_11",
+      "name": "Cream",
+      "strength": 0,
+      "description": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization.",
+      "origin": null,
+      "category": "Dairy",
+      "amount": 1,
+      "units": "topup",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
 }

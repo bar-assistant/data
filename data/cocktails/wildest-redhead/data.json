@@ -1,0 +1,109 @@
+{
+  "_id": "wildest-redhead_2156",
+  "name": "Wildest Redhead",
+  "instructions": "1. Add the first four ingredients to a shaker and shake with ice.\n2. Strain over a large ice cube into a rocks glass.\n3. Slowly pour the Cherry Heering over the ice so that it sinks to the bottom of the drink.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This easy whiskey cocktail recipe combines blended Scotch whisky, allspice or pimento dram, Cherry Heering, lemon and honey syrup.",
+  "source": "https://punchdrink.com/recipes/wildest-redhead/",
+  "garnish": null,
+  "abv": 17.45,
+  "tags": [
+    "Citrusy"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///wildest-redhead-1_UKmxt2.webp",
+      "sort": 1,
+      "placeholder_hash": "DzkKJwgKibhxeYlwjqZop2h5lwJHOXAG",
+      "copyright": "Punch Staff | Michael Anthony"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "scotch-whiskey_84",
+      "name": "Scotch whiskey",
+      "strength": 40,
+      "description": "Produced in Scotland, typically made from malted barley, and aged for a minimum period in oak barrels. Scotch can be further classified into single malt, single grain, blended malt, blended grain, and blended Scotch whisky.",
+      "origin": "Scotland",
+      "category": "Whiskey",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 0.75,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "honey-syrup_110",
+      "name": "Honey Syrup",
+      "strength": 0,
+      "description": "Syrup made from dissolving honey in water.",
+      "origin": "Worldwide",
+      "category": "Simple Syrup",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "3:1, honey to water",
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "allspice-dram_172",
+      "name": "Allspice dram",
+      "strength": 22.5,
+      "description": "Allspice dram, also known as pimento dram, is a liqueur made from the dried berries of the allspice tree (Pimenta dioica). Despite its name, allspice is a single spice, not a blend. The berries have flavors reminiscent of a combination of cinnamon, cloves, and nutmeg, hence the name \"allspice.\"\n\nTo make allspice dram, the dried allspice berries are crushed or ground and then steeped in high-proof alcohol to extract their flavors. This infusion is typically sweetened with sugar, resulting in a sweet and spiced liqueur. The final product often has a warm and aromatic profile, with notes of cinnamon, clove, and nutmeg.\n\nAllspice dram is used as a flavoring agent in cocktails, adding depth and complexity to drinks. It's a common ingredient in classic and modern tiki cocktails, where its spice-forward profile complements tropical fruit flavors.",
+      "origin": "Greater Antilles",
+      "category": "Liqueurs",
+      "amount": 0.25,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "cherry-heering_156",
+      "name": "Cherry heering",
+      "strength": 21,
+      "description": "Cherry Heering is a Danish cherry-flavored liqueur with a deep red color. It is made from a base of spirits, sugar, and cherries, specifically sour cherries, which contribute to its rich and sweet flavor profile. Cherry Heering is known for its versatility in cocktails and is often used in classic and modern mixology. One of the most famous cocktails featuring Cherry Heering is the Singapore Sling. The liqueur has a distinct cherry taste with hints of almond and spices, making it a popular choice for adding depth and complexity to a variety of drinks.",
+      "origin": "Denmark",
+      "category": "Liqueurs",
+      "amount": 0.25,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

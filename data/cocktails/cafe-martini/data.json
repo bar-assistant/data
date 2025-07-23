@@ -1,0 +1,77 @@
+{
+  "_id": "cafe-martini_732",
+  "name": "Cafe Martini",
+  "instructions": "1. Add all the ingredients to a shaker with ice\n2. Shake and strain into the glass",
+  "created_at": null,
+  "updated_at": null,
+  "description": "At Saint Theo's in New York, beverage director Simon Sebbah elevates the Espresso Martini by trading out vodka for reposado tequila, giving it \"a little extra kick and dimension.\"",
+  "source": "https://imbibemagazine.com/recipe/cafe-martini-a-tequila-espresso-martini/",
+  "garnish": "3 coffee beans",
+  "abv": 20,
+  "tags": [
+    "Coffee"
+  ],
+  "glass": "Nick and Nora",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///cafe-martini-a-tequila-espresso-martini-1_qsDTmq.jpg",
+      "sort": 1,
+      "placeholder_hash": "okgaFwZ3h4dwh4iXiJd4h4Z2l/aoiY8K",
+      "copyright": "Imbibe Magazine | Kathryn Sheldon"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "tequila-reposado_93",
+      "name": "Tequila Reposado",
+      "strength": 40,
+      "description": "Tequila Reposado is a type of tequila that has been aged or \"rested\" in oak barrels for a specific period, giving it a mellower and more complex flavor compared to Tequila Blanco (unaged tequila). The term \"reposado\" translates to \"rested\" in Spanish.\n\nReposado occupies a middle ground between the youthful vibrancy of Blanco tequila and the more mature and complex characteristics of Añejo tequila. It appeals to those who appreciate a balance of agave flavor and the influence of oak aging.",
+      "origin": "Mexico",
+      "category": "Tequila",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "coffee-liqueur_28",
+      "name": "Coffee liqueur",
+      "strength": 20,
+      "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
+      "origin": "Mexico",
+      "category": "Liqueurs",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "espresso_72",
+      "name": "Espresso",
+      "strength": 0,
+      "description": "Espresso is generally thicker than coffee brewed by other methods, with a viscosity similar to that of warm honey.",
+      "origin": "Italy",
+      "category": "Coffee",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

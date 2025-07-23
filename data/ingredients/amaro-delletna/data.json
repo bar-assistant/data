@@ -1,0 +1,27 @@
+{
+  "_id": "amaro-delletna_529",
+  "_parent_id": "amaro_947",
+  "name": "Amaro dell'Etna",
+  "strength": 29,
+  "description": "Already a beloved Italian staple, Amaro dell’Etna was introduced in the U.S. for the first time at the end of 2017, thanks to M.S. Walker. The recipe, which includes bitter orange peel, licorice and vanilla, dates back to 1901 and calls for more than 26 all-natural ingredients—many of which thrive in the soil at the base of Mount Etna in Sicily. The herbaceous blend is macerated then matured for two months, emerging bittersweet, bright and balanced. Full of tart rhubarb and spiced with cinnamon, this amaro finishes with a smoky minerality that harkens back to its volcanic origins. Excellent for sipping solo.",
+  "origin": "Italy",
+  "color": "#513920",
+  "category": "Apéritif > Amaro",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///amaro-delletna-1_pXzM0a.png",
+      "sort": 1,
+      "placeholder_hash": "XQiOFQQspXhweXapl1xEwLcEBxeIiIiIiA",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

@@ -1,0 +1,109 @@
+{
+  "_id": "irish-maid_743",
+  "name": "Irish Maid",
+  "instructions": "1. Muddle the cucumber slices in a shaker.\n2. Add the Irish whiskey, St-Germain, lemon juice and simple syrup into a shaker with ice and shake until well-chilled.\n3. Fine-strain into a chilled rocks glass over fresh ice.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Irish Maid is a Whiskey Sour variation featuring Irish whiskey, lemon juice and fresh cucumber. It makes the case for whiskey as a summer drink.",
+  "source": "https://www.liquor.com/recipes/irish-maid/",
+  "garnish": "Garnish with a cucumber slice.",
+  "abv": 18,
+  "tags": [
+    "Sour"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///irish-maid-1_c3L5wu.jpg",
+      "sort": 1,
+      "placeholder_hash": "bxkKNwTAl2iMmGdnhpeId3eJl1BHCWED",
+      "copyright": "Liquor.com"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "irish-whiskey_86",
+      "name": "Irish whiskey",
+      "strength": 40,
+      "description": "Produced in Ireland, often made from a mix of malted and unmalted barley and aged for a minimum period in wooden casks. Styles include single malt, single pot still, blended Irish whiskey, and others.",
+      "origin": "Ireland",
+      "category": "Whiskey",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "st-germain_52",
+      "name": "St-Germain",
+      "strength": 20,
+      "description": "St-Germain is an elderflower liqueur It is made using the petals of Sambucus nigra from the Savoie region in France, and each bottle is numbered with the year the petals were collected. Petals are collected annually in the spring over a period of three to four weeks, and are often transported by bicycle to collection points to avoid damaging the petals and impacting the flavour.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "lemon-juice_58",
+      "name": "Lemon juice",
+      "strength": 0,
+      "description": "Freshly squeezed lemon juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "cucumber_144",
+      "name": "Cucumber",
+      "strength": 0,
+      "description": "Cucumbers are a type of vegetable that grow on creeping vines and are known for their cylindrical shape and high water content, making them refreshing to eat.",
+      "origin": null,
+      "category": "Fruits and vegetables",
+      "amount": 2,
+      "units": "slice",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "cut into quarter-inch",
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

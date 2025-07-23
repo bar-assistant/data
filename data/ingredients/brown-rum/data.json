@@ -1,0 +1,27 @@
+{
+  "_id": "brown-rum_97",
+  "_parent_id": "rum_954",
+  "name": "Brown Rum",
+  "strength": 40,
+  "description": "Gold rum, also referred to as amber or golden rum, is a type of rum that falls between light and dark rum in terms of color and flavor. It is a versatile and widely used category of rum with characteristics that make it suitable for various cocktails and sipping neat.\n\nWhile not aged as long as dark rum, gold rum often undergoes some degree of aging in barrels. The aging contributes to the development of color, flavor, and a smoother texture.",
+  "origin": "Caribbean",
+  "color": "#c79141",
+  "category": "Spirits > Sugarcane-based spirits > Rum",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///gold-rum.png",
+      "sort": 1,
+      "placeholder_hash": "JEqGDQBFh1mGeYT6Z1eOf/W3CLd2iId4dw",
+      "copyright": "Bacardi"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

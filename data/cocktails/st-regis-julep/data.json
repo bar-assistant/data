@@ -1,0 +1,109 @@
+{
+  "_id": "st-regis-julep_2159",
+  "name": "St. Regis Julep",
+  "instructions": "1. Add all the ingredients to the julep tin and muddle the mint gently with barspoon. Add 2 cubes of cracked ice, stirring to chill. Add crushed ice to fill halfway; let chill. Add more to fill. Garnish.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "\"The St. Regis Julep was created by the famous John Swago of the old St. Regis in New Orleans. It is one of the first drinks I ever made from Famous New Orleans Drinks and How to Mix 'Em by Stanley Clisby Arthur,\" says Cure bartender Ryan Gannon. \"It is a funky, awesome riff on a julep that I try to make anytime I get a request for a julep.\"",
+  "source": "https://imbibemagazine.com/recipe/st-regis-julep/",
+  "garnish": "Fresh mint bouquet",
+  "abv": 31.17,
+  "tags": [
+    "Julep"
+  ],
+  "glass": "Julep",
+  "method": "Muddle",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///st-regis-julep-1_XlwV2A.webp",
+      "sort": 1,
+      "placeholder_hash": "0BgKFwIib6R6apeGeUmaR3iIhnBqRrIP",
+      "copyright": "Imbibe Magazine"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "rye-whiskey_83",
+      "name": "Rye whiskey",
+      "strength": 40,
+      "description": "Rye whiskey is a type of whiskey made primarily from rye grain. To be labeled as rye whiskey in the United States, the mash (grain mixture fermented to make alcohol) must be composed of at least 51% rye. The remaining ingredients in the mash can include other grains such as corn and barley. Rye whiskey is aged in new charred oak barrels, and the final product must be distilled to no more than 160 proof and entered into the barrel for aging at no more than 125 proof.\n\nAmerican rye whiskey tends to have a spicier and more robust flavor profile compared to bourbon, which is primarily made from corn.\n\nIn Canada, the term \"rye\" is often used broadly and doesn't necessarily mean that the whiskey is made predominantly from rye grain. Canadian rye whisky can contain a mix of grains, and the flavor profile may vary. Some Canadian whiskies labeled as \"rye\" are made with little or no rye content.\n\nRye whiskey is known for its distinctive taste, which can include spicy, fruity, and sometimes peppery notes. It can be enjoyed neat, on the rocks, or used in various cocktails such as the classic Manhattan or Old Fashioned.",
+      "origin": "North America",
+      "category": "Whiskey",
+      "amount": 1.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "jamaican-rum_100",
+      "name": "Jamaican Rum",
+      "strength": 40,
+      "description": "Jamaican rum refers to rum produced in Jamaica, a Caribbean island known for its rich history of rum production. Jamaican rum is renowned for its bold and distinctive flavor profile, often characterized by robust and complex notes.\n\nJamaican rum has a strong cultural and historical significance, and the island is home to several well-known distilleries, each with its unique approach to rum production. Brands such as Appleton Estate and Wray & Nephew are examples of Jamaican rums that have gained international acclaim.",
+      "origin": "Jamaica",
+      "category": "Rum",
+      "amount": 0.5,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "Gannon uses Hamilton Pot Still",
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "demerara-syrup_135",
+      "name": "Demerara Syrup",
+      "strength": 0,
+      "description": "Syrup made with demerara sugar",
+      "origin": null,
+      "category": "Simple Syrup",
+      "amount": 0.25,
+      "units": "oz",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "2:1",
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "grenadine-syrup_112",
+      "name": "Grenadine Syrup",
+      "strength": 0,
+      "description": "Fruit syrup made from pomegranates.",
+      "origin": "Worldwide",
+      "category": "Syrups",
+      "amount": 0.5,
+      "units": "barspoon",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "mint_7",
+      "name": "Mint",
+      "strength": 0,
+      "description": "Mint refers to a family of aromatic herbs known for their refreshing flavor and fragrance. The most commonly used and recognized type of mint is spearmint (Mentha spicata), but there are various other species and hybrids, including peppermint (Mentha × piperita).",
+      "origin": null,
+      "category": "Fruits and vegetables",
+      "amount": 6,
+      "units": "leaves",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

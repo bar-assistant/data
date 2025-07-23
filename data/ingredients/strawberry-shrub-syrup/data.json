@@ -1,0 +1,29 @@
+{
+  "_id": "strawberry-shrub-syrup_1379",
+  "_parent_id": "infusions_950",
+  "name": "Strawberry shrub syrup",
+  "strength": 0,
+  "description": "- Wash, trim, and quarter 1 lb. of ripe strawberries.\n- Add to a mixing bowl with 2 cups of granulated sugar and toss to coat.\n- Gently mash the fruit with a fork.\n- Cover and let stand at room temperature for 1 hour, then refrigerate for at least 1 day (but 2 is ideal), periodically shaking the container to redistribute the contents.\n- Mix in 1 1/2 cups of apple cider vinegar, then strain and transfer the mixture into a resealable bottle, squeezing out as much liquid as you can.\n- Refrigerate and use within 2 weeks.",
+  "origin": null,
+  "color": null,
+  "category": "Infusions",
+  "created_at": null,
+  "updated_at": null,
+  "images": [],
+  "ingredient_parts": [
+    {
+      "_id": "strawberry_166",
+      "name": "Strawberry",
+      "strength": 0,
+      "description": "Strawberries are a popular fruit known for their bright red color, sweet flavor, and juicy texture. They are often eaten fresh or used in various dishes like jams, desserts, and ice creams.",
+      "origin": null,
+      "category": "Fruits and vegetables"
+    }
+  ],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

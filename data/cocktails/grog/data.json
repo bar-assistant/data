@@ -1,0 +1,111 @@
+{
+  "_id": "grog_2188",
+  "name": "Grog",
+  "instructions": "1. Shake all ingredients with ice.\n2. into ice-filled glass.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "For over 300 years, the British Navy issued a daily 'tot' of rum, sometimes with double issues before battle. In 1740, as an attempt to combat drunkenness, Admiral Vernon gave orders that the standard daily issue of half a pint of neat, high-proof rum be replaced with two servings of a quarter of a pint, diluted 4:1 with water. The Admiral was nicknamed 'Old Grogram' due to the waterproof grogram cloak he wore, so the mixture he introduced became known as 'grog'. Lime juice was often added to the grog in an attempt to prevent scurvy, lending British sailors their 'limey' nickname.\n\nThe 'tot' tradition, which was started by the British Navy in Jamaica in 1665, was finally broken on 31st July 1970, a day known as Black Tot Day, although by then, the 'tot' had been reduced to a meagre two ounces.\n\nI hate to let the truth ruin a good story, but historians now say that grog emanates from an earlier period than Old Grogram.",
+  "source": null,
+  "garnish": "Garnish with lime wedge.",
+  "abv": 17.86,
+  "tags": [
+    "Historical",
+    "Sour",
+    "Classics"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///grog-1_X7S98t.webp",
+      "sort": 1,
+      "placeholder_hash": "zhgOJwQGl6d1mHdzi3eId4iIeGA3CHUE",
+      "copyright": "phoenixmag"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "overproof-rum_102",
+      "name": "Overproof Rum",
+      "strength": 50,
+      "description": "Rum much higher than the standard 40% ABV (80 proof), with many as high as 75% (150 proof) to 80% (160 proof) available.",
+      "origin": "Caribbean",
+      "category": "Rum",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "simple-syrup_108",
+      "name": "Simple Syrup",
+      "strength": 0,
+      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+      "origin": null,
+      "category": "Syrups",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "water_67",
+      "name": "Water",
+      "strength": 0,
+      "description": "It's water.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    },
+    {
+      "_id": "angostura-aromatic-bitters_22",
+      "name": "Angostura aromatic bitters",
+      "strength": 44.7,
+      "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+      "origin": "Trinidad & Tobago",
+      "category": "Bitters",
+      "amount": 2,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

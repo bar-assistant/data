@@ -1,0 +1,91 @@
+{
+  "_id": "coffee-cigarettes_1490",
+  "name": "Coffee & Cigarettes",
+  "instructions": "1. Combine the ingredients into your mixing glass\n2. Stir with ice for 30-40 seconds\n3. Strain into a chilled stemmed cocktail glass",
+  "created_at": null,
+  "updated_at": null,
+  "description": "The Coffee & Cigarettes cocktail was created by Thomas Waugh and featured in the Death & Co. cocktail book. This riff on a Manhattan / Rob Roy features an Islay Whisky which provides a rich smokiness that compliments the coffee & cacao notes.I highly recommend trying this one!",
+  "source": "https://stevethebartender.com.au/coffee-cigarettes-cocktail-recipe/",
+  "garnish": null,
+  "abv": 29.18,
+  "tags": [],
+  "glass": "Nick and Nora",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///coffee-cigarettes-1_28hPhv.webp",
+      "sort": 1,
+      "placeholder_hash": "VRgOFwKPdnesaYd4d4iIeHeI+IZ4T4gH",
+      "copyright": "Steve the Bartender"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "islay-scotch-whiskey_85",
+      "name": "Islay Scotch Whiskey",
+      "strength": 40,
+      "description": "Islay Scotch refers to Scotch whisky that is produced on the Isle of Islay, which is one of the whisky-producing regions of Scotland. Islay whiskies are renowned for their distinctive and peaty character, often featuring robust and smoky flavors that set them apart from whiskies produced in other regions.\n\nWell-known Islay distilleries include Ardbeg, Laphroaig, Lagavulin, and Bowmore, among others. Islay Scotch whiskies are appreciated by enthusiasts who enjoy the bold and distinctive flavor profile associated with the region. They are often enjoyed neat or with a splash of water to unlock the complexities of the spirit.",
+      "origin": "Isle of Islay",
+      "category": "Scotch whiskey",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "Caol Ila 12 yr",
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "coffee-liqueur_28",
+      "name": "Coffee liqueur",
+      "strength": 20,
+      "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
+      "origin": "Mexico",
+      "category": "Liqueurs",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "sweet-vermouth_117",
+      "name": "Sweet Vermouth",
+      "strength": 18,
+      "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
+      "origin": "Worldwide",
+      "category": "Fortified wine",
+      "amount": 1,
+      "units": "barspoon",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": "Carpano Antica Formula",
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "mole-bitters_157",
+      "name": "Mole Bitters",
+      "strength": 53,
+      "description": "Mole (pronounced MO-lay) bitters are inspired by mole, a spicy Mexican chocolate sauce",
+      "origin": "Mexico",
+      "category": "Bitters",
+      "amount": 2,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 4
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

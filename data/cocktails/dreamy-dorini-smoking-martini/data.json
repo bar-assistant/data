@@ -1,0 +1,75 @@
+{
+  "_id": "dreamy-dorini-smoking-martini_1125",
+  "name": "Dreamy Dorini Smoking Martini",
+  "instructions": "1. Add all ingredients into a mixing glass with ice and stir until well-chilled.\n2. Strain into a cocktail glass.\n3. Express the oils from the lemon twist over the drink, then garnish with the twist.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This Vodka Martini riff from Audrey Saunders is anything but ordinary, with peaty single malt scotch and Pernod taking the place of dry vermouth and orange bitters.",
+  "source": "https://www.liquor.com/dreamy-dorini-smoking-martini-cocktail-recipe-5203959",
+  "garnish": null,
+  "abv": 33.33,
+  "tags": [],
+  "glass": "Cocktail",
+  "method": "Stir",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///dreamy-dorini-smoking-martini-1_OXaOrU.jpg",
+      "sort": 0,
+      "placeholder_hash": "3PcVFwBZh4hwhoiHeKeHWJl1d/R2Rm8I",
+      "copyright": "Liquor.com"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "vodka_78",
+      "name": "Vodka",
+      "strength": 40,
+      "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
+      "origin": "Russia",
+      "category": "Spirits",
+      "amount": 60,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "islay-scotch-whiskey_85",
+      "name": "Islay Scotch Whiskey",
+      "strength": 40,
+      "description": "Islay Scotch refers to Scotch whisky that is produced on the Isle of Islay, which is one of the whisky-producing regions of Scotland. Islay whiskies are renowned for their distinctive and peaty character, often featuring robust and smoky flavors that set them apart from whiskies produced in other regions.\n\nWell-known Islay distilleries include Ardbeg, Laphroaig, Lagavulin, and Bowmore, among others. Islay Scotch whiskies are appreciated by enthusiasts who enjoy the bold and distinctive flavor profile associated with the region. They are often enjoyed neat or with a splash of water to unlock the complexities of the spirit.",
+      "origin": "Isle of Islay",
+      "category": "Scotch whiskey",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "pernod_46",
+      "name": "Pernod",
+      "strength": 40,
+      "description": "Pernod is a brand of anise-flavored aperitif that originated in France. It is known for its licorice-like flavor and is often enjoyed as a refreshing apéritif or used as an ingredient in cocktails.",
+      "origin": "France",
+      "category": "Liqueurs",
+      "amount": 1,
+      "units": "dash",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "aveze_531",
+  "_parent_id": "liqueurs_939",
+  "name": "Avéze",
+  "strength": 18,
+  "description": "Developed in 1929 by Emile Refouvelet, Avéze Liqueur de Gentiane is a classic French apertif with the proud distinction of being the only French gentian liqueur flavored exclusively using wild yellow gentian collected from the historic national park of Volcans d’Auvergne.",
+  "origin": "France",
+  "color": "#fef9e9",
+  "category": "Liqueurs",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///aveze-1_ZQ27EZ.png",
+      "sort": 1,
+      "placeholder_hash": "1fqJJQwtCFZ4h3enVwp7mfe5BxeIiHeHeA",
+      "copyright": "Aveze"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

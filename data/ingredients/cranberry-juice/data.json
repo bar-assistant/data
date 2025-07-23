@@ -1,26 +1,27 @@
 {
-    "_id": "cranberry-juice",
-    "_parent_id": "juices",
-    "name": "Cranberry juice",
-    "strength": 0,
-    "description": "Juice made from cranberries.",
-    "origin": null,
-    "color": "#9c0024",
-    "category": "Juices",
-    "created_at": "2024-08-28T13:52:51+00:00",
-    "updated_at": "2024-08-31T15:10:42+00:00",
-    "images": [
-        {
-            "uri": "file:///cranberry-juice-1_r83UJw.webp",
-            "sort": 1,
-            "placeholder_hash": "4OmGDQRLiIVwe4uWV5aPZflYBzeHh4d3eA",
-            "copyright": "Creative Commons"
-        }
-    ],
-    "ingredient_parts": [],
-    "prices": [],
-    "calculator_id": null,
-    "sugar_g_per_ml": null,
-    "acidity": null,
-    "distillery": null
+  "_id": "cranberry-juice_62",
+  "_parent_id": "juices_940",
+  "name": "Cranberry juice",
+  "strength": 0,
+  "description": "Juice made from cranberries.",
+  "origin": null,
+  "color": "#9c0024",
+  "category": "Juices",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///cranberry-juice.png",
+      "sort": 1,
+      "placeholder_hash": "ExmHDQBWuQWId4mGiE99pJAXB5iHeHd4eA",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
 }

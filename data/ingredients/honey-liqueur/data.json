@@ -1,0 +1,27 @@
+{
+  "_id": "honey-liqueur_727",
+  "_parent_id": "liqueurs_939",
+  "name": "Honey liqueur",
+  "strength": 40,
+  "description": null,
+  "origin": "Worldwide",
+  "color": "#f1a412",
+  "category": "Liqueurs",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///honey-liqueur-1_TxTfwZ.png",
+      "sort": 1,
+      "placeholder_hash": "8DgOFwb4h4h8doZ+hUeYeIh2eSAIBoQA",
+      "copyright": "Old sugar"
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": "ml"
+}

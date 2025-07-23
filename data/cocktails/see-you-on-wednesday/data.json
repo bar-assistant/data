@@ -1,0 +1,109 @@
+{
+  "_id": "see-you-on-wednesday_740",
+  "name": "See You on Wednesday",
+  "instructions": "1. At the bottom of a shaker, muddle the jalapeño, cilantro, and agave nectar.\n2. Add the celery juice, lime juice, and salt solution. Add ice and shake until well chilled.\n3. Fine-strain into a Tajín-rimmed double rocks glass over large-format ice.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "This zero-proof Spicy Margarita variation from Natasha David combines celery juice, lime juice, jalapeno, cilantro, agave nectar, and salt.",
+  "source": "https://www.liquor.com/see-you-on-wednesday-cocktail-recipe-7091325",
+  "garnish": "Garnish with a celery spear.",
+  "abv": 0,
+  "tags": [
+    "Virgin"
+  ],
+  "glass": "Lowball",
+  "method": "Shake",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///see-you-on-wednesday-non-alcoholic-spicy-margarita-1_iRC0Zl.jpg",
+      "sort": 1,
+      "placeholder_hash": "tvgJJwL2eGiaZ4h4d2eHqGd5eXBnd5EA",
+      "copyright": "Liquor.com"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "chilli-pepper_9",
+      "name": "Chilli Pepper",
+      "strength": 0,
+      "description": "Chili peppers are known for their pungent and spicy flavor, attributed to the compound capsaicin. They come in various shapes, sizes, and colors, ranging from mild to extremely hot varieties.",
+      "origin": null,
+      "category": "Fruits and vegetables",
+      "amount": 2,
+      "units": "slice",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "cilantro_186",
+      "name": "Cilantro",
+      "strength": 0,
+      "description": "An annual herb in the family Apiaceae. All parts of the plant are edible, but the fresh leaves and the dried seeds are the parts most traditionally used in cooking.\n\nMost people perceive coriander as having a tart, lemon/lime taste, but to some individuals the leaves taste like dish soap. The perception of a soapy taste in certain aldehydes is linked to a specific gene.",
+      "origin": "Worldwide",
+      "category": "Fruits and vegetables",
+      "amount": 1,
+      "units": "sprigs",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "agave-syrup_113",
+      "name": "Agave Syrup",
+      "strength": 0,
+      "description": "Agave syrup, also known as agave nectar, is a sweetener that is derived from the sap of the agave plant, primarily the blue agave plant native to Mexico. The syrup is a popular alternative to traditional sweeteners like sugar and honey, particularly in the context of natural and organic food products.\n\nAgave syrup is praised for its sweetness and versatility. It is sweeter than sugar, so smaller amounts can be used to achieve the same level of sweetness. Additionally, it has a lower glycemic index compared to some other sweeteners, meaning it has a smaller impact on blood sugar levels.\n\nAgave syrup has a mild, neutral flavor, making it suitable for a variety of culinary applications. It is commonly used as a sweetener in beverages, baked goods, and desserts. However, it's essential to note that agave syrup, like any sweetener, should be consumed in moderation due to its high fructose content.",
+      "origin": "Mexico",
+      "category": "Simple Syrup",
+      "amount": 22.5,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 30,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 5
+    },
+    {
+      "_id": "saline-solution_176",
+      "name": "Saline solution",
+      "strength": 0,
+      "description": "20% saline\n\nSaline solution, often simply referred to as salt solution, is a mixture of water and sodium chloride (salt). It's a surprisingly versatile ingredient, primarily used to enhance and balance flavors rather than contribute a distinct taste of its own. The precise ratio of salt to water can be adjusted to achieve different levels of intensity, though a standard ratio is typically employed. It's a fundamental component in many culinary applications beyond beverages, often used to season food and create brines.\n\nBeyond its simple composition, saline solution plays a crucial role in manipulating perceived sweetness and acidity. A small addition can soften harsh edges and create a more rounded, palatable experience. It's important to note that the quality of the salt used significantly impacts the final product; finer salts generally dissolve more readily and provide a more consistent result. The ingredient is often used to create a 'salty' rim for glasses, or to add a subtle savory note to drinks.",
+      "origin": null,
+      "category": null,
+      "amount": 3,
+      "units": "drops",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 6
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}

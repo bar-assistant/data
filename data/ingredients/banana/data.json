@@ -1,0 +1,27 @@
+{
+  "_id": "banana_1393",
+  "_parent_id": "fruits-and-vegetables_941",
+  "name": "Banana",
+  "strength": 0,
+  "description": "A banana is an elongated, edible fruit produced by several types of large herbaceous plants in the genus Musa. It is commonly eaten raw or cooked and is known for its soft, starchy flesh and distinctive peel.",
+  "origin": null,
+  "color": "#f5c211",
+  "category": "Fruits and vegetables",
+  "created_at": null,
+  "updated_at": null,
+  "images": [
+    {
+      "uri": "file:///banana-1_jgA6Gv.webp",
+      "sort": 0,
+      "placeholder_hash": "JFyCBQAjSrV8lmBd+m9H9pNSCaVlmHOrWQ",
+      "copyright": ""
+    }
+  ],
+  "ingredient_parts": [],
+  "prices": [],
+  "calculator_id": null,
+  "sugar_g_per_ml": null,
+  "acidity": null,
+  "distillery": null,
+  "units": null
+}

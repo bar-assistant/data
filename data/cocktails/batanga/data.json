@@ -1,0 +1,77 @@
+{
+  "_id": "batanga_1093",
+  "name": "Batanga",
+  "instructions": "1. Combine all of the ingredients in a highball glass with ice.\n2. Stir to combine.",
+  "created_at": null,
+  "updated_at": null,
+  "description": "First created at a bar called La Capilla in the town of Tequila by Don Javier Delgado Corona in the 1960s, the Batanga is a favorite among fans of agave spirits. At Ghost Donkey (our 2020 Cocktail Bar of the Year) the classic combo of tequila, lime and cola gets an added layer of bittersweetness courtesy of a Mexican Fernet. You can experiment with whatever Fernet you have on hand, but Ignacio \"Nacho\" Jimenez says Fernet-Vallet will bring a deeper bark-like dryness to the mix.",
+  "source": "https://imbibemagazine.com/recipe/la-batanga-from-ghost-donkey/",
+  "garnish": "Citrus salt",
+  "abv": 27.27,
+  "tags": [
+    "Classics"
+  ],
+  "glass": "Highball",
+  "method": "Build",
+  "utensils": [],
+  "images": [
+    {
+      "uri": "file:///batanga-1_cmLnis.jpg",
+      "sort": 1,
+      "placeholder_hash": "ThgGFwIJjWmkqYiqalWnZ2hpVQWGRGAH",
+      "copyright": "Imbibe Magazine"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "tequila-blanco_91",
+      "name": "Tequila Blanco",
+      "strength": 40,
+      "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
+      "origin": "Mexico",
+      "category": "Tequila",
+      "amount": 45,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 1
+    },
+    {
+      "_id": "lime-juice_59",
+      "name": "Lime juice",
+      "strength": 0,
+      "description": "Freshly squeezed lime juice.",
+      "origin": null,
+      "category": "Citrus juice",
+      "amount": 15,
+      "units": "ml",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 2
+    },
+    {
+      "_id": "cola_70",
+      "name": "Cola",
+      "strength": 0,
+      "description": "Cola is a carbonated soft drink flavored with vanilla, cinnamon, citrus oils and other flavorings.",
+      "origin": "Worldwide",
+      "category": "Beverages",
+      "amount": 1,
+      "units": "topup",
+      "optional": false,
+      "is_specified": false,
+      "amount_max": null,
+      "note": null,
+      "substitutes": [],
+      "sort": 3
+    }
+  ],
+  "parent_cocktail_id": null,
+  "year": null
+}
