@@ -1,78 +1,66 @@
 {
-  "_id": "coffee-negroni_138",
-  "name": "Coffee Negroni",
-  "instructions": "Stir all ingredients in an ice-filled mixing glass, then strain into an ice-filled rocks glass",
-  "created_at": null,
-  "updated_at": null,
-  "description": "It’s commonly been said that the only thing better than a Negroni is a Coffee Negroni. And considering the drink is an equal part mix of Coffee Liqueur, Campari & Gin, we’ve got to agree.",
-  "source": "https://cocktailsdistilled.com/recipe/coffee-negroni/",
-  "garnish": "Orange twist",
-  "abv": 23.61,
-  "tags": [
-    "Negroni",
-    "Coffee"
-  ],
-  "glass": "Lowball",
-  "method": "Stir",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///coffee-negroni.jpg",
-      "sort": 1,
-      "placeholder_hash": "oSgOHwRjh3afh3hYdrloaJqXiAFXCHAE",
-      "copyright": ""
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "gin_75",
-      "name": "Gin",
-      "strength": 40,
-      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
-      "origin": "Worldwide",
-      "category": "Spirits",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "campari_26",
-      "name": "Campari",
-      "strength": 25,
-      "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
-      "origin": "Italy",
-      "category": "Apéritif",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "coffee-liqueur_28",
-      "name": "Coffee liqueur",
-      "strength": 20,
-      "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
-      "origin": "Mexico",
-      "category": "Liqueurs",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "coffee-negroni",
+    "name": "Coffee Negroni",
+    "instructions": "Stir all ingredients in an ice-filled mixing glass, then strain into an ice-filled rocks glass",
+    "created_at": "2022-12-23T22:03:29+00:00",
+    "updated_at": "2023-09-29T10:04:11+00:00",
+    "description": "It’s commonly been said that the only thing better than a Negroni is a Coffee Negroni. And considering the drink is an equal part mix of Coffee Liqueur, Campari & Gin, we’ve got to agree.",
+    "source": "https://cocktailsdistilled.com/recipe/coffee-negroni/",
+    "garnish": "Orange twist",
+    "abv": 23.61,
+    "tags": [
+        "Negroni",
+        "Coffee"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///coffee-negroni-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "oSgOHwRjh3afh3hYdrloaJqXiAFXCHAE",
+            "copyright": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "sort": 2,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "sort": 3,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

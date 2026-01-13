@@ -1,35 +1,27 @@
 {
-  "_id": "benedictine_45",
-  "_parent_id": "liqueurs_939",
-  "name": "Bénédictine",
-  "strength": 40,
-  "description": "Herbal liqueur flavored with twenty-seven flowers, berries, herbs, roots, and spices. The liqueur has a complex flavor profile with notes of honey, citrus, herbs, and spices. Bénédictine is often enjoyed as a sipping liqueur and is also used as an ingredient in various cocktails, including classic drinks like the Bénédictine and Brandy. The production of Bénédictine dates back to the 19th century, and the liqueur is known for its unique and distinctive taste.",
-  "origin": "France",
-  "color": "#f39100",
-  "category": "Liqueurs",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///benedictine.png",
-      "sort": 1,
-      "placeholder_hash": "W0mGDQJFSPeJiI9BlySvN6QKB5h0iYeYdw",
-      "copyright": "Bénédictine"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [
-    {
-      "price_category_name": "Hrvatska",
-      "price": 2700,
-      "currency": "EUR",
-      "amount": 700,
-      "units": "ml"
-    }
-  ],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "benedictine",
+    "_parent_id": "liqueurs",
+    "name": "Bénédictine",
+    "strength": 40,
+    "description": "Herbal liqueur flavored with twenty-seven flowers, berries, herbs, roots, and spices. The liqueur has a complex flavor profile with notes of honey, citrus, herbs, and spices. Bénédictine is often enjoyed as a sipping liqueur and is also used as an ingredient in various cocktails, including classic drinks like the Bénédictine and Brandy. The production of Bénédictine dates back to the 19th century, and the liqueur is known for its unique and distinctive taste.",
+    "origin": "France",
+    "color": "#f39100",
+    "category": "Liqueurs",
+    "created_at": "2022-11-28T17:31:43+00:00",
+    "updated_at": "2025-03-23T18:29:39+00:00",
+    "images": [
+        {
+            "uri": "file:///benedictine-1.png",
+            "sort": 1,
+            "placeholder_hash": "W0mGDQJFSPeJiI9BlySvN6QKB5h0iYeYdw",
+            "copyright": "Bénédictine"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

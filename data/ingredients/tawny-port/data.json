@@ -1,0 +1,27 @@
+{
+    "_id": "tawny-port",
+    "_parent_id": "fortified-wine",
+    "name": "Tawny Port",
+    "strength": 20,
+    "description": "Tawny Port is a type of fortified wine from Portugal, specifically produced in the Douro Valley. It is known for its amber color and complex flavors, which develop through an extensive aging process in wooden barrels. This aging allows for oxidation, resulting in a smooth, mellow character with notes of caramel, nuts, and dried fruits.",
+    "origin": "Portugal",
+    "color": "#A06D4C",
+    "category": "Fortified wine",
+    "created_at": "2025-12-26T12:24:07+00:00",
+    "updated_at": "2025-12-26T15:50:24+00:00",
+    "images": [
+        {
+            "uri": "file:///tawny-port-1.webp",
+            "sort": 0,
+            "placeholder_hash": "GBiGBQA0iXV3mHT6iGePVfY4CMeGeXd4hw",
+            "copyright": "Dow's"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

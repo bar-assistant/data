@@ -1,0 +1,80 @@
+{
+    "_id": "whiskey-smash",
+    "name": "Whiskey Smash",
+    "instructions": "1. In a rocks glass, gently muddle mint with simple syrup to release oils.\n2. Add lemon pieces and muddle to release juice.\n3. Add crushed ice or small ice cubes and pour bourbon over.\n4. Swizzle gently to mix.\n5. Garnish with a mint spring and lemon wheel.",
+    "created_at": "2025-07-26T11:05:14+00:00",
+    "updated_at": "2025-07-26T11:05:33+00:00",
+    "description": "A riff on the Mint Julep, the Whiskey Smash cocktail recipe features lemon and mint, making it a potent number dangerously easy to toss back.",
+    "source": "https://punchdrink.com/recipes/whiskey-smash/",
+    "garnish": "mint sprig and lemon wheel",
+    "abv": 25.57,
+    "tags": [
+        "Smash",
+        "Minty",
+        "Sour",
+        "Refreshing"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///whiskey-smash-1.webp",
+            "sort": 1,
+            "placeholder_hash": "4ykSRwaHd4dghniXiJiYiHeHaPaHd38I",
+            "copyright": "Punch Staff | Nicole Franzen"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "whiskey",
+            "name": "Whiskey",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 2,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 3,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "mint",
+            "name": "Mint",
+            "sort": 4,
+            "amount": 1,
+            "units": "sprigs",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

@@ -1,52 +1,88 @@
 {
-  "_id": "ginger-syrup_116",
-  "_parent_id": "syrups_942",
-  "name": "Ginger syrup",
-  "strength": 0,
-  "description": "Syrup infused with ginger root.\n\nThis ginger syrup is fantastic in cocktails, but it also makes an out-of-this-world ginger ale. To make ginger ale, simply fill an ice-filled glass a third of the way with the syrup, top with soda water and a squeeze of lime, stir and enjoy.",
-  "origin": "Worldwide",
-  "color": "#c6972c",
-  "category": "Syrups",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///ginger-syrup.png",
-      "sort": 1,
-      "placeholder_hash": "9BiGHQA8aneAeHRpp3d/iPLGCCiHd4d3eA",
-      "copyright": "Monin"
-    }
-  ],
-  "ingredient_parts": [
-    {
-      "_id": "ginger_8",
-      "name": "Ginger",
-      "strength": 0,
-      "description": "Ginger root used as a spice",
-      "origin": null,
-      "category": "Fruits and vegetables"
-    },
-    {
-      "_id": "sugar_16",
-      "name": "Sugar",
-      "strength": 0,
-      "description": "White sugar",
-      "origin": null,
-      "category": "Sweeteners"
-    },
-    {
-      "_id": "water_67",
-      "name": "Water",
-      "strength": 0,
-      "description": "It's water.",
-      "origin": "Worldwide",
-      "category": "Beverages"
-    }
-  ],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "ginger-syrup",
+    "_parent_id": "syrups",
+    "name": "Ginger syrup",
+    "strength": 0,
+    "description": "Syrup infused with ginger root.\n\nThis ginger syrup is fantastic in cocktails, but it also makes an out-of-this-world ginger ale. To make ginger ale, simply fill an ice-filled glass a third of the way with the syrup, top with soda water and a squeeze of lime, stir and enjoy.",
+    "origin": "Worldwide",
+    "color": "#c6972c",
+    "category": "Sweeteners > Syrups",
+    "created_at": "2022-11-28T17:31:46+00:00",
+    "updated_at": "2024-06-08T15:38:43+00:00",
+    "images": [
+        {
+            "uri": "file:///ginger-syrup-1.png",
+            "sort": 1,
+            "placeholder_hash": "9BiGHQA8aneAeHRpp3d/iPLGCCiHd4d3eA",
+            "copyright": "Monin"
+        }
+    ],
+    "ingredient_parts": [
+        {
+            "_id": "ginger",
+            "_parent_id": null,
+            "name": "Ginger",
+            "strength": 0,
+            "description": "Ginger root used as a spice",
+            "origin": null,
+            "color": null,
+            "category": null,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "ingredient_parts": [],
+            "prices": [],
+            "calculator_id": null,
+            "sugar_g_per_ml": null,
+            "acidity": null,
+            "distillery": null,
+            "units": null
+        },
+        {
+            "_id": "sugar",
+            "_parent_id": null,
+            "name": "Sugar",
+            "strength": 0,
+            "description": "White sugar",
+            "origin": null,
+            "color": null,
+            "category": null,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "ingredient_parts": [],
+            "prices": [],
+            "calculator_id": null,
+            "sugar_g_per_ml": null,
+            "acidity": null,
+            "distillery": null,
+            "units": null
+        },
+        {
+            "_id": "water",
+            "_parent_id": null,
+            "name": "Water",
+            "strength": 0,
+            "description": "It's water.",
+            "origin": "Worldwide",
+            "color": "#fff",
+            "category": null,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "ingredient_parts": [],
+            "prices": [],
+            "calculator_id": null,
+            "sugar_g_per_ml": null,
+            "acidity": null,
+            "distillery": null,
+            "units": null
+        }
+    ],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

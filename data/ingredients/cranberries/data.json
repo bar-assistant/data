@@ -1,0 +1,27 @@
+{
+    "_id": "cranberries",
+    "_parent_id": "fruits-and-vegetables",
+    "name": "Cranberries",
+    "strength": 0,
+    "description": "Cranberries are a tart and vibrant fruit native to North America, specifically the regions of eastern North America. These small berries possess a uniquely astringent flavor profile, stemming from their high acidity and low sugar content. The taste can be surprisingly complex, initially tart and sharply acidic, evolving into a subtly sweet and refreshing finish. Historically, cranberries have been utilized by indigenous populations for both sustenance and medicinal purposes, and they remain an iconic symbol of the fall harvest season.",
+    "origin": "North America",
+    "color": "#DC263D",
+    "category": "Fruits and vegetables",
+    "created_at": "2025-11-18T18:14:17+00:00",
+    "updated_at": "2025-11-22T17:31:25+00:00",
+    "images": [
+        {
+            "uri": "file:///cranberries-1.webp",
+            "sort": 0,
+            "placeholder_hash": "mXmCBQQ22gd5eFZVmUeP5wcZGFZol4B6eA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

@@ -1,0 +1,77 @@
+{
+    "_id": "yuzu-negroni",
+    "name": "Yuzu Negroni",
+    "instructions": "1. Add all the ingredients to a mixing glass with ice. Stir to chill and strain into the glass over a large ice cube. Express with a lemon peel and garnish.",
+    "created_at": "2025-09-21T09:09:59+00:00",
+    "updated_at": "2025-09-21T09:09:59+00:00",
+    "description": "At Hong Kong's Bar Leone (named 50 Best Bars' best bar in Asia and Spirited Awards' Best International Bar) the yuzu Negroni is one of the most ordered cocktails. For his take on the White Negroni, the bar's owner Lorenzo Antinori introduces yuzu sake to brighten up the bitter classic with citrus and floral notes.",
+    "source": "https://imbibemagazine.com/recipe/yuzu-negroni-from-bar-leone/",
+    "garnish": "Lemon twist",
+    "abv": 21.5,
+    "tags": [
+        "Negroni"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": "negroni",
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///yuzu-negroni-1.webp",
+            "sort": 1,
+            "placeholder_hash": "0HkKFwQgezyVWWiRepdnqXaHCGFppH8L",
+            "copyright": "Imbibe Magazine | Victoria Chan/@victoriachanw"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "suze",
+            "name": "Suze",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cocchi-aperitivo-americano",
+            "name": "Cocchi Aperitivo Americano",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sake",
+            "name": "Sake",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Yuzu",
+            "substitutes": []
+        }
+    ]
+}

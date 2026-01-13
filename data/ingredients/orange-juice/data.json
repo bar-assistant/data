@@ -1,36 +1,48 @@
 {
-  "_id": "orange-juice_60",
-  "_parent_id": "citrus-juice_960",
-  "name": "Orange juice",
-  "strength": 0,
-  "description": "Freshly squeezed orange juice.",
-  "origin": null,
-  "color": "#ff9518",
-  "category": "Juices > Citrus juice",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///orange-juice.png",
-      "sort": 1,
-      "placeholder_hash": "pMyGDQJXfGBqd4eWhwVZI4AUB5iHd3h4iA",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [
-    {
-      "_id": "orange_3",
-      "name": "Orange",
-      "strength": 0,
-      "description": "Orange fruit",
-      "origin": null,
-      "category": "Fruits and vegetables"
-    }
-  ],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "orange-juice",
+    "_parent_id": "citrus-juice",
+    "name": "Orange juice",
+    "strength": 0,
+    "description": "Freshly squeezed orange juice.",
+    "origin": null,
+    "color": "#ff9518",
+    "category": "Juices > Citrus juice",
+    "created_at": "2022-11-28T17:31:43+00:00",
+    "updated_at": "2025-03-11T16:49:04+00:00",
+    "images": [
+        {
+            "uri": "file:///orange-juice-1.png",
+            "sort": 1,
+            "placeholder_hash": "pMyGDQJXfGBqd4eWhwVZI4AUB5iHd3h4iA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [
+        {
+            "_id": "orange",
+            "_parent_id": null,
+            "name": "Orange",
+            "strength": 0,
+            "description": "Orange fruit",
+            "origin": null,
+            "color": null,
+            "category": null,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "ingredient_parts": [],
+            "prices": [],
+            "calculator_id": null,
+            "sugar_g_per_ml": null,
+            "acidity": null,
+            "distillery": null,
+            "units": null
+        }
+    ],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

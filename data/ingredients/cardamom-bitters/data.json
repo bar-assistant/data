@@ -1,0 +1,27 @@
+{
+    "_id": "cardamom-bitters",
+    "_parent_id": "bitters",
+    "name": "Cardamom bitters",
+    "strength": 45,
+    "description": "Cardamom bitters are a complex aromatic infusion, born from the heart of the cardamom pod. These bitters boast a fragrance that is both warm and spicy, with a foundation of citrusy brightness and a lingering sweetness. Crafted through maceration—where crushed cardamom pods are steeped in a high-proof spirit with other botanicals—they release an intense and layered profile of flavors, offering a significant contribution to any drink they enhance. The resulting product is often used to add depth and intrigue to both classic and contemporary cocktails.",
+    "origin": "India & Guatemala",
+    "color": "#D2B48C",
+    "category": "Bitters",
+    "created_at": "2025-12-26T12:22:34+00:00",
+    "updated_at": "2025-12-26T12:27:01+00:00",
+    "images": [
+        {
+            "uri": "file:///cardamom-bitters-1.webp",
+            "sort": 1,
+            "placeholder_hash": "shiGDQI8y2d8ho90Nwl0YDIHCBiHh4d3eA",
+            "copyright": "Fee Brothers"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

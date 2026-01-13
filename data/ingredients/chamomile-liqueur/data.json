@@ -1,27 +1,27 @@
 {
-  "_id": "chamomile-liqueur_66",
-  "_parent_id": "liqueurs_939",
-  "name": "Chamomile Liqueur",
-  "strength": 0,
-  "description": "Herbal juice made from chamomile.",
-  "origin": null,
-  "color": "#e2dccc",
-  "category": "Liqueurs",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///chamomile-cordial.png",
-      "sort": 1,
-      "placeholder_hash": "tQiCBQBWi3BrpZWoZlXAXaQEB5iHeHd4eA",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "chamomile-liqueur",
+    "_parent_id": "liqueurs",
+    "name": "Chamomile Liqueur",
+    "strength": 0,
+    "description": "Herbal juice made from chamomile.",
+    "origin": null,
+    "color": "#e2dccc",
+    "category": "Liqueurs",
+    "created_at": "2022-11-28T17:31:44+00:00",
+    "updated_at": "2025-03-11T16:56:31+00:00",
+    "images": [
+        {
+            "uri": "file:///chamomile-liqueur-1.png",
+            "sort": 1,
+            "placeholder_hash": "tQiCBQBWi3BrpZWoZlXAXaQEB5iHeHd4eA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

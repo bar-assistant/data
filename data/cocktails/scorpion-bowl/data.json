@@ -1,0 +1,101 @@
+{
+    "_id": "scorpion-bowl",
+    "name": "Scorpion Bowl",
+    "instructions": "1. Put everything in a blender.\n2. Blend for up to 10 seconds.\n3. Pour unstrained into a Tiki bowl.",
+    "created_at": "2026-01-11T11:58:07+00:00",
+    "updated_at": "2026-01-11T11:59:56+00:00",
+    "description": "The Scorpion, like many tiki cocktails, has gone through countless iterations, from a gin and wine-laced libation to this contemporary version of Trader Vic’s 1946 recipe (even he prescribes several riffs in his own books). It’s difficult to know where the original recipe ends and the contemporary begins, especially when so much rum is involved. But it is thought that, while in Hawaii, Vic first tried the punch from which the Scorpion was modeled, which mostly likely contained okolehao, an indigenous spirit distilled from the Polynesian ti plant. Orgeat is a constant ingredient in most interpretations and is key to the balance of dark rum and fruit.",
+    "source": "Trader Vic",
+    "garnish": "Garnish with a gardenia.",
+    "abv": 6.49,
+    "tags": [
+        "Tiki"
+    ],
+    "glass": "Tiki",
+    "method": "Blend",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///scorpion-bowl-1.webp",
+            "sort": 1,
+            "placeholder_hash": "4WgOFwaImKiPeHd9iWaHqHiHeRkIp4AC",
+            "copyright": "Total Mixology"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "sort": 1,
+            "amount": 180,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 2,
+            "amount": 120,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orgeat-syrup",
+            "name": "Orgeat Syrup",
+            "sort": 3,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "light-rum",
+            "name": "Light Rum",
+            "sort": 4,
+            "amount": 180,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "grape-brandy",
+            "name": "Grape Brandy",
+            "sort": 5,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "crushed-ice",
+            "name": "Crushed ice",
+            "sort": 6,
+            "amount": 480,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

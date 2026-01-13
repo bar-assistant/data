@@ -1,27 +1,27 @@
 {
-  "_id": "white-peach-puree_10",
-  "_parent_id": null,
-  "name": "White Peach Puree",
-  "strength": 0,
-  "description": "A purée (or mash) is cooked food, usually vegetables, fruits or legumes, that has been ground, pressed, blended or sieved to the consistency of a creamy paste or liquid.",
-  "origin": null,
-  "color": null,
-  "category": null,
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///white-peach-puree.png",
-      "sort": 1,
-      "placeholder_hash": "oaqCFQRFe5BmuYe3qIlwdgh4B6iGiIeIhw",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "white-peach-puree",
+    "_parent_id": null,
+    "name": "White Peach Puree",
+    "strength": 0,
+    "description": "A purée (or mash) is cooked food, usually vegetables, fruits or legumes, that has been ground, pressed, blended or sieved to the consistency of a creamy paste or liquid.",
+    "origin": null,
+    "color": null,
+    "category": null,
+    "created_at": "2022-11-28T17:31:41+00:00",
+    "updated_at": "2025-07-22T06:25:12+00:00",
+    "images": [
+        {
+            "uri": "file:///white-peach-puree-1.png",
+            "sort": 1,
+            "placeholder_hash": "oaqCFQRFe5BmuYe3qIlwdgh4B6iGiIeIhw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

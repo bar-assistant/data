@@ -1,27 +1,27 @@
 {
-  "_id": "root-beer_167",
-  "_parent_id": "beverages_945",
-  "name": "Root beer",
-  "strength": 0,
-  "description": "Root beer is a sweet North American soft drink traditionally made using the root bark of the sassafras tree Sassafras albidum or the vine of Smilax ornata (known as sarsaparilla, also used to make a soft drink, sarsaparilla) as the primary flavor. Root beer is typically, but not exclusively, non-alcoholic, caffeine-free, sweet, and carbonated. Like cola, it usually has a thick and foamy head. A well-known use is to add vanilla ice cream to make a root beer float.",
-  "origin": "North America",
-  "color": "#492f14",
-  "category": "Beverages",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///root-beer-1_o5Jttg.png",
-      "sort": 1,
-      "placeholder_hash": "lVmKDQI8SLaPdXhIdwqKpxBoCCiJiXeHiA",
-      "copyright": "A&W"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "root-beer",
+    "_parent_id": "beverages",
+    "name": "Root beer",
+    "strength": 0,
+    "description": "Root beer is a sweet North American soft drink traditionally made using the root bark of the sassafras tree Sassafras albidum or the vine of Smilax ornata (known as sarsaparilla, also used to make a soft drink, sarsaparilla) as the primary flavor. Root beer is typically, but not exclusively, non-alcoholic, caffeine-free, sweet, and carbonated. Like cola, it usually has a thick and foamy head. A well-known use is to add vanilla ice cream to make a root beer float.",
+    "origin": "North America",
+    "color": "#492f14",
+    "category": "Beverages",
+    "created_at": "2023-06-12T17:58:50+00:00",
+    "updated_at": "2023-11-04T18:18:47+00:00",
+    "images": [
+        {
+            "uri": "file:///root-beer-1.png",
+            "sort": 1,
+            "placeholder_hash": "lVmKDQI8SLaPdXhIdwqKpxBoCCiJiXeHiA",
+            "copyright": "A&W"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

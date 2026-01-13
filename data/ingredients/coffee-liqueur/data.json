@@ -1,27 +1,27 @@
 {
-  "_id": "coffee-liqueur_28",
-  "_parent_id": "liqueurs_939",
-  "name": "Coffee liqueur",
-  "strength": 20,
-  "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
-  "origin": "Mexico",
-  "color": "#1a0d0a",
-  "category": "Liqueurs",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///kahlua-coffee-liqueur.png",
-      "sort": 1,
-      "placeholder_hash": "31qGHQBXSPWAfoaqh3hwlwUXCId3eHd4dw",
-      "copyright": "Kahlua"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "coffee-liqueur",
+    "_parent_id": "liqueurs",
+    "name": "Coffee liqueur",
+    "strength": 20,
+    "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
+    "origin": "Mexico",
+    "color": "#1a0d0a",
+    "category": "Liqueurs",
+    "created_at": "2022-11-28T17:31:42+00:00",
+    "updated_at": "2025-11-22T17:40:20+00:00",
+    "images": [
+        {
+            "uri": "file:///coffee-liqueur-1.png",
+            "sort": 1,
+            "placeholder_hash": "31qGHQBXSPWAfoaqh3hwlwUXCId3eHd4dw",
+            "copyright": "Kahlua"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

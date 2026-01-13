@@ -1,0 +1,103 @@
+{
+    "_id": "highland-diver",
+    "name": "Highland Diver",
+    "instructions": "1. Shake all of the ingredients with ice, strain into a mug filled with crushed ice, then garnish.",
+    "created_at": "2025-08-15T17:29:06+00:00",
+    "updated_at": "2025-08-15T17:29:06+00:00",
+    "description": "If you thought Scotch whisky would be out of place at a luau, think again. “The Highland Diver brings scotch into a more refreshing, approachable context—something you can enjoy in warmer weather without losing the integrity of the spirit,” says Ryan Liloia, head bartender at Clover Club. The whisky’s smoky backbone plays well with the sweetness and acidity of pineapple and lemon, while the coconut and honey add body and richness to this take on the tropical classic Pearl Diver. “It’s layered, balanced, and proof that whisky can be bright and versatile.”",
+    "source": "https://imbibemagazine.com/recipe/highland-diver-tropical-whisky-cocktail/",
+    "garnish": "Fresh pineapple wedge and grated nutmeg",
+    "abv": 15.06,
+    "tags": [
+        "Tropical",
+        "Smokey",
+        "Fruity"
+    ],
+    "glass": "Tiki",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///highland-diver-1.webp",
+            "sort": 1,
+            "placeholder_hash": "cEkGHwLvVZiWhoiEd3mIhndsNWBnEdAJ",
+            "copyright": "Imbibe Magazine | John Valls"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "blended-scotch-whisky",
+            "name": "Blended Scotch Whisky",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "sort": 2,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cream-of-coconut",
+            "name": "Cream of Coconut",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "unsweetened",
+            "substitutes": []
+        },
+        {
+            "_id": "honey",
+            "name": "Honey",
+            "sort": 5,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cinnamon-syrup",
+            "name": "Cinnamon syrup",
+            "sort": 6,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

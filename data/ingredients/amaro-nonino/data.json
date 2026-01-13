@@ -1,27 +1,27 @@
 {
-  "_id": "amaro-nonino_43",
-  "_parent_id": "amaro_947",
-  "name": "Amaro Nonino",
-  "strength": 35,
-  "description": "Amaro Nonino is an Italian herbal liqueur produced by the Nonino family. It is known for its bittersweet and complex flavor profile, featuring herbs, spices, and citrus. Amaro Nonino is often enjoyed as a digestif and is recognized for its smoothness and balance. It is produced in Friuli, Italy, and has gained popularity both in Italy and internationally as a high-quality amaro.",
-  "origin": "Italy",
-  "color": "#c16e4b",
-  "category": "Apéritif > Amaro",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///amaro-nonino.png",
-      "sort": 1,
-      "placeholder_hash": "I1mGDQRISeaEeXv158iPg/toB3iGeHZodw",
-      "copyright": "Nonino"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "amaro-nonino",
+    "_parent_id": "amaro",
+    "name": "Amaro Nonino",
+    "strength": 35,
+    "description": "Amaro Nonino is an Italian herbal liqueur produced by the Nonino family. It is known for its bittersweet and complex flavor profile, featuring herbs, spices, and citrus. Amaro Nonino is often enjoyed as a digestif and is recognized for its smoothness and balance. It is produced in Friuli, Italy, and has gained popularity both in Italy and internationally as a high-quality amaro.",
+    "origin": "Italy",
+    "color": "#c16e4b",
+    "category": "Apéritif > Amaro",
+    "created_at": "2022-11-28T17:31:43+00:00",
+    "updated_at": "2024-08-02T18:29:30+00:00",
+    "images": [
+        {
+            "uri": "file:///amaro-nonino-1.png",
+            "sort": 1,
+            "placeholder_hash": "I1mGDQRISeaEeXv158iPg/toB3iGeHZodw",
+            "copyright": "Nonino"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

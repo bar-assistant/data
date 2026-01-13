@@ -1,52 +1,68 @@
 {
-  "_id": "simple-syrup_108",
-  "_parent_id": "syrups_942",
-  "name": "Simple Syrup",
-  "strength": 0,
-  "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
-  "origin": null,
-  "color": "#e6dfcc",
-  "category": "Syrups",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///simple-syrup.png",
-      "sort": 1,
-      "placeholder_hash": "shiGBQI8T0SeYnd654pAhweHCCiHd4d3eA",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [
-    {
-      "_id": "sugar_16",
-      "name": "Sugar",
-      "strength": 0,
-      "description": "White sugar",
-      "origin": null,
-      "category": "Sweeteners"
-    },
-    {
-      "_id": "water_67",
-      "name": "Water",
-      "strength": 0,
-      "description": "It's water.",
-      "origin": "Worldwide",
-      "category": "Beverages"
-    }
-  ],
-  "prices": [
-    {
-      "price_category_name": "Hrvatska",
-      "price": 200,
-      "currency": "EUR",
-      "amount": 1000,
-      "units": "ml"
-    }
-  ],
-  "calculator_id": "simple-syrup-1",
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "simple-syrup",
+    "_parent_id": "syrups",
+    "name": "Simple Syrup",
+    "strength": 0,
+    "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
+    "origin": null,
+    "color": "#e6dfcc",
+    "category": "Sweeteners > Syrups",
+    "created_at": "2022-11-28T17:31:45+00:00",
+    "updated_at": "2025-02-03T19:02:47+00:00",
+    "images": [
+        {
+            "uri": "file:///simple-syrup-1.png",
+            "sort": 1,
+            "placeholder_hash": "shiGBQI8T0SeYnd654pAhweHCCiHd4d3eA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [
+        {
+            "_id": "sugar",
+            "_parent_id": null,
+            "name": "Sugar",
+            "strength": 0,
+            "description": "White sugar",
+            "origin": null,
+            "color": null,
+            "category": null,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "ingredient_parts": [],
+            "prices": [],
+            "calculator_id": null,
+            "sugar_g_per_ml": null,
+            "acidity": null,
+            "distillery": null,
+            "units": null
+        },
+        {
+            "_id": "water",
+            "_parent_id": null,
+            "name": "Water",
+            "strength": 0,
+            "description": "It's water.",
+            "origin": "Worldwide",
+            "color": "#fff",
+            "category": null,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "ingredient_parts": [],
+            "prices": [],
+            "calculator_id": null,
+            "sugar_g_per_ml": null,
+            "acidity": null,
+            "distillery": null,
+            "units": null
+        }
+    ],
+    "prices": [],
+    "calculator_id": "simple-syrup-273",
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

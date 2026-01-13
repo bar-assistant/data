@@ -1,27 +1,27 @@
 {
-  "_id": "gentian-liqueur_1167",
-  "_parent_id": "liqueurs_939",
-  "name": "Gentian Liqueur",
-  "strength": 0,
-  "description": "Gentian root is a common beverage flavouring for bitters. The soft drink Moxie contains gentian root. The French apéritif Suze is made with gentian. Americano apéritifs contain gentian root for bitter flavoring. It is an ingredient in the Italian liqueur Aperol. It is also used as the main flavor in the German after-dinner digestif called Underberg, and the main ingredient in Angostura bitters and Peychaud's Bitters.",
-  "origin": null,
-  "color": null,
-  "category": "Liqueurs",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///gentian-liqueur-1_bqsLig.webp",
-      "sort": 1,
-      "placeholder_hash": "5AeGBQAmSOiFeYL6eHiScNj2BxhyiXGZaA",
-      "copyright": "AI Generated"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "gentian-liqueur",
+    "_parent_id": "liqueurs",
+    "name": "Gentian Liqueur",
+    "strength": 0,
+    "description": "Gentian root is a common beverage flavouring for bitters. The soft drink Moxie contains gentian root. The French apéritif Suze is made with gentian. Americano apéritifs contain gentian root for bitter flavoring. It is an ingredient in the Italian liqueur Aperol. It is also used as the main flavor in the German after-dinner digestif called Underberg, and the main ingredient in Angostura bitters and Peychaud's Bitters.",
+    "origin": null,
+    "color": null,
+    "category": "Liqueurs",
+    "created_at": "2025-03-23T16:17:51+00:00",
+    "updated_at": "2025-07-21T16:01:18+00:00",
+    "images": [
+        {
+            "uri": "file:///gentian-liqueur-1.webp",
+            "sort": 1,
+            "placeholder_hash": "5AeGBQAmSOiFeYL6eHiScNj2BxhyiXGZaA",
+            "copyright": "AI Generated"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

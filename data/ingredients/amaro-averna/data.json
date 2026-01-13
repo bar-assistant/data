@@ -1,27 +1,27 @@
 {
-  "_id": "amaro-averna_126",
-  "_parent_id": "amaro_947",
-  "name": "Amaro Averna",
-  "strength": 29,
-  "description": "Amaro Averna is the most popular cocktail amaro in the amber, bittersweet style that makes up much of the “common” amari stocked on shelves. Because of this, Averna is often one of the easiest bottles to procure, and may be used as a substitute in a pinch for other harder to find styles like Montenegro, Ramazzotti, and Ciociaro. Most folks will tell you that “each amaro is different” and effectively—yes—this is true, but many amari will substitute for one-another just fine, with the understanding that the drink will be subtly different.",
-  "origin": "Italy",
-  "color": "#603724",
-  "category": "Apéritif > Amaro",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///amaro-averna.png",
-      "sort": 1,
-      "placeholder_hash": "5FmKHQQPNQh5d4iIdwWSZfKXBwd6eoiIdw",
-      "copyright": "Averna"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "amaro-averna",
+    "_parent_id": "amaro",
+    "name": "Amaro Averna",
+    "strength": 29,
+    "description": "Amaro Averna is the most popular cocktail amaro in the amber, bittersweet style that makes up much of the “common” amari stocked on shelves. Because of this, Averna is often one of the easiest bottles to procure, and may be used as a substitute in a pinch for other harder to find styles like Montenegro, Ramazzotti, and Ciociaro. Most folks will tell you that “each amaro is different” and effectively—yes—this is true, but many amari will substitute for one-another just fine, with the understanding that the drink will be subtly different.",
+    "origin": "Italy",
+    "color": "#603724",
+    "category": "Apéritif > Amaro",
+    "created_at": "2022-11-30T21:18:47+00:00",
+    "updated_at": "2023-11-04T13:28:23+00:00",
+    "images": [
+        {
+            "uri": "file:///amaro-averna-1.png",
+            "sort": 1,
+            "placeholder_hash": "5FmKHQQPNQh5d4iIdwWSZfKXBwd6eoiIdw",
+            "copyright": "Averna"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

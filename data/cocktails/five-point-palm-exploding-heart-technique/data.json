@@ -1,0 +1,79 @@
+{
+    "_id": "five-point-palm-exploding-heart-technique",
+    "name": "Five Point Palm Exploding Heart Technique",
+    "instructions": "1. In a mixing glass, combine the ingredients\n2. Stir until chilled\n3. Strain over ice into a rocks glass",
+    "created_at": "2025-07-25T16:03:10+00:00",
+    "updated_at": "2025-07-25T16:03:10+00:00",
+    "description": "This smoky, bittersweet cocktail combines mezcal’s earthy intensity with the bitter depth of Punt e Mes and the richness of coffee liqueur. Chocolate bitters tie everything together with a roasty, slightly bitter finish. A brooding, complex drink with martial-arts-level impact—sip slowly and with respect.\n\nCreated by Erick Castro",
+    "source": "https://www.reddit.com/r/cocktails/comments/1m90u9t/five_point_palm_exploding_heart_technique/",
+    "garnish": null,
+    "abv": 29.39,
+    "tags": [
+        "Smokey",
+        "Bitter",
+        "Coffee"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///five-point-palm-exploding-heart-technique-1.webp",
+            "sort": 1,
+            "placeholder_hash": "oygKHwT1d4eGeHl8d3d4h1d5lwNXOHAG",
+            "copyright": "Reddit"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "punt-e-mes",
+            "name": "Punt e Mes",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-cocoa-bitters",
+            "name": "Angostura cocoa bitters",
+            "sort": 4,
+            "amount": 2,
+            "units": "dashes",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

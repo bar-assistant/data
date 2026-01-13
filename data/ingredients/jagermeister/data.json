@@ -1,27 +1,27 @@
 {
-  "_id": "jagermeister_158",
-  "_parent_id": "amaro_947",
-  "name": "Jägermeister",
-  "strength": 35,
-  "description": "Jägermeister is a German herbal liqueur made with a blend of 56 different herbs, fruits, roots, and spices. It is known for its unique and complex flavor profile, with herbal, spicy, and citrus notes. Jägermeister is often consumed as a digestif or in various cocktails, and it is recognized by its distinctive green bottle and iconic logo featuring a stag.",
-  "origin": "Germany",
-  "color": "#341f08",
-  "category": "Apéritif > Amaro",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///jagermeister.jpg",
-      "sort": 1,
-      "placeholder_hash": "2wiGDQBFWPVzjXPrGFh3cAM3CKd2iHZ4dw",
-      "copyright": "Jägermeister"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "jagermeister",
+    "_parent_id": "amaro",
+    "name": "Jägermeister",
+    "strength": 35,
+    "description": "Jägermeister is a German herbal liqueur made with a blend of 56 different herbs, fruits, roots, and spices. It is known for its unique and complex flavor profile, with herbal, spicy, and citrus notes. Jägermeister is often consumed as a digestif or in various cocktails, and it is recognized by its distinctive green bottle and iconic logo featuring a stag.",
+    "origin": "Germany",
+    "color": "#341f08",
+    "category": "Apéritif > Amaro",
+    "created_at": "2023-03-01T12:52:37+00:00",
+    "updated_at": "2023-11-04T18:02:41+00:00",
+    "images": [
+        {
+            "uri": "file:///jagermeister-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "2wiGDQBFWPVzjXPrGFh3cAM3CKd2iHZ4dw",
+            "copyright": "Jägermeister"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

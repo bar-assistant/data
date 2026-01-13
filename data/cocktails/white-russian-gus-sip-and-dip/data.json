@@ -1,0 +1,90 @@
+{
+    "_id": "white-russian-gus-sip-and-dip",
+    "name": "White Russian (Gus’ Sip and Dip)",
+    "instructions": "1. Put a glass in the freezer for at least 30 minutes before preparing the cocktail. Combine the vodka, coffee liqueur, coffee, and vanilla syrup with ice and shake to chill, then set aside.\n2. Fill the chilled glass with large ice cubes. Add the foam cream to the bottom of the glass over ice, filling a 1/3 of the glass. Carefully pour the prepared cocktail base over the foam cream for a rich, layered presentation.\n3. Foam CreamCombine 8 parts of heavy cream with 1 part of simple syrup (1:1)  in a shaker. Shake until thickened but still pourable.",
+    "created_at": "2025-11-22T16:35:32+00:00",
+    "updated_at": "2025-11-22T16:35:32+00:00",
+    "description": "Fans of the White Russian will love this richer, creamier take on the classic coffee cocktail. Partner Kevin Beary and Bar Manager Scott Kitsmiller of Gus' Sip and Dip in Chicago back up the traditional coffee liqueur with cold-brew coffee and vanilla syrup for balanced depth. And instead of a straight dose of heavy cream, it's shaken with simple syrup to up the decadence even more.",
+    "source": "https://imbibemagazine.com/recipe/white-russian-cocktail-gus-sip-and-dip/",
+    "garnish": null,
+    "abv": 21.82,
+    "tags": [
+        "Coffee",
+        "Dessert"
+    ],
+    "glass": null,
+    "method": "Layer",
+    "utensils": [],
+    "parent_cocktail_id": "white-russian",
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///white-russian-gus-sip-and-dip-1.webp",
+            "sort": 1,
+            "placeholder_hash": "0igKFwQBbHqDeGiUamiZZ5hoagOGZ3AJ",
+            "copyright": "Imbibe Magazine | Lindsay Eberly"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "vodka",
+            "name": "Vodka",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cold-brew-coffee",
+            "name": "Cold brew coffee",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "medium to dark roast",
+            "substitutes": []
+        },
+        {
+            "_id": "vanilla-syrup",
+            "name": "Vanilla syrup",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cream",
+            "name": "Cream",
+            "sort": 5,
+            "amount": 1,
+            "units": "whole",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Foam cream",
+            "substitutes": []
+        }
+    ]
+}

@@ -1,27 +1,27 @@
 {
-  "_id": "lemon_2",
-  "_parent_id": "fruits-and-vegetables_941",
-  "name": "Lemon",
-  "strength": 0,
-  "description": "Lemon is a citrus fruit known for its bright yellow color and tart flavor.",
-  "origin": null,
-  "color": "#fdf26f",
-  "category": "Fruits and vegetables",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///lemon.png",
-      "sort": 1,
-      "placeholder_hash": "pyyCDQI3VaGlXZK69fLeoQgdKFd2h4CZZw",
-      "copyright": "CC License"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "wedges"
+    "_id": "lemon",
+    "_parent_id": "fruits-and-vegetables",
+    "name": "Lemon",
+    "strength": 0,
+    "description": "Lemon is a citrus fruit known for its bright yellow color and tart flavor.",
+    "origin": null,
+    "color": "#fdf26f",
+    "category": "Fruits and vegetables",
+    "created_at": "2022-11-28T17:31:41+00:00",
+    "updated_at": "2023-11-04T18:04:25+00:00",
+    "images": [
+        {
+            "uri": "file:///lemon-1.png",
+            "sort": 1,
+            "placeholder_hash": "pyyCDQI3VaGlXZK69fLeoQgdKFd2h4CZZw",
+            "copyright": "CC License"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "wedges"
 }

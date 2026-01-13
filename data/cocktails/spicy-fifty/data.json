@@ -1,110 +1,90 @@
 {
-  "_id": "spicy-fifty_75",
-  "name": "Spicy Fifty",
-  "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
-  "created_at": null,
-  "updated_at": null,
-  "description": null,
-  "source": "https://iba-world.com/spicy-fifty/",
-  "garnish": "Garnish with a red chilli pepper",
-  "abv": 20.44,
-  "tags": [
-    "IBA Cocktail",
-    "New Era Drinks"
-  ],
-  "glass": "Cocktail",
-  "method": "Shake",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///spicy-fifty.jpg",
-      "sort": 1,
-      "placeholder_hash": "ThgODwIFeYluhJeFeRepR5iHaPEGOI8G",
-      "copyright": "MixolopediA"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "vodka_78",
-      "name": "Vodka",
-      "strength": 40,
-      "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
-      "origin": "Russia",
-      "category": "Spirits",
-      "amount": 50,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "st-germain_52",
-      "name": "St-Germain",
-      "strength": 20,
-      "description": "St-Germain is an elderflower liqueur It is made using the petals of Sambucus nigra from the Savoie region in France, and each bottle is numbered with the year the petals were collected. Petals are collected annually in the spring over a period of three to four weeks, and are often transported by bicycle to collection points to avoid damaging the petals and impacting the flavour.",
-      "origin": "France",
-      "category": "Liqueurs",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "lime-juice_59",
-      "name": "Lime juice",
-      "strength": 0,
-      "description": "Freshly squeezed lime juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "honey-syrup_110",
-      "name": "Honey Syrup",
-      "strength": 0,
-      "description": "Syrup made from dissolving honey in water.",
-      "origin": "Worldwide",
-      "category": "Simple Syrup",
-      "amount": 10,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    },
-    {
-      "_id": "chilli-pepper_9",
-      "name": "Chilli Pepper",
-      "strength": 0,
-      "description": "Chili peppers are known for their pungent and spicy flavor, attributed to the compound capsaicin. They come in various shapes, sizes, and colors, ranging from mild to extremely hot varieties.",
-      "origin": null,
-      "category": "Fruits and vegetables",
-      "amount": 2,
-      "units": "slices",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 5
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "spicy-fifty",
+    "name": "Spicy Fifty",
+    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
+    "created_at": "2022-11-28T17:31:55+00:00",
+    "updated_at": "2025-03-30T15:58:11+00:00",
+    "description": null,
+    "source": "https://iba-world.com/spicy-fifty/",
+    "garnish": "Garnish with a red chilli pepper",
+    "abv": 20.44,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks"
+    ],
+    "glass": "Cocktail",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///spicy-fifty-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "ThgODwIFeYluhJeFeRepR5iHaPEGOI8G",
+            "copyright": "MixolopediA"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "vodka",
+            "name": "Vodka",
+            "sort": 1,
+            "amount": 50,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "st-germain",
+            "name": "St-Germain",
+            "sort": 2,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "sort": 4,
+            "amount": 10,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "chilli-pepper",
+            "name": "Chilli Pepper",
+            "sort": 5,
+            "amount": 2,
+            "units": "slices",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

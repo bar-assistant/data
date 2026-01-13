@@ -1,27 +1,27 @@
 {
-  "_id": "vodka_78",
-  "_parent_id": "spirits_938",
-  "name": "Vodka",
-  "strength": 40,
-  "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
-  "origin": "Russia",
-  "color": "#ffffff",
-  "category": "Spirits",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///vodka.png",
-      "sort": 1,
-      "placeholder_hash": "ceeJHQIPvIp2iH/0mNdyfy73Bwd3d3VlaA",
-      "copyright": "Absolut"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "vodka",
+    "_parent_id": "spirits",
+    "name": "Vodka",
+    "strength": 40,
+    "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
+    "origin": "Russia",
+    "color": "#ffffff",
+    "category": "Spirits",
+    "created_at": "2022-11-28T17:31:44+00:00",
+    "updated_at": "2025-11-19T21:03:38+00:00",
+    "images": [
+        {
+            "uri": "file:///vodka-1.png",
+            "sort": 1,
+            "placeholder_hash": "ceeJHQIPvIp2iH/0mNdyfy73Bwd3d3VlaA",
+            "copyright": "Absolut"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

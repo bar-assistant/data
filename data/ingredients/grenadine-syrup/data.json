@@ -1,27 +1,27 @@
 {
-  "_id": "grenadine-syrup_112",
-  "_parent_id": "syrups_942",
-  "name": "Grenadine Syrup",
-  "strength": 0,
-  "description": "Fruit syrup made from pomegranates.",
-  "origin": "Worldwide",
-  "color": "#bb0014",
-  "category": "Syrups",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///grenadine-syrup.png",
-      "sort": 1,
-      "placeholder_hash": "YjiWDQQ8iHiAenioh5yfqviJCCiHd4d3eA",
-      "copyright": "Monin"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "grenadine-syrup",
+    "_parent_id": "syrups",
+    "name": "Grenadine Syrup",
+    "strength": 0,
+    "description": "Fruit syrup made from pomegranates.",
+    "origin": "Worldwide",
+    "color": "#bb0014",
+    "category": "Sweeteners > Syrups",
+    "created_at": "2022-11-28T17:31:46+00:00",
+    "updated_at": "2023-11-04T18:00:07+00:00",
+    "images": [
+        {
+            "uri": "file:///grenadine-syrup-1.png",
+            "sort": 1,
+            "placeholder_hash": "YjiWDQQ8iHiAenioh5yfqviJCCiHd4d3eA",
+            "copyright": "Monin"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

@@ -1,27 +1,27 @@
 {
-  "_id": "overproof-rum_102",
-  "_parent_id": "rum_954",
-  "name": "Overproof Rum",
-  "strength": 50,
-  "description": "Rum much higher than the standard 40% ABV (80 proof), with many as high as 75% (150 proof) to 80% (160 proof) available.",
-  "origin": "Caribbean",
-  "color": "#5d201a",
-  "category": "Spirits > Sugarcane-based spirits > Rum",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///overproof-rum.png",
-      "sort": 1,
-      "placeholder_hash": "0ViCBQAzd6h4h47CCHSATQe4CNd2iYeIhw",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "overproof-rum",
+    "_parent_id": "rum",
+    "name": "Overproof Rum",
+    "strength": 50,
+    "description": "Rum much higher than the standard 40% ABV (80 proof), with many as high as 75% (150 proof) to 80% (160 proof) available.",
+    "origin": "Caribbean",
+    "color": "#5d201a",
+    "category": "Spirits > Sugarcane-based spirits > Rum",
+    "created_at": "2022-11-28T17:31:45+00:00",
+    "updated_at": "2025-03-09T20:49:14+00:00",
+    "images": [
+        {
+            "uri": "file:///overproof-rum-1.png",
+            "sort": 1,
+            "placeholder_hash": "0ViCBQAzd6h4h47CCHSATQe4CNd2iYeIhw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

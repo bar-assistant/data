@@ -1,107 +1,87 @@
 {
-  "_id": "old-fashioned_57",
-  "name": "Old Fashioned",
-  "instructions": "1. Add syrup and bitters to a glass\n2. Swirl syrup and bitters\n3. Fill the glass with ice cubes and add whiskey\n4. Stir gently",
-  "created_at": null,
-  "updated_at": null,
-  "description": "Developed during the 19th century and given its name in the 1880s, it is an IBA Official Cocktail. It is also one of six basic drinks listed in David A. Embury's The Fine Art of Mixing Drinks.\n\nOld-Fashioned is as traditional as they come. A simple mix of spirits, sugar, bitters and water, it appears in 1806 as the first printed recipe for a cocktail (“cock tail”). Other alcohols were permitted, but the whiskey or rye version of this combination, over ice, is what we now know as the Old Fashioned, thought to be named later that century after more elaborate new-fangled cocktails entered the canon. During Prohibition, the recipe veered into odd territory, adding fruit and cherries to distract from the available crude spirits. After repeal, it was the imposter version that stuck until the recent cocktail revival brought the original recipe back from the brink of extinction.",
-  "source": "https://iba-world.com/old-fashioned/",
-  "garnish": "Garnish with an orange slice or zest, and a cocktail cherry.",
-  "abv": 33.57,
-  "tags": [
-    "IBA Cocktail",
-    "The Unforgettables",
-    "Old Fashioned"
-  ],
-  "glass": "Lowball",
-  "method": "Build",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///old-fashioned.jpg",
-      "sort": 1,
-      "placeholder_hash": "bzkGJwbxeBWfd2ZecmibZphotlEIGoUA",
-      "copyright": "Epicurious"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "bourbon-whiskey_82",
-      "name": "Bourbon Whiskey",
-      "strength": 40,
-      "description": "A type of American whiskey, primarily made from corn and aged in new charred oak barrels. Bourbon has a sweet and full-bodied flavor profile.\n\nTo be labeled as bourbon, a whiskey must meet the following criteria:\n\n1. Grain Mash Composition: Bourbon must be made from a grain mash that is at least 51% corn. The remaining portion of the mash can include other grains such as barley, rye, and wheat.\n\n2. Distillation: Bourbon must be distilled to no more than 160 proof (80% alcohol by volume) and entered into the barrel for aging at no more than 125 proof (62.5% alcohol by volume).\n\n3. Barrel Aging: Bourbon must be aged in new charred oak barrels. There is no minimum aging requirement for bourbon, but to be labeled as \"straight bourbon,\" it must be aged for at least two years.\n\n4. No Additives: Bourbon must not contain any additives except water to adjust the proof.\n\n5. Bottling Strength: Bourbon must be bottled at a minimum of 80 proof (40% alcohol by volume).\n\n6. Geographic Origin: While bourbon can be produced anywhere in the United States, it is strongly associated with Kentucky, and many consider Kentucky bourbon to be a distinctive category.",
-      "origin": "North America",
-      "category": "Whiskey",
-      "amount": 60,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "simple-syrup_108",
-      "name": "Simple Syrup",
-      "strength": 0,
-      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
-      "origin": null,
-      "category": "Syrups",
-      "amount": 1,
-      "units": "barspoon",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [
+    "_id": "old-fashioned",
+    "name": "Old Fashioned",
+    "instructions": "1. Add syrup and bitters to a glass\n2. Swirl syrup and bitters\n3. Fill the glass with ice cubes and add whiskey\n4. Stir gently",
+    "created_at": "2022-11-28T17:31:54+00:00",
+    "updated_at": "2025-06-25T14:28:32+00:00",
+    "description": "Developed during the 19th century and given its name in the 1880s, it is an IBA Official Cocktail. It is also one of six basic drinks listed in David A. Embury's The Fine Art of Mixing Drinks.\n\nOld-Fashioned is as traditional as they come. A simple mix of spirits, sugar, bitters and water, it appears in 1806 as the first printed recipe for a cocktail (“cock tail”). Other alcohols were permitted, but the whiskey or rye version of this combination, over ice, is what we now know as the Old Fashioned, thought to be named later that century after more elaborate new-fangled cocktails entered the canon. During Prohibition, the recipe veered into odd territory, adding fruit and cherries to distract from the available crude spirits. After repeal, it was the imposter version that stuck until the recent cocktail revival brought the original recipe back from the brink of extinction.",
+    "source": "https://iba-world.com/old-fashioned/",
+    "garnish": "Garnish with an orange slice or zest, and a cocktail cherry.",
+    "abv": 33.57,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables",
+        "Old Fashioned"
+    ],
+    "glass": "Lowball",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
         {
-          "_id": "sugar_16",
-          "name": "Sugar",
-          "strength": 0,
-          "description": "White sugar",
-          "origin": null,
-          "category": "Sweeteners",
-          "amount": null,
-          "units": null,
-          "amount_max": null
+            "uri": "file:///old-fashioned-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "bzkGJwbxeBWfd2ZecmibZphotlEIGoUA",
+            "copyright": "Epicurious"
         }
-      ],
-      "sort": 2
-    },
-    {
-      "_id": "angostura-aromatic-bitters_22",
-      "name": "Angostura aromatic bitters",
-      "strength": 44.7,
-      "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
-      "origin": "Trinidad & Tobago",
-      "category": "Bitters",
-      "amount": 2,
-      "units": "dashes",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "orange-bitters_21",
-      "name": "Orange bitters",
-      "strength": 28,
-      "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
-      "origin": "Worldwide",
-      "category": "Bitters",
-      "amount": 1,
-      "units": "dashes",
-      "optional": true,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    ],
+    "ingredients": [
+        {
+            "_id": "bourbon-whiskey",
+            "name": "Bourbon Whiskey",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 2,
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "sugar",
+                    "name": "Sugar",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ]
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 3,
+            "amount": 2,
+            "units": "dashes",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 4,
+            "amount": 1,
+            "units": "dashes",
+            "optional": true,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

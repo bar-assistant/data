@@ -1,77 +1,65 @@
 {
-  "_id": "alaska_103",
-  "name": "Alaska",
-  "instructions": "1. Combine all ingredients with ice in a mixing glass and stir at length, until the sides of the glass are frosty\n2. Strain into a cocktail glass and serve up",
-  "created_at": null,
-  "updated_at": null,
-  "description": "One of the great Chartreuse cocktails and a fundamental three-ingredient recipe",
-  "source": "https://tuxedono2.com/alaska-cocktail-recipe",
-  "garnish": "",
-  "abv": 33.28,
-  "tags": [
-    "Herbacious"
-  ],
-  "glass": "Nick and Nora",
-  "method": "Stir",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///alaska.jpg",
-      "sort": 1,
-      "placeholder_hash": "2DgaFwZnh4eAh3iJiGeXZ4eJd2QIh5YA",
-      "copyright": "Punch"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "gin_75",
-      "name": "Gin",
-      "strength": 40,
-      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
-      "origin": "Worldwide",
-      "category": "Spirits",
-      "amount": 45,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "yellow-chartreuse_42",
-      "name": "Yellow Chartreuse",
-      "strength": 40,
-      "description": "Yellow Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is a milder and slightly sweeter version of Green Chartreuse, another famous liqueur produced by the same monks. Yellow Chartreuse is characterized by its yellow color and a complex flavor profile derived from a secret blend of 130 herbs and botanicals. It has a sweet and honeyed taste with herbal, floral, and spicy notes.",
-      "origin": "France",
-      "category": "Liqueurs",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "orange-bitters_21",
-      "name": "Orange bitters",
-      "strength": 28,
-      "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
-      "origin": "Worldwide",
-      "category": "Bitters",
-      "amount": 1,
-      "units": "dash",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "alaska",
+    "name": "Alaska",
+    "instructions": "1. Combine all ingredients with ice in a mixing glass and stir at length, until the sides of the glass are frosty\n2. Strain into a cocktail glass and serve up",
+    "created_at": "2022-11-28T17:31:57+00:00",
+    "updated_at": "2025-03-30T15:58:11+00:00",
+    "description": "One of the great Chartreuse cocktails and a fundamental three-ingredient recipe",
+    "source": "https://tuxedono2.com/alaska-cocktail-recipe",
+    "garnish": "",
+    "abv": 33.28,
+    "tags": [
+        "Herbacious"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///alaska-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "2DgaFwZnh4eAh3iJiGeXZ4eJd2QIh5YA",
+            "copyright": "Punch"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "yellow-chartreuse",
+            "name": "Yellow Chartreuse",
+            "sort": 2,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 3,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

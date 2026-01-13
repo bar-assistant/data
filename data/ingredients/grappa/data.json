@@ -1,27 +1,27 @@
 {
-  "_id": "grappa_106",
-  "_parent_id": "fruit-brandy_953",
-  "name": "Grappa",
-  "strength": 50,
-  "description": "Grappa is an Italian grape-based pomace brandy. It is made by distilling the residue (skins, pulp, seeds, and stems) left after pressing grapes during the winemaking process. Grappa is known for its strong and distinct flavor, which can vary depending on the grape varieties used. It is often consumed as a digestif and is enjoyed for its robust character. Grappa is produced in various regions of Italy and has a long history as a traditional Italian spirit.",
-  "origin": "Italy",
-  "color": "#ffffff",
-  "category": "Spirits > Brandy > Fruit brandy",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///grappa.png",
-      "sort": 1,
-      "placeholder_hash": "LgiCBQAiilB3qGE9mXWCYGgICOd2iXaJeA",
-      "copyright": "Negroni Antica"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "grappa",
+    "_parent_id": "fruit-brandy",
+    "name": "Grappa",
+    "strength": 50,
+    "description": "Grappa is an Italian grape-based pomace brandy. It is made by distilling the residue (skins, pulp, seeds, and stems) left after pressing grapes during the winemaking process. Grappa is known for its strong and distinct flavor, which can vary depending on the grape varieties used. It is often consumed as a digestif and is enjoyed for its robust character. Grappa is produced in various regions of Italy and has a long history as a traditional Italian spirit.",
+    "origin": "Italy",
+    "color": "#ffffff",
+    "category": "Spirits > Brandy > Fruit brandy",
+    "created_at": "2022-11-28T17:31:45+00:00",
+    "updated_at": "2025-03-09T16:01:42+00:00",
+    "images": [
+        {
+            "uri": "file:///grappa-1.png",
+            "sort": 1,
+            "placeholder_hash": "LgiCBQAiilB3qGE9mXWCYGgICOd2iXaJeA",
+            "copyright": "Negroni Antica"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

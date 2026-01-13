@@ -1,35 +1,27 @@
 {
-  "_id": "fernet-branca_50",
-  "_parent_id": "amaro_947",
-  "name": "Fernet Branca",
-  "strength": 39,
-  "description": "Fernet Branca is a bittersweet, herbal liqueur made with a number of different herbs and spices, including myrrh, rhubarb, chamomile, cardamom, aloe, and gentian root.",
-  "origin": "Italy",
-  "color": "#471a0c",
-  "category": "Apéritif > Amaro",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///fernet-branca.png",
-      "sort": 1,
-      "placeholder_hash": "EQiOFQIeN5iAfIe4h1eAexj4CAiHh3d3dw",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [
-    {
-      "price_category_name": "Hrvatska",
-      "price": 2400,
-      "currency": "EUR",
-      "amount": 1000,
-      "units": "ml"
-    }
-  ],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "fernet-branca",
+    "_parent_id": "amaro",
+    "name": "Fernet Branca",
+    "strength": 39,
+    "description": "Fernet Branca is a bittersweet, herbal liqueur made with a number of different herbs and spices, including myrrh, rhubarb, chamomile, cardamom, aloe, and gentian root.",
+    "origin": "Italy",
+    "color": "#471a0c",
+    "category": "Apéritif > Amaro",
+    "created_at": "2022-11-28T17:31:43+00:00",
+    "updated_at": "2025-03-23T18:29:17+00:00",
+    "images": [
+        {
+            "uri": "file:///fernet-branca-1.png",
+            "sort": 1,
+            "placeholder_hash": "EQiOFQIeN5iAfIe4h1eAexj4CAiHh3d3dw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

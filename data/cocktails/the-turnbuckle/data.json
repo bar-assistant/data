@@ -1,121 +1,97 @@
 {
-  "_id": "the-turnbuckle_234",
-  "name": "The Turnbuckle",
-  "instructions": "1. Combine all the ingredients in a mixing tin filled with crushed ice and shake until chilled.\n2. Pour contents of shaker into a double Old-Fashioned glass or tropical tiki glass.\n3. Garnish with an orchid and a mint bouquet.",
-  "created_at": null,
-  "updated_at": null,
-  "description": "Bartender Jen Akin adds bitter Cynar amaro to her tiki-style cocktail, built on Jamaican rum, for added depth.",
-  "source": "https://punchdrink.com/recipes/the-turnbuckle/",
-  "garnish": "Orchid and a mint bouquet",
-  "abv": 11.45,
-  "tags": [
-    "Tiki"
-  ],
-  "glass": "Lowball",
-  "method": "Shake",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///the-turnbuckle_XZcY73.jpg",
-      "sort": 1,
-      "placeholder_hash": "qBgOHwamb3jDdIWWd7doiGd49yEkTnMA",
-      "copyright": "Punch |  Lizzie Munro"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "cynar_143",
-      "name": "Cynar",
-      "strength": 16.5,
-      "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
-      "origin": "Italy",
-      "category": "Amaro",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "jamaican-rum_100",
-      "name": "Jamaican Rum",
-      "strength": 40,
-      "description": "Jamaican rum refers to rum produced in Jamaica, a Caribbean island known for its rich history of rum production. Jamaican rum is renowned for its bold and distinctive flavor profile, often characterized by robust and complex notes.\n\nJamaican rum has a strong cultural and historical significance, and the island is home to several well-known distilleries, each with its unique approach to rum production. Brands such as Appleton Estate and Wray & Nephew are examples of Jamaican rums that have gained international acclaim.",
-      "origin": "Jamaica",
-      "category": "Rum",
-      "amount": 22.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [
+    "_id": "the-turnbuckle",
+    "name": "The Turnbuckle",
+    "instructions": "1. Combine all the ingredients in a mixing tin filled with crushed ice and shake until chilled.\n2. Pour contents of shaker into a double Old-Fashioned glass or tropical tiki glass.\n3. Garnish with an orchid and a mint bouquet.",
+    "created_at": "2023-07-10T19:19:46+00:00",
+    "updated_at": "2023-09-29T10:04:11+00:00",
+    "description": "Bartender Jen Akin adds bitter Cynar amaro to her tiki-style cocktail, built on Jamaican rum, for added depth.",
+    "source": "https://punchdrink.com/recipes/the-turnbuckle/",
+    "garnish": "Orchid and a mint bouquet",
+    "abv": 11.45,
+    "tags": [
+        "Tiki"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
         {
-          "_id": "dark-rum_99",
-          "name": "Dark Rum",
-          "strength": 40,
-          "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
-          "origin": "Caribbean",
-          "category": "Rum",
-          "amount": null,
-          "units": null,
-          "amount_max": null
+            "uri": "file:///the-turnbuckle-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "qBgOHwamb3jDdIWWd7doiGd49yEkTnMA",
+            "copyright": "Punch |  Lizzie Munro"
         }
-      ],
-      "sort": 2
-    },
-    {
-      "_id": "lemon-juice_58",
-      "name": "Lemon juice",
-      "strength": 0,
-      "description": "Freshly squeezed lemon juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 22.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "passionfruit-syrup_173",
-      "name": "Passionfruit syrup",
-      "strength": 0,
-      "description": "Passionfruit syrup is trickier to make and sometimes requires more obscure ingredients. This makes it one of the only flavored syrups worth buying over the counter.",
-      "origin": "Worldwide",
-      "category": "Syrups",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    },
-    {
-      "_id": "orgeat-syrup_109",
-      "name": "Orgeat Syrup",
-      "strength": 0,
-      "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
-      "origin": null,
-      "category": "Simple Syrup",
-      "amount": 7.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 5
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    ],
+    "ingredients": [
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "sort": 1,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "jamaican-rum",
+            "name": "Jamaican Rum",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "dark-rum",
+                    "name": "Dark Rum",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ]
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 3,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "passionfruit-syrup",
+            "name": "Passionfruit syrup",
+            "sort": 4,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orgeat-syrup",
+            "name": "Orgeat Syrup",
+            "sort": 5,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

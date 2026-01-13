@@ -1,27 +1,27 @@
 {
-  "_id": "apricot-brandy_89",
-  "_parent_id": "fruit-brandy_953",
-  "name": "Apricot Brandy",
-  "strength": 40,
-  "description": "Apricot brandy is a fruit-flavored liqueur made by infusing apricots in brandy or by distilling apricot fruit. The result is a sweet and flavorful spirit with the essence of apricots. Apricot brandy is commonly used in cocktails, adding a fruity and aromatic dimension to mixed drinks. It can vary in sweetness and intensity of apricot flavor depending on the production methods and the brand. Apricot brandy is versatile and can be enjoyed on its own, in cocktails, or as an ingredient in both sweet and savory culinary applications.",
-  "origin": "Worldwide",
-  "color": "#ca5210",
-  "category": "Spirits > Brandy > Fruit brandy",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///apricot-brandy-1_eH4W9v.png",
-      "sort": 1,
-      "placeholder_hash": "ZZqGDQIzeJeIeH9hSHd5gHcHB9iFeYeIdw",
-      "copyright": "Liquori gusto"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "apricot-brandy",
+    "_parent_id": "fruit-brandy",
+    "name": "Apricot Brandy",
+    "strength": 40,
+    "description": "Apricot brandy is a fruit-flavored liqueur made by infusing apricots in brandy or by distilling apricot fruit. The result is a sweet and flavorful spirit with the essence of apricots. Apricot brandy is commonly used in cocktails, adding a fruity and aromatic dimension to mixed drinks. It can vary in sweetness and intensity of apricot flavor depending on the production methods and the brand. Apricot brandy is versatile and can be enjoyed on its own, in cocktails, or as an ingredient in both sweet and savory culinary applications.",
+    "origin": "Worldwide",
+    "color": "#ca5210",
+    "category": "Spirits > Brandy > Fruit brandy",
+    "created_at": "2022-11-28T17:31:45+00:00",
+    "updated_at": "2025-03-09T20:44:42+00:00",
+    "images": [
+        {
+            "uri": "file:///apricot-brandy-1.png",
+            "sort": 1,
+            "placeholder_hash": "ZZqGDQIzeJeIeH9hSHd5gHcHB9iFeYeIdw",
+            "copyright": "Liquori gusto"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

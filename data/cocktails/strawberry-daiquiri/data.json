@@ -1,109 +1,89 @@
 {
-  "_id": "strawberry-daiquiri_190",
-  "name": "Strawberry Daiquiri",
-  "instructions": "1. Use a muddler to crush 2 strawberries in a shaker\n2. Add the remaining ingredients and shake well with ice\n3. Double strain into a chilled glass",
-  "created_at": null,
-  "updated_at": null,
-  "description": "Dry sherry brings dimension to this update on the strawberry Daiquiri in this recipe from Sweet Liberty Drinks & Supply Co. in Miami.",
-  "source": "https://imbibemagazine.com/recipe/strawberry-daiquiri-jl-remix/",
-  "garnish": "Skewered strawberry half dusted with black pepper",
-  "abv": 16.86,
-  "tags": [
-    "Fruity"
-  ],
-  "glass": "Nick and Nora",
-  "method": "Shake",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///strawberry-daiquiri_ZA3CoS.jpg",
-      "sort": 1,
-      "placeholder_hash": "7TgGDwZxiHX4eoenUVotWbWoARMRQEMD",
-      "copyright": "Strawberry Daiquiri | Photo by John Valls"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "light-rum_96",
-      "name": "Light Rum",
-      "strength": 40,
-      "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
-      "origin": "Caribbean",
-      "category": "Rum",
-      "amount": 45,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "simple-syrup_108",
-      "name": "Simple Syrup",
-      "strength": 0,
-      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
-      "origin": null,
-      "category": "Syrups",
-      "amount": 22.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "sherry_124",
-      "name": "Sherry",
-      "strength": 17,
-      "description": "Sherry is a fortified wine that originates from the Jerez region in southwestern Spain. It is made from white grapes, primarily the Palomino grape variety, and is known for its unique production process, diverse styles, and complex flavors. Sherry has a protected designation of origin (DO) status, meaning that only wines produced in the designated region can be labeled as Sherry.",
-      "origin": "Spain",
-      "category": "Fortified wine",
-      "amount": 15,
-      "units": "ml",
-      "optional": true,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "lime-juice_59",
-      "name": "Lime juice",
-      "strength": 0,
-      "description": "Freshly squeezed lime juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    },
-    {
-      "_id": "strawberry_166",
-      "name": "Strawberry",
-      "strength": 0,
-      "description": "Strawberries are a popular fruit known for their bright red color, sweet flavor, and juicy texture. They are often eaten fresh or used in various dishes like jams, desserts, and ice creams.",
-      "origin": null,
-      "category": "Fruits and vegetables",
-      "amount": 2,
-      "units": "whole",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 5
-    }
-  ],
-  "parent_cocktail_id": "daiquiri_22",
-  "year": null
+    "_id": "strawberry-daiquiri",
+    "name": "Strawberry Daiquiri",
+    "instructions": "1. Use a muddler to crush 2 strawberries in a shaker\n2. Add the remaining ingredients and shake well with ice\n3. Double strain into a chilled glass",
+    "created_at": "2023-06-05T08:45:10+00:00",
+    "updated_at": "2025-07-22T09:41:20+00:00",
+    "description": "Dry sherry brings dimension to this update on the strawberry Daiquiri in this recipe from Sweet Liberty Drinks & Supply Co. in Miami.",
+    "source": "https://imbibemagazine.com/recipe/strawberry-daiquiri-jl-remix/",
+    "garnish": "Skewered strawberry half dusted with black pepper",
+    "abv": 16.86,
+    "tags": [
+        "Fruity"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": "daiquiri",
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///strawberry-daiquiri-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "7TgGDwZxiHX4eoenUVotWbWoARMRQEMD",
+            "copyright": "Strawberry Daiquiri | Photo by John Valls"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "light-rum",
+            "name": "Light Rum",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sherry",
+            "name": "Sherry",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": true,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 4,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "strawberry",
+            "name": "Strawberry",
+            "sort": 5,
+            "amount": 2,
+            "units": "whole",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

@@ -1,0 +1,89 @@
+{
+    "_id": "grasshopper-blanco",
+    "name": "Grasshopper Blanco",
+    "instructions": "1. Add all of the ingredients to a shaker.\n2. Add ice and hard shake to incorporate the cream and chill.\n3. Double strain into the glass.\n3. Garnish.",
+    "created_at": "2025-11-28T17:47:46+00:00",
+    "updated_at": "2025-11-28T17:47:46+00:00",
+    "description": "Liz Kelley, lead bartender at Cure in New Orleans, created this twist on the Grasshopper that uses blanco tequila to help cut through the drink's sweetness. \"I particularly enjoy the bright minerality and citrus notes of a good blanco tequila as a foil to the richer elements of the classic,\" says Kelley. \"Shaking it with fresh mint brings some added freshness as well.\"",
+    "source": "https://imbibemagazine.com/recipe/tequila-grasshopper-cocktail/",
+    "garnish": "Mint leaf",
+    "abv": 17,
+    "tags": [
+        "Minty"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": "grasshopper",
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///grasshopper-blanco-1.webp",
+            "sort": 1,
+            "placeholder_hash": "H/gNDwCCaXiQhXiEiIeZlniHWDBo/nwH",
+            "copyright": "Imbibe Magazine | Sam Hanna"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "sort": 1,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "creme-de-cacao-white",
+            "name": "Crème de Cacao (White)",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "creme-de-menthe",
+            "name": "Crème de menthe",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cream",
+            "name": "Cream",
+            "sort": 4,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "mint",
+            "name": "Mint",
+            "sort": 5,
+            "amount": 4,
+            "units": "leaves",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": 5,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

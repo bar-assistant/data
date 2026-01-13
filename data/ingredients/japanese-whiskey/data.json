@@ -1,27 +1,27 @@
 {
-  "_id": "japanese-whiskey_325",
-  "_parent_id": "whiskey_81",
-  "name": "Japanese Whiskey",
-  "strength": 40,
-  "description": "Japanese whisky is a style of whisky that is produced in Japan, and it has gained international acclaim for its quality, craftsmanship, and unique characteristics. Japanese whisky is often crafted using traditional Scottish methods, with an emphasis on precision and attention to detail.\n\nJapanese whisky makers are known for their innovative approaches to whisky production. They may experiment with different types of grains, yeast strains, and cask finishes to create unique and interesting expressions.\n\nIt's important to note that while Japanese whisky draws inspiration from Scotch whisky traditions, it has developed its own identity and style. The category has grown in popularity, leading to increased global demand for Japanese whiskies. As a result, some expressions may be limited or harder to find in certain markets.",
-  "origin": "Japan",
-  "color": "#9d510b",
-  "category": "Spirits > Whiskey",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///japanese-whiskey-1_GTCkVn.png",
-      "sort": 1,
-      "placeholder_hash": "nhmKDQQdb5ZEqWR4lwQLlwc4BxeGh4Z2eA",
-      "copyright": "Hakushu"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "japanese-whiskey",
+    "_parent_id": "whiskey",
+    "name": "Japanese Whiskey",
+    "strength": 40,
+    "description": "Japanese whisky is a style of whisky that is produced in Japan, and it has gained international acclaim for its quality, craftsmanship, and unique characteristics. Japanese whisky is often crafted using traditional Scottish methods, with an emphasis on precision and attention to detail.\n\nJapanese whisky makers are known for their innovative approaches to whisky production. They may experiment with different types of grains, yeast strains, and cask finishes to create unique and interesting expressions.\n\nIt's important to note that while Japanese whisky draws inspiration from Scotch whisky traditions, it has developed its own identity and style. The category has grown in popularity, leading to increased global demand for Japanese whiskies. As a result, some expressions may be limited or harder to find in certain markets.",
+    "origin": "Japan",
+    "color": "#9d510b",
+    "category": "Spirits > Whiskey",
+    "created_at": "2023-11-02T19:11:07+00:00",
+    "updated_at": "2023-12-27T20:14:49+00:00",
+    "images": [
+        {
+            "uri": "file:///japanese-whiskey-1.png",
+            "sort": 1,
+            "placeholder_hash": "nhmKDQQdb5ZEqWR4lwQLlwc4BxeGh4Z2eA",
+            "copyright": "Hakushu"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

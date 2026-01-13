@@ -1,0 +1,27 @@
+{
+    "_id": "malort",
+    "_parent_id": "spirits",
+    "name": "Malört",
+    "strength": 35,
+    "description": "Jeppson’s Malört is Chicago’s local beskbrännvin — a style of bitter, wormwood-based, Swedish schnapps. First developed during medieval times for its supposed medicinal benefits, it’s traditionally associated with the farms of Skåne, in Sweden, where wormwood grows wild. In the early 1900s, it was the most ubiquitous drink in Sweden and accompanied the nearly 1 million Swedes who immigrated to the U.S. during that period. Jeppson's Malört is named after Carl Jeppson, the Swedish immigrant who first distilled and popularized the liquor in Chicago. Through the decades, Jeppson’s Malört has been thought of as a rite of passage and even a purported hangover cure.",
+    "origin": "Chicago",
+    "color": "#A08156",
+    "category": "Spirits",
+    "created_at": "2026-01-04T12:54:02+00:00",
+    "updated_at": "2026-01-04T12:55:48+00:00",
+    "images": [
+        {
+            "uri": "file:///malort-1.webp",
+            "sort": 0,
+            "placeholder_hash": "32qCBQJEhW2gH2WZR4ehgPYGCLd2eYd4hw",
+            "copyright": "Malort"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": "Jeppson",
+    "units": "ml"
+}

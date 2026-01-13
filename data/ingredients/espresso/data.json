@@ -1,27 +1,27 @@
 {
-  "_id": "espresso_72",
-  "_parent_id": "coffee_73",
-  "name": "Espresso",
-  "strength": 0,
-  "description": "Espresso is generally thicker than coffee brewed by other methods, with a viscosity similar to that of warm honey.",
-  "origin": "Italy",
-  "color": "#743c0e",
-  "category": "Beverages > Coffee",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///espresso.png",
-      "sort": 1,
-      "placeholder_hash": "YxiGBQA0l0h7hYsEGGiPgNYICJd3iHJ7eA",
-      "copyright": "CC License"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "espresso",
+    "_parent_id": "coffee",
+    "name": "Espresso",
+    "strength": 0,
+    "description": "Espresso is generally thicker than coffee brewed by other methods, with a viscosity similar to that of warm honey.",
+    "origin": "Italy",
+    "color": "#743c0e",
+    "category": "Beverages > Coffee",
+    "created_at": "2022-11-28T17:31:44+00:00",
+    "updated_at": "2025-03-11T16:51:02+00:00",
+    "images": [
+        {
+            "uri": "file:///espresso-1.png",
+            "sort": 1,
+            "placeholder_hash": "YxiGBQA0l0h7hYsEGGiPgNYICJd3iHJ7eA",
+            "copyright": "CC License"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

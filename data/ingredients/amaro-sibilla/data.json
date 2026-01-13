@@ -1,0 +1,27 @@
+{
+    "_id": "amaro-sibilla",
+    "_parent_id": "amaro",
+    "name": "Amaro Sibilla",
+    "strength": 34,
+    "description": "Amaro Sibilla is an Italian liqueur in the Amaro category. It is produced by the Varnelli S.p.A., a distillery in Pievebovigliana, in the Province of Macerata from the Marche region of central eastern Italy.\n\nIt was created in 1868 by the herbalist Girolamo Varnelli. According to his recipe, the ingredients are an infusion of herbs and roots from Monti Sibillini made on wood fire, pure honey from Monti Sibillini, and alcohol. These ingredients, once blended, have to be decanted and aged for several months. Nowadays, it is still produced in the same way.\n\nDuring the 19th century, it had success as an anti-malarial drug because it is rich in Gentian and Cinchona Calisaya. It was awarded first in Rome in 1902.",
+    "origin": "Italy",
+    "color": "#A98D6C",
+    "category": "Apéritif > Amaro",
+    "created_at": "2026-01-11T12:12:18+00:00",
+    "updated_at": "2026-01-11T12:24:45+00:00",
+    "images": [
+        {
+            "uri": "file:///amaro-sibilla-1.webp",
+            "sort": 0,
+            "placeholder_hash": "IgmGDQBFh3hwjoi3+JdweWr4CLd2iHd4dw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

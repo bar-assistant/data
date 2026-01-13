@@ -1,0 +1,77 @@
+{
+    "_id": "the-flatliner",
+    "name": "The Flatliner",
+    "instructions": "1. Add all of the ingredients to a shaker with ice and shake to chill.\n2. Fine-strain into the chilled glass.\n3. Top the cocktail with cinnamon whipped cream and garnish.",
+    "created_at": "2025-10-20T17:29:51+00:00",
+    "updated_at": "2025-10-20T17:30:17+00:00",
+    "description": "For a decadent Espresso Martini-inspired cocktail, The National Telluride adds Irish cream to the coffee cocktail and garnishes with cinnamon whipped cream and a pizelle cookie. A touch of Grand Marnier gives it subtle bitter orange and vanilla notes.",
+    "source": "https://imbibemagazine.com/recipe/the-flatliner-coffee-cocktail/",
+    "garnish": "Cinnamon whipped cream and a pizzelle cookie",
+    "abv": 20.69,
+    "tags": [
+        "Coffee"
+    ],
+    "glass": null,
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///the-flatliner-1.webp",
+            "sort": 1,
+            "placeholder_hash": "CggKDwIjT6ikaniyWpqHmHd6RzBJBpQD",
+            "copyright": "Imbibe Magazine"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "vodka",
+            "name": "Vodka",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "baileys-irish-cream",
+            "name": "Baileys Irish Cream",
+            "sort": 3,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "grand-marnier",
+            "name": "Grand Marnier",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

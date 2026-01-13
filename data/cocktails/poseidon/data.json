@@ -1,0 +1,111 @@
+{
+    "_id": "poseidon",
+    "name": "Poseidon",
+    "instructions": "1. Add all ingredients to a mixing glass and stir with ice.\n2. Strain into a rocks glass over ice.\n3. Garnish with a lemon peel and olive on a pick.",
+    "created_at": "2025-10-15T15:42:19+00:00",
+    "updated_at": "2025-10-15T15:42:35+00:00",
+    "description": "The Poseidon served at Crevette in New York is quite different from the sweet blue ’tinis and fizzes floating around the internet with the same name. Strong, stirred and bitter, the riff on the mezcal Negroni mixes the agave spirit with rum, Cynar and Punt e Mes, while saline solution rounds the entire cocktail out.",
+    "source": "https://punchdrink.com/recipes/poseidon/",
+    "garnish": "lemon peel, olive",
+    "abv": 27.93,
+    "tags": [],
+    "glass": null,
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///poseidon-1.webp",
+            "sort": 1,
+            "placeholder_hash": "X0kOLwbyd1dQdYimh3eZaHhnenBoCIcG",
+            "copyright": "Punch Staff | Shannon Sturgis"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as 400 Conejos Mezcal",
+            "substitutes": []
+        },
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "light-rum",
+            "name": "Light Rum",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Probitas",
+            "substitutes": []
+        },
+        {
+            "_id": "dry-curacao",
+            "name": "Dry Curaçao",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "punt-e-mes",
+            "name": "Punt e Mes",
+            "sort": 5,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 6,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Regan's",
+            "substitutes": []
+        },
+        {
+            "_id": "saline-solution",
+            "name": "Saline solution",
+            "sort": 7,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

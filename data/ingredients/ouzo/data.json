@@ -1,27 +1,27 @@
 {
-  "_id": "ouzo_48",
-  "_parent_id": "liqueurs_939",
-  "name": "Ouzo",
-  "strength": 35,
-  "description": "Dry anise-flavored aperitif that is widely consumed in Greece.",
-  "origin": "Greece",
-  "color": "#ffffff",
-  "category": "Liqueurs",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///ouzo.png",
-      "sort": 1,
-      "placeholder_hash": "MDmCBQAzh3iJdnoFiHhwewcoB9iGeYd4iA",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": null
+    "_id": "ouzo",
+    "_parent_id": "liqueurs",
+    "name": "Ouzo",
+    "strength": 35,
+    "description": "Dry anise-flavored aperitif that is widely consumed in Greece.",
+    "origin": "Greece",
+    "color": "#ffffff",
+    "category": "Liqueurs",
+    "created_at": "2022-11-28T17:31:43+00:00",
+    "updated_at": "2023-09-29T10:04:11+00:00",
+    "images": [
+        {
+            "uri": "file:///ouzo-1.png",
+            "sort": 1,
+            "placeholder_hash": "MDmCBQAzh3iJdnoFiHhwewcoB9iGeYd4iA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
 }

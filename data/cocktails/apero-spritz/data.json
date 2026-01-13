@@ -1,109 +1,89 @@
 {
-  "_id": "apero-spritz_149",
-  "name": "Apèro Spritz",
-  "instructions": "1. Add first four ingredients to a shaker tin with ice and short shake.\n2. Double strain into a wine glass over cracked clear ice and top with prosecco.\n3. Garnish with red currants if you have them, lemon wedge if you don’t",
-  "created_at": null,
-  "updated_at": null,
-  "description": null,
-  "source": "https://www.reddit.com/r/cocktails/comments/107ev4w/ap%C3%A8ro_spritz/",
-  "garnish": "Red Currents or Lemon Wedge",
-  "abv": 9.75,
-  "tags": [
-    "Spritz"
-  ],
-  "glass": "Wine",
-  "method": "Shake",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///apero-spritz.jpg",
-      "sort": 1,
-      "placeholder_hash": "4UkGNwaLfHiQpomzlil5OJiHtmYHKXQA",
-      "copyright": ""
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "pisco_104",
-      "name": "Pisco",
-      "strength": 40,
-      "description": "Pisco is a type of brandy that originates from the winemaking regions of Peru and Chile. It is produced through the distillation of fermented grape juice, and its production is governed by strict regulations in both countries.\n\nPisco is typically distilled only once, which sets it apart from some other brandies that may undergo multiple distillations.",
-      "origin": "South America",
-      "category": "Fruit brandy",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "prosecco_121",
-      "name": "Prosecco",
-      "strength": 11,
-      "description": "Prosecco is a sparkling wine that originates from the Veneto region of Italy. It is made primarily from the Glera grape variety, although other permitted grape varieties may also be used in smaller quantities. Prosecco is known for its fresh and fruity character, and it is one of the most popular and widely consumed sparkling wines globally.\n\nProsecco is known for its effervescence, and the bubbles are generally lighter and less persistent than those in traditional method sparkling wines like Champagne.",
-      "origin": "Italy",
-      "category": "Sparkling wine",
-      "amount": 90,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "aperol_27",
-      "name": "Aperol",
-      "strength": 11,
-      "description": "Aperol is an Italian orange-flavored aperitif liqueur known for its vibrant orange color and bittersweet taste. It is produced by the Campari Group and contains a blend of herbs, spices, and botanicals. Aperol is characterized by its lower alcohol content compared to some other aperitifs, making it a popular choice for refreshing cocktails. Aperol's distinct flavor profile and versatility make it a favorite ingredient in a variety of cocktails and spritz variations.\n\nThe labels explicitly credit the product to Barbieri Brothers in 1919, and admit to “an infusion of orange, rhubarb, china and gentian”. (“China” in this case means cinchona.) Today, Aperol is “produced from the original recipe of Barbieri” by Campari, and could be described as “like Campari” but milder, with the orange flavor dominant, and a yellower (orange) color.",
-      "origin": "Italy",
-      "category": "Apéritif",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "rose-syrup_132",
-      "name": "Rose syrup",
-      "strength": 0,
-      "description": "Pure sugar syrup made from the natural aroma of rose.",
-      "origin": "Worldwide",
-      "category": "Syrups",
-      "amount": 7.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    },
-    {
-      "_id": "lemon-juice_58",
-      "name": "Lemon juice",
-      "strength": 0,
-      "description": "Freshly squeezed lemon juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 5
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "apero-spritz",
+    "name": "Apèro Spritz",
+    "instructions": "1. Add first four ingredients to a shaker tin with ice and short shake.\n2. Double strain into a wine glass over cracked clear ice and top with prosecco.\n3. Garnish with red currants if you have them, lemon wedge if you don’t",
+    "created_at": "2023-01-09T18:37:21+00:00",
+    "updated_at": "2023-11-04T20:37:49+00:00",
+    "description": null,
+    "source": "https://www.reddit.com/r/cocktails/comments/107ev4w/ap%C3%A8ro_spritz/",
+    "garnish": "Red Currents or Lemon Wedge",
+    "abv": 9.75,
+    "tags": [
+        "Spritz"
+    ],
+    "glass": "Wine",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///apero-spritz-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "4UkGNwaLfHiQpomzlil5OJiHtmYHKXQA",
+            "copyright": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "pisco",
+            "name": "Pisco",
+            "sort": 1,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "prosecco",
+            "name": "Prosecco",
+            "sort": 2,
+            "amount": 90,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "aperol",
+            "name": "Aperol",
+            "sort": 3,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "rose-syrup",
+            "name": "Rose syrup",
+            "sort": 4,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 5,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

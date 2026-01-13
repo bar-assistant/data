@@ -1,77 +1,65 @@
 {
-  "_id": "negroni-sbagliato_131",
-  "name": "Negroni Sbagliato",
-  "instructions": "1. Combine vermouth and Campari in an ice-filled glass. Top with sparkling wine, stir to combine and garnish.",
-  "created_at": null,
-  "updated_at": null,
-  "description": "The Negroni Sbagliato is said to be the result of a busy bartender mistakenly using sparkling wine instead of gin in a Negroni. Sbagliato means \"messed up\" or \"mistaken\" in Italian.",
-  "source": "https://imbibemagazine.com/recipe/negroni-sbagliato/",
-  "garnish": "Orange wheel",
-  "abv": 16.36,
-  "tags": [
-    "Negroni"
-  ],
-  "glass": "Lowball",
-  "method": "Build",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///negroni-sbagliato.jpg",
-      "sort": 1,
-      "placeholder_hash": "TBgKFwQKh4Zhi5hkiuZZV4aFuQGWGmAK",
-      "copyright": "John Valls"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "sweet-vermouth_117",
-      "name": "Sweet Vermouth",
-      "strength": 18,
-      "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
-      "origin": "Worldwide",
-      "category": "Fortified wine",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "campari_26",
-      "name": "Campari",
-      "strength": 25,
-      "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
-      "origin": "Italy",
-      "category": "Apéritif",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "prosecco_121",
-      "name": "Prosecco",
-      "strength": 11,
-      "description": "Prosecco is a sparkling wine that originates from the Veneto region of Italy. It is made primarily from the Glera grape variety, although other permitted grape varieties may also be used in smaller quantities. Prosecco is known for its fresh and fruity character, and it is one of the most popular and widely consumed sparkling wines globally.\n\nProsecco is known for its effervescence, and the bubbles are generally lighter and less persistent than those in traditional method sparkling wines like Champagne.",
-      "origin": "Italy",
-      "category": "Sparkling wine",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "negroni-sbagliato",
+    "name": "Negroni Sbagliato",
+    "instructions": "1. Combine vermouth and Campari in an ice-filled glass. Top with sparkling wine, stir to combine and garnish.",
+    "created_at": "2022-12-18T15:39:28+00:00",
+    "updated_at": "2023-09-29T10:04:11+00:00",
+    "description": "The Negroni Sbagliato is said to be the result of a busy bartender mistakenly using sparkling wine instead of gin in a Negroni. Sbagliato means \"messed up\" or \"mistaken\" in Italian.",
+    "source": "https://imbibemagazine.com/recipe/negroni-sbagliato/",
+    "garnish": "Orange wheel",
+    "abv": 16.36,
+    "tags": [
+        "Negroni"
+    ],
+    "glass": "Lowball",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///negroni-sbagliato-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "TBgKFwQKh4Zhi5hkiuZZV4aFuQGWGmAK",
+            "copyright": "John Valls"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 1,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "sort": 2,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "prosecco",
+            "name": "Prosecco",
+            "sort": 3,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

@@ -1,27 +1,27 @@
 {
-  "_id": "orange-soda_330",
-  "_parent_id": "beverages_945",
-  "name": "Orange Soda",
-  "strength": 0,
-  "description": "Orange soda is a carbonated soft drink flavored with orange flavoring. It is a non-alcoholic beverage that typically combines carbonated water, sweeteners, and artificial or natural orange flavoring. Orange sodas are known for their vibrant orange color and sweet, citrusy taste.",
-  "origin": "Worldwide",
-  "color": "#f5cd52",
-  "category": "Beverages",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///orange-soda-1_c8QfeW.png",
-      "sort": 1,
-      "placeholder_hash": "Z1yCDQAjimCLdGukN4eAewjnB9h3iIZ5eA",
-      "copyright": "Fanta"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "orange-soda",
+    "_parent_id": "beverages",
+    "name": "Orange Soda",
+    "strength": 0,
+    "description": "Orange soda is a carbonated soft drink flavored with orange flavoring. It is a non-alcoholic beverage that typically combines carbonated water, sweeteners, and artificial or natural orange flavoring. Orange sodas are known for their vibrant orange color and sweet, citrusy taste.",
+    "origin": "Worldwide",
+    "color": "#f5cd52",
+    "category": "Beverages",
+    "created_at": "2023-11-05T17:03:02+00:00",
+    "updated_at": "2025-03-11T16:52:14+00:00",
+    "images": [
+        {
+            "uri": "file:///orange-soda-1.png",
+            "sort": 1,
+            "placeholder_hash": "Z1yCDQAjimCLdGukN4eAewjnB9h3iIZ5eA",
+            "copyright": "Fanta"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

@@ -1,0 +1,78 @@
+{
+    "_id": "temperance-grapefruit-collins",
+    "name": "Temperance Grapefruit Collins",
+    "instructions": "Add ice to your shaker and shake until it develops a frost.  Double-strain contents (by pouring the contents from the shaker through a fine mesh strainer) into your Collins glass over ice and top with club soda.",
+    "created_at": "2025-12-26T14:44:55+00:00",
+    "updated_at": "2025-12-26T14:44:55+00:00",
+    "description": "The Temperance Grapefruit Collins is an extremely refreshing spirit-free interpretation of the gin-based cocktail of the same name.  As its star ingredient, the grapefruit serves as both the visual and flavor focal point of this simple cocktail.  In the absence of any alcohol, this combination of grapefruit juice, lime juice, and simple syrup is reminiscent of flavors found in the Paloma.  Similarly, as the name suggests, the Temperance Grapefruit Collins is served “tall” in the traditional Collins glass over ice cubes or clear ice spear and topped generously with club soda to give it some fizz.  When it comes to this cocktails preparation, I recommend shaking to both chill and incorporate ingredients; however, to avoid unnecessary explosions, be sure to refrain from adding club soda into the shaker and instead add directly to glassware.  Don’t forget to garnish your Temperance Grapefruit Collins with (you guessed it) a half-wheel of grapefruit.  But don’t take my word for it, make one and try it yourself!",
+    "source": "https://barpretending.com/spirit-free/temperance-grapefruit-collins",
+    "garnish": "Garnish with a half-wheel of grapefruit.",
+    "abv": 0,
+    "tags": [
+        "Citrusy",
+        "Refreshing"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///temperance-grapefruit-collins-1.webp",
+            "sort": 1,
+            "placeholder_hash": "aBgWFwSJiIh/eHeGiHd4eHd5iKBXCHoG",
+            "copyright": "barpretending"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "grapefruit-juice",
+            "name": "Grapefruit juice",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 2,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "sort": 4,
+            "amount": 1,
+            "units": "topup",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

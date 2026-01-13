@@ -1,27 +1,27 @@
 {
-  "_id": "demerara-rum_98",
-  "_parent_id": "dark-rum_99",
-  "name": "Demerara Rum",
-  "strength": 40,
-  "description": "Demerara rum is a type of dark rum produced on the banks of the Demerara River in Guyana, a country on the northern coast of South America. All Demerara rum is distilled in Guyana, regardless of where it may be aged and bottled. There is only one remaining active distiller in Guyana, Demerara Distillers Limited (DDL).\n\nDespite sharing the name, demerara rum is not necessarily made with demerara sugar.\n\nWhile the vast majority of rum sold today is produced using molasses, Demerara rum is produced using sugarcane juice or “backend,” as it is sometimes called. This gives the rum a flavor profile that is more fruity and grassy than molasses-based rums.",
-  "origin": "South America",
-  "color": "#ca5210",
-  "category": "Spirits > Sugarcane-based spirits > Rum > Dark Rum",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///demerara-rum-1_kVB19q.png",
-      "sort": 1,
-      "placeholder_hash": "XTmKDQBIh2mAe4/VF3h3n1sHCGeDh3aIhw",
-      "copyright": "El Dorado"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "demerara-rum",
+    "_parent_id": "dark-rum",
+    "name": "Demerara Rum",
+    "strength": 40,
+    "description": "Demerara rum is a type of dark rum produced on the banks of the Demerara River in Guyana, a country on the northern coast of South America. All Demerara rum is distilled in Guyana, regardless of where it may be aged and bottled. There is only one remaining active distiller in Guyana, Demerara Distillers Limited (DDL).\n\nDespite sharing the name, demerara rum is not necessarily made with demerara sugar.\n\nWhile the vast majority of rum sold today is produced using molasses, Demerara rum is produced using sugarcane juice or “backend,” as it is sometimes called. This gives the rum a flavor profile that is more fruity and grassy than molasses-based rums.",
+    "origin": "South America",
+    "color": "#ca5210",
+    "category": "Spirits > Sugarcane-based spirits > Rum > Dark Rum",
+    "created_at": "2022-11-28T17:31:45+00:00",
+    "updated_at": "2025-03-09T20:49:14+00:00",
+    "images": [
+        {
+            "uri": "file:///demerara-rum-1.png",
+            "sort": 1,
+            "placeholder_hash": "XTmKDQBIh2mAe4/VF3h3n1sHCGeDh3aIhw",
+            "copyright": "El Dorado"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

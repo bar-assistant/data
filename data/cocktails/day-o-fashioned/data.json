@@ -1,0 +1,87 @@
+{
+    "_id": "day-o-fashioned",
+    "name": "Day-O’ Fashioned",
+    "instructions": "1. In a rocks glass, muddle the orange peel with the bitters.\n2. Add the rest of the ingredients and ice, and stir gently until well-chilled.\n3. Garnish with an orange slice and a black cherry.",
+    "created_at": "2025-11-18T18:08:20+00:00",
+    "updated_at": "2025-11-18T18:08:20+00:00",
+    "description": "The Day-O’ Fashioned is a tropical Old-Fashioned cocktail recipe made with rye whiskey, rum, banana liqueur, cold brew, orange and Angostura.",
+    "source": "https://punchdrink.com/recipes/day-o-fashioned/",
+    "garnish": "orange slice, black cherry",
+    "abv": 28.59,
+    "tags": [],
+    "glass": null,
+    "method": "Muddle",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///day-o-fashioned-1.webp",
+            "sort": 1,
+            "placeholder_hash": "VzkOJwiQdWmBlXeWmEeJVYiIh0A3CHMD",
+            "copyright": "Punch Staff | Quit Nguyen"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 1,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "rye-whiskey",
+            "name": "Rye whiskey",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Rittenhouse Rye Bottled-In-Bond",
+            "substitutes": []
+        },
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Worthy Park 109 Dark Jamaican Rum",
+            "substitutes": []
+        },
+        {
+            "_id": "creme-de-banane",
+            "name": "Crème de banane",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Giffard Banane du Brasil",
+            "substitutes": []
+        },
+        {
+            "_id": "cold-brew-coffee",
+            "name": "Cold brew coffee",
+            "sort": 5,
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

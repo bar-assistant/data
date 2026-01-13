@@ -1,44 +1,48 @@
 {
-  "_id": "lime-juice_59",
-  "_parent_id": "citrus-juice_960",
-  "name": "Lime juice",
-  "strength": 0,
-  "description": "Freshly squeezed lime juice.",
-  "origin": null,
-  "color": "#e9f1d7",
-  "category": "Juices > Citrus juice",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///lime-juice.png",
-      "sort": 1,
-      "placeholder_hash": "9/iBBQBWi3BfwqHsNmSgjvsFB5iHeHd4eA",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [
-    {
-      "_id": "lime_1",
-      "name": "Lime",
-      "strength": 0,
-      "description": "Lime is a citrus fruit known for its small size, vibrant green color, and tart flavor.",
-      "origin": null,
-      "category": "Fruits and vegetables"
-    }
-  ],
-  "prices": [
-    {
-      "price_category_name": "Hrvatska",
-      "price": 150,
-      "currency": "EUR",
-      "amount": 150,
-      "units": "ml"
-    }
-  ],
-  "calculator_id": "lime-super-juice-kevin-koss-3",
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "lime-juice",
+    "_parent_id": "citrus-juice",
+    "name": "Lime juice",
+    "strength": 0,
+    "description": "Freshly squeezed lime juice.",
+    "origin": null,
+    "color": "#e9f1d7",
+    "category": "Juices > Citrus juice",
+    "created_at": "2022-11-28T17:31:43+00:00",
+    "updated_at": "2025-03-11T16:48:54+00:00",
+    "images": [
+        {
+            "uri": "file:///lime-juice-1.png",
+            "sort": 1,
+            "placeholder_hash": "9/iBBQBWi3BfwqHsNmSgjvsFB5iHeHd4eA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [
+        {
+            "_id": "lime",
+            "_parent_id": null,
+            "name": "Lime",
+            "strength": 0,
+            "description": "Lime is a citrus fruit known for its small size, vibrant green color, and tart flavor.",
+            "origin": null,
+            "color": "#c9f27b",
+            "category": null,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "ingredient_parts": [],
+            "prices": [],
+            "calculator_id": null,
+            "sugar_g_per_ml": null,
+            "acidity": null,
+            "distillery": null,
+            "units": null
+        }
+    ],
+    "prices": [],
+    "calculator_id": "lime-super-juice-kevin-koss-275",
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

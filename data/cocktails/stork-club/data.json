@@ -1,0 +1,87 @@
+{
+    "_id": "stork-club",
+    "name": "Stork Club",
+    "instructions": "1. Combine all of the ingredients in a cocktail shaker.\n2. Add ice and shake until chilled.\n3. Double strain into a chilled cocktail glass.\n4. Garnish with an orange twist.",
+    "created_at": "2026-01-06T20:22:50+00:00",
+    "updated_at": "2026-01-06T20:23:06+00:00",
+    "description": "There is a number of cocktails, that came from various New York bars and clubs, which later became classics. Stork Club is one of those venues, that was known for its drinks, back in the day. However, some of those recipes slowly fell into obscurity, just like its signature Stork Club cocktail.\n\nBase of the cocktail is London dry gin with its signature juniper notes supplemented by the gentle citrus and coriander undertones. Triple Sec adds sweet orange flavour, which is later reinforced by the healthy addition of fresh orange juice. A touch of lime juice brings some refreshing tartness to the mix, helping to bring back a little balance and give this cocktail a little pep in its step. Last, but not least a dash of Angostura bitters provides an extra kick of complexity while at the same time seasoning the cocktail.\n\nAll in all, Stork Club is a simple cocktail with a slightly unusual balance, due to mellow orange juice, but do not let that fool you, it is tasty – a true delight, especially for orange lovers. Even though it might be a little strange to our modern palate, it is a delicious way to travel back in time.",
+    "source": "https://www.grouchy-bartender.com/cocktails/stork-club",
+    "garnish": "Orange Twist",
+    "abv": 16.05,
+    "tags": [],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///stork-club-1.webp",
+            "sort": 1,
+            "placeholder_hash": "RggKHwILkK1kmWdkqoeId4iJqHAXCXYB",
+            "copyright": "grouchy bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "triple-sec",
+            "name": "Triple Sec",
+            "sort": 2,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "sort": 3,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 4,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 5,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

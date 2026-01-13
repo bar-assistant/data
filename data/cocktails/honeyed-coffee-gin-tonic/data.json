@@ -1,93 +1,77 @@
 {
-  "_id": "honeyed-coffee-gin-tonic_186",
-  "name": "Honeyed Coffee Gin & Tonic",
-  "instructions": "1. Fill a glass with ice. Stir to chill the glass, then strain out the melted water.\n2. Combine the coffee, honey syrup and gin in the glass.\n3. Stir to chill, then top with tonic water\n4. Add more ice as needed and twist a lemon peel over the top of the drink and use as a garnish.",
-  "created_at": null,
-  "updated_at": null,
-  "description": "In the Honeyed Coffee Gin & Tonic from Julia Momose, flavor fireworks happen when cold-brew coffee and the classic gin and tonic collide.",
-  "source": "https://imbibemagazine.com/recipe/honeyed-coffee-gin-tonic/",
-  "garnish": "Lemon peel",
-  "abv": 6.67,
-  "tags": [
-    "Coffee"
-  ],
-  "glass": "Highball",
-  "method": "Stir",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///honeyed-coffee-gin-tonic_MlOhfz.jpg",
-      "sort": 1,
-      "placeholder_hash": "kxgOJwR7eIiQanZrhjh2d4aH93lon2QF",
-      "copyright": "Honeyed CG&T. | Photo by Emma Janzen."
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "gin_75",
-      "name": "Gin",
-      "strength": 40,
-      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
-      "origin": "Worldwide",
-      "category": "Spirits",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "coffee_73",
-      "name": "Coffee",
-      "strength": 0,
-      "description": "Coffee is a beverage made from roasted coffee beans. The beans are ground and brewed with hot water to produce a flavorful and aromatic drink. Coffee is enjoyed worldwide and comes in various styles, including espresso, drip coffee, and specialty beverages. It contains caffeine, a natural stimulant, and is often consumed for its energizing effects and rich, complex taste.",
-      "origin": "Africa",
-      "category": "Beverages",
-      "amount": 45,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "honey-syrup_110",
-      "name": "Honey Syrup",
-      "strength": 0,
-      "description": "Syrup made from dissolving honey in water.",
-      "origin": "Worldwide",
-      "category": "Simple Syrup",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "tonic_69",
-      "name": "Tonic",
-      "strength": 0,
-      "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
-      "origin": "Worldwide",
-      "category": "Beverages",
-      "amount": 60,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "honeyed-coffee-gin-tonic",
+    "name": "Honeyed Coffee Gin & Tonic",
+    "instructions": "1. Fill a glass with ice. Stir to chill the glass, then strain out the melted water.\n2. Combine the coffee, honey syrup and gin in the glass.\n3. Stir to chill, then top with tonic water\n4. Add more ice as needed and twist a lemon peel over the top of the drink and use as a garnish.",
+    "created_at": "2023-05-30T18:57:55+00:00",
+    "updated_at": "2023-09-29T10:04:11+00:00",
+    "description": "In the Honeyed Coffee Gin & Tonic from Julia Momose, flavor fireworks happen when cold-brew coffee and the classic gin and tonic collide.",
+    "source": "https://imbibemagazine.com/recipe/honeyed-coffee-gin-tonic/",
+    "garnish": "Lemon peel",
+    "abv": 6.67,
+    "tags": [
+        "Coffee"
+    ],
+    "glass": "Highball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///honeyed-coffee-gin-tonic-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "kxgOJwR7eIiQanZrhjh2d4aH93lon2QF",
+            "copyright": "Honeyed CG&T. | Photo by Emma Janzen."
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "coffee",
+            "name": "Coffee",
+            "sort": 2,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "tonic",
+            "name": "Tonic",
+            "sort": 4,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

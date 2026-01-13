@@ -1,79 +1,67 @@
 {
-  "_id": "cynar-flip_187",
-  "name": "Cynar Flip",
-  "instructions": "1. Dry shake the whole egg in a cocktail shaker\n2. Add Cynar, simple syrup, and ice before shaking again\n3. Strain into a cocktail glass and drop several dashes of the bitters into the foam",
-  "created_at": null,
-  "updated_at": null,
-  "description": "A magnificent application of Cynar in the holiday canon",
-  "source": "https://tuxedono2.com/cynar-flip-cocktail-recipe",
-  "garnish": "Angostura bitters for garnish",
-  "abv": 11.31,
-  "tags": [
-    "Flip",
-    "Bitter",
-    "Winter"
-  ],
-  "glass": "Wine",
-  "method": "Shake",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///cynar-flip_K5FW4c.jpg",
-      "sort": 1,
-      "placeholder_hash": "BwgGDwIIuIhzc4mEiFjIN9eCibBHB3gH",
-      "copyright": "TuxedoNo2"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "cynar_143",
-      "name": "Cynar",
-      "strength": 16.5,
-      "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
-      "origin": "Italy",
-      "category": "Amaro",
-      "amount": 60,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "egg_159",
-      "name": "Egg",
-      "strength": 0,
-      "description": "Chicken eggs are a versatile and commonly consumed food product, used in various culinary applications for their nutritional content and cooking properties.\n\nWhole egg is commonly used in \"flip\" style of cocktails.\n\nThe term \"flip\" refers to a category of cocktails that traditionally includes a combination of spirits, sweeteners, and a whole egg. Flips are characterized by their smooth and frothy texture, achieved by vigorously shaking or \"flipping\" the ingredients, which incorporates air and emulsifies the egg.\n\nThe ingredients are shaken together without ice first (a \"dry shake\") to emulsify the egg, and then ice is added for a second round of shaking to chill the mixture. The final drink is strained into a glass, and a sprinkle of nutmeg on top is a common finishing touch.",
-      "origin": "Worldwide",
-      "category": "Dairy",
-      "amount": 1,
-      "units": "whole",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "simple-syrup_108",
-      "name": "Simple Syrup",
-      "strength": 0,
-      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
-      "origin": null,
-      "category": "Syrups",
-      "amount": 2,
-      "units": "barspoon",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "cynar-flip",
+    "name": "Cynar Flip",
+    "instructions": "1. Dry shake the whole egg in a cocktail shaker\n2. Add Cynar, simple syrup, and ice before shaking again\n3. Strain into a cocktail glass and drop several dashes of the bitters into the foam",
+    "created_at": "2023-06-03T20:11:36+00:00",
+    "updated_at": "2025-03-30T15:58:12+00:00",
+    "description": "A magnificent application of Cynar in the holiday canon",
+    "source": "https://tuxedono2.com/cynar-flip-cocktail-recipe",
+    "garnish": "Angostura bitters for garnish",
+    "abv": 11.31,
+    "tags": [
+        "Flip",
+        "Bitter",
+        "Winter"
+    ],
+    "glass": "Wine",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///cynar-flip-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "BwgGDwIIuIhzc4mEiFjIN9eCibBHB3gH",
+            "copyright": "TuxedoNo2"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "egg",
+            "name": "Egg",
+            "sort": 2,
+            "amount": 1,
+            "units": "whole",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 3,
+            "amount": 2,
+            "units": "barspoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

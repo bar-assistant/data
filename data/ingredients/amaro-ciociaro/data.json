@@ -1,0 +1,27 @@
+{
+    "_id": "amaro-ciociaro",
+    "_parent_id": "amaro",
+    "name": "Amaro CioCiaro",
+    "strength": 30,
+    "description": "Created by Vincenzo Paolucci in 1873 shortly after his move from the nearby Italian region of Abruzzo to Sora in Ciociaria and the Liri Valley rich in herbs and spices such as gentian which he needed for his liqueur production. Amaro Ciociaro continues to be made by Vincenzo Paolucci's decendents.",
+    "origin": null,
+    "color": null,
+    "category": "Apéritif > Amaro",
+    "created_at": "2026-01-11T12:11:18+00:00",
+    "updated_at": "2026-01-11T12:23:12+00:00",
+    "images": [
+        {
+            "uri": "file:///amaro-ciociaro-1.webp",
+            "sort": 1,
+            "placeholder_hash": "5BiGDQBFh2iGeIv0h4hweAcYCKeGeHd4dw",
+            "copyright": "external-content.duckduckgo.com"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

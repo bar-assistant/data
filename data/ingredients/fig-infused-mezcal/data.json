@@ -1,0 +1,20 @@
+{
+    "_id": "fig-infused-mezcal",
+    "_parent_id": "mezcal",
+    "name": "Fig-infused mezcal",
+    "strength": 0,
+    "description": "Add 2 cut-up figs to 750ml of mezcal. Let sit in an airtight container for 12-24 hours, and then strain. Will keep for a year at room temperature.",
+    "origin": null,
+    "color": null,
+    "category": "Spirits > Mezcal",
+    "created_at": "2025-12-05T16:14:39+00:00",
+    "updated_at": "2025-12-05T16:16:38+00:00",
+    "images": [],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

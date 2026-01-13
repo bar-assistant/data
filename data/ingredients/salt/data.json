@@ -1,27 +1,27 @@
 {
-  "_id": "salt_12",
-  "_parent_id": null,
-  "name": "Salt",
-  "strength": 0,
-  "description": "Salt",
-  "origin": null,
-  "color": null,
-  "category": null,
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///salt.png",
-      "sort": 1,
-      "placeholder_hash": "8TiGDQI3GcV3h3GPyMaIb434CFd3eHCJVw",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "pinch"
+    "_id": "salt",
+    "_parent_id": null,
+    "name": "Salt",
+    "strength": 0,
+    "description": "Salt",
+    "origin": null,
+    "color": null,
+    "category": null,
+    "created_at": "2022-11-28T17:31:41+00:00",
+    "updated_at": "2025-07-22T06:25:12+00:00",
+    "images": [
+        {
+            "uri": "file:///salt-1.png",
+            "sort": 1,
+            "placeholder_hash": "8TiGDQI3GcV3h3GPyMaIb434CFd3eHCJVw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "pinch"
 }

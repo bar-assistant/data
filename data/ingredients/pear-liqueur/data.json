@@ -1,0 +1,27 @@
+{
+    "_id": "pear-liqueur",
+    "_parent_id": "liqueurs",
+    "name": "Pear liqueur",
+    "strength": 21,
+    "description": "Pear liqueur is a sweet alcoholic beverage made by infusing ripe pears with spirits like vodka or brandy, often combined with sugar and other flavorings. It typically has a smooth, fruity taste and is enjoyed on its own or in cocktails.",
+    "origin": null,
+    "color": "#ffbe6f",
+    "category": "Liqueurs",
+    "created_at": "2025-12-03T09:17:57+00:00",
+    "updated_at": "2025-12-22T10:56:23+00:00",
+    "images": [
+        {
+            "uri": "file:///pear-liqueur-1.webp",
+            "sort": 1,
+            "placeholder_hash": "NAiCBQAsDid5hnyWWAGIZq8nBxd4eId3eA",
+            "copyright": "Giffard"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

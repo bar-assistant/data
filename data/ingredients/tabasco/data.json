@@ -1,27 +1,27 @@
 {
-  "_id": "tabasco_14",
-  "_parent_id": null,
-  "name": "Tabasco",
-  "strength": 0,
-  "description": "Hot sauce made from vinegar, tabasco peppers, and salt.",
-  "origin": null,
-  "color": null,
-  "category": null,
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///tabasco.png",
-      "sort": 1,
-      "placeholder_hash": "ormGHQwtZ4eAj3toeIiPg/g4F2eAg3R1iA",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "dash"
+    "_id": "tabasco",
+    "_parent_id": null,
+    "name": "Tabasco",
+    "strength": 0,
+    "description": "Hot sauce made from vinegar, tabasco peppers, and salt.",
+    "origin": null,
+    "color": null,
+    "category": null,
+    "created_at": "2022-11-28T17:31:41+00:00",
+    "updated_at": "2025-07-22T06:25:12+00:00",
+    "images": [
+        {
+            "uri": "file:///tabasco-1.png",
+            "sort": 1,
+            "placeholder_hash": "ormGHQwtZ4eAj3toeIiPg/g4F2eAg3R1iA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "dash"
 }

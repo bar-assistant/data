@@ -1,93 +1,77 @@
 {
-  "_id": "cucumber-gimlet_133",
-  "name": "Cucumber Gimlet",
-  "instructions": "Combine all ingredients and shake with ice. Serve in a rocks glass over crushed ice. Garnish with a rolled cucumber slice.",
-  "created_at": null,
-  "updated_at": null,
-  "description": null,
-  "source": "http://www.ocean-prime.com/",
-  "garnish": "Cucumber slices",
-  "abv": 0,
-  "tags": [
-    "Virgin"
-  ],
-  "glass": "Lowball",
-  "method": "Shake",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///cucumber-gimlet.jpg",
-      "sort": 1,
-      "placeholder_hash": "6RgKFwJKeZeJZ3d/nadJiFR8ZGCGYkwP",
-      "copyright": ""
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "club-soda_68",
-      "name": "Club soda",
-      "strength": 0,
-      "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer. Also known as soda, siphon soda water, soda water, siphon soda, and siphon water.\n\nSoda water is artificially or naturally carbonated water, to which mineral salts have been added. The product without the salts is termed \"seltzer\" or \"seltzer water.\"\n\nCarbonated water with added minerals—commonly sodium bicarbonate or salt—club soda was designed to approximate mineral water, which is often naturally fizzy, but can carry a hefty price tag. English chemist Joseph Priestly invented the process of carbonation in 1767, when he realized that the carbon dioxide produced during the fermentation of beer could be infused into water. Soon after, Jacob Schweppe, a Swiss watchmaker, figured out how to manufacture carbonated water (which has no added minerals) and club soda. These products would become the cornerstone of the Schweppes Company, which is still in existence today. The added salt or sodium bicarbonate helps to mitigate the sour flavors from the carbonic acid, a byproduct of carbon dioxide.",
-      "origin": "Worldwide",
-      "category": "Beverages",
-      "amount": 45,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "cucumber_144",
-      "name": "Cucumber",
-      "strength": 0,
-      "description": "Cucumbers are a type of vegetable that grow on creeping vines and are known for their cylindrical shape and high water content, making them refreshing to eat.",
-      "origin": null,
-      "category": "Fruits and vegetables",
-      "amount": 5,
-      "units": "slices",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "lime-juice_59",
-      "name": "Lime juice",
-      "strength": 0,
-      "description": "Freshly squeezed lime juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "simple-syrup_108",
-      "name": "Simple Syrup",
-      "strength": 0,
-      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
-      "origin": null,
-      "category": "Syrups",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "cucumber-gimlet",
+    "name": "Cucumber Gimlet",
+    "instructions": "Combine all ingredients and shake with ice. Serve in a rocks glass over crushed ice. Garnish with a rolled cucumber slice.",
+    "created_at": "2022-12-21T15:07:54+00:00",
+    "updated_at": "2023-09-29T10:04:11+00:00",
+    "description": null,
+    "source": "http://www.ocean-prime.com/",
+    "garnish": "Cucumber slices",
+    "abv": 0,
+    "tags": [
+        "Virgin"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///cucumber-gimlet-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "6RgKFwJKeZeJZ3d/nadJiFR8ZGCGYkwP",
+            "copyright": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cucumber",
+            "name": "Cucumber",
+            "sort": 2,
+            "amount": 5,
+            "units": "slices",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 3,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 4,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

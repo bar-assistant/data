@@ -1,27 +1,27 @@
 {
-  "_id": "creme-de-cassis_32",
-  "_parent_id": "creme-de_949",
-  "name": "Crème de cassis",
-  "strength": 25,
-  "description": "Crème de Cassis is a sweet liqueur made from blackcurrants. It has a deep red-purple color and a rich, fruity flavor with a combination of sweetness and tartness. The liqueur is often used as a key ingredient in cocktails, with the Kir and Kir Royale being classic examples. Crème de Cassis can also be enjoyed on its own over ice or used in culinary applications to add a burst of blackcurrant flavor to desserts or sauces.",
-  "origin": "France",
-  "color": "#2c1227",
-  "category": "Crème de",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///creme-de-cassis-blackcurrant-liqueur.png",
-      "sort": 1,
-      "placeholder_hash": "2BeGBQBFd4iDfI9hp3Z5f/eHCLeGeHd4dw",
-      "copyright": "Giffard"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "creme-de-cassis",
+    "_parent_id": "creme-de",
+    "name": "Crème de cassis",
+    "strength": 25,
+    "description": "Crème de Cassis is a sweet liqueur made from blackcurrants. It has a deep red-purple color and a rich, fruity flavor with a combination of sweetness and tartness. The liqueur is often used as a key ingredient in cocktails, with the Kir and Kir Royale being classic examples. Crème de Cassis can also be enjoyed on its own over ice or used in culinary applications to add a burst of blackcurrant flavor to desserts or sauces.",
+    "origin": "France",
+    "color": "#2c1227",
+    "category": "Crème de",
+    "created_at": "2022-11-28T17:31:42+00:00",
+    "updated_at": "2023-11-04T14:05:04+00:00",
+    "images": [
+        {
+            "uri": "file:///creme-de-cassis-1.png",
+            "sort": 1,
+            "placeholder_hash": "2BeGBQBFd4iDfI9hp3Z5f/eHCLeGeHd4dw",
+            "copyright": "Giffard"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

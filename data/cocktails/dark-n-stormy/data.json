@@ -1,78 +1,66 @@
 {
-  "_id": "dark-n-stormy_23",
-  "name": "Dark ‘n’ stormy",
-  "instructions": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
-  "created_at": null,
-  "updated_at": null,
-  "description": "This drink is very similar to the Moscow mule except that the Dark 'n' Stormy has dark rum instead of vodka. The original Dark 'n' Stormy was made with Gosling Black Seal rum and Barritt's Ginger Beer, but after the partnership between the two failed and the companies parted ways, Gosling Brothers created its own ginger beer.\n\nGosling Brothers claims that the drink was invented in Bermuda just after World War I.",
-  "source": "https://iba-world.com/dark-n-stormy/",
-  "garnish": "Garnish with a lime wedge or slice.",
-  "abv": 12.47,
-  "tags": [
-    "IBA Cocktail",
-    "New Era Drinks"
-  ],
-  "glass": "Highball",
-  "method": "Build",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///dark-n-stormy.jpg",
-      "sort": 1,
-      "placeholder_hash": "rCgKJwb3SIibd4eKhZlXh5h1qFA3B3YE",
-      "copyright": "The Spruce / Madhumita Sathishkumar"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "dark-rum_99",
-      "name": "Dark Rum",
-      "strength": 40,
-      "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
-      "origin": "Caribbean",
-      "category": "Rum",
-      "amount": 60,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "ginger-beer_71",
-      "name": "Ginger beer",
-      "strength": 0,
-      "description": "Ginger ale is a non-alcoholic carbonated beverage flavored with ginger. It is known for its fizzy and slightly spicy taste, derived from the natural or artificial ginger flavorings used in its production. Ginger ale is often consumed on its own as a refreshing soft drink, and it is also a common mixer in various cocktails. There are both commercial and homemade versions of ginger ale, with variations that may include additional ingredients such as citrus or sweeteners.",
-      "origin": "Worldwide",
-      "category": "Beverages",
-      "amount": 100,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "lime-juice_59",
-      "name": "Lime juice",
-      "strength": 0,
-      "description": "Freshly squeezed lime juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 15,
-      "units": "ml",
-      "optional": true,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "dark-n-stormy",
+    "name": "Dark ‘n’ stormy",
+    "instructions": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
+    "created_at": "2022-11-28T17:31:52+00:00",
+    "updated_at": "2023-09-29T10:04:11+00:00",
+    "description": "This drink is very similar to the Moscow mule except that the Dark 'n' Stormy has dark rum instead of vodka. The original Dark 'n' Stormy was made with Gosling Black Seal rum and Barritt's Ginger Beer, but after the partnership between the two failed and the companies parted ways, Gosling Brothers created its own ginger beer.\n\nGosling Brothers claims that the drink was invented in Bermuda just after World War I.",
+    "source": "https://iba-world.com/dark-n-stormy/",
+    "garnish": "Garnish with a lime wedge or slice.",
+    "abv": 12.47,
+    "tags": [
+        "IBA Cocktail",
+        "New Era Drinks"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///dark-n-stormy-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "rCgKJwb3SIibd4eKhZlXh5h1qFA3B3YE",
+            "copyright": "The Spruce / Madhumita Sathishkumar"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "ginger-beer",
+            "name": "Ginger beer",
+            "sort": 2,
+            "amount": 100,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": true,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

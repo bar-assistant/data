@@ -1,0 +1,53 @@
+{
+    "_id": "ferrari",
+    "name": "Ferrari",
+    "instructions": "1. Combine and drink as a shot.",
+    "created_at": "2025-12-21T18:34:48+00:00",
+    "updated_at": "2025-12-26T09:19:38+00:00",
+    "description": "The Ferrari cocktail recipe, a potent 50/50 split of Fernet-Branca and Campari, can be taken as a shot or sipped slowly.",
+    "source": "https://punchdrink.com/recipes/ferrari/",
+    "garnish": null,
+    "abv": 29.09,
+    "tags": [
+        "Bitter"
+    ],
+    "glass": "Shot",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///ferrari-1.webp",
+            "sort": 1,
+            "placeholder_hash": "nygOHwQEhWcDuoh2mVWZd4eH+Hw55vIB",
+            "copyright": "Punch Staff | Lizzie Munro"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "fernet-branca",
+            "name": "Fernet Branca",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

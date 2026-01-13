@@ -1,27 +1,27 @@
 {
-  "_id": "rose-water_188",
-  "_parent_id": null,
-  "name": "Rose water",
-  "strength": 0,
-  "description": "Rose water is a fragrant liquid that is created by distilling rose petals with water. It is widely used for culinary, cosmetic, and medicinal purposes, valued for its distinct floral aroma and subtle flavor.\n\nWhen using rose water, it is important to choose a product made specifically for culinary use, as not all rose waters are suitable for consumption. It is a versatile ingredient that can add a unique and aromatic touch to a wide range of dishes and products.",
-  "origin": null,
-  "color": "#ffffff",
-  "category": null,
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///rose-water-1_VDMkaf.png",
-      "sort": 1,
-      "placeholder_hash": "o1mGLQRLTHOCa4bMCFd/dfaHBzeGh3Z3dw",
-      "copyright": "The Bitter Truth Bitters"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "dash"
+    "_id": "rose-water",
+    "_parent_id": null,
+    "name": "Rose water",
+    "strength": 0,
+    "description": "Rose water is a fragrant liquid that is created by distilling rose petals with water. It is widely used for culinary, cosmetic, and medicinal purposes, valued for its distinct floral aroma and subtle flavor.\n\nWhen using rose water, it is important to choose a product made specifically for culinary use, as not all rose waters are suitable for consumption. It is a versatile ingredient that can add a unique and aromatic touch to a wide range of dishes and products.",
+    "origin": null,
+    "color": "#ffffff",
+    "category": null,
+    "created_at": "2023-08-02T10:08:39+00:00",
+    "updated_at": "2025-07-22T06:25:12+00:00",
+    "images": [
+        {
+            "uri": "file:///rose-water-1.png",
+            "sort": 1,
+            "placeholder_hash": "o1mGLQRLTHOCa4bMCFd/dfaHBzeGh3Z3dw",
+            "copyright": "The Bitter Truth Bitters"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "dash"
 }

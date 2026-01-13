@@ -1,0 +1,102 @@
+{
+    "_id": "eeyores-requiem",
+    "name": "Eeyore’s Requiem",
+    "instructions": "1. Combine all ingredients in a mixing glass with ice and stir until chilled.\n2. Strain into a chilled coupe glass.\n3. Express three orange twists over the surface of the drink, discarding the first two and saving the third for garnish.",
+    "created_at": "2026-01-05T23:13:13+00:00",
+    "updated_at": "2026-01-05T23:13:13+00:00",
+    "description": "Three bitter amari, including Fernet-Branca, get amped up with aromatic French vermouth and juniper-rich gin in this cocktail recipe.",
+    "source": "https://punchdrink.com/recipes/eeyores-requiem/",
+    "garnish": "orange twist",
+    "abv": 20.58,
+    "tags": [
+        "Bitter",
+        "Herbal"
+    ],
+    "glass": "Coupe",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///eeyores-requiem-1.webp",
+            "sort": 1,
+            "placeholder_hash": "WkkOHwS3e3dwh4d3ZXiGZ5Z4B7ZoFJkA",
+            "copyright": "Punch Staff | Eric Medsker"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "vermouth-bianco",
+            "name": "Vermouth Bianco",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Dolin",
+            "substitutes": []
+        },
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Tanqueray",
+            "substitutes": []
+        },
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "fernet-branca",
+            "name": "Fernet Branca",
+            "sort": 5,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 6,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

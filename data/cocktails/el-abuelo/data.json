@@ -1,0 +1,99 @@
+{
+    "_id": "el-abuelo",
+    "name": "El Abuelo",
+    "instructions": "1. Add all of the ingredients to a mixing glass with ice and stir for approximately 10 seconds.\n2. Strain over a large ice cube into the glass.\n3. Garnish.",
+    "created_at": "2025-11-22T16:22:20+00:00",
+    "updated_at": "2025-11-22T16:22:20+00:00",
+    "description": "This Old Fashioned-inspired cocktail by Carolina González of Chicago's Trino adds warmth and depth to the whiskey cocktail using the earthy herbaceousness of a Mexican amaro and the baking spices of a spiced brown nectar. \"It’s the kind of drink you want when it’s cold out, sitting by a fire, or winding down after dinner,\" says González.",
+    "source": "https://imbibemagazine.com/recipe/el-abuelo-old-fashioned/",
+    "garnish": "Sprig of thyme and an orange swath",
+    "abv": 28.17,
+    "tags": [],
+    "glass": null,
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///el-abuelo-1.webp",
+            "sort": 1,
+            "placeholder_hash": "HCkKFwKAfod6mHhyhqbGZ5eVueoEnFoA",
+            "copyright": "Imbibe Magazine | Gaz Creative"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "bourbon-whiskey",
+            "name": "Bourbon Whiskey",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "amaro",
+            "name": "Amaro",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Trino uses Maxico Mistico Licor del Sobador",
+            "substitutes": []
+        },
+        {
+            "_id": "spiced-brown-nectar",
+            "name": "Spiced brown nectar",
+            "sort": 3,
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 4,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 5,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "saline-solution",
+            "name": "Saline solution",
+            "sort": 6,
+            "amount": 2,
+            "units": "drops",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

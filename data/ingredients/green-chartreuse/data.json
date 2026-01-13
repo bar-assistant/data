@@ -1,35 +1,27 @@
 {
-  "_id": "green-chartreuse_41",
-  "_parent_id": "liqueurs_939",
-  "name": "Green Chartreuse",
-  "strength": 55,
-  "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
-  "origin": "France",
-  "color": "#80FF00",
-  "category": "Liqueurs",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///green-chartreuse.png",
-      "sort": 1,
-      "placeholder_hash": "XOmFDQJIh3h/gYlViGePgrkHB3h2iIZ4dw",
-      "copyright": "Chartreuse"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [
-    {
-      "price_category_name": "Hrvatska",
-      "price": 5600,
-      "currency": "EUR",
-      "amount": 700,
-      "units": "ml"
-    }
-  ],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "green-chartreuse",
+    "_parent_id": "liqueurs",
+    "name": "Green Chartreuse",
+    "strength": 55,
+    "description": "Green Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is known for its vibrant green color and complex flavor profile derived from a secret blend of 130 herbs and botanicals. Green Chartreuse has a strong and distinct taste, featuring herbal, floral, and spicy notes. It has a high alcohol content, typically 55% ABV (alcohol by volume). Green Chartreuse can be enjoyed on its own as a digestif or used in cocktails for its unique and intense flavor.",
+    "origin": "France",
+    "color": "#80FF00",
+    "category": "Liqueurs",
+    "created_at": "2022-11-28T17:31:43+00:00",
+    "updated_at": "2024-11-20T16:01:32+00:00",
+    "images": [
+        {
+            "uri": "file:///green-chartreuse-1.png",
+            "sort": 1,
+            "placeholder_hash": "XOmFDQJIh3h/gYlViGePgrkHB3h2iIZ4dw",
+            "copyright": "Chartreuse"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

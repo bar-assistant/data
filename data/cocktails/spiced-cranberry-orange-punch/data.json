@@ -1,0 +1,149 @@
+{
+    "_id": "spiced-cranberry-orange-punch",
+    "name": "Spiced Cranberry-Orange Punch",
+    "instructions": "1. Heat the water, sugar, ginger, rosemary sprig, cinnamon stick, and star anise in large saucepan over medium heat, stirring often, until sugar has dissolved, about 5 minutes; do not boil. Stir in cranberries and cook, stirring often, until cranberries just begin to pop open, about 3 minutes. Off heat, let cranberry mixture cool completely, about 30 minutes. Transfer to bowl or storage container, cover, and refrigerate until well chilled, at least 1 hour or up to 4 days.\n2. Combine the cranberry mixture, seltzer, cranberry juice, and orange juice in large punch bowl. Add an ice ring and garnish with rosemary sprigs and orange slices. Serve in chilled punch cups.\nNOTEAn ice ring does the best job of keeping the punch chilled for several hours without overdiluting. If necessary, 8 large ice cubes can be used instead.",
+    "created_at": "2025-11-18T18:14:29+00:00",
+    "updated_at": "2025-11-18T18:14:29+00:00",
+    "description": "For a festive spirit-free option to present at holiday parties, stir up this spiced cranberry-orange punch from Cocktails Illustrated by America's Test Kitchen. Spicy ginger, warm baking spices, the herbaceousness of rosemary, and sparkling seltzer elevate this mix of cranberry and orange juices.",
+    "source": "https://imbibemagazine.com/recipe/spiced-cranberry-orange-punch/",
+    "garnish": "Rosemary sprigs and orange slices",
+    "abv": 0,
+    "tags": [
+        "Punch"
+    ],
+    "glass": null,
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///spiced-cranberry-orange-punch-1.webp",
+            "sort": 1,
+            "placeholder_hash": "0skGDwbOWmtvRWSRYshZi1N2x/Z0Zn8D",
+            "copyright": "Imbibe Magazine"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "water",
+            "name": "Water",
+            "sort": 1,
+            "amount": 7,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sugar",
+            "name": "Sugar",
+            "sort": 2,
+            "amount": 1,
+            "units": "cup",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "ginger",
+            "name": "Ginger",
+            "sort": 3,
+            "amount": 1,
+            "units": "piece",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "3-inch",
+            "substitutes": []
+        },
+        {
+            "_id": "rosemary",
+            "name": "Rosemary",
+            "sort": 4,
+            "amount": 1,
+            "units": "sprigs",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "plus rosemary sprigs for garnishing",
+            "substitutes": []
+        },
+        {
+            "_id": "cinnamon",
+            "name": "Cinnamon",
+            "sort": 5,
+            "amount": 1,
+            "units": "stick",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "halved",
+            "substitutes": []
+        },
+        {
+            "_id": "star-anise",
+            "name": "Star anise",
+            "sort": 6,
+            "amount": 2,
+            "units": "whole",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cranberries",
+            "name": "Cranberries",
+            "sort": 7,
+            "amount": 12,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "sort": 8,
+            "amount": 68,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cranberry-juice",
+            "name": "Cranberry juice",
+            "sort": 9,
+            "amount": 12,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "chilled",
+            "substitutes": []
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "sort": 10,
+            "amount": 12,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "chilled, plus orange slices for garnishing",
+            "substitutes": []
+        }
+    ]
+}

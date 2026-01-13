@@ -1,27 +1,27 @@
 {
-  "_id": "coconut-water_174",
-  "_parent_id": "beverages_945",
-  "name": "Coconut water",
-  "strength": 0,
-  "description": "Coconut water (also coconut juice) is the clear liquid inside young coconuts (fruits of the coconut palm).",
-  "origin": "Indonesia",
-  "color": "#f5f3ef",
-  "category": "Beverages",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///coconut-water-1_aH6zg6.png",
-      "sort": 1,
-      "placeholder_hash": "MXaJLQwsSHd/hoaYZ1iPifWIBxd3d3h4eA",
-      "copyright": "Mojo"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "coconut-water",
+    "_parent_id": "beverages",
+    "name": "Coconut water",
+    "strength": 0,
+    "description": "Coconut water (also coconut juice) is the clear liquid inside young coconuts (fruits of the coconut palm).",
+    "origin": "Indonesia",
+    "color": "#f5f3ef",
+    "category": "Beverages",
+    "created_at": "2023-07-10T18:29:10+00:00",
+    "updated_at": "2023-11-04T13:56:49+00:00",
+    "images": [
+        {
+            "uri": "file:///coconut-water-1.png",
+            "sort": 1,
+            "placeholder_hash": "MXaJLQwsSHd/hoaYZ1iPifWIBxd3d3h4eA",
+            "copyright": "Mojo"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

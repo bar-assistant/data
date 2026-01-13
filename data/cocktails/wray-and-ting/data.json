@@ -1,0 +1,51 @@
+{
+    "_id": "wray-and-ting",
+    "name": "Wray and Ting",
+    "instructions": "1. Add ice to a collins glass.\n2. Measure in the rum.\n3. Top with Ting and garnish if you'd like.",
+    "created_at": "2025-12-21T09:21:58+00:00",
+    "updated_at": "2025-12-21T09:22:06+00:00",
+    "description": "Wray and Ting is a simple highball cocktail made with delicious overproof Jamaican rum and a refreshing grapefruit soda. Perfect for summer cookouts.",
+    "source": "https://drinkinghobby.com/wray-and-ting-cocktail/",
+    "garnish": null,
+    "abv": 9.92,
+    "tags": [],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///wray-and-ting-1.webp",
+            "sort": 1,
+            "placeholder_hash": "ZEoKFwIjlncgZpdSd2iHaJeIRhAE8jEF",
+            "copyright": "Brendan"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "light-rum",
+            "name": "Light Rum",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Wray & Nephew White Rum",
+            "substitutes": []
+        },
+        {
+            "_id": "ting",
+            "name": "Ting",
+            "sort": 2,
+            "amount": 4,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": 5,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

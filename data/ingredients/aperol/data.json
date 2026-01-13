@@ -1,35 +1,27 @@
 {
-  "_id": "aperol_27",
-  "_parent_id": "aperitif_959",
-  "name": "Aperol",
-  "strength": 11,
-  "description": "Aperol is an Italian orange-flavored aperitif liqueur known for its vibrant orange color and bittersweet taste. It is produced by the Campari Group and contains a blend of herbs, spices, and botanicals. Aperol is characterized by its lower alcohol content compared to some other aperitifs, making it a popular choice for refreshing cocktails. Aperol's distinct flavor profile and versatility make it a favorite ingredient in a variety of cocktails and spritz variations.\n\nThe labels explicitly credit the product to Barbieri Brothers in 1919, and admit to “an infusion of orange, rhubarb, china and gentian”. (“China” in this case means cinchona.) Today, Aperol is “produced from the original recipe of Barbieri” by Campari, and could be described as “like Campari” but milder, with the orange flavor dominant, and a yellower (orange) color.",
-  "origin": "Italy",
-  "color": "#fa4321",
-  "category": "Apéritif",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///aperol.png",
-      "sort": 1,
-      "placeholder_hash": "o6mGFQhYmDiAfn1jV4iPiPioCHeGeHZ4dw",
-      "copyright": "Aperol"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [
-    {
-      "price_category_name": "Hrvatska",
-      "price": 1800,
-      "currency": "EUR",
-      "amount": 1000,
-      "units": "ml"
-    }
-  ],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "aperol",
+    "_parent_id": "aperitif",
+    "name": "Aperol",
+    "strength": 11,
+    "description": "Aperol is an Italian orange-flavored aperitif liqueur known for its vibrant orange color and bittersweet taste. It is produced by the Campari Group and contains a blend of herbs, spices, and botanicals. Aperol is characterized by its lower alcohol content compared to some other aperitifs, making it a popular choice for refreshing cocktails. Aperol's distinct flavor profile and versatility make it a favorite ingredient in a variety of cocktails and spritz variations.\n\nThe labels explicitly credit the product to Barbieri Brothers in 1919, and admit to “an infusion of orange, rhubarb, china and gentian”. (“China” in this case means cinchona.) Today, Aperol is “produced from the original recipe of Barbieri” by Campari, and could be described as “like Campari” but milder, with the orange flavor dominant, and a yellower (orange) color.",
+    "origin": "Italy",
+    "color": "#fa4321",
+    "category": "Apéritif",
+    "created_at": "2022-11-28T17:31:42+00:00",
+    "updated_at": "2025-03-10T13:37:00+00:00",
+    "images": [
+        {
+            "uri": "file:///aperol-1.png",
+            "sort": 1,
+            "placeholder_hash": "o6mGFQhYmDiAfn1jV4iPiPioCHeGeHZ4dw",
+            "copyright": "Aperol"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

@@ -1,0 +1,103 @@
+{
+    "_id": "sawyer",
+    "name": "Sawyer",
+    "instructions": "1. Add all ingredients to a cocktail shaker.\n2. Add ice and shake.\n3. Strain into a chilled rocks glass.",
+    "created_at": "2025-08-15T17:30:59+00:00",
+    "updated_at": "2025-08-15T17:30:59+00:00",
+    "description": "The Sawyer, a cocktail recipe from Ssäm Bar, is an icy, bitters-soaked twist on a gimlet doctored with nearly thirty dashes of bitters.",
+    "source": "https://punchdrink.com/recipes/sawyer/",
+    "garnish": null,
+    "abv": 22.14,
+    "tags": [
+        "Bitter",
+        "Sour",
+        "Citrusy"
+    ],
+    "glass": null,
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///sawyer-1.webp",
+            "sort": 1,
+            "placeholder_hash": "61gOHwYiZ3d3aGeQmJiHZ3h5x4fyajgP",
+            "copyright": "Punch Staff | Ed Anderson"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Beefeater",
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 2,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "1:1, sugar:water",
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 4,
+            "amount": 14,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "peychauds-bitters",
+            "name": "Peychauds Bitters",
+            "sort": 5,
+            "amount": 7,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 6,
+            "amount": 7,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "equal parts Fee Brothers West Indian Orange Bitters and Regans' Orange Bitters No. 6",
+            "substitutes": []
+        }
+    ]
+}

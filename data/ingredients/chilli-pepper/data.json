@@ -1,27 +1,27 @@
 {
-  "_id": "chilli-pepper_9",
-  "_parent_id": "fruits-and-vegetables_941",
-  "name": "Chilli Pepper",
-  "strength": 0,
-  "description": "Chili peppers are known for their pungent and spicy flavor, attributed to the compound capsaicin. They come in various shapes, sizes, and colors, ranging from mild to extremely hot varieties.",
-  "origin": null,
-  "color": "#f23506",
-  "category": "Fruits and vegetables",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///chilli-pepper.png",
-      "sort": 1,
-      "placeholder_hash": "WaqCBQISmbqMdoQp9/9qBlB5OmaDeVD7aQ",
-      "copyright": "CC License"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "slice"
+    "_id": "chilli-pepper",
+    "_parent_id": "fruits-and-vegetables",
+    "name": "Chilli Pepper",
+    "strength": 0,
+    "description": "Chili peppers are known for their pungent and spicy flavor, attributed to the compound capsaicin. They come in various shapes, sizes, and colors, ranging from mild to extremely hot varieties.",
+    "origin": null,
+    "color": "#f23506",
+    "category": "Fruits and vegetables",
+    "created_at": "2022-11-28T17:31:41+00:00",
+    "updated_at": "2023-11-04T13:53:07+00:00",
+    "images": [
+        {
+            "uri": "file:///chilli-pepper-1.png",
+            "sort": 1,
+            "placeholder_hash": "WaqCBQISmbqMdoQp9/9qBlB5OmaDeVD7aQ",
+            "copyright": "CC License"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "slice"
 }

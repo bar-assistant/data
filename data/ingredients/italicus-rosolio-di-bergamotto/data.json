@@ -1,35 +1,27 @@
 {
-  "_id": "italicus-rosolio-di-bergamotto_129",
-  "_parent_id": "liqueurs_939",
-  "name": "Italicus Rosolio di Bergamotto",
-  "strength": 20,
-  "description": "Italicus Rosolio di Bergamotto is an Italian liqueur based around the brilliance of bergamot! By combining Italian bergamot alongside a selection of other tasty botanicals including chamomile, lavender, Melissa balm and more, the producers have made a tipple excellent for enjoying on toasty evenings in the summer. Enjoy over ice, or splashed in a glass of Prosecco.",
-  "origin": "Italy",
-  "color": "#ffffff",
-  "category": "Liqueurs",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///italicus-rosolio-di-bergamotto.png",
-      "sort": 1,
-      "placeholder_hash": "Z5iBBQBFWfV2iYtkZjl7cPQYCLeGeHZ4dw",
-      "copyright": "Italicus"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [
-    {
-      "price_category_name": "Hrvatska",
-      "price": 4000,
-      "currency": "EUR",
-      "amount": 750,
-      "units": "ml"
-    }
-  ],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "italicus-rosolio-di-bergamotto",
+    "_parent_id": "liqueurs",
+    "name": "Italicus Rosolio di Bergamotto",
+    "strength": 20,
+    "description": "Italicus Rosolio di Bergamotto is an Italian liqueur based around the brilliance of bergamot! By combining Italian bergamot alongside a selection of other tasty botanicals including chamomile, lavender, Melissa balm and more, the producers have made a tipple excellent for enjoying on toasty evenings in the summer. Enjoy over ice, or splashed in a glass of Prosecco.",
+    "origin": "Italy",
+    "color": "#ffffff",
+    "category": "Liqueurs",
+    "created_at": "2022-12-01T11:18:49+00:00",
+    "updated_at": "2025-03-23T18:28:44+00:00",
+    "images": [
+        {
+            "uri": "file:///italicus-rosolio-di-bergamotto-1.png",
+            "sort": 1,
+            "placeholder_hash": "Z5iBBQBFWfV2iYtkZjl7cPQYCLeGeHZ4dw",
+            "copyright": "Italicus"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

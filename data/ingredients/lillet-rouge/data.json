@@ -1,27 +1,27 @@
 {
-  "_id": "lillet-rouge_328",
-  "_parent_id": "fortified-wine_948",
-  "name": "Lillet Rouge",
-  "strength": 17.5,
-  "description": "Lillet Rouge is a French aromatized wine and a member of the Lillet family of aperitifs. It is known for its rich and robust flavor profile, offering a combination of red and dark fruit notes with a slightly spicy and bitter undertone.",
-  "origin": "France",
-  "color": "#a71703",
-  "category": "Fortified wine",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///lillet-rouge-1_Shzv40.png",
-      "sort": 1,
-      "placeholder_hash": "6DiOFQYeYpiCeIBYOGt/lPWXBgaIiIeHiA",
-      "copyright": "Lillet"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": null
+    "_id": "lillet-rouge",
+    "_parent_id": "fortified-wine",
+    "name": "Lillet Rouge",
+    "strength": 17.5,
+    "description": "Lillet Rouge is a French aromatized wine and a member of the Lillet family of aperitifs. It is known for its rich and robust flavor profile, offering a combination of red and dark fruit notes with a slightly spicy and bitter undertone.",
+    "origin": "France",
+    "color": "#a71703",
+    "category": "Fortified wine",
+    "created_at": "2023-11-04T18:07:14+00:00",
+    "updated_at": "2023-12-27T20:13:25+00:00",
+    "images": [
+        {
+            "uri": "file:///lillet-rouge-1.png",
+            "sort": 1,
+            "placeholder_hash": "6DiOFQYeYpiCeIBYOGt/lPWXBgaIiIeHiA",
+            "copyright": "Lillet"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
 }

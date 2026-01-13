@@ -1,94 +1,78 @@
 {
-  "_id": "mary-pickford_47",
-  "name": "Mary Pickford",
-  "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
-  "created_at": null,
-  "updated_at": null,
-  "description": null,
-  "source": "https://iba-world.com/mary-pickford/",
-  "garnish": "Persian dried rose bud",
-  "abv": 15.92,
-  "tags": [
-    "IBA Cocktail",
-    "The Unforgettables"
-  ],
-  "glass": "Fizzio",
-  "method": "Shake",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///mary-pickford.jpg",
-      "sort": 1,
-      "placeholder_hash": "zBcGFwQIqJiMhodxjAbHeIiLeqAHB4sA",
-      "copyright": "Drinkoteket"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "light-rum_96",
-      "name": "Light Rum",
-      "strength": 40,
-      "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
-      "origin": "Caribbean",
-      "category": "Rum",
-      "amount": 45,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "pineapple-juice_536",
-      "name": "Pineapple juice",
-      "strength": 0,
-      "description": "Pineapple juice is extracted by passing fresh, ripe pineapple through a juice extractor (juicer) or by muddling fresh cut pineapple chunks and then straining out the solids.",
-      "origin": null,
-      "category": "Juices",
-      "amount": 45,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "maraschino_37",
-      "name": "Maraschino",
-      "strength": 32,
-      "description": "Liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.\n\nThe Luxardo family, an Italian producer, is particularly well-known for its Maraschino liqueur.",
-      "origin": "Croatia",
-      "category": "Liqueurs",
-      "amount": 7.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "grenadine-syrup_112",
-      "name": "Grenadine Syrup",
-      "strength": 0,
-      "description": "Fruit syrup made from pomegranates.",
-      "origin": "Worldwide",
-      "category": "Syrups",
-      "amount": 5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "mary-pickford",
+    "name": "Mary Pickford",
+    "instructions": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+    "created_at": "2022-11-28T17:31:53+00:00",
+    "updated_at": "2024-03-08T20:24:49+00:00",
+    "description": null,
+    "source": "https://iba-world.com/mary-pickford/",
+    "garnish": "Persian dried rose bud",
+    "abv": 15.92,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables"
+    ],
+    "glass": "Fizzio",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///mary-pickford-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "zBcGFwQIqJiMhodxjAbHeIiLeqAHB4sA",
+            "copyright": "Drinkoteket"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "light-rum",
+            "name": "Light Rum",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "sort": 2,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "maraschino",
+            "name": "Maraschino",
+            "sort": 3,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "grenadine-syrup",
+            "name": "Grenadine Syrup",
+            "sort": 4,
+            "amount": 5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

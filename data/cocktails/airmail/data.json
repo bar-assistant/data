@@ -1,111 +1,91 @@
 {
-  "_id": "airmail_104",
-  "name": "Airmail",
-  "instructions": "1. Combine all ingredients except for the champagne in a mixer and shake for ten seconds\n2. Strain into a flute and top with champagne",
-  "created_at": null,
-  "updated_at": null,
-  "description": "An endlessly drinkable sparkler of debated origin",
-  "source": "https://en.wikipedia.org/wiki/Airmail_(cocktail)",
-  "garnish": "Orange or lime peel",
-  "abv": 16.46,
-  "tags": [
-    "Citrusy"
-  ],
-  "glass": "Cocktail",
-  "method": "Shake",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///airmail_OgAqpL.jpg",
-      "sort": 1,
-      "placeholder_hash": "5ggSJwJwhod4qnmFiId3Vnd3ZkCaNYAH",
-      "copyright": "Punch |  Daniel Krieger"
-    },
-    {
-      "uri": "file:///airmail.jpg",
-      "sort": 2,
-      "placeholder_hash": "ixgKFwAImIeLdnh3iRfHaIh5isB4DbMK",
-      "copyright": "Imbibe Magazine"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "light-rum_96",
-      "name": "Light Rum",
-      "strength": 40,
-      "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
-      "origin": "Caribbean",
-      "category": "Rum",
-      "amount": 45,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "champagne_122",
-      "name": "Champagne",
-      "strength": 12,
-      "description": "Champagne is a sparkling wine that comes from the Champagne region of France. It is one of the most famous and prestigious types of sparkling wine globally. The name \"Champagne\" is legally protected, and only wines produced in the Champagne region using specific methods can be labeled as such.\n\nChampagne is often associated with celebrations and is widely used in toasts. It comes in various styles, including non-vintage (a blend of multiple years), vintage (made from grapes of a single year), and prestige cuvées (high-quality, limited-production wines from a specific producer). The versatility of Champagne allows it to be enjoyed on its own or paired with a variety of foods.",
-      "origin": "France",
-      "category": "Sparkling wine",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "lime-juice_59",
-      "name": "Lime juice",
-      "strength": 0,
-      "description": "Freshly squeezed lime juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "honey-syrup_110",
-      "name": "Honey Syrup",
-      "strength": 0,
-      "description": "Syrup made from dissolving honey in water.",
-      "origin": "Worldwide",
-      "category": "Simple Syrup",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [
+    "_id": "airmail",
+    "name": "Airmail",
+    "instructions": "1. Combine all ingredients except for the champagne in a mixer and shake for ten seconds\n2. Strain into a flute and top with champagne",
+    "created_at": "2022-11-28T17:31:57+00:00",
+    "updated_at": "2023-11-02T16:11:59+00:00",
+    "description": "An endlessly drinkable sparkler of debated origin",
+    "source": "https://en.wikipedia.org/wiki/Airmail_(cocktail)",
+    "garnish": "Orange or lime peel",
+    "abv": 16.46,
+    "tags": [
+        "Citrusy"
+    ],
+    "glass": "Cocktail",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
         {
-          "_id": "simple-syrup_108",
-          "name": "Simple Syrup",
-          "strength": 0,
-          "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
-          "origin": null,
-          "category": "Syrups",
-          "amount": null,
-          "units": null,
-          "amount_max": null
+            "uri": "file:///airmail-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "5ggSJwJwhod4qnmFiId3Vnd3ZkCaNYAH",
+            "copyright": "Punch |  Daniel Krieger"
+        },
+        {
+            "uri": "file:///airmail-2.jpg",
+            "sort": 2,
+            "placeholder_hash": "ixgKFwAImIeLdnh3iRfHaIh5isB4DbMK",
+            "copyright": "Imbibe Magazine"
         }
-      ],
-      "sort": 4
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    ],
+    "ingredients": [
+        {
+            "_id": "light-rum",
+            "name": "Light Rum",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "champagne",
+            "name": "Champagne",
+            "sort": 2,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "sort": 4,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "simple-syrup",
+                    "name": "Simple Syrup",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ]
+        }
+    ]
 }

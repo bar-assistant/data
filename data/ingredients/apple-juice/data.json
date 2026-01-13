@@ -1,27 +1,27 @@
 {
-  "_id": "apple-juice_131",
-  "_parent_id": "juices_940",
-  "name": "Apple Juice",
-  "strength": 0,
-  "description": "Apple juice is a beverage made from apples, typically extracted through crushing and then milling. The juice is often pasteurized to extend its shelf life and prevent spoilage, although unpasteurized versions are also available. The flavor profile can vary significantly depending on the apple variety used, ranging from tart and crisp to sweet and mellow.",
-  "origin": "United States",
-  "color": "#F0E68C",
-  "category": "Juices",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///apple-juice-1_U2DW4q.png",
-      "sort": 1,
-      "placeholder_hash": "OCkKLwb5p2V+hId+dRaphndomTAXBpED",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "apple-juice",
+    "_parent_id": "juices",
+    "name": "Apple Juice",
+    "strength": 0,
+    "description": "Apple juice is a beverage made from apples, typically extracted through crushing and then milling. The juice is often pasteurized to extend its shelf life and prevent spoilage, although unpasteurized versions are also available. The flavor profile can vary significantly depending on the apple variety used, ranging from tart and crisp to sweet and mellow.",
+    "origin": "United States",
+    "color": "#F0E68C",
+    "category": "Juices",
+    "created_at": "2022-12-05T13:49:34+00:00",
+    "updated_at": "2025-07-23T18:25:33+00:00",
+    "images": [
+        {
+            "uri": "file:///apple-juice-1.png",
+            "sort": 1,
+            "placeholder_hash": "OCkKLwb5p2V+hId+dRaphndomTAXBpED",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

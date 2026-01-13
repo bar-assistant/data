@@ -1,0 +1,20 @@
+{
+    "_id": "batter",
+    "_parent_id": null,
+    "name": "Batter",
+    "strength": 0,
+    "description": "- 1 pound butter, softened to room temperature\n- 1 pound light or dark brown sugar (replace up to 1/2 pound with confectioner’s sugar)\n- 1 tablespoon cinnamon\n- 1 tablespoon nutmeg\n- 1/2 teaspoon ground cloves\n\nOptional: Add 2 tablespoons cocoa powder; or 1 tablespoon powdered galangal and 4 tablespoons ground, dried hibiscus; or 1 tablespoon ground, toasted fennel, 1 tablespoon ground ginger, 1 teaspoon clove  \n\nAdd butter, sugar and spices to a stand mixer or mixing bowl, and combine until all ingredients are evenly incorporated. Store covered in the refrigerator.",
+    "origin": null,
+    "color": "#b5835a",
+    "category": null,
+    "created_at": "2025-12-05T18:46:44+00:00",
+    "updated_at": "2025-12-05T18:47:35+00:00",
+    "images": [],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}
