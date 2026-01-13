@@ -7,8 +7,8 @@
     "origin": "Jamaica",
     "color": "#8B4513",
     "category": "Spices",
-    "created_at": "2025-11-22T16:25:29+00:00",
-    "updated_at": "2025-11-22T16:25:29+00:00",
+    "created_at": null,
+    "updated_at": null,
     "images": [
         {
             "uri": "file:///allspice-1.webp",

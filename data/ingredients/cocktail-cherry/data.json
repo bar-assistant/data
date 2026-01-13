@@ -7,8 +7,8 @@
     "origin": "Croatia",
     "color": "#4e0b02",
     "category": "Fruits and vegetables",
-    "created_at": "2022-12-31T09:55:56+00:00",
-    "updated_at": "2023-11-04T13:54:51+00:00",
+    "created_at": null,
+    "updated_at": null,
     "images": [
         {
             "uri": "file:///cocktail-cherry-1.png",

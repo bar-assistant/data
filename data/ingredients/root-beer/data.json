@@ -7,8 +7,8 @@
     "origin": "North America",
     "color": "#492f14",
     "category": "Beverages",
-    "created_at": "2023-06-12T17:58:50+00:00",
-    "updated_at": "2023-11-04T18:18:47+00:00",
+    "created_at": null,
+    "updated_at": null,
     "images": [
         {
             "uri": "file:///root-beer-1.png",

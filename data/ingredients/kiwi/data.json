@@ -7,8 +7,8 @@
     "origin": null,
     "color": "#146705",
     "category": "Fruits and vegetables",
-    "created_at": "2023-07-14T14:12:30+00:00",
-    "updated_at": "2023-11-04T18:03:49+00:00",
+    "created_at": null,
+    "updated_at": null,
     "images": [
         {
             "uri": "file:///kiwi-1.png",

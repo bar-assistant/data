@@ -7,8 +7,8 @@
     "origin": "France",
     "color": null,
     "category": "Liqueurs",
-    "created_at": "2025-03-27T15:46:16+00:00",
-    "updated_at": "2025-07-22T17:30:38+00:00",
+    "created_at": null,
+    "updated_at": null,
     "images": [
         {
             "uri": "file:///genepy-1.webp",

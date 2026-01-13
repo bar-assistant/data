@@ -7,8 +7,8 @@
     "origin": "Worldwide",
     "color": "#ffe4c9",
     "category": "Liqueurs",
-    "created_at": "2022-12-01T10:34:21+00:00",
-    "updated_at": "2023-11-05T17:49:29+00:00",
+    "created_at": null,
+    "updated_at": null,
     "images": [
         {
             "uri": "file:///pamplemousse-liqueur-1.png",

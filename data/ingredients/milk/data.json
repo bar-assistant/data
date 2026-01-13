@@ -7,8 +7,8 @@
     "origin": "Cows",
     "color": "#ffffff",
     "category": "Beverages",
-    "created_at": "2023-12-29T16:34:29+00:00",
-    "updated_at": "2025-07-21T16:03:27+00:00",
+    "created_at": null,
+    "updated_at": null,
     "images": [
         {
             "uri": "file:///milk-1.png",

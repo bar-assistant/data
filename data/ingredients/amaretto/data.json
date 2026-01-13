@@ -7,8 +7,8 @@
     "origin": "Italy",
     "color": "#d62b0e",
     "category": "Liqueurs",
-    "created_at": "2022-11-28T17:31:42+00:00",
-    "updated_at": "2025-07-21T08:59:27+00:00",
+    "created_at": null,
+    "updated_at": null,
     "images": [
         {
             "uri": "file:///amaretto-1.png",

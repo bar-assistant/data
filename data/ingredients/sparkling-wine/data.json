@@ -7,8 +7,8 @@
     "origin": null,
     "color": "#000",
     "category": "Wines",
-    "created_at": "2025-03-09T20:51:12+00:00",
-    "updated_at": "2025-07-21T16:04:38+00:00",
+    "created_at": null,
+    "updated_at": null,
     "images": [
         {
             "uri": "file:///sparkling-wine-1.webp",

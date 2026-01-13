@@ -7,8 +7,8 @@
     "origin": "Worldwide",
     "color": "#f6e1b0",
     "category": "Wines",
-    "created_at": "2022-11-28T17:31:46+00:00",
-    "updated_at": "2023-11-04T18:49:21+00:00",
+    "created_at": null,
+    "updated_at": null,
     "images": [
         {
             "uri": "file:///white-wine-1.png",
