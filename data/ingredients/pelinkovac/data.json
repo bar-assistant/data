@@ -1,27 +1,27 @@
 {
-  "_id": "pelinkovac_47",
-  "_parent_id": "amaro_947",
-  "name": "Pelinkovac",
-  "strength": 32,
-  "description": "Pelinkovac is a liqueur based on wormwood, it has a very bitter taste, resembling that of Jägermeister.",
-  "origin": "Southeast Europe",
-  "color": "#573f42",
-  "category": "Apéritif > Amaro",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///pelinkovac.png",
-      "sort": 1,
-      "placeholder_hash": "nSiGDQJGaaaPcn2Sl3eAeAeHCId1iHZ4iA",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "pelinkovac",
+    "_parent_id": "amaro",
+    "name": "Pelinkovac",
+    "strength": 32,
+    "description": "Pelinkovac is a liqueur based on wormwood, it has a very bitter taste, resembling that of Jägermeister.",
+    "origin": "Southeast Europe",
+    "color": "#573f42",
+    "category": "Apéritif > Amaro",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///pelinkovac-1.png",
+            "sort": 1,
+            "placeholder_hash": "nSiGDQJGaaaPcn2Sl3eAeAeHCId1iHZ4iA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

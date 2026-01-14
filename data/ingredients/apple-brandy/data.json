@@ -1,27 +1,27 @@
 {
-  "_id": "apple-brandy_90",
-  "_parent_id": "fruit-brandy_953",
-  "name": "Apple Brandy",
-  "strength": 40,
-  "description": "Apple brandy is a distilled spirit made from fermented apple juice or cider. The production involves fermenting apples, distilling the resulting liquid, and often aging it in oak barrels. The final product can range from clear to amber in color and exhibits a variety of apple-derived flavors, influenced by the apple varieties used and the aging process. Apple brandy can be enjoyed on its own or used in cocktails and culinary applications. The term encompasses a broad category of apple-based spirits produced globally, with variations in production methods and flavor profiles.",
-  "origin": "France",
-  "color": "#ca5210",
-  "category": "Spirits > Brandy > Fruit brandy",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///calvados.png",
-      "sort": 1,
-      "placeholder_hash": "YsqGFQY7JYiNl49Dl/iVlQ0HB3hwhIeYeA",
-      "copyright": "Boulard"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "apple-brandy",
+    "_parent_id": "fruit-brandy",
+    "name": "Apple Brandy",
+    "strength": 40,
+    "description": "Apple brandy is a distilled spirit made from fermented apple juice or cider. The production involves fermenting apples, distilling the resulting liquid, and often aging it in oak barrels. The final product can range from clear to amber in color and exhibits a variety of apple-derived flavors, influenced by the apple varieties used and the aging process. Apple brandy can be enjoyed on its own or used in cocktails and culinary applications. The term encompasses a broad category of apple-based spirits produced globally, with variations in production methods and flavor profiles.",
+    "origin": "France",
+    "color": "#ca5210",
+    "category": "Spirits > Brandy > Fruit brandy",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///apple-brandy-1.png",
+            "sort": 1,
+            "placeholder_hash": "YsqGFQY7JYiNl49Dl/iVlQ0HB3hwhIeYeA",
+            "copyright": "Boulard"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

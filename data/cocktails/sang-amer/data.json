@@ -1,103 +1,83 @@
 {
-  "_id": "sang-amer_184",
-  "name": "Sang Amer",
-  "instructions": "1. Reverse dry shake (shake hard with ice first and then remove the ice and shake hard again) to achieve a frothy layer. Pour into an ice-filled glass. Garnish.",
-  "created_at": null,
-  "updated_at": null,
-  "description": "For something light to whet the appetite, mix together this tequila aperitif cocktail from Chemin &#224; la Mer in New Orleans.",
-  "source": "https://imbibemagazine.com/recipe/sang-amer-tequila-aperitif-cocktail/",
-  "garnish": "Blood orange wedge",
-  "abv": 13.81,
-  "tags": [],
-  "glass": "Highball",
-  "method": "Stir",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///sang-amer_IDyGZn.jpg",
-      "sort": 1,
-      "placeholder_hash": "ZSgODwS+iGbxZnmJhGemV7h0h5AVCVcC",
-      "copyright": "Sang Amer tequila aperitif cocktail"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "tequila-blanco_91",
-      "name": "Tequila Blanco",
-      "strength": 40,
-      "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
-      "origin": "Mexico",
-      "category": "Tequila",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "campari_26",
-      "name": "Campari",
-      "strength": 25,
-      "description": "Campari is an Italian bright red aperitif known for its distinctive bitter and herbal flavor profile. It is made from a proprietary blend of herbs, spices, and fruit peels, with a secret recipe that has been closely guarded since its creation in 1860. The primary flavor component in Campari comes from the infusion of bitter herbs, resulting in a bold and complex taste.\n\nCampari has a strong and memorable flavor that elicits strong reactions, making it a beloved ingredient in classic and contemporary cocktails. It has become a symbol of Italian aperitif culture and is enjoyed worldwide for its unique and iconic taste.",
-      "origin": "Italy",
-      "category": "Apéritif",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "aperol_27",
-      "name": "Aperol",
-      "strength": 11,
-      "description": "Aperol is an Italian orange-flavored aperitif liqueur known for its vibrant orange color and bittersweet taste. It is produced by the Campari Group and contains a blend of herbs, spices, and botanicals. Aperol is characterized by its lower alcohol content compared to some other aperitifs, making it a popular choice for refreshing cocktails. Aperol's distinct flavor profile and versatility make it a favorite ingredient in a variety of cocktails and spritz variations.\n\nThe labels explicitly credit the product to Barbieri Brothers in 1919, and admit to “an infusion of orange, rhubarb, china and gentian”. (“China” in this case means cinchona.) Today, Aperol is “produced from the original recipe of Barbieri” by Campari, and could be described as “like Campari” but milder, with the orange flavor dominant, and a yellower (orange) color.",
-      "origin": "Italy",
-      "category": "Apéritif",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "blood-orange-juice_165",
-      "name": "Blood Orange Juice",
-      "strength": 0,
-      "description": "Blood orange juice is prized in cocktails for its vibrant, crimson hue and unique flavor profile, which combines the familiar sweetness and tang of a traditional orange with distinct notes of raspberry, cranberry, or sometimes even subtle floral and bitter undertones. This complexity allows it to add both visual appeal and a deeper, more intriguing taste dimension than standard orange juice. It pairs exceptionally well with a variety of spirits, from gin and vodka to tequila and whiskey, lending itself to sophisticated twists on classics like Margaritas, Negronis, and sours, as well as inspiring entirely new creations.",
-      "origin": null,
-      "category": "Orange juice",
-      "amount": 45,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [
+    "_id": "sang-amer",
+    "name": "Sang Amer",
+    "instructions": "1. Reverse dry shake (shake hard with ice first and then remove the ice and shake hard again) to achieve a frothy layer. Pour into an ice-filled glass. Garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "For something light to whet the appetite, mix together this tequila aperitif cocktail from Chemin &#224; la Mer in New Orleans.",
+    "source": "https://imbibemagazine.com/recipe/sang-amer-tequila-aperitif-cocktail/",
+    "garnish": "Blood orange wedge",
+    "abv": 13.81,
+    "tags": [],
+    "glass": "Highball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
         {
-          "_id": "orange-juice_60",
-          "name": "Orange juice",
-          "strength": 0,
-          "description": "Freshly squeezed orange juice.",
-          "origin": null,
-          "category": "Citrus juice",
-          "amount": null,
-          "units": null,
-          "amount_max": null
+            "uri": "file:///sang-amer-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "ZSgODwS+iGbxZnmJhGemV7h0h5AVCVcC",
+            "copyright": "Sang Amer tequila aperitif cocktail"
         }
-      ],
-      "sort": 4
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "sort": 1,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "sort": 2,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "aperol",
+            "name": "Aperol",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "blood-orange-juice",
+            "name": "Blood Orange Juice",
+            "sort": 4,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "orange-juice",
+                    "name": "Orange juice",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ]
+        }
+    ]
 }

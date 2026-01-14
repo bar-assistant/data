@@ -1,78 +1,66 @@
 {
-  "_id": "basil-julep_235",
-  "name": "Basil Julep",
-  "instructions": "1. Muddle 2-3 basil leaves with gum syrup in a julep cup\n2. Fill with crushed ice and add whiskey\n3. Stir until cold and frosty, then top with more crushed ice",
-  "created_at": null,
-  "updated_at": null,
-  "description": "Pick a high-character Irish Whiskey - something with rich, oily spice notes to pull down the basil's volatile peppery aroma.",
-  "source": "https://www.liberandcompany.com/collections/recipes/products/basil-julep",
-  "garnish": "Basil",
-  "abv": 32.32,
-  "tags": [
-    "Julep",
-    "Herbacious"
-  ],
-  "glass": "Julep",
-  "method": "Muddle",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///basil-julep_vxvz1u.jpg",
-      "sort": 1,
-      "placeholder_hash": "pPgJFwI4WXWQh3VlWUdqVnpZVmBGppAH",
-      "copyright": "LiberAndCo |  Scott Kallstrand"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "irish-whiskey_86",
-      "name": "Irish whiskey",
-      "strength": 40,
-      "description": "Produced in Ireland, often made from a mix of malted and unmalted barley and aged for a minimum period in wooden casks. Styles include single malt, single pot still, blended Irish whiskey, and others.",
-      "origin": "Ireland",
-      "category": "Whiskey",
-      "amount": 60,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "simple-syrup_108",
-      "name": "Simple Syrup",
-      "strength": 0,
-      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
-      "origin": null,
-      "category": "Syrups",
-      "amount": 7.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "basil_160",
-      "name": "Basil",
-      "strength": 0,
-      "description": "Basil is an annual, or sometimes perennial, herb used for its leaves.",
-      "origin": "Worldwide",
-      "category": "Fruits and vegetables",
-      "amount": 1,
-      "units": "sprig",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "basil-julep",
+    "name": "Basil Julep",
+    "instructions": "1. Muddle 2-3 basil leaves with gum syrup in a julep cup\n2. Fill with crushed ice and add whiskey\n3. Stir until cold and frosty, then top with more crushed ice",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Pick a high-character Irish Whiskey - something with rich, oily spice notes to pull down the basil's volatile peppery aroma.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/basil-julep",
+    "garnish": "Basil",
+    "abv": 32.32,
+    "tags": [
+        "Julep",
+        "Herbacious"
+    ],
+    "glass": "Julep",
+    "method": "Muddle",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///basil-julep-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "pPgJFwI4WXWQh3VlWUdqVnpZVmBGppAH",
+            "copyright": "LiberAndCo |  Scott Kallstrand"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "irish-whiskey",
+            "name": "Irish whiskey",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 2,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "basil",
+            "name": "Basil",
+            "sort": 3,
+            "amount": 1,
+            "units": "sprig",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

@@ -1,116 +1,96 @@
 {
-  "_id": "queens-park-hotel-super-cocktail_108",
-  "name": "Queen's Park Hotel Super Cocktail",
-  "instructions": "Shake all ingredients with ice and strain into chilled glass.",
-  "created_at": null,
-  "updated_at": null,
-  "description": null,
-  "source": "https://www.cocktailexplorer.co/cocktails/queens-park-hotel-super-cocktail/anders-erickson/",
-  "garnish": "Lime zest",
-  "abv": 18.4,
-  "tags": [
-    "Savory",
-    "Sweet"
-  ],
-  "glass": "Coupe",
-  "method": "Shake",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///queens-park-hotel-super-cocktail.jpg",
-      "sort": 1,
-      "placeholder_hash": "TTgGFwYHaHd2eIWMhVaXeHdxhpQHOHkA",
-      "copyright": "Anders Erickson"
-    },
-    {
-      "uri": "file:///queens-park-hotel-super-cocktail-1_GVq1ed.webp",
-      "sort": 2,
-      "placeholder_hash": "zgcKHwJmh3eAh3aMiSeXt3eEiUn4aYEP",
-      "copyright": "Steve The Bartender"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "light-rum_96",
-      "name": "Light Rum",
-      "strength": 40,
-      "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
-      "origin": "Caribbean",
-      "category": "Rum",
-      "amount": 45,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "sweet-vermouth_117",
-      "name": "Sweet Vermouth",
-      "strength": 18,
-      "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
-      "origin": "Worldwide",
-      "category": "Fortified wine",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "grenadine-syrup_112",
-      "name": "Grenadine Syrup",
-      "strength": 0,
-      "description": "Fruit syrup made from pomegranates.",
-      "origin": "Worldwide",
-      "category": "Syrups",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "lime-juice_59",
-      "name": "Lime juice",
-      "strength": 0,
-      "description": "Freshly squeezed lime juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    },
-    {
-      "_id": "angostura-aromatic-bitters_22",
-      "name": "Angostura aromatic bitters",
-      "strength": 44.7,
-      "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
-      "origin": "Trinidad & Tobago",
-      "category": "Bitters",
-      "amount": 2,
-      "units": "dashes",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 5
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "queens-park-hotel-super-cocktail",
+    "name": "Queen's Park Hotel Super Cocktail",
+    "instructions": "Shake all ingredients with ice and strain into chilled glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": null,
+    "source": "https://www.cocktailexplorer.co/cocktails/queens-park-hotel-super-cocktail/anders-erickson/",
+    "garnish": "Lime zest",
+    "abv": 18.4,
+    "tags": [
+        "Savory",
+        "Sweet"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///queens-park-hotel-super-cocktail-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "TTgGFwYHaHd2eIWMhVaXeHdxhpQHOHkA",
+            "copyright": "Anders Erickson"
+        },
+        {
+            "uri": "file:///queens-park-hotel-super-cocktail-2.webp",
+            "sort": 2,
+            "placeholder_hash": "zgcKHwJmh3eAh3aMiSeXt3eEiUn4aYEP",
+            "copyright": "Steve The Bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "light-rum",
+            "name": "Light Rum",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 2,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "grenadine-syrup",
+            "name": "Grenadine Syrup",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 4,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 5,
+            "amount": 2,
+            "units": "dashes",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

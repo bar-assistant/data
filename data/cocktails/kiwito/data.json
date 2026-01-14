@@ -1,0 +1,104 @@
+{
+    "_id": "kiwito",
+    "name": "Kiwito",
+    "instructions": "1. Add all of the ingredients to a shaker and gently muddle the kiwi. Add ice and shake vigorously for 10 seconds. Fine strain into a glass filled with fresh ice. Garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "This extra-fruity riff on the classic Mojito recipe swaps out the traditional white rum for a split base of Brazilian cachaça and rhum agricole.",
+    "source": "https://imbibemagazine.com/recipe/kiwito-kiwi-mojito/",
+    "garnish": "Fresh kiwi, mint leaves",
+    "abv": 24.55,
+    "tags": [
+        "Fruity",
+        "Minty",
+        "Sour",
+        "Herbaceous"
+    ],
+    "glass": "Lowball",
+    "method": "Muddle",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///kiwito-1.webp",
+            "sort": 1,
+            "placeholder_hash": "2RgOFwR+l4dwl4hjZ4eGhmh4uDUJnnMA",
+            "copyright": "Imbibe Magazine"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "cachaca",
+            "name": "Cachaça",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "rhum-agricole",
+            "name": "Rhum agricole",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "kiwi",
+            "name": "Kiwi",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "part",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "mint",
+            "name": "Mint",
+            "sort": 5,
+            "amount": 3,
+            "units": "leaves",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sugar",
+            "name": "Sugar",
+            "sort": 6,
+            "amount": 2,
+            "units": "barspoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

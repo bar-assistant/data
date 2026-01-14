@@ -1,27 +1,27 @@
 {
-  "_id": "blue-curacao_55",
-  "_parent_id": "orange-curacao_53",
-  "name": "Blue Curaçao",
-  "strength": 20,
-  "description": "Curaçao with added blue dye. Blue Curaçao has a sweet and slightly bitter orange flavor with citrus undertones. It is a versatile mixer, adding both color and a distinct citrusy taste to a variety of drinks, including tropical cocktails like the Blue Lagoon and the Blue Margarita.",
-  "origin": "Netherlands",
-  "color": "#0192fe",
-  "category": "Liqueurs > Orange Curaçao",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///blue-curacao-1_5oVY0T.png",
-      "sort": 1,
-      "placeholder_hash": "55WRVRIeeHiAiHeoeIdweAiHCAiIiIdnaA",
-      "copyright": "Monin"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "blue-curacao",
+    "_parent_id": "orange-curacao",
+    "name": "Blue Curaçao",
+    "strength": 20,
+    "description": "Curaçao with added blue dye. Blue Curaçao has a sweet and slightly bitter orange flavor with citrus undertones. It is a versatile mixer, adding both color and a distinct citrusy taste to a variety of drinks, including tropical cocktails like the Blue Lagoon and the Blue Margarita.",
+    "origin": "Netherlands",
+    "color": "#0192fe",
+    "category": "Liqueurs > Orange Curaçao",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///blue-curacao-1.png",
+            "sort": 1,
+            "placeholder_hash": "55WRVRIeeHiAiHeoeIdweAiHCAiIiIdnaA",
+            "copyright": "Monin"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

@@ -1,84 +1,72 @@
 {
-  "_id": "hot-toddy_276",
-  "name": "Hot Toddy",
-  "instructions": "1. Add spirit and honey or maple syrup to a mug.\n2. Top with hot water and stir gently to dissolve honey or maple syrup.\n3. Garnish with a lemon wheel and a cinnamon stick.",
-  "created_at": null,
-  "updated_at": null,
-  "description": "This version of the hot toddy recipe is a template prime for riffing with a base of any dark spirit, hot water, citrus, honey and spices.",
-  "source": "https://punchdrink.com/recipes/hot-toddy/",
-  "garnish": "lemon wheel and cinnamon stick",
-  "abv": 8.73,
-  "tags": [
-    "Savory",
-    "Hot"
-  ],
-  "glass": "Glass mug",
-  "method": "Build",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///hot-toddy_iavtNF.webp",
-      "sort": 1,
-      "placeholder_hash": "DSkKLwYHiIdplHZzmoaHWZd3iKAnCHoD",
-      "copyright": "Cocktail Club"
-    },
-    {
-      "uri": "file:///hot-toddy_Ve4nUo.jpg",
-      "sort": 2,
-      "placeholder_hash": "5BgKDwJXSWh/iHeBZ9pYR6d39/so/WoM",
-      "copyright": "Punch Staff | Daniel Krieger"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "bourbon-whiskey_82",
-      "name": "Bourbon Whiskey",
-      "strength": 40,
-      "description": "A type of American whiskey, primarily made from corn and aged in new charred oak barrels. Bourbon has a sweet and full-bodied flavor profile.\n\nTo be labeled as bourbon, a whiskey must meet the following criteria:\n\n1. Grain Mash Composition: Bourbon must be made from a grain mash that is at least 51% corn. The remaining portion of the mash can include other grains such as barley, rye, and wheat.\n\n2. Distillation: Bourbon must be distilled to no more than 160 proof (80% alcohol by volume) and entered into the barrel for aging at no more than 125 proof (62.5% alcohol by volume).\n\n3. Barrel Aging: Bourbon must be aged in new charred oak barrels. There is no minimum aging requirement for bourbon, but to be labeled as \"straight bourbon,\" it must be aged for at least two years.\n\n4. No Additives: Bourbon must not contain any additives except water to adjust the proof.\n\n5. Bottling Strength: Bourbon must be bottled at a minimum of 80 proof (40% alcohol by volume).\n\n6. Geographic Origin: While bourbon can be produced anywhere in the United States, it is strongly associated with Kentucky, and many consider Kentucky bourbon to be a distinctive category.",
-      "origin": "North America",
-      "category": "Whiskey",
-      "amount": 45,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "honey-syrup_110",
-      "name": "Honey Syrup",
-      "strength": 0,
-      "description": "Syrup made from dissolving honey in water.",
-      "origin": "Worldwide",
-      "category": "Simple Syrup",
-      "amount": 22.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "water_67",
-      "name": "Water",
-      "strength": 0,
-      "description": "It's water.",
-      "origin": "Worldwide",
-      "category": "Beverages",
-      "amount": 120,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "hot-toddy",
+    "name": "Hot Toddy",
+    "instructions": "1. Add spirit and honey or maple syrup to a mug.\n2. Top with hot water and stir gently to dissolve honey or maple syrup.\n3. Garnish with a lemon wheel and a cinnamon stick.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "This version of the hot toddy recipe is a template prime for riffing with a base of any dark spirit, hot water, citrus, honey and spices.",
+    "source": "https://punchdrink.com/recipes/hot-toddy/",
+    "garnish": "lemon wheel and cinnamon stick",
+    "abv": 8.73,
+    "tags": [
+        "Savory",
+        "Hot"
+    ],
+    "glass": "Glass mug",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///hot-toddy-1.webp",
+            "sort": 1,
+            "placeholder_hash": "DSkKLwYHiIdplHZzmoaHWZd3iKAnCHoD",
+            "copyright": "Cocktail Club"
+        },
+        {
+            "uri": "file:///hot-toddy-2.jpg",
+            "sort": 2,
+            "placeholder_hash": "5BgKDwJXSWh/iHeBZ9pYR6d39/so/WoM",
+            "copyright": "Punch Staff | Daniel Krieger"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "bourbon-whiskey",
+            "name": "Bourbon Whiskey",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "water",
+            "name": "Water",
+            "sort": 3,
+            "amount": 120,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

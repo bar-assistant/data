@@ -1,0 +1,65 @@
+{
+    "_id": "enzo",
+    "name": "Enzo",
+    "instructions": "1. Add the first three ingredients to a Collins or highball glass over ice.\n2. Top with soda water and garnish with an orange peel or a half-slice.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Enzo is an Americano cocktail made with a Ferrari, the 50/50 shot of fernet amaro and Campari. Here’s the easy aperitivo recipe.",
+    "source": "https://punchdrink.com/recipes/enzo/",
+    "garnish": "orange peel or half-slice",
+    "abv": 22.73,
+    "tags": [
+        "Bitter"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///enzo-1.webp",
+            "sort": 1,
+            "placeholder_hash": "zDgOPwwImJd4h3h3d1end3eHd4BXB3cG",
+            "copyright": "Punch Staff | Scott Suchman"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "fernet-branca",
+            "name": "Fernet Branca",
+            "sort": 1,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 3,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Carpano Antica",
+            "substitutes": []
+        }
+    ]
+}

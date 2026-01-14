@@ -1,0 +1,20 @@
+{
+    "_id": "apple-cider-vinegar",
+    "_parent_id": null,
+    "name": "Apple cider vinegar",
+    "strength": 0,
+    "description": null,
+    "origin": null,
+    "color": null,
+    "category": null,
+    "created_at": null,
+    "updated_at": null,
+    "images": [],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

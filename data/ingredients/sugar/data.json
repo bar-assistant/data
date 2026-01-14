@@ -1,35 +1,27 @@
 {
-  "_id": "sugar_16",
-  "_parent_id": "sweeteners_1387",
-  "name": "Sugar",
-  "strength": 0,
-  "description": "White sugar",
-  "origin": null,
-  "color": null,
-  "category": "Sweeteners",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///sugar.png",
-      "sort": 1,
-      "placeholder_hash": "dgiCBQA0mXN8hGoER1NwNAVIB5iId4F7hw",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [
-    {
-      "price_category_name": "Hrvatska",
-      "price": 99,
-      "currency": "EUR",
-      "amount": 1,
-      "units": "kg"
-    }
-  ],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "cube"
+    "_id": "sugar",
+    "_parent_id": "sweeteners",
+    "name": "Sugar",
+    "strength": 0,
+    "description": "White sugar",
+    "origin": null,
+    "color": null,
+    "category": "Sweeteners",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///sugar-1.png",
+            "sort": 1,
+            "placeholder_hash": "dgiCBQA0mXN8hGoER1NwNAVIB5iId4F7hw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "cube"
 }

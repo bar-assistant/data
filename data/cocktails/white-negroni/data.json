@@ -1,100 +1,80 @@
 {
-  "_id": "white-negroni_95",
-  "name": "White Negroni",
-  "instructions": "1. Combine all ingredients with ice and stir\n2. Strain into a lowball glass",
-  "created_at": null,
-  "updated_at": null,
-  "description": "The White Negroni is a fabulous use of the gentian&#039;s powers, and a downright brilliant twist on a bonafide classic. All of the flavor components of a classic Negroni are present, but only the gin remains verbatim.",
-  "source": "https://tuxedono2.com/white-negroni-cocktail-recipe",
-  "garnish": "Lemon peel",
-  "abv": 20,
-  "tags": [
-    "Negroni"
-  ],
-  "glass": "Lowball",
-  "method": "Stir",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///white-negroni.jpg",
-      "sort": 1,
-      "placeholder_hash": "URkKLwRKSfqAdnl2fRmYqYeJqQJ4aJAJ",
-      "copyright": "A Couple Cooks"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "gin_75",
-      "name": "Gin",
-      "strength": 40,
-      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
-      "origin": "Worldwide",
-      "category": "Spirits",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "suze_36",
-      "name": "Suze",
-      "strength": 15,
-      "description": "Bitter flavored drink made with the roots of the plant gentian.",
-      "origin": "Switzerland",
-      "category": "Gentian Liqueur",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "lillet-blanc_123",
-      "name": "Lillet Blanc",
-      "strength": 17,
-      "description": "Lillet Blanc is a French aperitif wine that falls under the category of aromatized wines. It is crafted from a blend of white wine and citrus liqueurs, primarily made from sweet oranges from Spain and bitter green oranges from Morocco. Lillet Blanc is known for its light and floral profile, with hints of citrus, honey, and a subtle bitterness.",
-      "origin": "France",
-      "category": "Fortified wine",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [
+    "_id": "white-negroni",
+    "name": "White Negroni",
+    "instructions": "1. Combine all ingredients with ice and stir\n2. Strain into a lowball glass",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The White Negroni is a fabulous use of the gentian&#039;s powers, and a downright brilliant twist on a bonafide classic. All of the flavor components of a classic Negroni are present, but only the gin remains verbatim.",
+    "source": "https://tuxedono2.com/white-negroni-cocktail-recipe",
+    "garnish": "Lemon peel",
+    "abv": 20,
+    "tags": [
+        "Negroni"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": "negroni",
+    "year": null,
+    "images": [
         {
-          "_id": "vermouth-bianco_185",
-          "name": "Vermouth Bianco",
-          "strength": 15,
-          "description": "First launched way back in 1910, Bianco is a wonderful style of vermouth. First inspired by the white flowers of vanilla plants, the bottling has been nicknamed ‘Bianchissimo’, meaning “the whitest of the white”.\n\nWhilst it looks like a dry vermouth, this is a sweeter style, which offers flavours of juicy citrus, berries, peaches and apricots, some mixed herbs, a touch of charcoal, vanilla, honey, apples, and some faint herby bitterness.\n\nDelicate and well balanced, this vermouth is a bartender’s dream, offering sweet complexity that is perfect in White Negronis and Martini style drinks.",
-          "origin": "Italy",
-          "category": "Fortified wine",
-          "amount": null,
-          "units": null,
-          "amount_max": null
+            "uri": "file:///white-negroni-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "URkKLwRKSfqAdnl2fRmYqYeJqQJ4aJAJ",
+            "copyright": "A Couple Cooks"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
         },
         {
-          "_id": "cocchi-aperitivo-americano_170",
-          "name": "Cocchi Aperitivo Americano",
-          "strength": 16.5,
-          "description": "Cocchi Americano is an aromatized wine created in 1891 by Giulio Cocchi and since then produced without interruption according to the original recipe.\nThe name “Americano” is both due to the alcohol made bitter (“amaricato”) by the addition of herbs and spices and to the American habit of drinking vermouth with ice and soda.\nProduced according to Giulio Cocchi original recipe, Cocchi Americano is recognized in Asti as the aperitif par excellence – a real piece of history of our town.\nOn its label the original futurist rooster designed in the 30’s and representing his aperitif function (“it awakes the appetite”) as well as one of the symbols of the town of Asti.",
-          "origin": "Italy",
-          "category": "Dry Vermouth",
-          "amount": null,
-          "units": null,
-          "amount_max": null
+            "_id": "suze",
+            "name": "Suze",
+            "sort": 2,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lillet-blanc",
+            "name": "Lillet Blanc",
+            "sort": 3,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "vermouth-bianco",
+                    "name": "Vermouth Bianco",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                },
+                {
+                    "_id": "cocchi-aperitivo-americano",
+                    "name": "Cocchi Aperitivo Americano",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ]
         }
-      ],
-      "sort": 3
-    }
-  ],
-  "parent_cocktail_id": "negroni_54",
-  "year": null
+    ]
 }

@@ -1,0 +1,97 @@
+{
+    "_id": "pinch-hitter",
+    "name": "Pinch Hitter",
+    "instructions": "1. Shake all of the ingredients with ice until chilled and foamy, then strain into a chilled glass and garnish.\n2. Ginger SyrupHeat 1 cup of white sugar and 1 cup of water in a saucepan until the sugar dissolves. Remove from the heat and add 2 Tbsp. of grated ginger (with skin). Allow to cool. Add a squeeze of lemon juice and strain out the ginger. If you prefer a spicier ginger syrup, add a few dashes of freshly squeezed ginger juice before straining.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "“This is, truthfully, some version of lemonade,” says Derek Brown, author of Mindful Mixology: A Comprehensive Guide to No- and Low-Alcohol Cocktails. “But I added a few components to make it more complex and compelling.” Together, these components add balance and a spicy spark, as well as depth, complexity, and body, taking a basic lemonade into cocktail territory. Aquafaba is the liquid accompanying canned or cooked chickpeas, and functions as a foaming ingredient.",
+    "source": "https://imbibemagazine.com/recipe/derek-brown-pinch-hitter-recipe/?utm_source=Tasting+Notes&utm_campaign=63ddc7e926-imb-rotw-spiced-pear_COPY_01&utm_medium=email&utm_term=0_34951449a6-63ddc7e926-114967543&mc_cid=63ddc7e926",
+    "garnish": "Lemon wheel",
+    "abv": 0,
+    "tags": [
+        "Virgin"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///pinch-hitter-1.webp",
+            "sort": 1,
+            "placeholder_hash": "MfgFFwL+iIlOtYhopmmYVqyfjvRXDK8D",
+            "copyright": "Imbibe Magazine | John Valls"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "ginger-syrup",
+            "name": "Ginger syrup",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "apple-cider-vinegar",
+            "name": "Apple cider vinegar",
+            "sort": 3,
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "aquafaba",
+            "name": "Aquafaba",
+            "sort": 4,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "egg-white",
+                    "name": "Egg White",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ]
+        },
+        {
+            "_id": "saline-solution",
+            "name": "Saline solution",
+            "sort": 5,
+            "amount": 6,
+            "units": "drops",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "4 parts water to 1 part sea salt",
+            "substitutes": []
+        }
+    ]
+}

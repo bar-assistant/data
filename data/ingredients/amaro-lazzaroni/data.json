@@ -1,0 +1,27 @@
+{
+    "_id": "amaro-lazzaroni",
+    "_parent_id": "amaro",
+    "name": "Amaro Lazzaroni",
+    "strength": 32,
+    "description": "First created in the late 1800s, Lazzaroni Amaro is still crafted today using the original family recipe. This all-natural Italian liqueur is made by infusing traditional Alpine herbs, roots, and berries—resulting in a beautifully balanced, bittersweet digestif.",
+    "origin": "Italy",
+    "color": "#A0785A",
+    "category": "Apéritif > Amaro",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///amaro-lazzaroni-1.webp",
+            "sort": 0,
+            "placeholder_hash": "TQiCBQAziGd/gIjXeHd3cFcHB9eGeXaIhw",
+            "copyright": "Lazzaroni"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

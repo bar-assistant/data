@@ -1,27 +1,27 @@
 {
-  "_id": "creme-de-menthe_178",
-  "_parent_id": "creme-de_949",
-  "name": "Crème de menthe",
-  "strength": 20,
-  "description": "Sweet, mint-flavored alcoholic beverage. It is available commercially in a colorless version (called \"white\") and a green version (colored by the mint leaves or by added coloring if made from extract instead of leaves). Both varieties have similar flavor and are interchangeable in recipes, except where color is important. It is usually made with Corsican mint or peppermint, which is steeped in grain alcohol for several weeks before it is filtered and sweetened to create the final product. It typically has 25% alcohol by volume.",
-  "origin": "France",
-  "color": "#ddfdc8",
-  "category": "Crème de",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///creme-de-menthe_BdqwQ5.jpg",
-      "sort": 1,
-      "placeholder_hash": "2ZiFBQRFiWNzi39hp3WOkFf3CLeGeIZ4eA",
-      "copyright": "Giffard"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "creme-de-menthe",
+    "_parent_id": "creme-de",
+    "name": "Crème de menthe",
+    "strength": 20,
+    "description": "Sweet, mint-flavored alcoholic beverage. It is available commercially in a colorless version (called \"white\") and a green version (colored by the mint leaves or by added coloring if made from extract instead of leaves). Both varieties have similar flavor and are interchangeable in recipes, except where color is important. It is usually made with Corsican mint or peppermint, which is steeped in grain alcohol for several weeks before it is filtered and sweetened to create the final product. It typically has 25% alcohol by volume.",
+    "origin": "France",
+    "color": "#ddfdc8",
+    "category": "Crème de",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///creme-de-menthe-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "2ZiFBQRFiWNzi39hp3WOkFf3CLeGeIZ4eA",
+            "copyright": "Giffard"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

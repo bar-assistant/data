@@ -1,0 +1,99 @@
+{
+    "_id": "norwegian-paralysis",
+    "name": "Norwegian Paralysis",
+    "instructions": "1. Combine all of the ingredients in a cocktail shaker.\n2. Add ice and shake until chilled.\n3. Strain into a cocktail glass over fresh cracked ice.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Scandinavian aquavit is not the first spirit that comes to mind when thinking about tropical tiki libations. However, Martin Cate managed to blend this distinct flavoured spirit into a fruity and indulgent cocktail seemingly with ease and the result is remarkable.\n\nAquavit lays a solid foundation for the cocktail with unmistakable notes of caraway and anise, which are then paired with gentle sweet citrus of orange and vibrant fruitiness of pineapple. Lemon juice introduces a touch of bright and refreshing tartness later balanced by deep molasses of demerara syrup and almond nuttiness of orgeat.\n\nAll in all, Norwegian Paralysis is a quite unique tiki cocktail with rather complex flavour profile. Delicious to the very last drop.",
+    "source": "https://www.grouchy-bartender.com/cocktails/norwegian-paralysis",
+    "garnish": "Garnish with skewered cherry, sprig of mint and an orange twist.",
+    "abv": 8.18,
+    "tags": [],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///norwegian-paralysis-1.webp",
+            "sort": 1,
+            "placeholder_hash": "iAgKLwQIt3h3iXd1iWaXiHiIeVBHB4ME",
+            "copyright": "grouchy bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "aquavit",
+            "name": "Aquavit",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orgeat-syrup",
+            "name": "Orgeat Syrup",
+            "sort": 2,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "demerara-syrup",
+            "name": "Demerara Syrup",
+            "sort": 3,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 4,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "sort": 5,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "sort": 6,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

@@ -1,27 +1,27 @@
 {
-  "_id": "vodka-citron_80",
-  "_parent_id": "vodka_78",
-  "name": "Vodka Citron",
-  "strength": 40,
-  "description": "Vodka with added lemon essence.",
-  "origin": "Sweden",
-  "color": "#ffffff",
-  "category": "Spirits > Vodka",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///vodka-citron.png",
-      "sort": 1,
-      "placeholder_hash": "dwiCDQAziVRxjXc3CHd6gJcHCMd2iXaJeA",
-      "copyright": "Absolut"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": null
+    "_id": "vodka-citron",
+    "_parent_id": "vodka",
+    "name": "Vodka Citron",
+    "strength": 40,
+    "description": "Vodka with added lemon essence.",
+    "origin": "Sweden",
+    "color": "#ffffff",
+    "category": "Spirits > Vodka",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///vodka-citron-1.png",
+            "sort": 1,
+            "placeholder_hash": "dwiCDQAziVRxjXc3CHd6gJcHCMd2iXaJeA",
+            "copyright": "Absolut"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
 }

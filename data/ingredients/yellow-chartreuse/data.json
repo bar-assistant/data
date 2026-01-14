@@ -1,35 +1,27 @@
 {
-  "_id": "yellow-chartreuse_42",
-  "_parent_id": "liqueurs_939",
-  "name": "Yellow Chartreuse",
-  "strength": 40,
-  "description": "Yellow Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is a milder and slightly sweeter version of Green Chartreuse, another famous liqueur produced by the same monks. Yellow Chartreuse is characterized by its yellow color and a complex flavor profile derived from a secret blend of 130 herbs and botanicals. It has a sweet and honeyed taste with herbal, floral, and spicy notes.",
-  "origin": "France",
-  "color": "#fbfb4b",
-  "category": "Liqueurs",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///yellow-chartreuse.png",
-      "sort": 1,
-      "placeholder_hash": "nyyGPQI8CWeNdXSKl0iPg/Q3ByeGh3ZneA",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [
-    {
-      "price_category_name": "Hrvatska",
-      "price": 5200,
-      "currency": "EUR",
-      "amount": 700,
-      "units": "ml"
-    }
-  ],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "yellow-chartreuse",
+    "_parent_id": "liqueurs",
+    "name": "Yellow Chartreuse",
+    "strength": 40,
+    "description": "Yellow Chartreuse is a herbal liqueur made by the Carthusian monks in France. It is a milder and slightly sweeter version of Green Chartreuse, another famous liqueur produced by the same monks. Yellow Chartreuse is characterized by its yellow color and a complex flavor profile derived from a secret blend of 130 herbs and botanicals. It has a sweet and honeyed taste with herbal, floral, and spicy notes.",
+    "origin": "France",
+    "color": "#fbfb4b",
+    "category": "Liqueurs",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///yellow-chartreuse-1.png",
+            "sort": 1,
+            "placeholder_hash": "nyyGPQI8CWeNdXSKl0iPg/Q3ByeGh3ZneA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

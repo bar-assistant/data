@@ -1,122 +1,98 @@
 {
-  "_id": "old-salt_268",
-  "name": "Old Salt",
-  "instructions": "1. Combine all ingredients in a cocktail shaker, but do not shake.\n2. Pour directly over ice into a 10-ounce Collins glass.",
-  "created_at": null,
-  "updated_at": null,
-  "description": "A cross between the Paloma and Salty Dog cocktails, this gin or tequila drink recipe calls for fluffy grapefruit juice and saline solution.",
-  "source": "https://punchdrink.com/recipes/old-salt/",
-  "garnish": "Garnish with an oversized salted grapefruit wedge on top.",
-  "abv": 8.36,
-  "tags": [
-    "Sour",
-    "Citrusy"
-  ],
-  "glass": "Highball",
-  "method": "Build",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///old-salt_3Sz4Qe.jpg",
-      "sort": 1,
-      "placeholder_hash": "5RgKDwR/tGiQdnl3qGWXZ4iGB/JmA2oG",
-      "copyright": "Punch Staff"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "tequila-blanco_91",
-      "name": "Tequila Blanco",
-      "strength": 40,
-      "description": "Tequila is a distilled alcoholic beverage made from the fermented juice of the blue agave plant, primarily grown in the Jalisco region of Mexico. The production of tequila is regulated by Mexican law, specifying the geographical areas where it can be produced and the methods used in its production.\n\nTequila Blanco, also known as Tequila Silver or Tequila Plata, is a type of tequila that is typically unaged or aged for a very short period. It is the purest expression of the blue agave flavor, as it is not influenced by the characteristics of aging in oak barrels.\n\nBlanco tequila is a popular choice for those who want to experience the true essence of the agave plant without the influence of aging. It provides a lively and authentic representation of tequila's primary ingredient.",
-      "origin": "Mexico",
-      "category": "Tequila",
-      "amount": 45,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [
+    "_id": "old-salt",
+    "name": "Old Salt",
+    "instructions": "1. Combine all ingredients in a cocktail shaker, but do not shake.\n2. Pour directly over ice into a 10-ounce Collins glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A cross between the Paloma and Salty Dog cocktails, this gin or tequila drink recipe calls for fluffy grapefruit juice and saline solution.",
+    "source": "https://punchdrink.com/recipes/old-salt/",
+    "garnish": "Garnish with an oversized salted grapefruit wedge on top.",
+    "abv": 8.36,
+    "tags": [
+        "Sour",
+        "Citrusy"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": "paloma",
+    "year": null,
+    "images": [
         {
-          "_id": "gin_75",
-          "name": "Gin",
-          "strength": 40,
-          "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
-          "origin": "Worldwide",
-          "category": "Spirits",
-          "amount": null,
-          "units": null,
-          "amount_max": null
+            "uri": "file:///old-salt-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "5RgKDwR/tGiQdnl3qGWXZ4iGB/JmA2oG",
+            "copyright": "Punch Staff"
         }
-      ],
-      "sort": 1
-    },
-    {
-      "_id": "simple-syrup_108",
-      "name": "Simple Syrup",
-      "strength": 0,
-      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
-      "origin": null,
-      "category": "Syrups",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "lime-juice_59",
-      "name": "Lime juice",
-      "strength": 0,
-      "description": "Freshly squeezed lime juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "saline-solution_176",
-      "name": "Saline solution",
-      "strength": 0,
-      "description": "20% saline\n\nSaline solution, often simply referred to as salt solution, is a mixture of water and sodium chloride (salt). It's a surprisingly versatile ingredient, primarily used to enhance and balance flavors rather than contribute a distinct taste of its own. The precise ratio of salt to water can be adjusted to achieve different levels of intensity, though a standard ratio is typically employed. It's a fundamental component in many culinary applications beyond beverages, often used to season food and create brines.\n\nBeyond its simple composition, saline solution plays a crucial role in manipulating perceived sweetness and acidity. A small addition can soften harsh edges and create a more rounded, palatable experience. It's important to note that the quality of the salt used significantly impacts the final product; finer salts generally dissolve more readily and provide a more consistent result. The ingredient is often used to create a 'salty' rim for glasses, or to add a subtle savory note to drinks.",
-      "origin": null,
-      "category": null,
-      "amount": 2,
-      "units": "dash",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    },
-    {
-      "_id": "grapefruit-juice_61",
-      "name": "Grapefruit juice",
-      "strength": 0,
-      "description": "Freshly squeezed grapefruit juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 120,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 5
-    }
-  ],
-  "parent_cocktail_id": "paloma_137",
-  "year": null
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "gin",
+                    "name": "Gin",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ]
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 2,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "saline-solution",
+            "name": "Saline solution",
+            "sort": 4,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "grapefruit-juice",
+            "name": "Grapefruit juice",
+            "sort": 5,
+            "amount": 120,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

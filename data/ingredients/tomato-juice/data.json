@@ -1,27 +1,27 @@
 {
-  "_id": "tomato-juice_63",
-  "_parent_id": "juices_940",
-  "name": "Tomato juice",
-  "strength": 0,
-  "description": "Juice made from tomatoes.",
-  "origin": null,
-  "color": "#f16624",
-  "category": "Juices",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///tomato-juice.png",
-      "sort": 1,
-      "placeholder_hash": "YfuGDQJWm0B5hneXiAlrAkN4B5iHeId4eA",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "tomato-juice",
+    "_parent_id": "juices",
+    "name": "Tomato juice",
+    "strength": 0,
+    "description": "Juice made from tomatoes.",
+    "origin": null,
+    "color": "#f16624",
+    "category": "Juices",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///tomato-juice-1.png",
+            "sort": 1,
+            "placeholder_hash": "YfuGDQJWm0B5hneXiAlrAkN4B5iHeId4eA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

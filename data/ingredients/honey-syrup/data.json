@@ -1,52 +1,88 @@
 {
-  "_id": "honey-syrup_110",
-  "_parent_id": "simple-syrup_108",
-  "name": "Honey Syrup",
-  "strength": 0,
-  "description": "Syrup made from dissolving honey in water.",
-  "origin": "Worldwide",
-  "color": "#f2a900",
-  "category": "Syrups > Simple Syrup",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///honey-syrup.png",
-      "sort": 1,
-      "placeholder_hash": "7GqOVQo8iGeAeXioh3iPd/Z3CCiHd4d3eA",
-      "copyright": "Monin"
-    }
-  ],
-  "ingredient_parts": [
-    {
-      "_id": "honey_736",
-      "name": "Honey",
-      "strength": 0,
-      "description": "Honey is a naturally sweet substance produced by bees from the nectar of flowers. It's a viscous liquid composed primarily of sugars (fructose and glucose), water, and small amounts of minerals, vitamins, enzymes, and amino acids. The flavor profile of honey varies greatly depending on the floral source – some varieties are light and delicate, while others possess bolder, more complex notes. It's prized not only for its sweetness but also for its unique aromatic qualities and potential health benefits.\n\nBeyond its culinary uses, honey has a long history of use in traditional medicine and as a preservative. The consistency can range from thin and runny to thick and crystallized, depending on factors like temperature and storage. Different floral sources impart distinct characteristics, influencing the overall taste and texture. It's a versatile ingredient that can be used in a wide variety of applications, adding sweetness and complexity.\n\nMake sure you get the real stuff, not “honey-flavored syrup.”",
-      "origin": null,
-      "category": "Fruits and vegetables"
-    },
-    {
-      "_id": "sugar_16",
-      "name": "Sugar",
-      "strength": 0,
-      "description": "White sugar",
-      "origin": null,
-      "category": "Sweeteners"
-    },
-    {
-      "_id": "water_67",
-      "name": "Water",
-      "strength": 0,
-      "description": "It's water.",
-      "origin": "Worldwide",
-      "category": "Beverages"
-    }
-  ],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "honey-syrup",
+    "_parent_id": "simple-syrup",
+    "name": "Honey Syrup",
+    "strength": 0,
+    "description": "Syrup made from dissolving honey in water.",
+    "origin": "Worldwide",
+    "color": "#f2a900",
+    "category": "Sweeteners > Syrups > Simple Syrup",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///honey-syrup-1.png",
+            "sort": 1,
+            "placeholder_hash": "7GqOVQo8iGeAeXioh3iPd/Z3CCiHd4d3eA",
+            "copyright": "Monin"
+        }
+    ],
+    "ingredient_parts": [
+        {
+            "_id": "honey",
+            "_parent_id": null,
+            "name": "Honey",
+            "strength": 0,
+            "description": "Honey is a naturally sweet substance produced by bees from the nectar of flowers. It's a viscous liquid composed primarily of sugars (fructose and glucose), water, and small amounts of minerals, vitamins, enzymes, and amino acids. The flavor profile of honey varies greatly depending on the floral source – some varieties are light and delicate, while others possess bolder, more complex notes. It's prized not only for its sweetness but also for its unique aromatic qualities and potential health benefits.\n\nBeyond its culinary uses, honey has a long history of use in traditional medicine and as a preservative. The consistency can range from thin and runny to thick and crystallized, depending on factors like temperature and storage. Different floral sources impart distinct characteristics, influencing the overall taste and texture. It's a versatile ingredient that can be used in a wide variety of applications, adding sweetness and complexity.\n\nMake sure you get the real stuff, not “honey-flavored syrup.”",
+            "origin": null,
+            "color": "#F0E68C",
+            "category": null,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "ingredient_parts": [],
+            "prices": [],
+            "calculator_id": null,
+            "sugar_g_per_ml": null,
+            "acidity": null,
+            "distillery": null,
+            "units": null
+        },
+        {
+            "_id": "sugar",
+            "_parent_id": null,
+            "name": "Sugar",
+            "strength": 0,
+            "description": "White sugar",
+            "origin": null,
+            "color": null,
+            "category": null,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "ingredient_parts": [],
+            "prices": [],
+            "calculator_id": null,
+            "sugar_g_per_ml": null,
+            "acidity": null,
+            "distillery": null,
+            "units": null
+        },
+        {
+            "_id": "water",
+            "_parent_id": null,
+            "name": "Water",
+            "strength": 0,
+            "description": "It's water.",
+            "origin": "Worldwide",
+            "color": "#fff",
+            "category": null,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "ingredient_parts": [],
+            "prices": [],
+            "calculator_id": null,
+            "sugar_g_per_ml": null,
+            "acidity": null,
+            "distillery": null,
+            "units": null
+        }
+    ],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

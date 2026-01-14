@@ -1,0 +1,113 @@
+{
+    "_id": "charles-dickens-punch",
+    "name": "Charles Dickens’ Punch",
+    "instructions": "1. A few hours before preparing the punch, peel 4 lemons with a vegetable peeler or paring knife to create 4 long spirals of peel. Put them in a heatproof bowl with 3/4 of a cup of demerara sugar. Muddle the peels and\nthe sugar together and let sit at room temperature. Juice the 4 peeled lemons (and any extra needed) through a strainer to yield 6 oz. of strained juice. Set aside in the fridge.\n2. Measure the rum and Cognac into a pitcher or other pouring vessel. To prepare the punch, boil the water and place the bowl containing the lemon peels and sugar on a wooden cutting board or other heat-resistant surface in an open area (free from clutter, flammable items, or nearby curtains or light fixtures) where everyone can gather around at a safe distance.\n3. Pour the Cognac and rum into the bowl. Use a long-handled barspoon to remove a spoonful of the rum-cognac mixture. Light the spoonful on fire with a match and hold it just above the surface of the bowl in order to ignite the rest of the liquid. Stir with the barspoon or a heatproof ladle to help dissolve the sugar. Let the mixture burn for 2 or 3 minutes, occasionally lifting out one of the lemon peels with the ladle or spoon to show the flames running down it.\n4. Cover the bowl with a large heatproof dish or tray to extinguish the flames. Add the lemon juice and the hot water. (For cold punch, replace the hot water with 3 cups of cold water and add a 1-quart block of ice, made by freezing a quart bowl of water for 24 hours.) Stir. Grate fresh nutmeg over the top and ladle out in 3-ounce servings.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "“Dickens was a dedicated punch-maker and an inveterate showman,” says drinks historian David Wondrich, offering as proof this historic flaming punch from his 2010 book Punch: The Delights (and Dangers) of the Flowing Bowl. And with a simple list of ingredients and some fireproof tools, you, too, can add some razzle dazzle to your own holiday gathering. Be sure to use a heatproof bowl with a capacity of at least one gallon.",
+    "source": "https://imbibemagazine.com/recipe/charles-dickens-punch/",
+    "garnish": "Grated nutmeg",
+    "abv": 15.43,
+    "tags": [
+        "Punch"
+    ],
+    "glass": null,
+    "method": "Muddle",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///charles-dickens-punch-1.webp",
+            "sort": 1,
+            "placeholder_hash": "jSgGFwSXI4nglmosl0qZl2d02g+J+5YG",
+            "copyright": "Imbibe Magazine"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "brown-rum",
+            "name": "Brown Rum",
+            "sort": 1,
+            "amount": 10,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "jamaican-rum",
+            "name": "Jamaican Rum",
+            "sort": 2,
+            "amount": 10,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "high-proof Jamaican rum",
+            "substitutes": []
+        },
+        {
+            "_id": "cognac",
+            "name": "Cognac",
+            "sort": 3,
+            "amount": 8,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "VSOP",
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 4,
+            "amount": 6,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sugar",
+            "name": "Sugar",
+            "sort": 5,
+            "amount": 0.75,
+            "units": "cup",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Demerara",
+            "substitutes": []
+        },
+        {
+            "_id": "lemon",
+            "name": "Lemon",
+            "sort": 6,
+            "amount": 4,
+            "units": "whole",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "water",
+            "name": "Water",
+            "sort": 7,
+            "amount": 32,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Boiling, to top",
+            "substitutes": []
+        }
+    ]
+}

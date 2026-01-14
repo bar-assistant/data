@@ -1,0 +1,65 @@
+{
+    "_id": "hot-buttered-rum",
+    "name": "Hot Buttered Rum",
+    "instructions": "1. To a tempered mug, add 2 tablespoons of batter.\n2. Top with hot water and stir in the spirit to incorporate.\n3. Garnish with a cinnamon stick.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "At his NOLA bar, Jewel of the South, Chris Hannah relies on a number of flavored batters to kick up the Hot Buttered Rum cocktail recipe.",
+    "source": "https://punchdrink.com/recipes/chris-hannahs-hot-buttered-rum/",
+    "garnish": "cinnamon stick",
+    "abv": 33.33,
+    "tags": [
+        "Hot"
+    ],
+    "glass": null,
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///hot-buttered-rum-1.webp",
+            "sort": 1,
+            "placeholder_hash": "oAgKXxSPeIhRlnmDdUnFZ5mpmQdYeIAF",
+            "copyright": "Punch Staff | Emily Ferretti"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "sort": 1,
+            "amount": 1.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "batter",
+            "name": "Batter",
+            "sort": 2,
+            "amount": 2,
+            "units": "tablespoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "water",
+            "name": "Water",
+            "sort": 3,
+            "amount": 1,
+            "units": "topup",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Hot",
+            "substitutes": []
+        }
+    ]
+}

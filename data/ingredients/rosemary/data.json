@@ -1,0 +1,27 @@
+{
+    "_id": "rosemary",
+    "_parent_id": "spices",
+    "name": "Rosemary",
+    "strength": 0,
+    "description": "Rosemary is an aromatic evergreen herb belonging to the mint family, known for its distinctive piney and resinous fragrance. The plant itself is a woody shrub with needle-like leaves that are typically used fresh or dried in culinary applications. The intense aroma comes from volatile oils within the leaves, which contribute to a complex, slightly camphoraceous flavor profile. It's commonly used to infuse oils, vinegars, and other flavorings, and its strong scent makes it a versatile addition to both sweet and savory dishes.",
+    "origin": "Mediterranean",
+    "color": "#556B2F",
+    "category": "Spices",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///rosemary-1.webp",
+            "sort": 0,
+            "placeholder_hash": "G9mBBQAjxZ1aZZwWCHCc8ximNXlnmKCLmg",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

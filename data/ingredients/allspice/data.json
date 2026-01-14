@@ -1,0 +1,27 @@
+{
+    "_id": "allspice",
+    "_parent_id": "spices",
+    "name": "Allspice",
+    "strength": 0,
+    "description": "Allspice berries are the dried, unripe fruit of the *Pimenta dioica* tree, native to the Caribbean and Central America. The name 'allspice' is derived from the fact that the berries possess a complex flavor profile reminiscent of a combination of several spices, including cinnamon, nutmeg, cloves, and pepper. They are harvested while still green and allowed to dry, which concentrates their aromatic compounds and creates a robust, intensely fragrant spice. Historically, allspice has been used both as a culinary ingredient and in traditional medicine throughout the regions where it is grown.",
+    "origin": "Jamaica",
+    "color": "#8B4513",
+    "category": "Spices",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///allspice-1.webp",
+            "sort": 0,
+            "placeholder_hash": "VTmCBQBGyZaMdWkDRj+G+VOZR2d4iIB5mA",
+            "copyright": "CC"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "whole"
+}

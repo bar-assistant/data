@@ -1,27 +1,27 @@
 {
-  "_id": "orange-flower-water_74",
-  "_parent_id": "beverages_945",
-  "name": "Orange Flower Water",
-  "strength": 0,
-  "description": "Clear aromatic by-product of the distillation of fresh bitter-orange blossoms for their essential oil.",
-  "origin": "Mediterranean",
-  "color": "#fff",
-  "category": "Beverages",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///orange-flower-water.png",
-      "sort": 1,
-      "placeholder_hash": "bCmCBQAieIaIZ38BN4d/c9kHB+iHeIaJdw",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "dashes"
+    "_id": "orange-flower-water",
+    "_parent_id": "beverages",
+    "name": "Orange Flower Water",
+    "strength": 0,
+    "description": "Clear aromatic by-product of the distillation of fresh bitter-orange blossoms for their essential oil.",
+    "origin": "Mediterranean",
+    "color": "#fff",
+    "category": "Beverages",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///orange-flower-water-1.png",
+            "sort": 1,
+            "placeholder_hash": "bCmCBQAieIaIZ38BN4d/c9kHB+iHeIaJdw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "dashes"
 }

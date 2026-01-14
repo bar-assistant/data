@@ -1,35 +1,27 @@
 {
-  "_id": "lemon-juice_58",
-  "_parent_id": "citrus-juice_960",
-  "name": "Lemon juice",
-  "strength": 0,
-  "description": "Freshly squeezed lemon juice.",
-  "origin": null,
-  "color": "#f3efda",
-  "category": "Juices > Citrus juice",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///lemon-juice.png",
-      "sort": 1,
-      "placeholder_hash": "NxmCDQBXXKBetaLZRaPALwrrB5iHeHd4eA",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [
-    {
-      "price_category_name": "Hrvatska",
-      "price": 100,
-      "currency": "EUR",
-      "amount": 150,
-      "units": "ml"
-    }
-  ],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "lemon-juice",
+    "_parent_id": "citrus-juice",
+    "name": "Lemon juice",
+    "strength": 0,
+    "description": "Freshly squeezed lemon juice.",
+    "origin": null,
+    "color": "#f3efda",
+    "category": "Juices > Citrus juice",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///lemon-juice-1.png",
+            "sort": 1,
+            "placeholder_hash": "NxmCDQBXXKBetaLZRaPALwrrB5iHeHd4eA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

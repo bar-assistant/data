@@ -1,27 +1,27 @@
 {
-  "_id": "activated-charcoal_180",
-  "_parent_id": null,
-  "name": "Activated charcoal",
-  "strength": 0,
-  "description": "Activated, food-grade charcoal became a food trend in 2016, being used as an additive to impart a \"slightly smoky\" taste and a dark coloring to products including hotdogs, ice cream, pizza bases and bagels.\n\n**Activated charcoal can interfere with many medications**",
-  "origin": "Worldwide",
-  "color": null,
-  "category": null,
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///activated-charcoal-1_h6PYBF.png",
-      "sort": 1,
-      "placeholder_hash": "BgiCBQArb5h/d1N5lwAAAAAAOHeDdYCWNw",
-      "copyright": "MOCAFE USA"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "capsule"
+    "_id": "activated-charcoal",
+    "_parent_id": null,
+    "name": "Activated charcoal",
+    "strength": 0,
+    "description": "Activated, food-grade charcoal became a food trend in 2016, being used as an additive to impart a \"slightly smoky\" taste and a dark coloring to products including hotdogs, ice cream, pizza bases and bagels.\n\n**Activated charcoal can interfere with many medications**",
+    "origin": "Worldwide",
+    "color": null,
+    "category": null,
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///activated-charcoal-1.png",
+            "sort": 1,
+            "placeholder_hash": "BgiCBQArb5h/d1N5lwAAAAAAOHeDdYCWNw",
+            "copyright": "MOCAFE USA"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "capsule"
 }

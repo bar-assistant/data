@@ -1,36 +1,48 @@
 {
-  "_id": "grapefruit-juice_61",
-  "_parent_id": "citrus-juice_960",
-  "name": "Grapefruit juice",
-  "strength": 0,
-  "description": "Freshly squeezed grapefruit juice.",
-  "origin": null,
-  "color": "#ed7500",
-  "category": "Juices > Citrus juice",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///grapefruit-juice.png",
-      "sort": 1,
-      "placeholder_hash": "XdyGDQJH2QCmZVxnug9sY4A1B5iHd3h4iA",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [
-    {
-      "_id": "grapefruit_192",
-      "name": "Grapefruit",
-      "strength": 0,
-      "description": "Grapefruit is a citrus fruit known for its slightly bitter and tangy flavor. It comes in various colors, including pink, red, and white, and is commonly eaten fresh, juiced, or used in salads and beverages. Grapefruit is rich in vitamins and antioxidants and is often enjoyed for its refreshing taste.",
-      "origin": "Barbados",
-      "category": "Fruits and vegetables"
-    }
-  ],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "grapefruit-juice",
+    "_parent_id": "citrus-juice",
+    "name": "Grapefruit juice",
+    "strength": 0,
+    "description": "Freshly squeezed grapefruit juice.",
+    "origin": null,
+    "color": "#ed7500",
+    "category": "Juices > Citrus juice",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///grapefruit-juice-1.png",
+            "sort": 1,
+            "placeholder_hash": "XdyGDQJH2QCmZVxnug9sY4A1B5iHd3h4iA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [
+        {
+            "_id": "grapefruit",
+            "_parent_id": null,
+            "name": "Grapefruit",
+            "strength": 0,
+            "description": "Grapefruit is a citrus fruit known for its slightly bitter and tangy flavor. It comes in various colors, including pink, red, and white, and is commonly eaten fresh, juiced, or used in salads and beverages. Grapefruit is rich in vitamins and antioxidants and is often enjoyed for its refreshing taste.",
+            "origin": "Barbados",
+            "color": "#ec770d",
+            "category": null,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "ingredient_parts": [],
+            "prices": [],
+            "calculator_id": null,
+            "sugar_g_per_ml": null,
+            "acidity": null,
+            "distillery": null,
+            "units": null
+        }
+    ],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

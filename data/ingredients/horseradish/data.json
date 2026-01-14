@@ -1,0 +1,27 @@
+{
+    "_id": "horseradish",
+    "_parent_id": "fruits-and-vegetables",
+    "name": "Horseradish",
+    "strength": 0,
+    "description": "Horseradish is a pungent root vegetable belonging to the mustard family, known for its sharp, distinctive flavor. It's typically grated or finely chopped to release its spicy oils, which are responsible for its characteristic heat. The intensity of the flavor can vary greatly depending on the variety and how it's prepared – freshly grated horseradish delivers the most potent kick, while prepared horseradish often has a milder taste due to the addition of vinegar and other stabilizing ingredients. Its unique profile adds a surprising complexity to a variety of dishes.",
+    "origin": "Russia",
+    "color": "#FFFFFF",
+    "category": "Fruits and vegetables",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///horseradish-1.webp",
+            "sort": 0,
+            "placeholder_hash": "rEqGBQA4Yjl/iJxKZk+20DQKSIlteWBIWA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

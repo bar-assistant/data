@@ -1,109 +1,89 @@
 {
-  "_id": "humuhumunukunukuapuaa_247",
-  "name": "Humuhumunukunukuapua'a",
-  "instructions": "1. Add all ingredients to a cocktail shaker\n2. Add ice and shake hard for 10 seconds\n3. Strain into a chilled rocks glass filled with crushed ice",
-  "created_at": null,
-  "updated_at": null,
-  "description": "This Smuggler's Cove original is hard to say but easy to drink. If you're wondering, Hawaii's state fish is the namesake.",
-  "source": "https://www.liberandcompany.com/collections/recipes/products/humuhumunukunukuapuaa",
-  "garnish": "orchid",
-  "abv": 16.06,
-  "tags": [
-    "Citrusy"
-  ],
-  "glass": "Lowball",
-  "method": "Shake",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///humuhumunukunukuapuaa_u3mcbH.jpg",
-      "sort": 1,
-      "placeholder_hash": "ThgGFwQKq2bXj4SDvqg3eXl2dgnLaKAI",
-      "copyright": "LiberAndCo | Subtle Tiki"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "gin_75",
-      "name": "Gin",
-      "strength": 40,
-      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
-      "origin": "Worldwide",
-      "category": "Spirits",
-      "amount": 60,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "lemon-juice_58",
-      "name": "Lemon juice",
-      "strength": 0,
-      "description": "Freshly squeezed lemon juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 22.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "orgeat-syrup_109",
-      "name": "Orgeat Syrup",
-      "strength": 0,
-      "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
-      "origin": null,
-      "category": "Simple Syrup",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "peychauds-bitters_25",
-      "name": "Peychauds Bitters",
-      "strength": 35,
-      "description": "It is a gentian-based bitters, comparable to Angostura bitters, but with a predominant anise aroma combined with a background of mint.",
-      "origin": "North America",
-      "category": "Bitters",
-      "amount": 2,
-      "units": "dash",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    },
-    {
-      "_id": "pineapple-juice_536",
-      "name": "Pineapple juice",
-      "strength": 0,
-      "description": "Pineapple juice is extracted by passing fresh, ripe pineapple through a juice extractor (juicer) or by muddling fresh cut pineapple chunks and then straining out the solids.",
-      "origin": null,
-      "category": "Juices",
-      "amount": 22.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 5
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "humuhumunukunukuapuaa",
+    "name": "Humuhumunukunukuapua'a",
+    "instructions": "1. Add all ingredients to a cocktail shaker\n2. Add ice and shake hard for 10 seconds\n3. Strain into a chilled rocks glass filled with crushed ice",
+    "created_at": null,
+    "updated_at": null,
+    "description": "This Smuggler's Cove original is hard to say but easy to drink. If you're wondering, Hawaii's state fish is the namesake.",
+    "source": "https://www.liberandcompany.com/collections/recipes/products/humuhumunukunukuapuaa",
+    "garnish": "orchid",
+    "abv": 16.06,
+    "tags": [
+        "Citrusy"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///humuhumunukunukuapuaa-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "ThgGFwQKq2bXj4SDvqg3eXl2dgnLaKAI",
+            "copyright": "LiberAndCo | Subtle Tiki"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orgeat-syrup",
+            "name": "Orgeat Syrup",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "peychauds-bitters",
+            "name": "Peychauds Bitters",
+            "sort": 4,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "sort": 5,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

@@ -1,96 +1,80 @@
 {
-  "_id": "seven-seas-swizzle_262",
-  "name": "Seven Seas Swizzle",
-  "instructions": "1. Build all the ingredients in the appropriate glass and add half the amount of necessary ice. \n2. Swizzle until the glass is cool.\n3. Top with ice and garnish.\n",
-  "created_at": null,
-  "updated_at": null,
-  "description": "In his recipe, Nick Batavia plays with green tea syrup and lime, for a riff on the Queen Park Swizzle with traditional punch ingredients.",
-  "source": "https://punchdrink.com/recipes/seven-seas-swizzle/",
-  "garnish": "Mint bouquet and dusting of nutmeg",
-  "abv": 24.25,
-  "tags": [
-    "Sour",
-    "Swizzle",
-    "Citrusy",
-    "Savory"
-  ],
-  "glass": "Highball",
-  "method": "Build",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///seven-seas-swizzle_wgXHpX.jpg",
-      "sort": 1,
-      "placeholder_hash": "m9cJHwIHdXjEhnV0iVd4h4aXeJCHB0YF",
-      "copyright": "Punch Staff"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "arrack_139",
-      "name": "Arrack",
-      "strength": 40,
-      "description": "Arrack is a distilled alcoholic drink typically produced in India, Sri Lanka and Southeast Asia, made from the fermented sap of coconut flowers or sugarcane, and also with grain (e.g. red rice) or fruit depending upon the country of origin.",
-      "origin": "India",
-      "category": "Sugarcane-based spirits",
-      "amount": 60,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "lime-juice_59",
-      "name": "Lime juice",
-      "strength": 0,
-      "description": "Freshly squeezed lime juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "simple-syrup_108",
-      "name": "Simple Syrup",
-      "strength": 0,
-      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
-      "origin": null,
-      "category": "Syrups",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "orange-bitters_21",
-      "name": "Orange bitters",
-      "strength": 28,
-      "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
-      "origin": "Worldwide",
-      "category": "Bitters",
-      "amount": 1,
-      "units": "dash",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "seven-seas-swizzle",
+    "name": "Seven Seas Swizzle",
+    "instructions": "1. Build all the ingredients in the appropriate glass and add half the amount of necessary ice. \n2. Swizzle until the glass is cool.\n3. Top with ice and garnish.\n",
+    "created_at": null,
+    "updated_at": null,
+    "description": "In his recipe, Nick Batavia plays with green tea syrup and lime, for a riff on the Queen Park Swizzle with traditional punch ingredients.",
+    "source": "https://punchdrink.com/recipes/seven-seas-swizzle/",
+    "garnish": "Mint bouquet and dusting of nutmeg",
+    "abv": 24.25,
+    "tags": [
+        "Sour",
+        "Swizzle",
+        "Citrusy",
+        "Savory"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///seven-seas-swizzle-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "m9cJHwIHdXjEhnV0iVd4h4aXeJCHB0YF",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "arrack",
+            "name": "Arrack",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 2,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 4,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

@@ -1,0 +1,133 @@
+{
+    "_id": "sex-work-is-real-work",
+    "name": "Sex Work Is Real Work",
+    "instructions": "1. Combine all ingredients in a blender.\n2. Blend until smooth and serve in your glass of choice.\n3. Garnish with edible flower and mint bouquet.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Christine Wiseman's cocktail recipe is a take on the frozen Pornstar Martini with additions of umami-forward umeboshi and Champagne acid.",
+    "source": "https://punchdrink.com/recipes/sex-work-is-real-work/",
+    "garnish": "edible flower and mint bouquet",
+    "abv": 11.75,
+    "tags": [
+        "Fruity"
+    ],
+    "glass": "Hurricane",
+    "method": "Blend",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///sex-work-is-real-work-1.webp",
+            "sort": 1,
+            "placeholder_hash": "0hgSLwQLl4dChoiaiUaXl2eXl6AoCIsC",
+            "copyright": "Punch Staff | Lizzie Munro"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "preferably Fords",
+            "substitutes": []
+        },
+        {
+            "_id": "chinola-passionfruit",
+            "name": "Chinola (Passionfruit)",
+            "sort": 2,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "passoa",
+                    "name": "Passoã",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ]
+        },
+        {
+            "_id": "licor-43",
+            "name": "Licor 43",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "passionfruit-puree",
+            "name": "Passionfruit puree",
+            "sort": 5,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sparkling-wine",
+            "name": "Sparkling wine",
+            "sort": 6,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "vanilla-syrup",
+            "name": "Vanilla syrup",
+            "sort": 7,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "crushed-ice",
+            "name": "Crushed ice",
+            "sort": 8,
+            "amount": 1,
+            "units": "cup",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

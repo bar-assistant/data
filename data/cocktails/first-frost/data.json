@@ -1,0 +1,63 @@
+{
+    "_id": "first-frost",
+    "name": "First Frost",
+    "instructions": "1. Add all of the ingredients to a shaker with ice.\n2. Shake vigorously until well chilled.\n3. Strain into a chilled coupe or rocks glass over a large ice cube.\n4. Garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Even though carrots are available year round, Isai Xolapa, beverage director of W Philadelphia's Living Room, wanted to celebrate how the veggie can lend an earthy warmth and a natural sweetness to cocktails. He layers the flavors with the slow heat of a homemade honey syrup infused with cloves and jalapeños.",
+    "source": "https://imbibemagazine.com/recipe/first-frost-carrot-cocktail/",
+    "garnish": "Sprig of fresh dill",
+    "abv": 10.67,
+    "tags": [],
+    "glass": null,
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///first-frost-1.webp",
+            "sort": 1,
+            "placeholder_hash": "zygGFwRGhJsvV3aVuVhnqXmK15AYHIcA",
+            "copyright": "Imbibe Magazine | Gab Bonghi"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "carrot-juice",
+            "name": "Carrot juice",
+            "sort": 1,
+            "amount": 3,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "vodka",
+            "name": "Vodka",
+            "sort": 2,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "hot-honey-clove-syrup",
+            "name": "Hot honey-clove syrup",
+            "sort": 3,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "_id": "merry-spritzmas",
+    "name": "Merry Spritzmas",
+    "instructions": "1. Add the fig preserves and lemon juice to a shaker and stir until the preserves are at least partially dissolved. Add the Aperol, port, Cognac, falernum, and bitters, and shake with ice. Double strain into the glass, then gently stir in the Prosecco and add fresh ice cubes to fill. Garnish with a lemon wedge on the rim stuck with a cocktail parasol.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "As a longtime cocktail historian, writer, and now owner of Beachbum Berry’s Latitude 29 in New Orleans, Jeff “Beachbum” Berry knows his way around tropical drinks, but creating a wintry spritz with island vibes for the annual Sippin’ Santa’s Surf Shack pop-up was a different challenge altogether. “How do you do a mashup of Christmas vacation and a tropical island vacation by using flavors that remind people of each but still harmonize in a glass?” says Berry. “In this case, fig jam and port wine fill the winter holiday bill, with falernum and cardamom lending a tropical touch. The Christmas-y flavors and the tropical spices complement one another surprisingly well, especially with the festive spritz of sparkling wine to tie it all together.”",
+    "source": "https://imbibemagazine.com/recipe/merry-spritzmas-tropical-winter-spritz/",
+    "garnish": "Lemon wedge, paper parasol",
+    "abv": 9.82,
+    "tags": [
+        "Sweet",
+        "Tropical",
+        "Citrusy",
+        "Spritz"
+    ],
+    "glass": "Tiki",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///merry-spritzmas-1.webp",
+            "sort": 1,
+            "placeholder_hash": "0mkKHwZAi1eGd4d3enanVqaIB0VoBaUI",
+            "copyright": "Imbibe Magazine | John Valls"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "aperol",
+            "name": "Aperol",
+            "sort": 1,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "tawny-port",
+            "name": "Tawny Port",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cognac",
+            "name": "Cognac",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Berry uses Ansac VS",
+            "substitutes": []
+        },
+        {
+            "_id": "falernum",
+            "name": "Falernum",
+            "sort": 5,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "fig-jam",
+            "name": "Fig jam",
+            "sort": 6,
+            "amount": 2,
+            "units": "barspoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cardamom-bitters",
+            "name": "Cardamom bitters",
+            "sort": 7,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "prosecco",
+            "name": "Prosecco",
+            "sort": 8,
+            "amount": 2.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

@@ -1,131 +1,103 @@
 {
-  "_id": "porn-star-martini_92",
-  "name": "Porn Star Martini",
-  "instructions": "1. Scoop the seeds from one of the passion fruits into the glass of a cocktail shaker\n2. Add the vodka, passoa, lime juice and sugar syrup.\n3. Add a handful of ice and shake well\n4. Strain into a martini glass\n5. Serve with shot of chilled Champagne on the side",
-  "created_at": null,
-  "updated_at": null,
-  "description": "This easy passion fruit cocktail is bursting with zingy flavours and is perfect for celebrating with friends.",
-  "source": "Douglas Ankrah, The Townhouse | London",
-  "garnish": "Half a passion fruit on top",
-  "abv": 16.36,
-  "tags": [],
-  "glass": "Coupe",
-  "method": "Shake",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///porn-star-martini.jpg",
-      "sort": 1,
-      "placeholder_hash": "2vcNFwJqWHiCeHd7iAmGmIaXyJQIXZoA",
-      "copyright": "Punch / Jamie Lau"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "vanilla-vodka_79",
-      "name": "Vanilla Vodka",
-      "strength": 40,
-      "description": "Vodka with added vanilla essence.",
-      "origin": "Russia",
-      "category": "Vodka",
-      "amount": 60,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [
+    "_id": "porn-star-martini",
+    "name": "Porn Star Martini",
+    "instructions": "1. Scoop the seeds from one of the passion fruits into the glass of a cocktail shaker\n2. Add the vodka, passoa, lime juice and sugar syrup.\n3. Add a handful of ice and shake well\n4. Strain into a martini glass\n5. Serve with shot of chilled Champagne on the side",
+    "created_at": null,
+    "updated_at": null,
+    "description": "This easy passion fruit cocktail is bursting with zingy flavours and is perfect for celebrating with friends.",
+    "source": "Douglas Ankrah, The Townhouse | London",
+    "garnish": "Half a passion fruit on top",
+    "abv": 16.36,
+    "tags": [],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
         {
-          "_id": "vodka_78",
-          "name": "Vodka",
-          "strength": 40,
-          "description": "Vodka is a distilled spirit that is known for its clear and colorless appearance. It is typically produced from the fermentation and distillation of grains, potatoes, or sometimes fruits. The resulting alcohol is then often filtered and diluted with water to achieve the desired alcohol content.\n\nVodka is characterized by its relatively neutral taste and aroma. It is intentionally distilled to be a clean and pure spirit, allowing it to take on the characteristics of its base ingredients.",
-          "origin": "Russia",
-          "category": "Spirits",
-          "amount": null,
-          "units": null,
-          "amount_max": null
+            "uri": "file:///porn-star-martini-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "2vcNFwJqWHiCeHd7iAmGmIaXyJQIXZoA",
+            "copyright": "Punch / Jamie Lau"
         }
-      ],
-      "sort": 1
-    },
-    {
-      "_id": "passoa_49",
-      "name": "Passoã",
-      "strength": 17,
-      "description": "Liqueur with passion fruit being the main ingredient.",
-      "origin": "France",
-      "category": "Liqueurs",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "simple-syrup_108",
-      "name": "Simple Syrup",
-      "strength": 0,
-      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
-      "origin": null,
-      "category": "Syrups",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "lime-juice_59",
-      "name": "Lime juice",
-      "strength": 0,
-      "description": "Freshly squeezed lime juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    },
-    {
-      "_id": "champagne_122",
-      "name": "Champagne",
-      "strength": 12,
-      "description": "Champagne is a sparkling wine that comes from the Champagne region of France. It is one of the most famous and prestigious types of sparkling wine globally. The name \"Champagne\" is legally protected, and only wines produced in the Champagne region using specific methods can be labeled as such.\n\nChampagne is often associated with celebrations and is widely used in toasts. It comes in various styles, including non-vintage (a blend of multiple years), vintage (made from grapes of a single year), and prestige cuvées (high-quality, limited-production wines from a specific producer). The versatility of Champagne allows it to be enjoyed on its own or paired with a variety of foods.",
-      "origin": "France",
-      "category": "Sparkling wine",
-      "amount": 60,
-      "units": "ml",
-      "optional": true,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [
+    ],
+    "ingredients": [
         {
-          "_id": "prosecco_121",
-          "name": "Prosecco",
-          "strength": 11,
-          "description": "Prosecco is a sparkling wine that originates from the Veneto region of Italy. It is made primarily from the Glera grape variety, although other permitted grape varieties may also be used in smaller quantities. Prosecco is known for its fresh and fruity character, and it is one of the most popular and widely consumed sparkling wines globally.\n\nProsecco is known for its effervescence, and the bubbles are generally lighter and less persistent than those in traditional method sparkling wines like Champagne.",
-          "origin": "Italy",
-          "category": "Sparkling wine",
-          "amount": null,
-          "units": null,
-          "amount_max": null
+            "_id": "vanilla-vodka",
+            "name": "Vanilla Vodka",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "vodka",
+                    "name": "Vodka",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ]
+        },
+        {
+            "_id": "passoa",
+            "name": "Passoã",
+            "sort": 2,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 4,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "champagne",
+            "name": "Champagne",
+            "sort": 5,
+            "amount": 60,
+            "units": "ml",
+            "optional": true,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "prosecco",
+                    "name": "Prosecco",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ]
         }
-      ],
-      "sort": 5
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    ]
 }

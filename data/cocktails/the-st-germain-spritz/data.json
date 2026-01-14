@@ -1,78 +1,66 @@
 {
-  "_id": "the-st-germain-spritz_272",
-  "name": "The St-Germain Spritz",
-  "instructions": "1. Combine ingredients in a Collins glass over ice.\n2. Stir.",
-  "created_at": null,
-  "updated_at": null,
-  "description": "The St-Germain Cocktail recipe is the classic spritz variation fueled by the iconic elderflower liqueur, Champagne and soda water.",
-  "source": "https://punchdrink.com/recipes/the-st-germain-cocktail/",
-  "garnish": "Garnish with a lemon twist.",
-  "abv": 8.18,
-  "tags": [
-    "Spritz",
-    "Floral"
-  ],
-  "glass": "Highball",
-  "method": "Stir",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///the-st-germain-spritz_RtS5eu.jpg",
-      "sort": 1,
-      "placeholder_hash": "2DgGHwQLT5Z+eGeUSolHhol1eWBXCYQH",
-      "copyright": "Punch Staff"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "champagne_122",
-      "name": "Champagne",
-      "strength": 12,
-      "description": "Champagne is a sparkling wine that comes from the Champagne region of France. It is one of the most famous and prestigious types of sparkling wine globally. The name \"Champagne\" is legally protected, and only wines produced in the Champagne region using specific methods can be labeled as such.\n\nChampagne is often associated with celebrations and is widely used in toasts. It comes in various styles, including non-vintage (a blend of multiple years), vintage (made from grapes of a single year), and prestige cuvées (high-quality, limited-production wines from a specific producer). The versatility of Champagne allows it to be enjoyed on its own or paired with a variety of foods.",
-      "origin": "France",
-      "category": "Sparkling wine",
-      "amount": 60,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "st-germain_52",
-      "name": "St-Germain",
-      "strength": 20,
-      "description": "St-Germain is an elderflower liqueur It is made using the petals of Sambucus nigra from the Savoie region in France, and each bottle is numbered with the year the petals were collected. Petals are collected annually in the spring over a period of three to four weeks, and are often transported by bicycle to collection points to avoid damaging the petals and impacting the flavour.",
-      "origin": "France",
-      "category": "Liqueurs",
-      "amount": 45,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "club-soda_68",
-      "name": "Club soda",
-      "strength": 0,
-      "description": "Club soda is a manufactured form of carbonated water, commonly used as a drink mixer. Also known as soda, siphon soda water, soda water, siphon soda, and siphon water.\n\nSoda water is artificially or naturally carbonated water, to which mineral salts have been added. The product without the salts is termed \"seltzer\" or \"seltzer water.\"\n\nCarbonated water with added minerals—commonly sodium bicarbonate or salt—club soda was designed to approximate mineral water, which is often naturally fizzy, but can carry a hefty price tag. English chemist Joseph Priestly invented the process of carbonation in 1767, when he realized that the carbon dioxide produced during the fermentation of beer could be infused into water. Soon after, Jacob Schweppe, a Swiss watchmaker, figured out how to manufacture carbonated water (which has no added minerals) and club soda. These products would become the cornerstone of the Schweppes Company, which is still in existence today. The added salt or sodium bicarbonate helps to mitigate the sour flavors from the carbonic acid, a byproduct of carbon dioxide.",
-      "origin": "Worldwide",
-      "category": "Beverages",
-      "amount": 60,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "the-st-germain-spritz",
+    "name": "The St-Germain Spritz",
+    "instructions": "1. Combine ingredients in a Collins glass over ice.\n2. Stir.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The St-Germain Cocktail recipe is the classic spritz variation fueled by the iconic elderflower liqueur, Champagne and soda water.",
+    "source": "https://punchdrink.com/recipes/the-st-germain-cocktail/",
+    "garnish": "Garnish with a lemon twist.",
+    "abv": 8.18,
+    "tags": [
+        "Spritz",
+        "Floral"
+    ],
+    "glass": "Highball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///the-st-germain-spritz-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "2DgGHwQLT5Z+eGeUSolHhol1eWBXCYQH",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "champagne",
+            "name": "Champagne",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "st-germain",
+            "name": "St-Germain",
+            "sort": 2,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "sort": 3,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

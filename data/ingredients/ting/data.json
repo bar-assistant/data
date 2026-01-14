@@ -1,0 +1,27 @@
+{
+    "_id": "ting",
+    "_parent_id": "beverages",
+    "name": "Ting",
+    "strength": 0,
+    "description": "Ting is a unique non-alcoholic sparkling beverage crafted in Malaysia, blending the sweetness of grapefruit with a subtle herbal complexity. It's characterized by a refreshing, clean taste profile achieved through a careful balance of fruit and botanicals. The resulting liquid offers a pleasing effervescence and a delicate aroma that makes it a versatile mixer or a delightful standalone drink.\n\nBeyond its taste, Ting's appeal lies in its versatility. It complements a wide range of flavors, enhancing rather than overpowering other ingredients. Its subtle sweetness and herbaceous undertones make it an exceptional accompaniment to a variety of foods, from savory to sweet, and provides an interesting dimension to its pairings.",
+    "origin": "Malaysia",
+    "color": "#FFC700",
+    "category": "Beverages",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///ting-1.webp",
+            "sort": 1,
+            "placeholder_hash": "VbmFFQQ8lamQeXq3dzagjen3Bhd3h4d3dw",
+            "copyright": "Ting"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
+}

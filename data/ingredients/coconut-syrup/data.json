@@ -1,27 +1,27 @@
 {
-  "_id": "coconut-syrup_177",
-  "_parent_id": "syrups_942",
-  "name": "Coconut Syrup",
-  "strength": 0,
-  "description": "Syrup infused with coconut flavor",
-  "origin": "Tropical",
-  "color": "#ffffff",
-  "category": "Syrups",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///coconut-syrup-1_sBKYnh.png",
-      "sort": 1,
-      "placeholder_hash": "c/iJDQIeN6Z/iHh2iHhwjdYICQmIiHiIhw",
-      "copyright": "Monin"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "coconut-syrup",
+    "_parent_id": "syrups",
+    "name": "Coconut Syrup",
+    "strength": 0,
+    "description": "Syrup infused with coconut flavor",
+    "origin": "Tropical",
+    "color": "#ffffff",
+    "category": "Sweeteners > Syrups",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///coconut-syrup-1.png",
+            "sort": 1,
+            "placeholder_hash": "c/iJDQIeN6Z/iHh2iHhwjdYICQmIiHiIhw",
+            "copyright": "Monin"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

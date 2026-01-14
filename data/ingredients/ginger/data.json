@@ -1,27 +1,27 @@
 {
-  "_id": "ginger_8",
-  "_parent_id": "fruits-and-vegetables_941",
-  "name": "Ginger",
-  "strength": 0,
-  "description": "Ginger root used as a spice",
-  "origin": null,
-  "color": null,
-  "category": "Fruits and vegetables",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///ginger.png",
-      "sort": 1,
-      "placeholder_hash": "5xmGDQI1qDWCi3f3t8DAlQhpBnmFiIKaaA",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "slices"
+    "_id": "ginger",
+    "_parent_id": "fruits-and-vegetables",
+    "name": "Ginger",
+    "strength": 0,
+    "description": "Ginger root used as a spice",
+    "origin": null,
+    "color": null,
+    "category": "Fruits and vegetables",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///ginger-1.png",
+            "sort": 1,
+            "placeholder_hash": "5xmGDQI1qDWCi3f3t8DAlQhpBnmFiIKaaA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "slices"
 }

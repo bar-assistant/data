@@ -1,27 +1,27 @@
 {
-  "_id": "orange-curacao_53",
-  "_parent_id": "liqueurs_939",
-  "name": "Orange Curaçao",
-  "strength": 20,
-  "description": "Liqueur flavored with the dried peel of the bitter orange laraha, a citrus fruit grown on the Dutch island of Curaçao. Curaçao is used by liqueur makers overt the world as a generic name for orange-flavoured liqueurs.",
-  "origin": "Netherlands",
-  "color": "#edaa53",
-  "category": "Liqueurs",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///orange-curacao.png",
-      "sort": 1,
-      "placeholder_hash": "XYqCDQI6SYZ2emc3CPSFNh0JCIeAdIeYeA",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "orange-curacao",
+    "_parent_id": "liqueurs",
+    "name": "Orange Curaçao",
+    "strength": 20,
+    "description": "Liqueur flavored with the dried peel of the bitter orange laraha, a citrus fruit grown on the Dutch island of Curaçao. Curaçao is used by liqueur makers overt the world as a generic name for orange-flavoured liqueurs.",
+    "origin": "Netherlands",
+    "color": "#edaa53",
+    "category": "Liqueurs",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///orange-curacao-1.png",
+            "sort": 1,
+            "placeholder_hash": "XYqCDQI6SYZ2emc3CPSFNh0JCIeAdIeYeA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

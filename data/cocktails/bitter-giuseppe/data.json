@@ -1,93 +1,77 @@
 {
-  "_id": "bitter-giuseppe_265",
-  "name": "Bitter Giuseppe",
-  "instructions": "1. Stir all the ingredients together in a mixing glass with ice until chilled.\n2. Strain into a rocks glass over a single large ice cube and garnish.",
-  "created_at": null,
-  "updated_at": null,
-  "description": "First featured on an early menu at the Violet Hour in Chicago, Stephen Cole's Bitter Giuseppe cocktail has become a modern classic over the years, with iterations popping up on menus at places like Cure in New Orleans, Elske and Ludlow Liquors in Chicago.",
-  "source": "https://imbibemagazine.com/recipe/bitter-giuseppe-cocktail/",
-  "garnish": "Lemon peel",
-  "abv": 13.08,
-  "tags": [
-    "Bitter"
-  ],
-  "glass": "Lowball",
-  "method": "Stir",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///bitter-giuseppe-cocktail_u3CYDD.jpg",
-      "sort": 1,
-      "placeholder_hash": "kCgKFwKPi5iEaYdTl3hmeHl5yIEDCzUE",
-      "copyright": "Punch | Emma Janzen."
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "cynar_143",
-      "name": "Cynar",
-      "strength": 16.5,
-      "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
-      "origin": "Italy",
-      "category": "Amaro",
-      "amount": 60,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "sweet-vermouth_117",
-      "name": "Sweet Vermouth",
-      "strength": 18,
-      "description": "Sweet vermouth, often simply referred to as \"vermouth,\" is a fortified and aromatized wine that is flavored with a variety of botanicals, herbs, and spices. It belongs to the category of vermouth, which includes both sweet (red) and dry (white) vermouth.\n\nVermouth is a wine-based product, and like wine, it should be stored in a cool, dark place, and once opened, it is often recommended to be refrigerated to maintain its freshness.",
-      "origin": "Worldwide",
-      "category": "Fortified wine",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "lemon-juice_58",
-      "name": "Lemon juice",
-      "strength": 0,
-      "description": "Freshly squeezed lemon juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 7.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "orange-bitters_21",
-      "name": "Orange bitters",
-      "strength": 28,
-      "description": "Orange bitters is a form of bitters, a cocktail flavoring made from such ingredients as the peels of Seville oranges, cardamom, caraway seed, coriander, anise, and burnt sugar in an alcohol base.",
-      "origin": "Worldwide",
-      "category": "Bitters",
-      "amount": 6,
-      "units": "dashes",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "bitter-giuseppe",
+    "name": "Bitter Giuseppe",
+    "instructions": "1. Stir all the ingredients together in a mixing glass with ice until chilled.\n2. Strain into a rocks glass over a single large ice cube and garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "First featured on an early menu at the Violet Hour in Chicago, Stephen Cole's Bitter Giuseppe cocktail has become a modern classic over the years, with iterations popping up on menus at places like Cure in New Orleans, Elske and Ludlow Liquors in Chicago.",
+    "source": "https://imbibemagazine.com/recipe/bitter-giuseppe-cocktail/",
+    "garnish": "Lemon peel",
+    "abv": 13.08,
+    "tags": [
+        "Bitter"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///bitter-giuseppe-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "kCgKFwKPi5iEaYdTl3hmeHl5yIEDCzUE",
+            "copyright": "Punch | Emma Janzen."
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 2,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 3,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 4,
+            "amount": 6,
+            "units": "dashes",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

@@ -1,27 +1,27 @@
 {
-  "_id": "passoa_49",
-  "_parent_id": "liqueurs_939",
-  "name": "Passoã",
-  "strength": 17,
-  "description": "Liqueur with passion fruit being the main ingredient.",
-  "origin": "France",
-  "color": "#ea5f4c",
-  "category": "Liqueurs",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///passoa.png",
-      "sort": 1,
-      "placeholder_hash": "SgiCBQAzh3iHeIj3Z0eBcASoB9iGeYaIhw",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "passoa",
+    "_parent_id": "liqueurs",
+    "name": "Passoã",
+    "strength": 17,
+    "description": "Liqueur with passion fruit being the main ingredient.",
+    "origin": "France",
+    "color": "#ea5f4c",
+    "category": "Liqueurs",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///passoa-1.png",
+            "sort": 1,
+            "placeholder_hash": "SgiCBQAzh3iHeIj3Z0eBcASoB9iGeYaIhw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

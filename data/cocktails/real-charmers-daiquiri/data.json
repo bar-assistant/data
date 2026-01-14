@@ -1,0 +1,77 @@
+{
+    "_id": "real-charmers-daiquiri",
+    "name": "Real Charmer’s Daiquiri",
+    "instructions": "1. Add all ingredients in a shaker and hard shake with ice.\n2. Double-strain into Nick and Nora glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The nuclear Daiquiri cocktail recipe served at Los Angeles bar Real Charmer combines rum, green Chartreuse, coconut syrup and lime juice.",
+    "source": "https://punchdrink.com/recipes/real-charmers-daiquiri/",
+    "garnish": null,
+    "abv": 18.57,
+    "tags": [
+        "Citrusy"
+    ],
+    "glass": null,
+    "method": "Blend",
+    "utensils": [],
+    "parent_cocktail_id": "daiquiri",
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///real-charmers-daiquiri-1.webp",
+            "sort": 1,
+            "placeholder_hash": "SxgKDwJQuGZaXJh2W2ZYqVd3htB6a68I",
+            "copyright": "Punch Staff | Real Charmer"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "light-rum",
+            "name": "Light Rum",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "green-chartreuse",
+            "name": "Green Chartreuse",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "coconut-syrup",
+            "name": "Coconut Syrup",
+            "sort": 4,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

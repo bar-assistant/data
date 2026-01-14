@@ -1,27 +1,27 @@
 {
-  "_id": "fortified-wine_948",
-  "_parent_id": null,
-  "name": "Fortified wine",
-  "strength": 0,
-  "description": "Fortified wine is a type of wine that has had a distilled spirit, usually brandy, added to it, increasing its alcohol content and often enhancing its flavor. Common varieties include port, sherry, and Madeira, which can range from sweet to dry.",
-  "origin": null,
-  "color": null,
-  "category": null,
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///fortified-wine-1_hYhadH.webp",
-      "sort": 1,
-      "placeholder_hash": "5AeGBQAmSOiFeYL6eHiScNj2BxhyiXGZaA",
-      "copyright": "AI Generated"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": null
+    "_id": "fortified-wine",
+    "_parent_id": null,
+    "name": "Fortified wine",
+    "strength": 0,
+    "description": "Fortified wine is a type of wine that has had a distilled spirit, usually brandy, added to it, increasing its alcohol content and often enhancing its flavor. Common varieties include port, sherry, and Madeira, which can range from sweet to dry.",
+    "origin": null,
+    "color": null,
+    "category": null,
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///fortified-wine-1.webp",
+            "sort": 1,
+            "placeholder_hash": "5AeGBQAmSOiFeYL6eHiScNj2BxhyiXGZaA",
+            "copyright": "AI Generated"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
 }

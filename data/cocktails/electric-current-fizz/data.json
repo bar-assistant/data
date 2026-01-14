@@ -1,0 +1,75 @@
+{
+    "_id": "electric-current-fizz",
+    "name": "Electric Current Fizz",
+    "instructions": "1. In a shaker, combine all ingredients except for soda water. Add one small piece of ice and shake until the ice is dissolved; this helps emulsify the egg white.\n2. Add more ice to the shaker and hard shake, then strain into a fizz glass or short Collins glass.\n3. Top with soda water.\n4. Serve the fizz with the prairie oyster in a shot glass.\n\n### Prairie Oyster\n\nReserve the egg yolk, taking care not to puncture it. Season the yolk with a pinch of salt, black pepper and Worcestershire sauce and Tabasco to taste (start with one dash of each). Serve in a shot glass alongside the drink.\n\n\nNote: The appeal of the Prairie Oyster lies in the seasoned yolk bursting during the shot, so take care not to puncture it.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Electric Current Fizz is an easy cocktail recipe that pairs a gin fizz with a prairie oyster, a dressed egg yolk shot.",
+    "source": "https://punchdrink.com/recipes/electric-current-fizz/",
+    "garnish": "Prairie Oyster in a shot glass",
+    "abv": 14.22,
+    "tags": [],
+    "glass": null,
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///electric-current-fizz-1.webp",
+            "sort": 1,
+            "placeholder_hash": "mxgOFwIPMXm0aIllmImHV4d3SAWaoeQP",
+            "copyright": "Punch Staff | Shannon Sturgis"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "1:1, sugar to water",
+            "substitutes": []
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "sort": 4,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Topo Chico",
+            "substitutes": []
+        }
+    ]
+}

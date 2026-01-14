@@ -1,27 +1,27 @@
 {
-  "_id": "maple-syrup_137",
-  "_parent_id": "syrups_942",
-  "name": "Maple syrup",
-  "strength": 0,
-  "description": "Maple syrup is a syrup made from the sap of maple trees.",
-  "origin": "Canada",
-  "color": "#bb6f44",
-  "category": "Syrups",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///maple-syrup.png",
-      "sort": 1,
-      "placeholder_hash": "HDqCDQQ1Iv9ml6U8mmeASAR3CZeIeHRpZw",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "maple-syrup",
+    "_parent_id": "syrups",
+    "name": "Maple syrup",
+    "strength": 0,
+    "description": "Maple syrup is a syrup made from the sap of maple trees.",
+    "origin": "Canada",
+    "color": "#bb6f44",
+    "category": "Sweeteners > Syrups",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///maple-syrup-1.png",
+            "sort": 1,
+            "placeholder_hash": "HDqCDQQ1Iv9ml6U8mmeASAR3CZeIeHRpZw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

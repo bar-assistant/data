@@ -1,90 +1,74 @@
 {
-  "_id": "daiquiri_22",
-  "name": "Daiquiri",
-  "instructions": "1. In a cocktail shaker add all ingredients.\n2. Stir well to dissolve the sugar.\n3. Add ice and shake.\n4. Strain into chilled cocktail glass.",
-  "created_at": null,
-  "updated_at": null,
-  "description": "Daiquirí is also the name of a beach and an iron mine near Santiago de Cuba, and is a word of Taíno origin. The drink was supposedly invented by an American mining engineer named Jennings Cox, who was in Cuba (then at the tail-end of the Spanish Captaincy-General government) at the time of the Spanish–American War. It is also possible that William A. Chanler, a US congressman who purchased the Santiago iron mines in 1902, introduced the daiquiri to clubs in New York in that year.",
-  "source": "https://iba-world.com/daiquiri/",
-  "garnish": "Lime wedge",
-  "abv": 18.29,
-  "tags": [
-    "IBA Cocktail",
-    "The Unforgettables"
-  ],
-  "glass": "Coupe",
-  "method": "Shake",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///daiquiri.jpg",
-      "sort": 1,
-      "placeholder_hash": "p4YJFwRWh4dvdneDiGenV4h4OCf8RJMP",
-      "copyright": "A Couple Cooks"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "light-rum_96",
-      "name": "Light Rum",
-      "strength": 40,
-      "description": "White rum, also known as light or silver rum, is a type of rum that is clear and colorless. It is often unaged or aged for a very short period in stainless steel or other neutral containers, which prevents it from developing the color and flavor that result from prolonged aging in wooden barrels.",
-      "origin": "Caribbean",
-      "category": "Rum",
-      "amount": 60,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "lime-juice_59",
-      "name": "Lime juice",
-      "strength": 0,
-      "description": "Freshly squeezed lime juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 22.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "simple-syrup_108",
-      "name": "Simple Syrup",
-      "strength": 0,
-      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
-      "origin": null,
-      "category": "Syrups",
-      "amount": 22.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [
+    "_id": "daiquiri",
+    "name": "Daiquiri",
+    "instructions": "1. In a cocktail shaker add all ingredients.\n2. Stir well to dissolve the sugar.\n3. Add ice and shake.\n4. Strain into chilled cocktail glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Daiquirí is also the name of a beach and an iron mine near Santiago de Cuba, and is a word of Taíno origin. The drink was supposedly invented by an American mining engineer named Jennings Cox, who was in Cuba (then at the tail-end of the Spanish Captaincy-General government) at the time of the Spanish–American War. It is also possible that William A. Chanler, a US congressman who purchased the Santiago iron mines in 1902, introduced the daiquiri to clubs in New York in that year.",
+    "source": "https://iba-world.com/daiquiri/",
+    "garnish": "Lime wedge",
+    "abv": 18.29,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
         {
-          "_id": "sugar_16",
-          "name": "Sugar",
-          "strength": 0,
-          "description": "White sugar",
-          "origin": null,
-          "category": "Sweeteners",
-          "amount": 2,
-          "units": "barspoon",
-          "amount_max": null
+            "uri": "file:///daiquiri-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "p4YJFwRWh4dvdneDiGenV4h4OCf8RJMP",
+            "copyright": "A Couple Cooks"
         }
-      ],
-      "sort": 3
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    ],
+    "ingredients": [
+        {
+            "_id": "light-rum",
+            "name": "Light Rum",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 3,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "sugar",
+                    "name": "Sugar",
+                    "amount": 2,
+                    "units": "barspoon",
+                    "amount_max": null
+                }
+            ]
+        }
+    ]
 }

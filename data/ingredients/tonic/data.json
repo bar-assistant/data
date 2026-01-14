@@ -1,27 +1,27 @@
 {
-  "_id": "tonic_69",
-  "_parent_id": "beverages_945",
-  "name": "Tonic",
-  "strength": 0,
-  "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
-  "origin": "Worldwide",
-  "color": "#ffffff",
-  "category": "Beverages",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///tonic.png",
-      "sort": 1,
-      "placeholder_hash": "qgiCFQJGh3mLdHC9iHhwjwbnCId2iHd4dw",
-      "copyright": "Fever Tree"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "tonic",
+    "_parent_id": "beverages",
+    "name": "Tonic",
+    "strength": 0,
+    "description": "Tonic water is a carbonated beverage that is flavored with quinine, a bitter compound derived from the bark of the cinchona tree. Originally used as a prophylactic against malaria due to its quinine content, tonic water has evolved into a popular mixer for various cocktails, especially the classic Gin and Tonic.",
+    "origin": "Worldwide",
+    "color": "#ffffff",
+    "category": "Beverages",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///tonic-1.png",
+            "sort": 1,
+            "placeholder_hash": "qgiCFQJGh3mLdHC9iHhwjwbnCId2iHd4dw",
+            "copyright": "Fever Tree"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

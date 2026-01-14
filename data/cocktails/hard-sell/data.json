@@ -1,0 +1,75 @@
+{
+    "_id": "hard-sell",
+    "name": "Hard Sell",
+    "instructions": "1. Combine all ingredients in a cocktail shaker with ice and shake until chilled.\n2. Strain into a coupe.\n3. Express a grapefruit peel over the surface of the drink and discard.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Hard Sell cocktail recipe combines gin, St-Germain elderflower liqueur, Malört (Chicago's famous shot) and lemon juice.",
+    "source": "https://punchdrink.com/recipes/hard-sell/",
+    "garnish": null,
+    "abv": 19.71,
+    "tags": [],
+    "glass": null,
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///hard-sell-1.webp",
+            "sort": 1,
+            "placeholder_hash": "1igSDwIpiYd6d4dwijh3d4mHFsgMs/oE",
+            "copyright": "Punch Staff | Lizzie Munro"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Beefeater",
+            "substitutes": []
+        },
+        {
+            "_id": "st-germain",
+            "name": "St-Germain",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "malort",
+            "name": "Malört",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 4,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

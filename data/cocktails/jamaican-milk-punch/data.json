@@ -1,0 +1,101 @@
+{
+    "_id": "jamaican-milk-punch",
+    "name": "Jamaican Milk Punch",
+    "instructions": "1. Combine all of the ingredients in a sealable container, mix well, then chill for at least 6 hours. Before serving, mix briefly in a blender without ice until light and fluffy. Serve over ice cubes and garnish with freshly grated nutmeg.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "For sweet, creamy decadence, blend up a batch of Jamaican Milk Punch with this easy adaptation from Martin Cate, owner of San Francisco’s Smuggler’s Cove. “It’s yet another wonderful way to enjoy rum—the perfect spirit for before dinner, after dinner ... and breakfast,” says Cate.",
+    "source": "https://imbibemagazine.com/recipe/jamaican-milk-punch/",
+    "garnish": "Nutmeg",
+    "abv": 9.11,
+    "tags": [
+        "Punch"
+    ],
+    "glass": null,
+    "method": "Blend",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///jamaican-milk-punch-1.webp",
+            "sort": 1,
+            "placeholder_hash": "bhgGDwCUV7Z1a4YWh9lXCoijBzO4a5gP",
+            "copyright": "Imbibe Magazine"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "jamaican-rum",
+            "name": "Jamaican Rum",
+            "sort": 1,
+            "amount": 10,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "milk",
+            "name": "Milk",
+            "sort": 2,
+            "amount": 10,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cream",
+            "name": "Cream",
+            "sort": 3,
+            "amount": 10,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "demerara-syrup",
+            "name": "Demerara Syrup",
+            "sort": 4,
+            "amount": 5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "2:1",
+            "substitutes": []
+        },
+        {
+            "_id": "vanilla-extract",
+            "name": "Vanilla Extract",
+            "sort": 5,
+            "amount": 2.5,
+            "units": "barspoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 6,
+            "amount": 10,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

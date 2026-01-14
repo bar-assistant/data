@@ -1,0 +1,75 @@
+{
+    "_id": "keystone-highball",
+    "name": "Keystone Highball",
+    "instructions": "1. Fill a highball or Collins glass two-thirds full with ice.\n2. Stir to chill the glass, then drain off any water.\n3. Pour the tea, St-Germain and whiskey into the glass and stir gently to combine.\n4. Pour soda water down the side of the glass so as to retain carbonation.\n5. Add ice and top with a final splash of soda water.\n6. Express the lemon peel, then discard.\n7. Garnish with fresh bay leaf.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Like any thoughtful pairing, this dinner cocktail recipe by Julia Momose can be adjusted to suit the meal at hand.",
+    "source": "https://punchdrink.com/recipes/keystone-highball/",
+    "garnish": "lemon peel, fresh bay leaf (or another fresh herb to complement the meal)",
+    "abv": 8.97,
+    "tags": [],
+    "glass": "Highball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///keystone-highball-1.webp",
+            "sort": 1,
+            "placeholder_hash": "1jgOLwZMipiAd4haeCeIiIaYpwfma2AP",
+            "copyright": "Punch Staff | Lizzie Munro"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "whiskey",
+            "name": "Whiskey",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "preferably Rieger's Kansas City",
+            "substitutes": []
+        },
+        {
+            "_id": "st-germain",
+            "name": "St-Germain",
+            "sort": 2,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "tea",
+            "name": "Tea",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Mint tea",
+            "substitutes": []
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "sort": 4,
+            "amount": 4,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "_id": "managers-meeting",
+    "name": "Manager's Meeting",
+    "instructions": "Add all ingredients to a mixing glass with ice and stir. Pour over a large cube/sphere in a rocks glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": null,
+    "source": "https://www.reddit.com/r/cocktails/comments/1mwg6mm/managers_meeting/",
+    "garnish": "use a hand torch to blacken an orange peel over the glass. Rub the peel over the rim of the glass and drop into the drink. Serve.",
+    "abv": 29.84,
+    "tags": [
+        "Smokey"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///managers-meeting-1.webp",
+            "sort": 1,
+            "placeholder_hash": "JxkKLwT3SHZ5hYl7dViId4d2eUA4B4MC",
+            "copyright": "preview.redd.it"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "sort": 1,
+            "amount": 52.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "amaro-montenegro",
+            "name": "Amaro Montenegro",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cointreau",
+            "name": "Cointreau",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "mole-bitters",
+            "name": "Mole Bitters",
+            "sort": 4,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "angostura-cocoa-bitters",
+                    "name": "Angostura cocoa bitters",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ]
+        }
+    ]
+}

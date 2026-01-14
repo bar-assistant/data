@@ -1,27 +1,27 @@
 {
-  "_id": "ginger-beer_71",
-  "_parent_id": "beverages_945",
-  "name": "Ginger beer",
-  "strength": 0,
-  "description": "Ginger ale is a non-alcoholic carbonated beverage flavored with ginger. It is known for its fizzy and slightly spicy taste, derived from the natural or artificial ginger flavorings used in its production. Ginger ale is often consumed on its own as a refreshing soft drink, and it is also a common mixer in various cocktails. There are both commercial and homemade versions of ginger ale, with variations that may include additional ingredients such as citrus or sweeteners.",
-  "origin": "Worldwide",
-  "color": "#edcdb6",
-  "category": "Beverages",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///ginger-beer.png",
-      "sort": 1,
-      "placeholder_hash": "7CmCBQBFaLd7hYBu15h8gHn3B8h2iId4iA",
-      "copyright": "Fever Tree"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "ginger-beer",
+    "_parent_id": "beverages",
+    "name": "Ginger beer",
+    "strength": 0,
+    "description": "Ginger ale is a non-alcoholic carbonated beverage flavored with ginger. It is known for its fizzy and slightly spicy taste, derived from the natural or artificial ginger flavorings used in its production. Ginger ale is often consumed on its own as a refreshing soft drink, and it is also a common mixer in various cocktails. There are both commercial and homemade versions of ginger ale, with variations that may include additional ingredients such as citrus or sweeteners.",
+    "origin": "Worldwide",
+    "color": "#edcdb6",
+    "category": "Beverages",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///ginger-beer-1.png",
+            "sort": 1,
+            "placeholder_hash": "7CmCBQBFaLd7hYBu15h8gHn3B8h2iId4iA",
+            "copyright": "Fever Tree"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

@@ -1,27 +1,27 @@
 {
-  "_id": "creme-de-cacao-dark_30",
-  "_parent_id": "creme-de_949",
-  "name": "Crème de Cacao (Dark)",
-  "strength": 25,
-  "description": "Crème de Cacao is a sweet liqueur with a rich chocolate flavor. It is made from cacao beans, which are the primary source of chocolate, and often includes additional ingredients such as vanilla and sugar. Dark Crème de Cacao has a deeper, more intense chocolate flavor and a dark brown color.",
-  "origin": "France",
-  "color": "#1f0f0c",
-  "category": "Crème de",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///dark-creme-de-cacao.png",
-      "sort": 1,
-      "placeholder_hash": "EQiGBQBI9zhzd4pWZ4tHv3f1CHdzd3iYeA",
-      "copyright": "De Kuyper"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "creme-de-cacao-dark",
+    "_parent_id": "creme-de",
+    "name": "Crème de Cacao (Dark)",
+    "strength": 25,
+    "description": "Crème de Cacao is a sweet liqueur with a rich chocolate flavor. It is made from cacao beans, which are the primary source of chocolate, and often includes additional ingredients such as vanilla and sugar. Dark Crème de Cacao has a deeper, more intense chocolate flavor and a dark brown color.",
+    "origin": "France",
+    "color": "#1f0f0c",
+    "category": "Crème de",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///creme-de-cacao-dark-1.png",
+            "sort": 1,
+            "placeholder_hash": "EQiGBQBI9zhzd4pWZ4tHv3f1CHdzd3iYeA",
+            "copyright": "De Kuyper"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

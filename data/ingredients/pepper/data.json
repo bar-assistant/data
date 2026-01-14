@@ -1,27 +1,27 @@
 {
-  "_id": "pepper_13",
-  "_parent_id": "spices_946",
-  "name": "Pepper",
-  "strength": 0,
-  "description": "Black pepper",
-  "origin": null,
-  "color": null,
-  "category": "Spices",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///pepper.png",
-      "sort": 1,
-      "placeholder_hash": "jyiCBQBGp3iLhokFd01L36P0WGh1eHCpiA",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "pinch"
+    "_id": "pepper",
+    "_parent_id": "spices",
+    "name": "Pepper",
+    "strength": 0,
+    "description": "Black pepper",
+    "origin": null,
+    "color": null,
+    "category": "Spices",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///pepper-1.png",
+            "sort": 1,
+            "placeholder_hash": "jyiCBQBGp3iLhokFd01L36P0WGh1eHCpiA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "pinch"
 }

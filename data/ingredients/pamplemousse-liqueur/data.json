@@ -1,27 +1,27 @@
 {
-  "_id": "pamplemousse-liqueur_128",
-  "_parent_id": "liqueurs_939",
-  "name": "Pamplemousse Liqueur",
-  "strength": 16,
-  "description": "Fresh, pink grapefruit peels are steam-distilled to extract the intense, bright aromatic essential oils contained within. Giffard Pamplemousse is the perfect way to add a citrus boost to creative cocktails or to brighten up some bubbles.",
-  "origin": "Worldwide",
-  "color": "#ffe4c9",
-  "category": "Liqueurs",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///pamplemousse-liqueur.png",
-      "sort": 1,
-      "placeholder_hash": "HVmCBQAjiVV1moVKCHaFcGcIB+iGeXaIhw",
-      "copyright": "Giffard"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": null
+    "_id": "pamplemousse-liqueur",
+    "_parent_id": "liqueurs",
+    "name": "Pamplemousse Liqueur",
+    "strength": 16,
+    "description": "Fresh, pink grapefruit peels are steam-distilled to extract the intense, bright aromatic essential oils contained within. Giffard Pamplemousse is the perfect way to add a citrus boost to creative cocktails or to brighten up some bubbles.",
+    "origin": "Worldwide",
+    "color": "#ffe4c9",
+    "category": "Liqueurs",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///pamplemousse-liqueur-1.png",
+            "sort": 1,
+            "placeholder_hash": "HVmCBQAjiVV1moVKCHaFcGcIB+iGeXaIhw",
+            "copyright": "Giffard"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
 }

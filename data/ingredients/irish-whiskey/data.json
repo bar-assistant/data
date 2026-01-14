@@ -1,27 +1,27 @@
 {
-  "_id": "irish-whiskey_86",
-  "_parent_id": "whiskey_81",
-  "name": "Irish whiskey",
-  "strength": 40,
-  "description": "Produced in Ireland, often made from a mix of malted and unmalted barley and aged for a minimum period in wooden casks. Styles include single malt, single pot still, blended Irish whiskey, and others.",
-  "origin": "Ireland",
-  "color": "#d54a06",
-  "category": "Spirits > Whiskey",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///irish-whiskey.png",
-      "sort": 1,
-      "placeholder_hash": "4gmKDQJYe3KAbHaZl1/ufAd3CHeHeHd4dw",
-      "copyright": "Jameson"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "irish-whiskey",
+    "_parent_id": "whiskey",
+    "name": "Irish whiskey",
+    "strength": 40,
+    "description": "Produced in Ireland, often made from a mix of malted and unmalted barley and aged for a minimum period in wooden casks. Styles include single malt, single pot still, blended Irish whiskey, and others.",
+    "origin": "Ireland",
+    "color": "#d54a06",
+    "category": "Spirits > Whiskey",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///irish-whiskey-1.png",
+            "sort": 1,
+            "placeholder_hash": "4gmKDQJYe3KAbHaZl1/ufAd3CHeHeHd4dw",
+            "copyright": "Jameson"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

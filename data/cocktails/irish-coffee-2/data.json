@@ -1,0 +1,77 @@
+{
+    "_id": "irish-coffee-2",
+    "name": "Irish Coffee",
+    "instructions": "1. Prepare an Irish Coffee glass (or a wine glass or mug) by filling it with hot water.\n2. Discard hot water, and drop in sugar cubes (or sugar).\n3. Add hot coffee and stir to dissolve sugar.\n4. Add Irish whiskey and stir again.\n5. Gently ladle a collar of lightly whipped cream to float on top of the drink.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "First introduced to the United States by way of San Francisco’s Buena Vista Café, the Irish Coffee was invented at the Foynes Airport’s restaurant in 1943. At the time, Foynes acted as a major intercontinental hub to the U.K. and, one evening, when a flight bound for Newfoundland was forced to turn back due to poor weather, airport staff led the returning passengers to the airport’s cafe. Chef Joe Sheridan greeted the travelers with glasses of warm coffee laced with Irish Whiskey, which he appropriately christened the “Irish Coffee.” Eventually, Foynes Flying Boat Station was closed and the Shannon Airport took its place, where the national cocktail still greets weary travelers today. The drink finally made its way to the U.S. in 1952 when the Buena Vista’s then-owner combined efforts with the travel writer Stanton Delaplane to recreate the storied cocktail. Today, on any given afternoon, the waterfront tavern is packed with drinkers awaiting Irish Coffees churned out by the white-jacketed bartenders who can, all at once, make small talk, dose a dozen glasses with hot coffee and gracefully float a dollop of perfectly whipped cream atop each one.",
+    "source": "https://punchdrink.com/recipes/irish-coffee/",
+    "garnish": null,
+    "abv": 9.92,
+    "tags": [
+        "Coffee"
+    ],
+    "glass": "Glass mug",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///irish-coffee-1.webp",
+            "sort": 1,
+            "placeholder_hash": "1igGDwIKXJPDeGitJvg95YdtpJCJCowE",
+            "copyright": "Punch Staff | Eric Wolfinger"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "irish-whiskey",
+            "name": "Irish whiskey",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "preferably Tullamore Dew",
+            "substitutes": []
+        },
+        {
+            "_id": "coffee",
+            "name": "Coffee",
+            "sort": 2,
+            "amount": 4,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "hot",
+            "substitutes": []
+        },
+        {
+            "_id": "sugar",
+            "name": "Sugar",
+            "sort": 3,
+            "amount": 2,
+            "units": "cube",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "or 2 teaspoons sugar",
+            "substitutes": []
+        },
+        {
+            "_id": "cream",
+            "name": "Cream",
+            "sort": 4,
+            "amount": 1,
+            "units": "topup",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

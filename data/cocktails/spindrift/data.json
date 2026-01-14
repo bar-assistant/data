@@ -1,0 +1,137 @@
+{
+    "_id": "spindrift",
+    "name": "Spindrift",
+    "instructions": "3 ounces orange juice 2 ounces fresh lemon juice 1 ounce passion fruit syrup 3/4 ounce sugar syrup 1/2 teaspoon vanilla extract 2 ounces dark jamaican rum 1 1/2 ounces demerara rum 1 ounce light rum 20 ounces crushed ice Put everything in a blender. Blend for up to 10 seconds. Pour unstrained into a large snifter.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "In 2005 the Spindrift was put on the menu of the Taboo Cove bar, at the Venetian Hotel in Las Vegas. Two months later Taboo Cove closed. We don’t know if the Spindrift was directly responsible, but there’s no denying that the drink takes a lot of time to make.",
+    "source": "Beachbum Berry",
+    "garnish": null,
+    "abv": 4.6,
+    "tags": [
+        "Tiki"
+    ],
+    "glass": "Wine",
+    "method": "Blend",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///spindrift-1.webp",
+            "sort": 1,
+            "placeholder_hash": "HTkKDwI3eYdfiYiWiHlpiIZ3iDAoCHIA",
+            "copyright": "Totalmixology"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "jamaican-rum",
+            "name": "Jamaican Rum",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Dark",
+            "substitutes": []
+        },
+        {
+            "_id": "demerara-rum",
+            "name": "Demerara Rum",
+            "sort": 2,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "light-rum",
+            "name": "Light Rum",
+            "sort": 3,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "sort": 4,
+            "amount": 90,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 5,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "passionfruit-syrup",
+            "name": "Passionfruit syrup",
+            "sort": 6,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 7,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "vanilla-extract",
+            "name": "Vanilla Extract",
+            "sort": 8,
+            "amount": 2.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "crushed-ice",
+            "name": "Crushed ice",
+            "sort": 9,
+            "amount": 600,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

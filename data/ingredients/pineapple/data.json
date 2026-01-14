@@ -1,27 +1,27 @@
 {
-  "_id": "pineapple_4",
-  "_parent_id": "fruits-and-vegetables_941",
-  "name": "Pineapple",
-  "strength": 0,
-  "description": "Pineapple fruit",
-  "origin": null,
-  "color": null,
-  "category": "Fruits and vegetables",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///pineapple.png",
-      "sort": 1,
-      "placeholder_hash": "Y0uGDQYpzpVHhZDb+e6goQlrBzxBl2DJWQ",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": null
+    "_id": "pineapple",
+    "_parent_id": "fruits-and-vegetables",
+    "name": "Pineapple",
+    "strength": 0,
+    "description": "Pineapple fruit",
+    "origin": null,
+    "color": null,
+    "category": "Fruits and vegetables",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///pineapple-1.png",
+            "sort": 1,
+            "placeholder_hash": "Y0uGDQYpzpVHhZDb+e6goQlrBzxBl2DJWQ",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
 }

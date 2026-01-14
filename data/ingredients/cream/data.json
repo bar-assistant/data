@@ -1,27 +1,27 @@
 {
-  "_id": "cream_11",
-  "_parent_id": "dairy_1388",
-  "name": "Cream",
-  "strength": 0,
-  "description": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization.",
-  "origin": null,
-  "color": "#fff5e8",
-  "category": "Dairy",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///cream.png",
-      "sort": 1,
-      "placeholder_hash": "7RiCBQAjqSV7hHM4+Dh/cvAoCJeFeXHMhw",
-      "copyright": "CC License"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "cream",
+    "_parent_id": "dairy",
+    "name": "Cream",
+    "strength": 0,
+    "description": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization.",
+    "origin": null,
+    "color": "#fff5e8",
+    "category": "Dairy",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///cream-1.png",
+            "sort": 1,
+            "placeholder_hash": "7RiCBQAjqSV7hHM4+Dh/cvAoCJeFeXHMhw",
+            "copyright": "CC License"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

@@ -1,0 +1,63 @@
+{
+    "_id": "bentons-old-fashioned",
+    "name": "Benton’s Old-Fashioned",
+    "instructions": "1. Add all ingredients to a mixing glass.\n2. Add ice and stir until chilled.\n3. Strain into a rocks glass over ice (preferably a large cube).\n4. Garnish with an orange peel.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Benton’s Old-Fashioned cocktail recipe is the drink that introduced the concept of “fat-washing” spirits to the cocktail world.",
+    "source": "https://punchdrink.com/recipes/bentons-old-fashioned/",
+    "garnish": "orange peel",
+    "abv": 0.34,
+    "tags": [],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///bentons-old-fashioned-1.webp",
+            "sort": 1,
+            "placeholder_hash": "21kKFwTb6oifd4WLdsZot1d2VoUHNnYA",
+            "copyright": "Punch Staff | Nick Brown"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "bacon-fat-infused-bourbon",
+            "name": "Bacon Fat-Infused bourbon",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "maple-syrup",
+            "name": "Maple syrup",
+            "sort": 2,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Grade B",
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 3,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

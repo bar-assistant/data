@@ -1,0 +1,87 @@
+{
+    "_id": "central-park-to-lumphini",
+    "name": "Central Park to Lumphini",
+    "instructions": "1. Add all of the ingredients to a shaker with ice. Shake to chill and dump into a glass over a large ice cube. Garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Tantai Khantachavana of BKK New York, a restaurant that blends Bangkok street food and New York cuisine, deliciously encapsulates the experience of an autumn stroll in his fig cocktail. Mezcal serves as an earthy foundation that's then layered with the baking spice notes of seasonal fruit.",
+    "source": "https://imbibemagazine.com/recipe/central-park-to-lumphini-fig-cocktail/",
+    "garnish": "Torched bay leaf",
+    "abv": 1.23,
+    "tags": [],
+    "glass": null,
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///central-park-to-lumphini-1.webp",
+            "sort": 1,
+            "placeholder_hash": "mEkSHwZohoeAhoiZmYd3t2aHlwLLSbYP",
+            "copyright": "Imbibe Magazine | Heather Willensky"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "fig-infused-mezcal",
+            "name": "Fig-infused mezcal",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "apple-cider",
+            "name": "Apple Cider",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "1:1",
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 4,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "fig-jam",
+            "name": "Fig jam",
+            "sort": 5,
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

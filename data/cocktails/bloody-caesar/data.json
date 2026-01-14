@@ -1,0 +1,89 @@
+{
+    "_id": "bloody-caesar",
+    "name": "Bloody Caesar",
+    "instructions": "1. Coat the rim of a tall glass with celery salt, fill with ice and set aside.\n2. Add the vodka, Clamato juice, Worcestershire sauce, Tabasco and horseradish into a mixing glass with ice.\n3. Pour back and forth into another mixing glass a few times to combine.\n4. Strain into the prepared glass.\n5. Garnish with a celery stalk, cucumber spear and lime wedge.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Bloody Caesar is a clam-juice-spiked riff on the Bloody Mary. And it’s the national cocktail of Canada.",
+    "source": "https://www.liquor.com/recipes/bloody-caesar/",
+    "garnish": null,
+    "abv": null,
+    "tags": [
+        "Savory"
+    ],
+    "glass": null,
+    "method": null,
+    "utensils": [],
+    "parent_cocktail_id": "bloody-mary",
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///bloody-caesar-1.webp",
+            "sort": 1,
+            "placeholder_hash": "JCgOJwr7KXhshGqJdXmHeIiHmIBnCXUE",
+            "copyright": "Liquor.com"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "vodka",
+            "name": "Vodka",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "clamato-juice",
+            "name": "Clamato juice",
+            "sort": 2,
+            "amount": 4,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "worcestershire-sauce",
+            "name": "Worcestershire Sauce",
+            "sort": 3,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "tabasco",
+            "name": "Tabasco",
+            "sort": 4,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "horseradish",
+            "name": "Horseradish",
+            "sort": 5,
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "to taste",
+            "substitutes": []
+        }
+    ]
+}

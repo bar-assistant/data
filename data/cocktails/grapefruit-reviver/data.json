@@ -1,0 +1,79 @@
+{
+    "_id": "grapefruit-reviver",
+    "name": "Grapefruit Reviver",
+    "instructions": "1. Add all of the ingredients to a shaker with ice. Shake to chill. Strain into the glass. Garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "For this take on the Brown Derby, bartender James Sauer of Louisville's North of Bourbon leans into its grapefruit flavor with Malört. High-proof whiskey and rich demerara syrup help balance the strong, bitter notes, while creating a bourbon cocktail with depth.",
+    "source": "https://imbibemagazine.com/recipe/grapefruit-reviver-bourbon-cocktail/",
+    "garnish": "Dehydrated lime wheel (or fresh)",
+    "abv": 26.67,
+    "tags": [
+        "Bitter",
+        "Citrusy",
+        "Sour"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///grapefruit-reviver-1.webp",
+            "sort": 1,
+            "placeholder_hash": "3EkWLwZqh3eAd4h2eIiGeIeHqAc5epAD",
+            "copyright": "Imbibe Magazine | Frankie Fiore"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "cask-proof-whiskey",
+            "name": "Cask-Proof Whiskey",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "grapefruit-juice",
+            "name": "Grapefruit juice",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "malort",
+            "name": "Malört",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "demerara-syrup",
+            "name": "Demerara Syrup",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

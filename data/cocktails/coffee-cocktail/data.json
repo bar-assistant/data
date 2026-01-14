@@ -1,0 +1,79 @@
+{
+    "_id": "coffee-cocktail",
+    "name": "Coffee Cocktail",
+    "instructions": "1. Combine all of the ingredients in a cocktail shaker.\n2. Dry shake to emulsify the egg.\n3. Add ice and shake until chilled.\n4. Double strain into a chilled cocktail glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "It probably would be difficult to come up with a more misleading name for this cocktail, than Coffee Cocktail. It does not feature coffee or have anything in common with it, unless you consider coffee to be delicious (which I do by the way) and this cocktail is certainly also delicious to the very last drop.\n\nBase of this cocktail is Tawny Port, the aged nature of wine bringing notes of nuts, dried fruits and hint of rich sweetness. It is then paired with oak and vanilla tones of the cognac, increasing the overall cocktail complexity, while at the same time increasing proof. As a true flip requires, a whole egg is added, turning this cocktail into what it is, a rich and decadent indulgence. The creamy texture makes this cocktail especially suited for the holiday season. In the end, a touch of simple syrup helps with the balance and enables delicious individual notes pop to the forefront, while freshly grated nutmeg garnish adds a further aromatic dimension.\n\nAll in all, Coffee Cocktail might not have anything in common with its namesake, but it is a tasty and decadent drink, seemingly made for the holiday season.",
+    "source": "https://www.grouchy-bartender.com/cocktails/coffee-cocktail",
+    "garnish": "Garnish with some freshly grated nutmeg.",
+    "abv": 20.36,
+    "tags": [
+        "Fruity",
+        "Sweet",
+        "Flip"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///coffee-cocktail-1.webp",
+            "sort": 1,
+            "placeholder_hash": "BAgKDwIIp4h2iHZyjFeYx0h6hUEHKHUA",
+            "copyright": "grouchy bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tawny-port",
+            "name": "Tawny Port",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cognac",
+            "name": "Cognac",
+            "sort": 2,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 3,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "egg",
+            "name": "Egg",
+            "sort": 4,
+            "amount": 1,
+            "units": "whole",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

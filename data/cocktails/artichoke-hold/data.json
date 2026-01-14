@@ -1,117 +1,97 @@
 {
-  "_id": "artichoke-hold_193",
-  "name": "Artichoke Hold",
-  "instructions": "1. Add all ingredients to a cocktail shaker.\n2. Add a small amount of ice and shake lightly.\n3. Strain over crushed ice into a rocks glass.\n4. Top with more crushed ice.",
-  "created_at": null,
-  "updated_at": null,
-  "description": "The warm funk of Smith & Cross rum creates a heavy base for the bittersweet co-mingling of amaro and elderflower in this cocktail recipe.",
-  "source": "https://punchdrink.com/recipes/artichoke-hold/",
-  "garnish": "Mint sprig",
-  "abv": 13.43,
-  "tags": [
-    "Tiki",
-    "Floral",
-    "Sweet"
-  ],
-  "glass": "Lowball",
-  "method": "Stir",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///artichoke-hold_04Soju.jpg",
-      "sort": 1,
-      "placeholder_hash": "6BgSHwQxYIWIdHl2d4iHmHZ4ODB2FpAG",
-      "copyright": "Punch Staff"
-    },
-    {
-      "uri": "file:///artichoke-hold-1_cASKXN.webp",
-      "sort": 2,
-      "placeholder_hash": "lrkGFw4hi4Zrh3igS7eWhHWYZNYGrG8G",
-      "copyright": "Reddit"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "jamaican-rum_100",
-      "name": "Jamaican Rum",
-      "strength": 40,
-      "description": "Jamaican rum refers to rum produced in Jamaica, a Caribbean island known for its rich history of rum production. Jamaican rum is renowned for its bold and distinctive flavor profile, often characterized by robust and complex notes.\n\nJamaican rum has a strong cultural and historical significance, and the island is home to several well-known distilleries, each with its unique approach to rum production. Brands such as Appleton Estate and Wray & Nephew are examples of Jamaican rums that have gained international acclaim.",
-      "origin": "Jamaica",
-      "category": "Rum",
-      "amount": 22.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "cynar_143",
-      "name": "Cynar",
-      "strength": 16.5,
-      "description": "Bitter apéritif of the amaro variety. It is made from 13 herbs and plants, predominant among which is the artichoke (Cynara scolymus), from which the drink derives its name.",
-      "origin": "Italy",
-      "category": "Amaro",
-      "amount": 22.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "st-germain_52",
-      "name": "St-Germain",
-      "strength": 20,
-      "description": "St-Germain is an elderflower liqueur It is made using the petals of Sambucus nigra from the Savoie region in France, and each bottle is numbered with the year the petals were collected. Petals are collected annually in the spring over a period of three to four weeks, and are often transported by bicycle to collection points to avoid damaging the petals and impacting the flavour.",
-      "origin": "France",
-      "category": "Liqueurs",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "lime-juice_59",
-      "name": "Lime juice",
-      "strength": 0,
-      "description": "Freshly squeezed lime juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 22.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    },
-    {
-      "_id": "orgeat-syrup_109",
-      "name": "Orgeat Syrup",
-      "strength": 0,
-      "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
-      "origin": null,
-      "category": "Simple Syrup",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 5
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "artichoke-hold",
+    "name": "Artichoke Hold",
+    "instructions": "1. Add all ingredients to a cocktail shaker.\n2. Add a small amount of ice and shake lightly.\n3. Strain over crushed ice into a rocks glass.\n4. Top with more crushed ice.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The warm funk of Smith & Cross rum creates a heavy base for the bittersweet co-mingling of amaro and elderflower in this cocktail recipe.",
+    "source": "https://punchdrink.com/recipes/artichoke-hold/",
+    "garnish": "Mint sprig",
+    "abv": 13.43,
+    "tags": [
+        "Tiki",
+        "Floral",
+        "Sweet"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///artichoke-hold-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "6BgSHwQxYIWIdHl2d4iHmHZ4ODB2FpAG",
+            "copyright": "Punch Staff"
+        },
+        {
+            "uri": "file:///artichoke-hold-2.webp",
+            "sort": 2,
+            "placeholder_hash": "lrkGFw4hi4Zrh3igS7eWhHWYZNYGrG8G",
+            "copyright": "Reddit"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "jamaican-rum",
+            "name": "Jamaican Rum",
+            "sort": 1,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "st-germain",
+            "name": "St-Germain",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 4,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orgeat-syrup",
+            "name": "Orgeat Syrup",
+            "sort": 5,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

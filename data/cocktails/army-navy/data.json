@@ -1,95 +1,79 @@
 {
-  "_id": "army-navy_270",
-  "name": "Army & Navy",
-  "instructions": "1. Combine all ingredients in a cocktail shaker with ice and shake until chilled.\n2. Strain into a chilled coupe or cocktail glass.",
-  "created_at": null,
-  "updated_at": null,
-  "description": "The Army & Navy is a tropical gin cocktail recipe made with gin, lemon juice, orgeat and Angostura bitters.",
-  "source": "https://punchdrink.com/recipes/army-navy/",
-  "garnish": null,
-  "abv": 18.34,
-  "tags": [
-    "Sour",
-    "Citrusy",
-    "Nutty"
-  ],
-  "glass": "Coupe",
-  "method": "Shake",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///army-navy_rNsbze.jpg",
-      "sort": 1,
-      "placeholder_hash": "JikOJwZVZ3dgdXaqaFiYGIhza/dXh38F",
-      "copyright": "Punch Staff"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "gin_75",
-      "name": "Gin",
-      "strength": 40,
-      "description": "Gin is a distilled alcoholic beverage that derives its predominant flavor from juniper berries and other botanicals. It falls under the category of distilled spirits and is known for its diverse and complex flavor profile, which can include herbal, floral, citrus, and spicy notes. The production of gin involves distilling a neutral spirit with botanicals, with juniper being the key botanical required for a spirit to be classified as gin.\n\nThe defining characteristic of gin is the prominent presence of juniper berries in its flavor profile. The name \"gin\" is derived from the French word \"genièvre,\" meaning juniper.\n\nThere are several styles of gin, including London Dry Gin, Plymouth Gin, and New Western or Contemporary-style Gin. Each style has its own production methods and regulations.\n\nGin has a long history and has evolved over centuries, becoming one of the most popular and beloved spirits globally. Its association with a wide array of cocktails makes it a staple in bars and households alike.\n\nHistorical note: dry gin was not really part of the American bar until the 1890s. All references to “gin” before this period are to genever. The other gin of that era was “old tom gin”, which was nearly always refered to as such or as “tom gin”.",
-      "origin": "Worldwide",
-      "category": "Spirits",
-      "amount": 60,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "lemon-juice_58",
-      "name": "Lemon juice",
-      "strength": 0,
-      "description": "Freshly squeezed lemon juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 22.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "orgeat-syrup_109",
-      "name": "Orgeat Syrup",
-      "strength": 0,
-      "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
-      "origin": null,
-      "category": "Simple Syrup",
-      "amount": 22.5,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "angostura-aromatic-bitters_22",
-      "name": "Angostura aromatic bitters",
-      "strength": 44.7,
-      "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
-      "origin": "Trinidad & Tobago",
-      "category": "Bitters",
-      "amount": 1,
-      "units": "dash",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "army-navy",
+    "name": "Army & Navy",
+    "instructions": "1. Combine all ingredients in a cocktail shaker with ice and shake until chilled.\n2. Strain into a chilled coupe or cocktail glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Army & Navy is a tropical gin cocktail recipe made with gin, lemon juice, orgeat and Angostura bitters.",
+    "source": "https://punchdrink.com/recipes/army-navy/",
+    "garnish": null,
+    "abv": 18.34,
+    "tags": [
+        "Sour",
+        "Citrusy",
+        "Nutty"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///army-navy-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "JikOJwZVZ3dgdXaqaFiYGIhza/dXh38F",
+            "copyright": "Punch Staff"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orgeat-syrup",
+            "name": "Orgeat Syrup",
+            "sort": 3,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 4,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

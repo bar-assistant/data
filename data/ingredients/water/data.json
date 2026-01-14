@@ -1,27 +1,27 @@
 {
-  "_id": "water_67",
-  "_parent_id": "beverages_945",
-  "name": "Water",
-  "strength": 0,
-  "description": "It's water.",
-  "origin": "Worldwide",
-  "color": "#fff",
-  "category": "Beverages",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///water.png",
-      "sort": 1,
-      "placeholder_hash": "9geKFQgeendZeKf1NlptkMQGBwd4eHiIhw",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "water",
+    "_parent_id": "beverages",
+    "name": "Water",
+    "strength": 0,
+    "description": "It's water.",
+    "origin": "Worldwide",
+    "color": "#fff",
+    "category": "Beverages",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///water-1.png",
+            "sort": 1,
+            "placeholder_hash": "9geKFQgeendZeKf1NlptkMQGBwd4eHiIhw",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

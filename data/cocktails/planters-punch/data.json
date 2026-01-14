@@ -1,95 +1,79 @@
 {
-  "_id": "planters-punch_64",
-  "name": "Planter’s Punch",
-  "instructions": "Pour all ingredients directly in a small tumbler or a typical terracotta glass.\nNOTE:\nAdd dilution up to taste, it can be given by water, ice or juices.",
-  "created_at": null,
-  "updated_at": null,
-  "description": "The cocktail has been said to have originated at the Planters Hotel in Charleston, South Carolina, but actually originated in Jamaica.",
-  "source": "https://iba-world.com/planters-punch/",
-  "garnish": "Garnish with orange zest.",
-  "abv": 18.41,
-  "tags": [
-    "IBA Cocktail",
-    "The Unforgettables",
-    "Tiki"
-  ],
-  "glass": "Hurricane",
-  "method": "Build",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///planters-punch.jpg",
-      "sort": 1,
-      "placeholder_hash": "DjkKJwaQtEeFeGlXelaXiHloBzZ5FJAH",
-      "copyright": "Wikipedia"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "jamaican-rum_100",
-      "name": "Jamaican Rum",
-      "strength": 40,
-      "description": "Jamaican rum refers to rum produced in Jamaica, a Caribbean island known for its rich history of rum production. Jamaican rum is renowned for its bold and distinctive flavor profile, often characterized by robust and complex notes.\n\nJamaican rum has a strong cultural and historical significance, and the island is home to several well-known distilleries, each with its unique approach to rum production. Brands such as Appleton Estate and Wray & Nephew are examples of Jamaican rums that have gained international acclaim.",
-      "origin": "Jamaica",
-      "category": "Rum",
-      "amount": 45,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "lime-juice_59",
-      "name": "Lime juice",
-      "strength": 0,
-      "description": "Freshly squeezed lime juice.",
-      "origin": null,
-      "category": "Citrus juice",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "simple-syrup_108",
-      "name": "Simple Syrup",
-      "strength": 0,
-      "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
-      "origin": null,
-      "category": "Syrups",
-      "amount": 30,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    },
-    {
-      "_id": "angostura-aromatic-bitters_22",
-      "name": "Angostura aromatic bitters",
-      "strength": 44.7,
-      "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
-      "origin": "Trinidad & Tobago",
-      "category": "Bitters",
-      "amount": 3,
-      "units": "dash",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 4
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "planters-punch",
+    "name": "Planter’s Punch",
+    "instructions": "Pour all ingredients directly in a small tumbler or a typical terracotta glass.\nNOTE:\nAdd dilution up to taste, it can be given by water, ice or juices.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The cocktail has been said to have originated at the Planters Hotel in Charleston, South Carolina, but actually originated in Jamaica.",
+    "source": "https://iba-world.com/planters-punch/",
+    "garnish": "Garnish with orange zest.",
+    "abv": 18.41,
+    "tags": [
+        "IBA Cocktail",
+        "The Unforgettables",
+        "Tiki"
+    ],
+    "glass": "Hurricane",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///planters-punch-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "DjkKJwaQtEeFeGlXelaXiHloBzZ5FJAH",
+            "copyright": "Wikipedia"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "jamaican-rum",
+            "name": "Jamaican Rum",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 2,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 3,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 4,
+            "amount": 3,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

@@ -1,0 +1,90 @@
+{
+    "_id": "poached-pear",
+    "name": "Poached Pear",
+    "instructions": "1. Combine all of the ingredients except for the spiced wine syrup in a shaker with ice.\n2. Shake until the shaker is cold and frosty, about 10-15 seconds.\n3. Strain into a large rocks glass with fresh ice.\n4. Add the spiced wine syrup by sinking it to the bottom of the glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "It turns out the flavors of a classic French dessert, the red wine poached pear, work beautifully as a fall/winter cocktail. \"Cooler weather naturally brings these flavors to the forefront: fuller red wines, baking spices, and pome fruits — evoking the true feeling of the season in each sip,\" says Siri, lead bartender of Philadelphia's 48 Record Bar. Instead of simply floating his Poached Pear cocktail with red wine a la a New York Sour, he makes a spiced syrup with red wine to imbue it with those baking spices. The result is a cocktail that's dessert-like but not too sweet.",
+    "source": "https://imbibemagazine.com/recipe/poached-pear-cocktail/",
+    "garnish": null,
+    "abv": 14.44,
+    "tags": [
+        "Fruity",
+        "Warm"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///poached-pear-1.webp",
+            "sort": 1,
+            "placeholder_hash": "nBgOFwJQjIlqeIh4amiIiHiIiWCaCLgL",
+            "copyright": "Imbibe Magazine | Gab Bonghi"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-reposado",
+            "name": "Tequila Reposado",
+            "sort": 1,
+            "amount": 1.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 2,
+            "amount": 1.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "agave-syrup",
+            "name": "Agave Syrup",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pear-liqueur",
+            "name": "Pear liqueur",
+            "sort": 4,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "spiced-wine-syrup",
+            "name": "Spiced wine syrup",
+            "sort": 5,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": 0.5,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

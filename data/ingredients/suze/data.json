@@ -1,35 +1,27 @@
 {
-  "_id": "suze_36",
-  "_parent_id": "gentian-liqueur_1167",
-  "name": "Suze",
-  "strength": 15,
-  "description": "Bitter flavored drink made with the roots of the plant gentian.",
-  "origin": "Switzerland",
-  "color": "#f5dda1",
-  "category": "Liqueurs > Gentian Liqueur",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///suze.png",
-      "sort": 1,
-      "placeholder_hash": "rEmOPQgeZ2d0eHBJeGd7j7f3CwqIiHiIiA",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [
-    {
-      "price_category_name": "Hrvatska",
-      "price": 1980,
-      "currency": "EUR",
-      "amount": 1000,
-      "units": "ml"
-    }
-  ],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "suze",
+    "_parent_id": "gentian-liqueur",
+    "name": "Suze",
+    "strength": 15,
+    "description": "Bitter flavored drink made with the roots of the plant gentian.",
+    "origin": "Switzerland",
+    "color": "#f5dda1",
+    "category": "Liqueurs > Gentian Liqueur",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///suze-1.png",
+            "sort": 1,
+            "placeholder_hash": "rEmOPQgeZ2d0eHBJeGd7j7f3CwqIiHiIiA",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

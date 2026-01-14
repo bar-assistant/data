@@ -1,27 +1,27 @@
 {
-  "_id": "cola_70",
-  "_parent_id": "beverages_945",
-  "name": "Cola",
-  "strength": 0,
-  "description": "Cola is a carbonated soft drink flavored with vanilla, cinnamon, citrus oils and other flavorings.",
-  "origin": "Worldwide",
-  "color": "#411919",
-  "category": "Beverages",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///cola.png",
-      "sort": 1,
-      "placeholder_hash": "G5mOHQoei1R8h3BYeGeccMUIBQZ2hneHeA",
-      "copyright": "Coca Cola"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "topup"
+    "_id": "cola",
+    "_parent_id": "beverages",
+    "name": "Cola",
+    "strength": 0,
+    "description": "Cola is a carbonated soft drink flavored with vanilla, cinnamon, citrus oils and other flavorings.",
+    "origin": "Worldwide",
+    "color": "#411919",
+    "category": "Beverages",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///cola-1.png",
+            "sort": 1,
+            "placeholder_hash": "G5mOHQoei1R8h3BYeGeccMUIBQZ2hneHeA",
+            "copyright": "Coca Cola"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "topup"
 }

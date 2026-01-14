@@ -1,0 +1,173 @@
+{
+    "_id": "8-amaro-sazerac",
+    "name": "8 Amaro Sazerac",
+    "instructions": "Stir with ice, strain into a rocks glass pre-rinsed with Green Chartreuse, and garnish with a lemon twist.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Mayur Subbarao created this recipe for the opening menu at Manhattan's Amor y Amargo in 2011, and it has remained on the list there ever since.",
+    "source": "https://kindredcocktails.com/cocktail/8-amaro-sazerac",
+    "garnish": null,
+    "abv": 22.74,
+    "tags": [
+        "Bitter"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": "sazerac",
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///8-amaro-sazerac-1.webp",
+            "sort": 1,
+            "placeholder_hash": "0SgKDwZlJ0owqqfDZDubdlaJCSQUB3ED",
+            "copyright": "Cocktail Virgin"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "amaro-meletti",
+            "name": "Amaro Meletti",
+            "sort": 1,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "aperol",
+            "name": "Aperol",
+            "sort": 2,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "amaro-lazzaroni",
+            "name": "Amaro Lazzaroni",
+            "sort": 3,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "cynar",
+                    "name": "Cynar",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ]
+        },
+        {
+            "_id": "amaro-ramazzotti",
+            "name": "Amaro Ramazzotti",
+            "sort": 4,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "sort": 5,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "amaro-ciociaro",
+            "name": "Amaro CioCiaro",
+            "sort": 6,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "amaro-montenegro",
+            "name": "Amaro Montenegro",
+            "sort": 7,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "amaro-averna",
+                    "name": "Amaro Averna",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ]
+        },
+        {
+            "_id": "amaro-sibilla",
+            "name": "Amaro Sibilla",
+            "sort": 8,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "fernet-branca",
+                    "name": "Fernet Branca",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ]
+        },
+        {
+            "_id": "peychauds-bitters",
+            "name": "Peychauds Bitters",
+            "sort": 9,
+            "amount": 4,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 10,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

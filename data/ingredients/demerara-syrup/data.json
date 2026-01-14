@@ -1,27 +1,27 @@
 {
-  "_id": "demerara-syrup_135",
-  "_parent_id": "simple-syrup_108",
-  "name": "Demerara Syrup",
-  "strength": 0,
-  "description": "Syrup made with demerara sugar",
-  "origin": null,
-  "color": "#7f372a",
-  "category": "Syrups > Simple Syrup",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///demerara-syrup.png",
-      "sort": 1,
-      "placeholder_hash": "aQiGBQJGlluFeYn1mJl5gPg4CJd2eHZ4hw",
-      "copyright": "Raft"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "demerara-syrup",
+    "_parent_id": "simple-syrup",
+    "name": "Demerara Syrup",
+    "strength": 0,
+    "description": "Syrup made with demerara sugar",
+    "origin": null,
+    "color": "#7f372a",
+    "category": "Sweeteners > Syrups > Simple Syrup",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///demerara-syrup-1.png",
+            "sort": 1,
+            "placeholder_hash": "aQiGBQJGlluFeYn1mJl5gPg4CJd2eHZ4hw",
+            "copyright": "Raft"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

@@ -1,0 +1,20 @@
+{
+    "_id": "spiced-wine-syrup",
+    "_parent_id": "syrups",
+    "name": "Spiced wine syrup",
+    "strength": 0,
+    "description": "Combine 1 1/2 cups of red wine, 3/4 cups of brown sugar, 2 cinnamon sticks, and 1 1/2 tsp. of whole cloves in a saucepan and bring to a simmer. Let the mixture simmer for about 5-10 minutes or until the alcohol smell is gone—to reduce and cook off the alcohol. Let the mixture cool before use or storing. Store in an airtight container in the refrigerator. Keep for about 2 weeks.",
+    "origin": null,
+    "color": null,
+    "category": "Sweeteners > Syrups",
+    "created_at": null,
+    "updated_at": null,
+    "images": [],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

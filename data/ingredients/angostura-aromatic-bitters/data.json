@@ -1,35 +1,27 @@
 {
-  "_id": "angostura-aromatic-bitters_22",
-  "_parent_id": "bitters_944",
-  "name": "Angostura aromatic bitters",
-  "strength": 44.7,
-  "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
-  "origin": "Trinidad & Tobago",
-  "color": "#e95310",
-  "category": "Bitters",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///angostura-aromatic-bitters.png",
-      "sort": 1,
-      "placeholder_hash": "MQiGBQAPaQd5iHeYxwl2qPb8CQmWlod3eA",
-      "copyright": "Angostura"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [
-    {
-      "price_category_name": "Hrvatska",
-      "price": 2000,
-      "currency": "EUR",
-      "amount": 200,
-      "units": "ml"
-    }
-  ],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "dash"
+    "_id": "angostura-aromatic-bitters",
+    "_parent_id": "bitters",
+    "name": "Angostura aromatic bitters",
+    "strength": 44.7,
+    "description": "Angostura bitters is a concentrated bitters (herbal alcoholic preparation) and highly aromatic flavoring agent used in the preparation of cocktails and various culinary applications. It is a dark brown liquid made from a secret blend of herbs and spices, created by the House of Angostura in Trinidad and Tobago. Despite its name, Angostura bitters does not contain angostura bark; instead, it features a proprietary combination of botanical ingredients.\n\nAngostura bitters typically comes in small bottles with a distinctive oversized label and a built-in dasher top, allowing for controlled and precise pouring.\n\nDespite the name, Angostura bitters is non-alcoholic in the sense that it is not consumed in large quantities and is used as a flavoring agent rather than a beverage on its own.\n\nAngostura bitters has become an iconic and essential ingredient in the world of cocktails, appreciated for its ability to elevate and enhance the overall drinking experience.",
+    "origin": "Trinidad & Tobago",
+    "color": "#e95310",
+    "category": "Bitters",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///angostura-aromatic-bitters-1.png",
+            "sort": 1,
+            "placeholder_hash": "MQiGBQAPaQd5iHeYxwl2qPb8CQmWlod3eA",
+            "copyright": "Angostura"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "dash"
 }

@@ -1,0 +1,27 @@
+{
+    "_id": "amaro-ramazzotti",
+    "_parent_id": "amaro",
+    "name": "Amaro Ramazzotti",
+    "strength": 30,
+    "description": "Amaro Ramazzotti is a celebrated Italian herbal liqueur, renowned for its complex and layered flavor profile.",
+    "origin": "Italy",
+    "color": "#A08157",
+    "category": "Apéritif > Amaro",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///amaro-ramazzotti-1.webp",
+            "sort": 0,
+            "placeholder_hash": "lpiGDQZFd4mAfoe5iHiAjwfXCLeGeHd4dw",
+            "copyright": "Ramazzotti"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": "Pernod",
+    "units": null
+}

@@ -1,0 +1,20 @@
+{
+    "_id": "gardenia-mix",
+    "_parent_id": "batter",
+    "name": "Gardenia Mix",
+    "strength": 0,
+    "description": "- 1 cup unsalted butter, cubed\n- 1 cup orange blossom honey\n- 1 ounce cinnamon syrup\n- 1/2 ounce ounce allspice liqueur\n- 1/2 ounce vanilla syrup\n\nCombine all ingredients in a saucepan over medium heat and whisk until melted and smooth.\n\nBecause this is an iced drink, prepare the mix a short time before using it. The mix must stay at room temperature; refrigerated it will become too sticky to blend.",
+    "origin": null,
+    "color": null,
+    "category": "Batter",
+    "created_at": null,
+    "updated_at": null,
+    "images": [],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

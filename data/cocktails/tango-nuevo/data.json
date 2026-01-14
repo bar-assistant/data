@@ -1,75 +1,63 @@
 {
-  "_id": "tango-nuevo_150",
-  "name": "Tango Nuevo",
-  "instructions": "1. Combine all ingredients except the garnishes in a mixing glass and stir briefly, 10-20 seconds\n2. Strain into a rocks glass over one large rock\n3. Sprinkle a bit of salt on top and garnish with lemon twist",
-  "created_at": null,
-  "updated_at": null,
-  "description": "An offbeat little drink with a confectionary angle",
-  "source": "https://tuxedono2.com/tango-nuevo-cocktail-recipe",
-  "garnish": "pinch smoked sea salt for garnish\n\nlemon twist for garnish",
-  "abv": 23.33,
-  "tags": [],
-  "glass": "Lowball",
-  "method": "Stir",
-  "utensils": [],
-  "images": [
-    {
-      "uri": "file:///tango-nuevo.jpg",
-      "sort": 1,
-      "placeholder_hash": "QxgGFwQJmaZjeIeBfHeHuFd5l0AnCHQC",
-      "copyright": "TuxedoNo2"
-    }
-  ],
-  "ingredients": [
-    {
-      "_id": "dark-rum_99",
-      "name": "Dark Rum",
-      "strength": 40,
-      "description": "Dark rum is a type of rum that is aged longer and often in charred barrels, giving it a darker color and a richer, more robust flavor compared to lighter rums. It typically has notes of caramel, molasses, and sometimes spices. Dark rum is commonly used in cocktails, especially those with a strong, flavorful profile, and it is also enjoyed neat or on the rocks. The aging process contributes to the development of complex flavors and a smoother texture.",
-      "origin": "Caribbean",
-      "category": "Rum",
-      "amount": 45,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 1
-    },
-    {
-      "_id": "honey-syrup_110",
-      "name": "Honey Syrup",
-      "strength": 0,
-      "description": "Syrup made from dissolving honey in water.",
-      "origin": "Worldwide",
-      "category": "Simple Syrup",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 2
-    },
-    {
-      "_id": "coffee-liqueur_28",
-      "name": "Coffee liqueur",
-      "strength": 20,
-      "description": "Coffee liqueur is a sweet and flavored liqueur that is infused with the rich and robust taste of coffee. It typically combines distilled spirits like vodka or rum with coffee extracts, sweeteners, and sometimes additional flavorings. Coffee liqueur is known for its dark color and the deep, complex flavor profile that includes the bold essence of coffee along with sweetness and often a touch of bitterness. It is a versatile ingredient used in various cocktails, desserts, and coffee-based beverages. Popular brands include Kahlúa and Tia Maria, and common cocktails featuring coffee liqueur include the White Russian and Espresso Martini.",
-      "origin": "Mexico",
-      "category": "Liqueurs",
-      "amount": 15,
-      "units": "ml",
-      "optional": false,
-      "is_specified": false,
-      "amount_max": null,
-      "note": null,
-      "substitutes": [],
-      "sort": 3
-    }
-  ],
-  "parent_cocktail_id": null,
-  "year": null
+    "_id": "tango-nuevo",
+    "name": "Tango Nuevo",
+    "instructions": "1. Combine all ingredients except the garnishes in a mixing glass and stir briefly, 10-20 seconds\n2. Strain into a rocks glass over one large rock\n3. Sprinkle a bit of salt on top and garnish with lemon twist",
+    "created_at": null,
+    "updated_at": null,
+    "description": "An offbeat little drink with a confectionary angle",
+    "source": "https://tuxedono2.com/tango-nuevo-cocktail-recipe",
+    "garnish": "pinch smoked sea salt for garnish\n\nlemon twist for garnish",
+    "abv": 23.33,
+    "tags": [],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///tango-nuevo-1.jpg",
+            "sort": 1,
+            "placeholder_hash": "QxgGFwQJmaZjeIeBfHeHuFd5l0AnCHQC",
+            "copyright": "TuxedoNo2"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "sort": 2,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
 }

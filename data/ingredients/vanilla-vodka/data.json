@@ -1,27 +1,27 @@
 {
-  "_id": "vanilla-vodka_79",
-  "_parent_id": "vodka_78",
-  "name": "Vanilla Vodka",
-  "strength": 40,
-  "description": "Vodka with added vanilla essence.",
-  "origin": "Russia",
-  "color": "#ffffff",
-  "category": "Spirits > Vodka",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///vanilla-vodka.png",
-      "sort": 1,
-      "placeholder_hash": "MwiCBQA0Z9qAf4m3eHePeveYCMd3iHd4dw",
-      "copyright": "Smirnoff"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "ml"
+    "_id": "vanilla-vodka",
+    "_parent_id": "vodka",
+    "name": "Vanilla Vodka",
+    "strength": 40,
+    "description": "Vodka with added vanilla essence.",
+    "origin": "Russia",
+    "color": "#ffffff",
+    "category": "Spirits > Vodka",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///vanilla-vodka-1.png",
+            "sort": 1,
+            "placeholder_hash": "MwiCBQA0Z9qAf4m3eHePeveYCMd3iHd4dw",
+            "copyright": "Smirnoff"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "ml"
 }

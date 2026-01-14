@@ -1,0 +1,127 @@
+{
+    "_id": "surfer-on-acid",
+    "name": "Surfer on Acid",
+    "instructions": "1. Add all ingredients to a shaker and shake with ice.\n2. Strain into a double rocks glass over a large block of ice.\n3. Garnish with freshly grated nutmeg.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Surfer on Acid is an easy shaken cocktail recipe made with rum, Jägermeister, lime, pineapple and saline solution.",
+    "source": "https://punchdrink.com/recipes/surfer-on-acid/",
+    "garnish": "freshly grated nutmeg",
+    "abv": 15.37,
+    "tags": [
+        "Sweet",
+        "Fruity",
+        "Tiki"
+    ],
+    "glass": null,
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "images": [
+        {
+            "uri": "file:///surfer-on-acid-1.webp",
+            "sort": 1,
+            "placeholder_hash": "11kOFwIOY4doh3himVmHd4eI5zCUDTML",
+            "copyright": "Punch Staff | Madeline P. Gray"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "light-rum",
+            "name": "Light Rum",
+            "sort": 2,
+            "amount": 1.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Don Q Cristal",
+            "substitutes": []
+        },
+        {
+            "_id": "jagermeister",
+            "name": "Jägermeister",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 5,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "jamaican-rum",
+            "name": "Jamaican Rum",
+            "sort": 6,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Smith & Cross",
+            "substitutes": []
+        },
+        {
+            "_id": "coconut-rum",
+            "name": "Coconut Rum",
+            "sort": 7,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Malibu",
+            "substitutes": []
+        },
+        {
+            "_id": "saline-solution",
+            "name": "Saline solution",
+            "sort": 8,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

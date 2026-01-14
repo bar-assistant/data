@@ -1,27 +1,27 @@
 {
-  "_id": "ice-cream_193",
-  "_parent_id": "dairy_1388",
-  "name": "Ice cream",
-  "strength": 0,
-  "description": "Ice cream is a frozen dessert made from a mixture of cream, sugar, and flavorings, often with the addition of fruits, nuts, or other ingredients. It is churned and frozen to create a creamy and sweet treat enjoyed in various flavors and forms.",
-  "origin": "Worldwide",
-  "color": "#ffffff",
-  "category": "Dairy",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///ice-cream-1_n9KJbq.png",
-      "sort": 1,
-      "placeholder_hash": "aimGDQJHgm9do4c4mWmAhwWICId8h3Zodw",
-      "copyright": "CC License"
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "scoops"
+    "_id": "ice-cream",
+    "_parent_id": "dairy",
+    "name": "Ice cream",
+    "strength": 0,
+    "description": "Ice cream is a frozen dessert made from a mixture of cream, sugar, and flavorings, often with the addition of fruits, nuts, or other ingredients. It is churned and frozen to create a creamy and sweet treat enjoyed in various flavors and forms.",
+    "origin": "Worldwide",
+    "color": "#ffffff",
+    "category": "Dairy",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///ice-cream-1.png",
+            "sort": 1,
+            "placeholder_hash": "aimGDQJHgm9do4c4mWmAhwWICId8h3Zodw",
+            "copyright": "CC License"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "scoops"
 }

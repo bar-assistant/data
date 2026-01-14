@@ -1,27 +1,27 @@
 {
-  "_id": "cucumber_144",
-  "_parent_id": "fruits-and-vegetables_941",
-  "name": "Cucumber",
-  "strength": 0,
-  "description": "Cucumbers are a type of vegetable that grow on creeping vines and are known for their cylindrical shape and high water content, making them refreshing to eat.",
-  "origin": null,
-  "color": "#e3efd6",
-  "category": "Fruits and vegetables",
-  "created_at": null,
-  "updated_at": null,
-  "images": [
-    {
-      "uri": "file:///cucumber.png",
-      "sort": 1,
-      "placeholder_hash": "prmBBQA4QlhSq+X/nKiTgFCHWHhJh3Bpag",
-      "copyright": ""
-    }
-  ],
-  "ingredient_parts": [],
-  "prices": [],
-  "calculator_id": null,
-  "sugar_g_per_ml": null,
-  "acidity": null,
-  "distillery": null,
-  "units": "slice"
+    "_id": "cucumber",
+    "_parent_id": "fruits-and-vegetables",
+    "name": "Cucumber",
+    "strength": 0,
+    "description": "Cucumbers are a type of vegetable that grow on creeping vines and are known for their cylindrical shape and high water content, making them refreshing to eat.",
+    "origin": null,
+    "color": "#e3efd6",
+    "category": "Fruits and vegetables",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///cucumber-1.png",
+            "sort": 1,
+            "placeholder_hash": "prmBBQA4QlhSq+X/nKiTgFCHWHhJh3Bpag",
+            "copyright": ""
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": "slice"
 }
