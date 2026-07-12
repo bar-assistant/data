@@ -60,9 +60,21 @@
             "substitutes": []
         },
         {
+            "_id": "egg-white",
+            "name": "Egg White",
+            "sort": 4,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Reserve egg yolk",
+            "substitutes": []
+        },
+        {
             "_id": "club-soda",
             "name": "Club soda",
-            "sort": 4,
+            "sort": 5,
             "amount": 1,
             "units": "oz",
             "optional": false,
