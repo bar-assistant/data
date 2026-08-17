@@ -1,11 +1,11 @@
 {
     "_id": "parisien-mojito",
     "name": "Parisien Mojito",
-    "instructions": "Lightly MUDDLE mint (just to bruise) in base of glass. Add other ingredients, half fill glass with crushed ice and CHURN (stir) with bar spoon. Fill glass to brim with more crushed ice and churn some more. Serve with straws.",
+    "instructions": "1. Muddle mint in base of glass.\n2. Add rest of ingredients, half fill glass with crushed ice and stir with bar spoon.\n3. Fill glass to brim with more crushed ice and stir more.",
     "created_at": null,
     "updated_at": null,
     "description": null,
-    "source": "https://www.diffordsguide.com/cocktails/recipe/2712/parisien-mojito",
+    "source": "",
     "garnish": null,
     "abv": 22.22,
     "tags": [

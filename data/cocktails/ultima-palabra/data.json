@@ -1,11 +1,11 @@
 {
     "_id": "ultima-palabra",
     "name": "Ultima Palabra",
-    "instructions": "1. SHAKE all ingredients with ice and fine strain into chilled glass",
+    "instructions": "1. Shake all ingredients with ice and strain into ice-filled glass.\n2. Garnish with thyme sprig.",
     "created_at": null,
     "updated_at": null,
     "description": "Named after the direct Spanish translation of Last Word, hence the use of mezcal in place of the gin in a classic Last Word cocktail. Pineapple juice, another distinguishing feature of this riff on the classic, works brilliantly – adding a fruity sweetness and complexity.",
-    "source": "https://www.diffordsguide.com/cocktails/recipe/3663/ultima-palabra",
+    "source": "",
     "garnish": "Thyme sprig",
     "abv": 20.32,
     "tags": [
