@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///thad-voglers-el-presidente-1.jpg",
+            "uri": "file:///thad-voglers-el-presidente.webp",
             "sort": 0,
             "placeholder_hash": "kOgNFwQ/doiLdnd1eJiJeIeI56A4cTAG",
             "copyright": "Punch Staff | Lizzie Munro"

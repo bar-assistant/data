@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///barracuda-1.webp",
+            "uri": "file:///barracuda.webp",
             "sort": 1,
             "placeholder_hash": "IwkGFwI4iXZ5mngQmTe0OZRrGfQiQz8D",
             "copyright": "The Shaken Cocktail"

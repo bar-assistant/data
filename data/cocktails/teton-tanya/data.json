@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///teton-tanya-1.webp",
+            "uri": "file:///teton-tanya.webp",
             "sort": 1,
             "placeholder_hash": "zAcKHwQGqYZ0eYeFe4ZXmXh3iAKJF4AJ",
             "copyright": "Imbibe Magazine | Carly Diaz"

@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///alaska-1.jpg",
+            "uri": "file:///alaska.webp",
             "sort": 1,
             "placeholder_hash": "2DgaFwZnh4eAh3iJiGeXZ4eJd2QIh5YA",
             "copyright": "Punch"

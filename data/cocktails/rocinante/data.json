@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///rocinante-1.webp",
+            "uri": "file:///rocinante.webp",
             "sort": 1,
             "placeholder_hash": "qygKFwL4e4d7SJaclLdnZ3eFiWBHB3kC",
             "copyright": "Imbibe Magazine | Connor Stehr/@shake_and_stehr"

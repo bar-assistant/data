@@ -1,0 +1,92 @@
+{
+    "_id": "puebla-york",
+    "name": "Puebla York",
+    "instructions": "1. Add all of the ingredients to a mixing glass with ice.\n2. Stir to chill and strain into the glass.\n3. Garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Imbibe 75 Person to Watch and Puebla-born bartender Victor Lopez celebrates Mexican flavors through his cocktails at New York City's Mixteca, featuring unique twists on classics. But Lopez's Puebla York, named after a Queens neighborhood that's home to the largest community of Poblanos outside of Mexico, marries his native and adopted homes in this Manhattan-inspired mezcal cocktail.",
+    "source": "https://imbibemagazine.com/recipe/puebla-york-from-mixteca/",
+    "garnish": "3 brandy cherries on a pick",
+    "abv": 28.01,
+    "tags": [
+        "Bitter",
+        "Sweet",
+        "Smokey"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///puebla-york.webp",
+            "sort": 1,
+            "placeholder_hash": "DkkGDwIfeDf8WnKFiriTrFtdhvYtMowA",
+            "copyright": "Imbibe Magazine | Eric Medsker"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "sort": 1,
+            "amount": 1.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Reposado",
+            "substitutes": []
+        },
+        {
+            "_id": "tequila-reposado",
+            "name": "Tequila Reposado",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "creme-de-cassis",
+            "name": "Crème de cassis",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "mole-bitters",
+            "name": "Mole Bitters",
+            "sort": 5,
+            "amount": 0.5,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

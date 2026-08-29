@@ -17,10 +17,11 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 2025,
+    "author": null,
     "images": [
         {
-            "uri": "file:///highland-diver-1.webp",
+            "uri": "file:///highland-diver.webp",
             "sort": 1,
             "placeholder_hash": "cEkGHwLvVZiWhoiEd3mIhndsNWBnEdAJ",
             "copyright": "Imbibe Magazine | John Valls"

@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///brown-bomber-1.jpg",
+            "uri": "file:///brown-bomber.webp",
             "sort": 1,
             "placeholder_hash": "mBgaHwJniHiAd3h6eXeHd2h4mGAXKXgA",
             "copyright": "Flickr"

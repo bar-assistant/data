@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///whiskey-apple-highball-1.webp",
+            "uri": "file:///whiskey-apple-highball.webp",
             "sort": 1,
             "placeholder_hash": "mQgaLwJ2h3iAhYmZiIeWZ4eHeHBHB3cE",
             "copyright": "Educated Bar Fly"

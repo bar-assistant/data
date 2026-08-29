@@ -11,7 +11,7 @@
     "updated_at": null,
     "images": [
         {
-            "uri": "file:///maraschino-1.png",
+            "uri": "file:///maraschino.webp",
             "sort": 1,
             "placeholder_hash": "KQiKBQItB4h3h4iHh8qAiQOYBxd4eId3eA",
             "copyright": "Maraska"
@@ -20,8 +20,8 @@
     "ingredient_parts": [],
     "prices": [],
     "calculator_id": null,
-    "sugar_g_per_ml": null,
+    "sugar_g_per_ml": 348,
     "acidity": null,
-    "distillery": null,
+    "distillery": "Maraska",
     "units": "ml"
 }

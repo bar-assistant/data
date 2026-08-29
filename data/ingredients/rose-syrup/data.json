@@ -6,12 +6,12 @@
     "description": "Pure sugar syrup made from the natural aroma of rose.",
     "origin": "Worldwide",
     "color": "#b11f30",
-    "category": "Sweeteners > Syrups",
+    "category": "Syrups",
     "created_at": null,
     "updated_at": null,
     "images": [
         {
-            "uri": "file:///rose-syrup-1.png",
+            "uri": "file:///rose-syrup.webp",
             "sort": 1,
             "placeholder_hash": "5niGBQA0eId3iHb5V1eHb1T4B8h2iYd4iA",
             "copyright": ""

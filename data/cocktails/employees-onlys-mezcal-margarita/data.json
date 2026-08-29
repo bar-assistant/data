@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///employees-onlys-mezcal-margarita-1.jpg",
+            "uri": "file:///employees-onlys-mezcal-margarita.webp",
             "sort": 0,
             "placeholder_hash": "tPgFFwKU9oiKiHVmiMh4d5d7dmA4A3gD",
             "copyright": "Punch Staff | Lizzie Munro"

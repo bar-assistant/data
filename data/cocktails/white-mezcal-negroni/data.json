@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": "white-negroni",
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///white-mezcal-negroni-1.jpg",
+            "uri": "file:///white-mezcal-negroni.webp",
             "sort": 1,
             "placeholder_hash": "FwgaBwBYd3iAh3iIend3iHiIaEBKHlgA",
             "copyright": "Punch Staff | Lizzie Munro"

@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///mulled-wine-1.jpg",
+            "uri": "file:///mulled-wine.webp",
             "sort": 1,
             "placeholder_hash": "oigOHwT2t3lqc4d5hoVnmFd1h7AHCXoA",
             "copyright": "Reddit"

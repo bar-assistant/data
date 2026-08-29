@@ -17,15 +17,16 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///calvados-tonic-1.jpg",
+            "uri": "file:///calvados-tonic-1.webp",
             "sort": 1,
             "placeholder_hash": "MegFJwT2U2mebYd5pPhHqVeGZeBHJX8E",
             "copyright": "Punch Staff"
         },
         {
-            "uri": "file:///calvados-tonic-2.jpg",
+            "uri": "file:///calvados-tonic-2.webp",
             "sort": 2,
             "placeholder_hash": "bdcJFwJ0eHiQmofMibd5hpmYCYlIoLEG",
             "copyright": "Punch Staff"

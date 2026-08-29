@@ -1,0 +1,83 @@
+{
+    "_id": "rainy-day-fund-2",
+    "name": "Rainy Day Fund",
+    "instructions": "1. Add all of the ingredients to a glass, add ice, and stir to chill. Garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "While working on her own White Negroni riff, Courtney McKamey—Weather Up's beverage director—ran into a road block. None of the white bitter liqueurs or aperitifs she had on hand were doing the trick. But then she reached for Italicus. \"The soft floral notes with the citrus bergamot flavors was exactly what I was looking for; it paired beautifully with mezcal,\" she says. \"Italicus saved the cocktail right when I was about to give up.\"",
+    "source": "https://imbibemagazine.com/recipe/rainy-day-fund-white-negroni-riff/",
+    "garnish": "Orange twist",
+    "abv": 24.57,
+    "tags": [
+        "Citrusy",
+        "Herbal",
+        "Bitter",
+        "Smokey",
+        "Negroni",
+        "Dry"
+    ],
+    "glass": null,
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": "white-negroni",
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///rainy-day-fund-2.webp",
+            "sort": 1,
+            "placeholder_hash": "3TgaHwRXh4egh3h4iXeGZ3eH+JEZf5sE",
+            "copyright": "Imbibe Magazine | Courtney McKamey"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "dry-vermouth",
+            "name": "Dry Vermouth",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "italicus-rosolio-di-bergamotto",
+            "name": "Italicus Rosolio di Bergamotto",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 4,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///apapacho-cafe-1.jpg",
+            "uri": "file:///apapacho-cafe.webp",
             "sort": 0,
             "placeholder_hash": "DjkKFwQCe3d3loeTaTm3mIZ7FwZZhJAG",
             "copyright": "Imbibe Magazine | Courtesy of Zapote Bar/Rosewood Mayakoba"

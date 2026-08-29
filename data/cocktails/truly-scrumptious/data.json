@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///truly-scrumptious-1.jpg",
+            "uri": "file:///truly-scrumptious.webp",
             "sort": 1,
             "placeholder_hash": "6BgOFwLOiHefdXh3dpeX6GZnSaIFNFsA",
             "copyright": "Imbibe Magazine | Anna Wick"

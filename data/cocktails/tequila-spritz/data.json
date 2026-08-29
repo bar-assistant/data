@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///tequila-spritz-1.jpg",
+            "uri": "file:///tequila-spritz.webp",
             "sort": 1,
             "placeholder_hash": "UigKDwRAk4dlh4praod3SIl6lTBnDIYC",
             "copyright": "Imbibe Magazine | Yuliya Razudkevichus."

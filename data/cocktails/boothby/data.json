@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///boothby-1.webp",
+            "uri": "file:///boothby.webp",
             "sort": 1,
             "placeholder_hash": "DOgFJwgVyIaAWoiVfCa39zWLRcYIZJ4A",
             "copyright": "Imbibe Magazine"
@@ -29,7 +30,7 @@
         {
             "_id": "rye-whiskey",
             "name": "Rye whiskey",
-            "sort": 1,
+            "sort": 0,
             "amount": 2,
             "units": "oz",
             "optional": false,
@@ -41,7 +42,7 @@
         {
             "_id": "sweet-vermouth",
             "name": "Sweet Vermouth",
-            "sort": 2,
+            "sort": 0,
             "amount": 1,
             "units": "oz",
             "optional": false,
@@ -53,7 +54,7 @@
         {
             "_id": "orange-bitters",
             "name": "Orange bitters",
-            "sort": 3,
+            "sort": 0,
             "amount": 2,
             "units": "dash",
             "optional": false,
@@ -65,7 +66,7 @@
         {
             "_id": "angostura-aromatic-bitters",
             "name": "Angostura aromatic bitters",
-            "sort": 4,
+            "sort": 0,
             "amount": 1,
             "units": "dash",
             "optional": false,
@@ -77,7 +78,7 @@
         {
             "_id": "sparkling-wine",
             "name": "Sparkling wine",
-            "sort": 5,
+            "sort": 0,
             "amount": 1,
             "units": "oz",
             "optional": false,

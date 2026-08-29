@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///carajillo-1.webp",
+            "uri": "file:///carajillo.webp",
             "sort": 1,
             "placeholder_hash": "XacFFwRmaMt7pK2Klwno6EaecWAHCIUC",
             "copyright": "Imbibe Magazine"

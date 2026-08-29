@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///how-bout-them-salty-apples-1.jpg",
+            "uri": "file:///how-bout-them-salty-apples.webp",
             "sort": 1,
             "placeholder_hash": "kSgWFwR7h4hgZ3eHiJiGeXl26hA2DmAD",
             "copyright": "LiberAndCo | @anushu802"

@@ -1,11 +1,11 @@
 {
     "_id": "negroski",
     "name": "Negroski",
-    "instructions": "Stir all ingredients with ice and strain into ice-filled glass",
+    "instructions": "1. Stir all ingredients with ice and strain into ice-filled glass",
     "created_at": null,
     "updated_at": null,
     "description": "A vodka-based Negroni.",
-    "source": "",
+    "source": "https://www.diffordsguide.com/cocktails/recipe/1325/milano",
     "garnish": "Orange slice",
     "abv": 23.06,
     "tags": [
@@ -15,11 +15,12 @@
     "glass": "Lowball",
     "method": "Stir",
     "utensils": [],
-    "parent_cocktail_id": null,
+    "parent_cocktail_id": "negroni",
     "year": null,
+    "author": "",
     "images": [
         {
-            "uri": "file:///negroski-1.jpg",
+            "uri": "file:///negroski.webp",
             "sort": 1,
             "placeholder_hash": "JpoKNwq6qJkMuIpEh3iJl2p1dwV3Q/AK",
             "copyright": "agratefulmeal"

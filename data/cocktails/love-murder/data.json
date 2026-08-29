@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///love-murder-1.webp",
+            "uri": "file:///love-murder.webp",
             "sort": 1,
             "placeholder_hash": "USgSDwRah4hgdniMeEeoWJaIVwELB4gB",
             "copyright": "Steve the Bartender"

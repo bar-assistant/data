@@ -1,0 +1,91 @@
+{
+    "_id": "the-tartan-cocktail",
+    "name": "The Tartan Cocktail",
+    "instructions": "1. Combine all ingredients in a mixing glass.\n2. Add ice and stir for 20-30 seconds.\n3. Strain into a cocktail glass over a large ice cube.\n4. Garnish with a dried rose bud and/or an orange twist.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Tartan Cocktail is a rich, layered winter drink that balances warmth and complexity. It starts with a foundation of single malt Scotch whisky, its oak and caramel notes softened by sweet vermouth’s cacao and citrus. Drambuie adds honeyed depth, while Amaro Ramazzotti introduces bitter-sweet orange and anise, all harmonized by a touch of Angostura bitters. Served stirred over a large ice cube, it evolves on the palate—perfect for cozy evenings.",
+    "source": "https://www.grouchy-bartender.com/cocktails/the-tartan-cocktail",
+    "garnish": "Orange twist, dried rose bud",
+    "abv": 27.65,
+    "tags": [
+        "Complex",
+        "Herbal"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///the-tartan-cocktail.webp",
+            "sort": 1,
+            "placeholder_hash": "BxgKDwIId5hwi3mKd1eneHh6dmAHBnUA",
+            "copyright": "grouchy bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "scotch-whiskey",
+            "name": "Scotch whiskey",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "drambuie",
+            "name": "Drambuie",
+            "sort": 3,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "amaro-ramazzotti",
+            "name": "Amaro Ramazzotti",
+            "sort": 4,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 5,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

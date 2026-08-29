@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///don-lockwood-1.webp",
+            "uri": "file:///don-lockwood.webp",
             "sort": 1,
             "placeholder_hash": "2WkGJwiHlnjyx3mrOamJinh0CFNEYEkF",
             "copyright": "Steve the Bartender"

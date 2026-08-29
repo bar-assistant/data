@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///fiore-di-francia-1.jpg",
+            "uri": "file:///fiore-di-francia.webp",
             "sort": 0,
             "placeholder_hash": "0TgKFwSwhVqTl4aLeHd3eXh3iDb4OXUP",
             "copyright": "Punch Staff"

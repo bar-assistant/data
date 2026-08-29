@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///amen-corner-1.jpg",
+            "uri": "file:///amen-corner.webp",
             "sort": 0,
             "placeholder_hash": "sSgKFwT4pFqXSpiVaKiIR6d2i7AHCHsB",
             "copyright": "Punch Staff | Lizzie Munro"

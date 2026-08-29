@@ -18,27 +18,28 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///hugo-spritz-1.jpg",
+            "uri": "file:///hugo-spritz-1.webp",
             "sort": 1,
             "placeholder_hash": "8ugJFwK8fonFg2iNZPiGltN5VYAUncAP",
             "copyright": "sipandfeast"
         },
         {
-            "uri": "file:///hugo-spritz-2.jpg",
+            "uri": "file:///hugo-spritz-2.webp",
             "sort": 2,
             "placeholder_hash": "kAgKHwAMiMeJdoaDeniIeIeHWIAHgFII",
             "copyright": "Liquor.com / Tim Nusog"
         },
         {
-            "uri": "file:///hugo-spritz-3.jpg",
+            "uri": "file:///hugo-spritz-3.webp",
             "sort": 3,
             "placeholder_hash": "efgFDwLCaKmammavdagmZneopGIH45MP",
             "copyright": "liveeatlearn"
         },
         {
-            "uri": "file:///hugo-spritz-4.jpg",
+            "uri": "file:///hugo-spritz-4.webp",
             "sort": 4,
             "placeholder_hash": "yvcJDwIIuGd6dXl2iGeYiHeGl/CI94QJ",
             "copyright": "Cocktailclub"

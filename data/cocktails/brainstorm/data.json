@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///brainstorm-1.webp",
+            "uri": "file:///brainstorm.webp",
             "sort": 1,
             "placeholder_hash": "WZoGFwImcyD/jDqKlJmWZ6ZLKPRaQY8E",
             "copyright": "Imbibe Magazine"

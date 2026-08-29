@@ -10,12 +10,19 @@ Data structure is defined by JSON schema.
 - For data integrity, you can use this folder name as unqiue `_id` reference when writing recipes to reference other data (like ingredients, glass types, methods...).
 - Images related to the recipe are stored in the root folder of the recipe.
 - You can add multiple images and reference them by their filename when adding a new recipe.
-- It's recommended that you add images as the following filename format: `{recipe_slug}-{image-number}.{extension}`, for example: `old_fashioned-1.jpg`, `old_fashioned-2.webp`, `gin-1.png`.
+- Name a single image `{recipe_slug}.{extension}`. For multiple images, use `{recipe_slug}-{image-number}.{extension}`, for example: `old-fashioned-1.jpg` and `old-fashioned-2.webp`.
 - All images must have copyright information, preferebly author of the image. For example: `Punch | John Doe`, `Imbibe magazine`, `Salvador Dali`
 
 ## Contributing
 
 Merge requests with new recipes suggestions, or recipe edits are welcome.
+
+## Cleaning an export
+
+Run `./cleanup.sh --dry-run` to validate and preview an imported dataset, then
+run `./cleanup.sh` to normalize cocktail and ingredient folders, IDs,
+references, image names and formats, and timestamps. The script requires Bash
+4.3+, `jq`, and FFmpeg with the `libwebp` encoder.
 
 ### Cocktail tags
 

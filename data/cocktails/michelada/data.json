@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///michelada-1.webp",
+            "uri": "file:///michelada.webp",
             "sort": 1,
             "placeholder_hash": "JnoKJwR4iGlAiHdtd2eJd4aJZ5YJV48A",
             "copyright": ""

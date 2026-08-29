@@ -1,0 +1,82 @@
+{
+    "_id": "bourbon-stone-sour",
+    "name": "Bourbon Stone Sour",
+    "instructions": "1. Combine bourbon, fresh orange juice, fresh lemon juice, and simple syrup in a cocktail shaker.\n2. Add ice and shake until chilled.\n3. Strain into a cocktail glass over fresh ice.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A refreshing bourbon cocktail designed for summer, combining citrus fruitiness with the spirit's notes of oak, vanilla, and caramel.",
+    "source": "https://www.grouchy-bartender.com/cocktails/bourbon-stone-sour",
+    "garnish": "Orange slice, mint sprig, cocktail cherry",
+    "abv": 15.06,
+    "tags": [
+        "Citrusy",
+        "Sweet",
+        "Sour",
+        "Fruity",
+        "Refreshing"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": "",
+    "images": [
+        {
+            "uri": "file:///bourbon-stone-sour.webp",
+            "sort": 1,
+            "placeholder_hash": "CxkOLwQHqIdxiXeKiTaYh3iHdzBnd3AI",
+            "copyright": "grouchy bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "bourbon-whiskey",
+            "name": "Bourbon Whiskey",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "sort": 2,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 3,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 4,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

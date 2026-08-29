@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///thunderbird-1.webp",
+            "uri": "file:///thunderbird.webp",
             "sort": 1,
             "placeholder_hash": "GCkSDwJdU3iAZ4daqEmIaIZ49vGKZ58I",
             "copyright": "Punch Staff | Lizzie Munro"

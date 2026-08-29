@@ -18,21 +18,22 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///gin-fizz-1.jpg",
+            "uri": "file:///gin-fizz-1.webp",
             "sort": 1,
             "placeholder_hash": "8fgFDwIkiFcFSWZgmYmaSqhkNAtrlJAF",
             "copyright": "The Spruce"
         },
         {
-            "uri": "file:///gin-fizz-2.jpg",
+            "uri": "file:///gin-fizz-2.webp",
             "sort": 2,
             "placeholder_hash": "1vgRFwAKt2hmh3d3iXaId5iGh/WFdoAN",
             "copyright": "Koch Wiki"
         },
         {
-            "uri": "file:///gin-fizz-3.jpg",
+            "uri": "file:///gin-fizz-3.webp",
             "sort": 3,
             "placeholder_hash": "LQgGDwR1UEqCeIeJyCh4WKiGdtr3h48N",
             "copyright": "Mixolopedia"

@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///backsliding-presbyterian-1.webp",
+            "uri": "file:///backsliding-presbyterian.webp",
             "sort": 1,
             "placeholder_hash": "KykKHwbaWYhvdnl5dyh46YeFhwC3B4AK",
             "copyright": "LiberAndCo | Juliet Beletic"

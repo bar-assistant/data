@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///irish-maid-1.jpg",
+            "uri": "file:///irish-maid.webp",
             "sort": 1,
             "placeholder_hash": "bxkKNwTAl2iMmGdnhpeId3eJl1BHCWED",
             "copyright": "Liquor.com"

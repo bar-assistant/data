@@ -1,0 +1,64 @@
+{
+    "_id": "boozy-shakerato",
+    "name": "Boozy Shakerato",
+    "instructions": "1. Combine the simple syrup, espresso and your choice of either limoncello, sambuca, or amaretto in shaker and fill with ice. Shake vigorously to create a fully aerated, fluffy drink. Strain into an after-dinner glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Perfect for an after dinner pick-me-up or a morning wake-up call, this boozy shakerato recipe is as versatile as it is delicious. Limoncello not your thing? Sub in 1/2 oz. sambuca or 1/2 oz. amaretto for a different spin.",
+    "source": "https://imbibemagazine.com/recipe/boozy-shakerato/",
+    "garnish": null,
+    "abv": 0.69,
+    "tags": [],
+    "glass": "Nick and Nora",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2017,
+    "author": "Heather Perkins",
+    "images": [
+        {
+            "uri": "file:///boozy-shakerato.webp",
+            "sort": 1,
+            "placeholder_hash": "EwgKFwI5qHf9ZYmNaXhpWbWCSfSsM78J",
+            "copyright": "Imbibe Magazine | Sara Norris"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "espresso",
+            "name": "Espresso",
+            "sort": 1,
+            "amount": 36,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Double shot espresso",
+            "substitutes": []
+        },
+        {
+            "_id": "limoncello",
+            "name": "Limoncello",
+            "sort": 2,
+            "amount": 1.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 3,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "1:1",
+            "substitutes": []
+        }
+    ]
+}

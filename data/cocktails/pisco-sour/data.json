@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///pisco-sour-1.jpg",
+            "uri": "file:///pisco-sour.webp",
             "sort": 1,
             "placeholder_hash": "YwgSFwBqiHd/iYeJd3d3h4d4V5AnEJkF",
             "copyright": "Liquor.com / Tim Nusog"

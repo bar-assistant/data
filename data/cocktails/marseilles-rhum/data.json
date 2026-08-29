@@ -1,0 +1,83 @@
+{
+    "_id": "marseilles-rhum",
+    "name": "Marseilles Rhum",
+    "instructions": "1. Fill an ice-filled shaker tin with rhum, liqueurs, and lime juice and shake until well chilled.\n2. Double strain through a fine mesh strainer into a Nick & Nora cocktail glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Marseilles Rum is a bright, herbaceous cocktail made with equal parts rhum agricole, Bénédictine liqueur, Green Chartreuse, and freshly squeezed lime juice. Learn how to make this original cocktail from Santa Monica's Pasjoli restaurant.",
+    "source": "https://www.foodandwine.com/marseilles-rhum-cocktail-recipe-11763040",
+    "garnish": null,
+    "abv": 29,
+    "tags": [
+        "Herbal",
+        "Citrusy",
+        "Bitter",
+        "Sweet",
+        "Complex",
+        "Refreshing"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///marseilles-rhum.webp",
+            "sort": 1,
+            "placeholder_hash": "lTkKDwQGhHtGaZdth1fFaqSKB4OzpnAJ",
+            "copyright": "Food and Wine"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "rhum-agricole",
+            "name": "Rhum agricole",
+            "sort": 1,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Barbancourt 4-year rhum",
+            "substitutes": []
+        },
+        {
+            "_id": "benedictine",
+            "name": "Bénédictine",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "green-chartreuse",
+            "name": "Green Chartreuse",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 4,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "freshly squeezed",
+            "substitutes": []
+        }
+    ]
+}

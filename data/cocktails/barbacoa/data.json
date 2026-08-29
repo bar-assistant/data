@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///barbacoa-1.jpg",
+            "uri": "file:///barbacoa.webp",
             "sort": 0,
             "placeholder_hash": "0hgOJwQWZ4mFiXiAi5h4l3d6ZyAoB4EF",
             "copyright": "Punch Staff | Shannon Sturgis"

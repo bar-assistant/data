@@ -17,7 +17,15 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
-    "images": [],
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///barmuda-triangle.webp",
+            "sort": 1,
+            "placeholder_hash": "nCgKDwKnmqlgioeFiPd5aHV6O6AsBKgC",
+            "copyright": "AI (Gemini)"
+        }
+    ],
     "ingredients": [
         {
             "_id": "rye-whiskey",

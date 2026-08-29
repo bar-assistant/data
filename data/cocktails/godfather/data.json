@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///godfather-1.webp",
+            "uri": "file:///godfather.webp",
             "sort": 1,
             "placeholder_hash": "0xgKJwZfZ4K0iWZTekeXqUdTagOGVnAJ",
             "copyright": "A Couple Cooks"

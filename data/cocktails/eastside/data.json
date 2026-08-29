@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///eastside-1.webp",
+            "uri": "file:///eastside.webp",
             "sort": 1,
             "placeholder_hash": "n8gJFwoezGl2g3iNdwanqYaWeAEfinAN",
             "copyright": "Steve The Bartender's Cocktail Guide"

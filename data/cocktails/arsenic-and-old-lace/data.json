@@ -1,0 +1,82 @@
+{
+    "_id": "arsenic-and-old-lace",
+    "name": "Arsenic and Old Lace",
+    "instructions": "1. Using an atomizer, spritz a chilled coupe glass with absinthe.\n2. Combine all other ingredients in a mixing glass and stir with ice.\n3. Strain into prepared glass.\n4. Express a lemon twist over the drink, then use as garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Arsenic and Old Lace is a Martini cocktail recipe made with gin, absinthe, dry vermouth, crème de violette and Angostura bitters.",
+    "source": "https://punchdrink.com/recipes/arsenic-and-old-lace/",
+    "garnish": "lemon twist",
+    "abv": 25.58,
+    "tags": [
+        "Citrusy",
+        "Herbal",
+        "Dry",
+        "Bitter",
+        "Complex"
+    ],
+    "glass": "Coupe",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 1941,
+    "author": "Crosby Gaige",
+    "images": [
+        {
+            "uri": "file:///arsenic-and-old-lace.webp",
+            "sort": 1,
+            "placeholder_hash": "CQgKDwIHiKd4l3V6hji3aHd2KLbzB4wH",
+            "copyright": "Punch Staff | Shawn Campbell"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Citadelle Gin Original 88",
+            "substitutes": []
+        },
+        {
+            "_id": "dry-vermouth",
+            "name": "Dry Vermouth",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Dolin",
+            "substitutes": []
+        },
+        {
+            "_id": "creme-de-violette",
+            "name": "Crème de Violette",
+            "sort": 3,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Rothman & Winter",
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 4,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Angostura",
+            "substitutes": []
+        }
+    ]
+}

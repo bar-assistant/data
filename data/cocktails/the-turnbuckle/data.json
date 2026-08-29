@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///the-turnbuckle-1.jpg",
+            "uri": "file:///the-turnbuckle.webp",
             "sort": 1,
             "placeholder_hash": "qBgOHwamb3jDdIWWd7doiGd49yEkTnMA",
             "copyright": "Punch |  Lizzie Munro"

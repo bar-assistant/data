@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///death-flip-1.jpg",
+            "uri": "file:///death-flip.webp",
             "sort": 1,
             "placeholder_hash": "5/cJHwQcT2q8Q3i3iTemmVh1eHAnBXgB",
             "copyright": "Punch"

@@ -4,21 +4,23 @@
     "instructions": "Stir with ice and strain into a chilled rocks glass over ice.",
     "created_at": null,
     "updated_at": null,
-    "description": null,
-    "source": "https://www.ericscocktailguide.com/recipes/comte-de-sureau",
+    "description": "The name translates to count of elderflower, which is a nod to the St-Germain that acts as the floral sweetener here.",
+    "source": "https://www.diffordsguide.com/cocktails/recipe/7257/comte-de-sureau",
     "garnish": "Garnish with orange and lemon twists.",
     "abv": 26.75,
     "tags": [
-        "Negroni"
+        "Negroni",
+        "Bitter"
     ],
     "glass": "Lowball",
     "method": "Stir",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 2007,
+    "author": "Gonçalo de Sousa",
     "images": [
         {
-            "uri": "file:///comte-de-sureau-1.jpg",
+            "uri": "file:///comte-de-sureau.webp",
             "sort": 1,
             "placeholder_hash": "I0kKJwirmGePd4eJd5ZoiGiHSGBmBXUF",
             "copyright": "Eric's Cocktail Guide"

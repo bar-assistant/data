@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///amaretto-sour-1.jpg",
+            "uri": "file:///amaretto-sour.webp",
             "sort": 1,
             "placeholder_hash": "MCkKLwb1nWmIiHedZpZ4pml5p2BICnUD",
             "copyright": "The Spruce Eats"

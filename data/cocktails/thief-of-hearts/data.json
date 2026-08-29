@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///thief-of-hearts-1.jpg",
+            "uri": "file:///thief-of-hearts.webp",
             "sort": 0,
             "placeholder_hash": "SygGDwIypnjAqIVYe4Z5J7l+RGMMZ5MA",
             "copyright": "Imbibe Magazine | Aubrie LeGault"

@@ -1,0 +1,27 @@
+{
+    "_id": "manzanilla-sherry",
+    "_parent_id": "sherry",
+    "name": "Manzanilla sherry",
+    "strength": 15,
+    "description": "Manzanilla is a type of **fino sherry** from the **Sanlúcar de Barrameda** region in southwestern Spain, specifically the *Jerez* area. It’s a pale, dry, and slightly nutty sherry aged under *flor* (a natural yeast layer) in American oak barrels, giving it a delicate, crisp profile with subtle floral and almond notes. Unlike other sherries, Manzanilla is made primarily from the **Fino grape** (or sometimes Palomino) and is known for its **briny, saline character**, often compared to a lighter, more refreshing version of Fino. It’s traditionally served chilled and is a staple in Spanish *vermut* cocktails or enjoyed neat as an aperitif.",
+    "origin": "Spain",
+    "color": "#E6D7B8",
+    "category": "Fortified wine > Sherry",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///manzanilla-sherry.webp",
+            "sort": 0,
+            "placeholder_hash": "EAiKBQAe3xR4aHhmh0lAhgFFCCiCcnRkdw",
+            "copyright": "Lustau"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

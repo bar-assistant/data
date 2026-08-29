@@ -13,10 +13,11 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 2025,
+    "author": null,
     "images": [
         {
-            "uri": "file:///electric-current-fizz-1.webp",
+            "uri": "file:///electric-current-fizz.webp",
             "sort": 1,
             "placeholder_hash": "mxgOFwIPMXm0aIllmImHV4d3SAWaoeQP",
             "copyright": "Punch Staff | Shannon Sturgis"
@@ -26,7 +27,7 @@
         {
             "_id": "gin",
             "name": "Gin",
-            "sort": 1,
+            "sort": 0,
             "amount": 2,
             "units": "oz",
             "optional": false,
@@ -38,7 +39,7 @@
         {
             "_id": "lemon-juice",
             "name": "Lemon juice",
-            "sort": 2,
+            "sort": 0,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
@@ -50,7 +51,7 @@
         {
             "_id": "simple-syrup",
             "name": "Simple Syrup",
-            "sort": 3,
+            "sort": 0,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
@@ -60,21 +61,9 @@
             "substitutes": []
         },
         {
-            "_id": "egg-white",
-            "name": "Egg White",
-            "sort": 4,
-            "amount": 1,
-            "units": "oz",
-            "optional": false,
-            "is_specified": false,
-            "amount_max": null,
-            "note": "Reserve egg yolk",
-            "substitutes": []
-        },
-        {
             "_id": "club-soda",
             "name": "Club soda",
-            "sort": 5,
+            "sort": 0,
             "amount": 1,
             "units": "oz",
             "optional": false,

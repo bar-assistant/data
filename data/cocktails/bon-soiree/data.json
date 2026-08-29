@@ -1,0 +1,93 @@
+{
+    "_id": "bon-soiree",
+    "name": "Bon Soirée",
+    "instructions": "1. Rim a chilled glass with tajin.\n2. Combine the ingredients in a shaker with ice.\n3. Shake to chill, then strain into the prepared glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "This cocktail from Hailey Knight and Casey Knight (no relation) of Charleston's Félix Cocktails et Cuisine takes the spicy Margarita for an extra-savory spin. Saline lends a saltiness, while Lillet Blanc rounds out the edges of the fresh lime juice. Meanwhile, Knight recommends using your favorite hot sauce to spice it up. \"The key is to use a vinegar-based hot sauce to complement the cocktail’s flavors rather than compete with them,\" she says. \"I’m partial to Slap Ya Mama hot sauce.\"",
+    "source": "https://imbibemagazine.com/recipe/bon-soiree-spicy-margarita/",
+    "garnish": "Tajín rim",
+    "abv": 11.09,
+    "tags": [
+        "Spicy",
+        "Savory",
+        "Refreshing",
+        "Complex"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": "",
+    "images": [
+        {
+            "uri": "file:///bon-soiree.webp",
+            "sort": 1,
+            "placeholder_hash": "YggODwKPaHfDl3lTiVmVR3h5gfS2B20I",
+            "copyright": "Imbibe Magazine | Andrew Cebulka"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lillet-blanc",
+            "name": "Lillet Blanc",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "saline-solution",
+            "name": "Saline solution",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "tabasco",
+            "name": "Tabasco",
+            "sort": 5,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

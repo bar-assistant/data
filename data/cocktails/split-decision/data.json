@@ -1,0 +1,81 @@
+{
+    "_id": "split-decision",
+    "name": "Split Decision",
+    "instructions": "1. Add all ingredients to a shaker tin\n2. Add ice and shake for 10-15 seconds\n3. Strain into a glass with large format ice\n4. Express an orange peel",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A delicious cocktail built on a split base of scotch and apple brandy, with Madagascar vanilla and Aperol. It’s warm, balanced, and thoughtfully composed.",
+    "source": "https://www.liberandcompany.com/products/vanilla",
+    "garnish": "orange peel",
+    "abv": 24.07,
+    "tags": [
+        "Fruity",
+        "Sweet",
+        "Bitter",
+        "Citrusy"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": "",
+    "images": [
+        {
+            "uri": "file:///split-decision.webp",
+            "sort": 1,
+            "placeholder_hash": "WCgKDwSv5oaYqHlWlrd3ppmH53YHb5YF",
+            "copyright": "LiberAndCo"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "blended-scotch-whisky",
+            "name": "Blended Scotch Whisky",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "apple-brandy",
+            "name": "Apple Brandy",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "aperol",
+            "name": "Aperol",
+            "sort": 3,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "vanilla-syrup",
+            "name": "Vanilla syrup",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "_id": "for-mezcalicus-sake",
+    "name": "For Mezcalicus Sake",
+    "instructions": "1. Stir all ingredients with ice.\n2. Strain into chilled glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": null,
+    "source": "https://www.diffordsguide.com/cocktails/recipe/31894/for-mezcalicus-sake",
+    "garnish": "Express lime zest twist over cocktail and use as garnish.",
+    "abv": 18.2,
+    "tags": [
+        "Dry",
+        "Smokey",
+        "Herbacious"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": "Simon Difford",
+    "images": [
+        {
+            "uri": "file:///for-mezcalicus-sake.webp",
+            "sort": 1,
+            "placeholder_hash": "lRgGDwAUZwFnhlWyqjWIhpaahsCID6MJ",
+            "copyright": "AI (Gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "sake",
+            "name": "Sake",
+            "sort": 1,
+            "amount": 50,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "sort": 2,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "italicus-rosolio-di-bergamotto",
+            "name": "Italicus Rosolio di Bergamotto",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "bitters",
+            "name": "Bitters",
+            "sort": 4,
+            "amount": 4,
+            "units": "drops",
+            "optional": true,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Margarita Bitters",
+            "substitutes": []
+        },
+        {
+            "_id": "saline-solution",
+            "name": "Saline solution",
+            "sort": 5,
+            "amount": 3,
+            "units": "drops",
+            "optional": true,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

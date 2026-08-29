@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///appetizer-a-litalienne-1.jpg",
+            "uri": "file:///appetizer-a-litalienne.webp",
             "sort": 0,
             "placeholder_hash": "iRgGDwQGmneDeIeDiYeHmId5WEEHJnYA",
             "copyright": "Imbibe Magazine | RECIPE: Adaptation courtesy of Frederic Yarm, Drink, Boston"

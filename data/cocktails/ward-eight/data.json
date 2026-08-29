@@ -17,16 +17,17 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 1898,
+    "author": null,
     "images": [
         {
-            "uri": "file:///ward-eight-1.jpg",
+            "uri": "file:///ward-eight-1.webp",
             "sort": 1,
             "placeholder_hash": "WCgGDwKpeCiJkIiJepimWHl1yKMDLxYH",
             "copyright": "Imbibe"
         },
         {
-            "uri": "file:///ward-eight-2.jpg",
+            "uri": "file:///ward-eight-2.webp",
             "sort": 2,
             "placeholder_hash": "l1kOHwJXd2d/eHaKd1eImHiHaPN2BnsF",
             "copyright": "Reddit"

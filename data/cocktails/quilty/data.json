@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///quilty-1.jpg",
+            "uri": "file:///quilty-1.webp",
             "sort": 1,
             "placeholder_hash": "bQgOFwTFtlifhYhYhZaYWJdodzAHF4QA",
             "copyright": "Punch Staff | Lizzie Munro"

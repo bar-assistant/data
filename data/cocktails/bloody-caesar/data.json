@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": "bloody-mary",
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///bloody-caesar-1.webp",
+            "uri": "file:///bloody-caesar.webp",
             "sort": 1,
             "placeholder_hash": "JCgOJwr7KXhshGqJdXmHeIiHmIBnCXUE",
             "copyright": "Liquor.com"
@@ -28,7 +29,7 @@
         {
             "_id": "vodka",
             "name": "Vodka",
-            "sort": 1,
+            "sort": 0,
             "amount": 1.5,
             "units": "oz",
             "optional": false,
@@ -40,7 +41,7 @@
         {
             "_id": "clamato-juice",
             "name": "Clamato juice",
-            "sort": 2,
+            "sort": 0,
             "amount": 4,
             "units": "oz",
             "optional": false,
@@ -52,7 +53,7 @@
         {
             "_id": "worcestershire-sauce",
             "name": "Worcestershire Sauce",
-            "sort": 3,
+            "sort": 0,
             "amount": 2,
             "units": "dash",
             "optional": false,
@@ -64,7 +65,7 @@
         {
             "_id": "tabasco",
             "name": "Tabasco",
-            "sort": 4,
+            "sort": 0,
             "amount": 2,
             "units": "dash",
             "optional": false,
@@ -76,7 +77,7 @@
         {
             "_id": "horseradish",
             "name": "Horseradish",
-            "sort": 5,
+            "sort": 0,
             "amount": 1,
             "units": "barspoon",
             "optional": false,

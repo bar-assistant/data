@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///ken-burns-effect-1.jpg",
+            "uri": "file:///ken-burns-effect.webp",
             "sort": 0,
             "placeholder_hash": "kxgODwJgmXiweXZtdniHeHh5iPgWd18A",
             "copyright": "Punch Staff | Daniel Krieger"

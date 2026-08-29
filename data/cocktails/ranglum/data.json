@@ -1,0 +1,78 @@
+{
+    "_id": "ranglum",
+    "name": "Ranglum",
+    "instructions": "1. Combine all ingredients in a cocktail shaker with ice and shake until chilled.\n2. Strain into an ice-filled rocks glass.\n3. Garnish with a lime wedge.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Ranglum was invented by bartender Gonçalo de Sousa Monteiro in Berlin in the aughts and has since become a known entity at craft cocktail bars across Germany. While it remains a relative rarity in the States, it is perhaps only a matter of time before its challenges are embraced by a new generation of bartenders. Despite its complexities of flavor, it is a drink that thrives on the combination of a few simple ingredients. As de Sousa Monteiro summarizes: “You just need them in perfect balance.”",
+    "source": "https://punchdrink.com/recipes/ranglum/",
+    "garnish": "lime wedge",
+    "abv": 24.96,
+    "tags": [
+        "Dry"
+    ],
+    "glass": null,
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2006,
+    "author": "Gonçalo de Sousa",
+    "images": [
+        {
+            "uri": "file:///ranglum.webp",
+            "sort": 1,
+            "placeholder_hash": "pDkKRwiSiYmvh3hndoeJhoh4hmBYCIUD",
+            "copyright": "Punch Staff | Lizzie Munro"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as El Dorado 12, Hampden Estate or Goslings Black",
+            "substitutes": []
+        },
+        {
+            "_id": "overproof-rum",
+            "name": "Overproof Rum",
+            "sort": 2,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Wray & Nephew",
+            "substitutes": []
+        },
+        {
+            "_id": "falernum",
+            "name": "Falernum",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": 0.5,
+            "note": "to taste (depending on the sweetness of the falernum",
+            "substitutes": []
+        }
+    ]
+}

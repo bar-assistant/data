@@ -7,7 +7,7 @@
     "description": "Trader Vic's Tequila Matador cocktail recipe makes a combination of tequila, pineapple juice and lime shaken with shaved ice and served up.",
     "source": "https://punchdrink.com/recipes/tequila-matador/",
     "garnish": null,
-    "abv": 18.29,
+    "abv": 8.53,
     "tags": [
         "Classics",
         "Citrusy",
@@ -18,10 +18,11 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///tequila-matador-1.jpg",
-            "sort": 0,
+            "uri": "file:///tequila-matador.webp",
+            "sort": 1,
             "placeholder_hash": "8ygKHwKJWHd4dnl/dLmGJ7h1iHcIx5YA",
             "copyright": "Punch Staff"
         }
@@ -30,7 +31,7 @@
         {
             "_id": "tequila-blanco",
             "name": "Tequila Blanco",
-            "sort": 1,
+            "sort": 0,
             "amount": 30,
             "units": "ml",
             "optional": false,
@@ -42,8 +43,20 @@
         {
             "_id": "lime-juice",
             "name": "Lime juice",
-            "sort": 2,
+            "sort": 0,
             "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "sort": 0,
+            "amount": 60,
             "units": "ml",
             "optional": false,
             "is_specified": false,

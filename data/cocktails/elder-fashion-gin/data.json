@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///elder-fashion-gin-1.jpg",
+            "uri": "file:///elder-fashion-gin.webp",
             "sort": 1,
             "placeholder_hash": "UQgWDwBZd4dwd4iKeWeIeHeJdxBJCGEF",
             "copyright": "Reddit"

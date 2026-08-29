@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///dantes-garibaldi-1.jpg",
+            "uri": "file:///dantes-garibaldi.webp",
             "sort": 1,
             "placeholder_hash": "aVkOTxL3R3iJdYl6hoiHeIh3mHCICXQH",
             "copyright": "Punch Staff"

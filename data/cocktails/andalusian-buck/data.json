@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///andalusian-buck-1.jpg",
+            "uri": "file:///andalusian-buck.webp",
             "sort": 1,
             "placeholder_hash": "nFkKFwYDd3h0mXdzeIeHd3eI92pZ/IgJ",
             "copyright": "Jeffrey Morgenthaler"

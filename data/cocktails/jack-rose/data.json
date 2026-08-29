@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///jack-rose-1.jpg",
+            "uri": "file:///jack-rose.webp",
             "sort": 0,
             "placeholder_hash": "BggGDwIIp4h4dIiGeSfHF8h2+rFjDFoG",
             "copyright": "TuxedoNo2"

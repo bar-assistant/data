@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///french-gimlet-1.jpg",
+            "uri": "file:///french-gimlet.webp",
             "sort": 0,
             "placeholder_hash": "5zgKDwJBaHckh3dQiFeGSKiHhwgRqUAG",
             "copyright": "Steve the Bartender"

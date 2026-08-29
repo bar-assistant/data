@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///daiquiri-1.jpg",
+            "uri": "file:///daiquiri.webp",
             "sort": 1,
             "placeholder_hash": "p4YJFwRWh4dvdneDiGenV4h4OCf8RJMP",
             "copyright": "A Couple Cooks"

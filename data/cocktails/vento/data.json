@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///vento-1.jpg",
+            "uri": "file:///vento.webp",
             "sort": 1,
             "placeholder_hash": "ewgGFwD4V2eHeHeKdphnqFd4iLBYCY8B",
             "copyright": "IBA World"

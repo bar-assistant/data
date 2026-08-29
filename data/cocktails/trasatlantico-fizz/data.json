@@ -1,0 +1,141 @@
+{
+    "_id": "trasatlantico-fizz",
+    "name": "Trasatlántico Fizz",
+    "instructions": "1. Combine all of the ingredients, except the club soda, in a shaker and shake hard for 10 seconds without ice.\n2. Add ice and shake again for another 10 seconds.\n3. Strain into a glass over ice and top with club soda.\n4. Garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "World-renowned bar and Imbibe 75 Place to Watch, Florería Atlántico in Buenos Aires, combines winter citrus in a bright and easy-drinking gin fizz. The cocktail, created in 2013 for the bar's opening menu, \"is a tribute to the immigration that came crossing the Atlantic by boat to the port of Buenos Aires,\" says drink creator Renato Giovannoni.",
+    "source": "https://imbibemagazine.com/recipe/trasatlantico-fizz-from-floreria-atlantico/",
+    "garnish": "Orange wedge and spritz of peated scotch",
+    "abv": 13.93,
+    "tags": [
+        "Citrusy",
+        "Bright",
+        "Tropical",
+        "Refreshing"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///trasatlantico-fizz.webp",
+            "sort": 1,
+            "placeholder_hash": "UakGFwobf7KZWoeTXJiImXeK96NZb2wG",
+            "copyright": "Imbibe Magazine | Ashley Hearn for Leading DC"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 1.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "manzanilla-sherry",
+            "name": "Manzanilla sherry",
+            "sort": 2,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "grand-marnier",
+            "name": "Grand Marnier",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "grapefruit-juice",
+            "name": "Grapefruit juice",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "tangerine-juice",
+            "name": "Tangerine juice",
+            "sort": 5,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "egg-white",
+            "name": "Egg White",
+            "sort": 6,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 7,
+            "amount": 0.35,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 8,
+            "amount": 0.35,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "sort": 9,
+            "amount": 1,
+            "units": "topup",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

@@ -19,9 +19,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///reading-nook-1.webp",
+            "uri": "file:///reading-nook.webp",
             "sort": 1,
             "placeholder_hash": "DAgKHwYbdYiYeXVgm1mXqGh6mHIIJ3YA",
             "copyright": "Imbibe Magazine | Morgan Eckroth"

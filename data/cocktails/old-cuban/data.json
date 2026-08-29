@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///old-cuban-1.jpg",
+            "uri": "file:///old-cuban.webp",
             "sort": 1,
             "placeholder_hash": "yxgOLwQHiHh9dId2iTiXaId3Z9A3J4sA",
             "copyright": "NYT Cooking"

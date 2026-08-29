@@ -1,0 +1,27 @@
+{
+    "_id": "bigallet-china-china",
+    "_parent_id": "amaro",
+    "name": "Bigallet China China",
+    "strength": 40,
+    "description": "Bigallet China China is a traditional **sweetened aromatic bitters** made in Spain, known for its rich, complex flavor profile. It combines a blend of herbs, spices, citrus peels, and other botanicals, often infused with alcohol and sweetened with sugar or honey. Unlike traditional bitters, which are typically bitter and used in small quantities, Bigallet China China is sweeter and more aromatic, making it versatile for both sweet and savory cocktails. It’s often used to enhance the depth of flavors in drinks like **China China Martinis**, **Old Fashioneds**, or even desserts.",
+    "origin": "Spain",
+    "color": "#8B4513",
+    "category": "Apéritif > Amaro",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///bigallet-china-china.webp",
+            "sort": 1,
+            "placeholder_hash": "GPiFBQBFeYVwno2jOHaHf5f4B6iGeXaIiA",
+            "copyright": "Bigallet"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": "Bigallet (Barcelona, Spain)",
+    "units": null
+}

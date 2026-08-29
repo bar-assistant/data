@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///ancho-problem-1.jpg",
+            "uri": "file:///ancho-problem.webp",
             "sort": 0,
             "placeholder_hash": "yigGFwK/R3RBiIglhmdkiIu8xglIhEAN",
             "copyright": "Punch Staff | Lizzie Munro"

@@ -19,9 +19,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///ol-poets-smoke-1.jpg",
+            "uri": "file:///ol-poets-smoke.webp",
             "sort": 1,
             "placeholder_hash": "7EkGFwJDooqvmmZ0l7h4Vph3pgGWrFAK",
             "copyright": "Punch Staff | Lizzie Munro"

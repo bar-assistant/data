@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///day-o-fashioned-1.webp",
+            "uri": "file:///day-o-fashioned.webp",
             "sort": 1,
             "placeholder_hash": "VzkOJwiQdWmBlXeWmEeJVYiIh0A3CHMD",
             "copyright": "Punch Staff | Quit Nguyen"
@@ -26,7 +27,7 @@
         {
             "_id": "angostura-aromatic-bitters",
             "name": "Angostura aromatic bitters",
-            "sort": 1,
+            "sort": 0,
             "amount": 2,
             "units": "dash",
             "optional": false,
@@ -38,7 +39,7 @@
         {
             "_id": "rye-whiskey",
             "name": "Rye whiskey",
-            "sort": 2,
+            "sort": 0,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
@@ -50,7 +51,7 @@
         {
             "_id": "dark-rum",
             "name": "Dark Rum",
-            "sort": 3,
+            "sort": 0,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
@@ -62,7 +63,7 @@
         {
             "_id": "creme-de-banane",
             "name": "Crème de banane",
-            "sort": 4,
+            "sort": 0,
             "amount": 0.25,
             "units": "oz",
             "optional": false,
@@ -74,7 +75,7 @@
         {
             "_id": "cold-brew-coffee",
             "name": "Cold brew coffee",
-            "sort": 5,
+            "sort": 0,
             "amount": 1,
             "units": "barspoon",
             "optional": false,

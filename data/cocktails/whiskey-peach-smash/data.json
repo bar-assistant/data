@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///whiskey-peach-smash-1.jpg",
+            "uri": "file:///whiskey-peach-smash.webp",
             "sort": 0,
             "placeholder_hash": "CAgGDwJVl3d7hniweQept5ZdOEAIl4AE",
             "copyright": "Punch Staff"

@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///prince-charles-dont-surf-1.jpg",
+            "uri": "file:///prince-charles-dont-surf.webp",
             "sort": 0,
             "placeholder_hash": "9UgGDwKyd4efmGd6d4ZohHiH5RAkTHAG",
             "copyright": "Imbibe Magazine"

@@ -1,0 +1,80 @@
+{
+    "_id": "betty-carter",
+    "name": "Betty Carter",
+    "instructions": "1. Combine all of the ingredients in a cocktail shaker.\n2. Add ice and shake until chilled.\n3. Double strain into a chilled cocktail glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Most whiskey and bourbon-based cocktails are synonymous with the cold time of the year, when one turns to the warming qualities of these spirits. Betty Carter, on the other hand, hits a nice middle ground, possessing enough refreshing qualities making it very suitable for the warm periods as well.\n\nBase of the cocktail is bourbon with strong notes of oak, vanilla and caramel. It is then paired with sweet profile of PX sherry and its signature intense fruity notes like figs and dates, giving the cocktail a little lightness. This bright impression is then further reinforced by a healthy does of tart lemon juice, changing the overall flavour profile closer to a sour cocktail style. Touch of amaro Nonino, gives the cocktail a further complexity with delicate sweet orange notes balanced by the bitterness of gentian root and quinine.\n\nBetty Carter, is a cocktail with a pretty straight forward build, just requiring to source a somewhat harder to get amaro, but once you have it you are good to go. Simple to make, delicious and remarkably refreshing. Suitable to drink all year round, although for the winter period, I would probably add a little bit of simple syrup to reign in the tartness, or look for a slightly sweeter and bolder PX Sherry.",
+    "source": "https://www.grouchy-bartender.com/cocktails/betty-carter",
+    "garnish": "Garnish with an orange twist and a sprig of mint.",
+    "abv": 20.29,
+    "tags": [
+        "Sour",
+        "Refreshing",
+        "Complex"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///betty-carter.webp",
+            "sort": 1,
+            "placeholder_hash": "hRgKHwIHqXh4hnd2iha4d4iHaZBGB3QF",
+            "copyright": "grouchy bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "bourbon-whiskey",
+            "name": "Bourbon Whiskey",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pedro-ximenez",
+            "name": "Pedro Ximénez",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "amaro-nonino",
+            "name": "Amaro Nonino",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 4,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

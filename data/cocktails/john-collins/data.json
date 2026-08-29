@@ -17,15 +17,16 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///john-collins-1.jpg",
+            "uri": "file:///john-collins-1.webp",
             "sort": 1,
             "placeholder_hash": "bOgFLwiKd5dgd4iLeKeGaFh5eWBYCHIH",
             "copyright": "The Spruce Eats"
         },
         {
-            "uri": "file:///john-collins-2.jpg",
+            "uri": "file:///john-collins-2.webp",
             "sort": 2,
             "placeholder_hash": "0fcNJwQMyHhSeIiXilWHeHeYVzCXBHMJ",
             "copyright": "A Couple Cooks"

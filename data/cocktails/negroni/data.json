@@ -19,15 +19,16 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///negroni-1.jpg",
+            "uri": "file:///negroni-1.webp",
             "sort": 1,
             "placeholder_hash": "4jgGHwa8FpkhYKvMl0vHaSR3TIcHNnIA",
             "copyright": "Kitchen Swagger"
         },
         {
-            "uri": "file:///negroni-2.jpg",
+            "uri": "file:///negroni-2.webp",
             "sort": 2,
             "placeholder_hash": "3hcGFwbpvqh/l4ibc3eqo2eI1mIJLZkA",
             "copyright": "Reddit"

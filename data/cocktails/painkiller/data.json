@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///painkiller-1.webp",
+            "uri": "file:///painkiller.webp",
             "sort": 1,
             "placeholder_hash": "pHoGDwIH21XphnlyaXe5WIeZV0MJ9GMJ",
             "copyright": ""

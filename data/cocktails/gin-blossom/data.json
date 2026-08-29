@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///gin-blossom-1.jpg",
+            "uri": "file:///gin-blossom.webp",
             "sort": 0,
             "placeholder_hash": "jRgKDwIVeYiFh4d4igeXqHhoaDCWBGAO",
             "copyright": "Punch Staff | Lizzie Munro"

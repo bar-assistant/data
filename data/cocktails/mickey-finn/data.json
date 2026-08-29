@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///mickey-finn-1.webp",
+            "uri": "file:///mickey-finn.webp",
             "sort": 1,
             "placeholder_hash": "UUkOHwQDiHp2h4aWmFeIaHmHBSl2smAI",
             "copyright": "Punch Staff | Lizzie Munro"

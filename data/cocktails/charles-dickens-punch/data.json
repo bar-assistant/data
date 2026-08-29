@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///charles-dickens-punch-1.webp",
+            "uri": "file:///charles-dickens-punch.webp",
             "sort": 1,
             "placeholder_hash": "jSgGFwSXI4nglmosl0qZl2d02g+J+5YG",
             "copyright": "Imbibe Magazine"
@@ -28,7 +29,7 @@
         {
             "_id": "brown-rum",
             "name": "Brown Rum",
-            "sort": 1,
+            "sort": 0,
             "amount": 10,
             "units": "oz",
             "optional": false,
@@ -40,7 +41,7 @@
         {
             "_id": "jamaican-rum",
             "name": "Jamaican Rum",
-            "sort": 2,
+            "sort": 0,
             "amount": 10,
             "units": "oz",
             "optional": false,
@@ -52,7 +53,7 @@
         {
             "_id": "cognac",
             "name": "Cognac",
-            "sort": 3,
+            "sort": 0,
             "amount": 8,
             "units": "oz",
             "optional": false,
@@ -64,7 +65,7 @@
         {
             "_id": "lemon-juice",
             "name": "Lemon juice",
-            "sort": 4,
+            "sort": 0,
             "amount": 6,
             "units": "oz",
             "optional": false,
@@ -76,7 +77,7 @@
         {
             "_id": "sugar",
             "name": "Sugar",
-            "sort": 5,
+            "sort": 0,
             "amount": 0.75,
             "units": "cup",
             "optional": false,
@@ -88,7 +89,7 @@
         {
             "_id": "lemon",
             "name": "Lemon",
-            "sort": 6,
+            "sort": 0,
             "amount": 4,
             "units": "whole",
             "optional": false,
@@ -100,7 +101,7 @@
         {
             "_id": "water",
             "name": "Water",
-            "sort": 7,
+            "sort": 0,
             "amount": 32,
             "units": "oz",
             "optional": false,

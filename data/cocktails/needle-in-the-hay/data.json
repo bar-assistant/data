@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///needle-in-the-hay-1.jpg",
+            "uri": "file:///needle-in-the-hay.webp",
             "sort": 1,
             "placeholder_hash": "4igOHwTPdpWUfFalaGh1x4h3BxdbgLAI",
             "copyright": "Steve The Bartender"

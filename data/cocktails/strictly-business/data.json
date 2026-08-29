@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///strictly-business-1.webp",
+            "uri": "file:///strictly-business.webp",
             "sort": 1,
             "placeholder_hash": "VDkKFwQvqHeHWpeYa4R3d1aJ5oBHC2QG",
             "copyright": "Imbibe Magazine | Shannon Partrick"

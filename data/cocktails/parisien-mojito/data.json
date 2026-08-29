@@ -1,13 +1,13 @@
 {
     "_id": "parisien-mojito",
     "name": "Parisien Mojito",
-    "instructions": "1. Muddle mint in base of glass.\n2. Add rest of ingredients, half fill glass with crushed ice and stir with bar spoon.\n3. Fill glass to brim with more crushed ice and stir more.",
+    "instructions": "1. Muddle mint in glass\n2. Add other ingredients\n3. Half fill glass with crushed ice and stir with bar spoon\n4. Fill glass to brim with more crushed ice\n5. Serve with straws",
     "created_at": null,
     "updated_at": null,
     "description": null,
-    "source": "",
+    "source": "https://www.diffordsguide.com/cocktails/recipe/2712/parisien-mojito",
     "garnish": null,
-    "abv": 22.22,
+    "abv": 20.41,
     "tags": [
         "Summer",
         "Mojito"
@@ -15,14 +15,15 @@
     "glass": "Highball",
     "method": "Muddle",
     "utensils": [],
-    "parent_cocktail_id": null,
-    "year": null,
+    "parent_cocktail_id": "mojito",
+    "year": 2006,
+    "author": "Simon Difford",
     "images": [
         {
-            "uri": "file:///parisien-mojito-1.jpg",
+            "uri": "file:///parisien-mojito.webp",
             "sort": 1,
-            "placeholder_hash": "VggOHwY2uIeAdniGemaoZ4d4eAT5h5EP",
-            "copyright": ""
+            "placeholder_hash": "3xgKDwKc3XlwuIqWfETJV2d8V1QK9okH",
+            "copyright": "AI (Gemini)"
         }
     ],
     "ingredients": [

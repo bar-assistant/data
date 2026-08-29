@@ -1,0 +1,88 @@
+{
+    "_id": "rum-and-ramazzotti",
+    "name": "Rum and Ramazzotti",
+    "instructions": "1. Combine all of the ingredients in a cocktail shaker.\n2. Add ice and shake until chilled.\n3. Strain into a cocktail glass over fresh pebble ice.\n4. Garnish with a few lime wheels, skewered cherry and pineapple spears.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "This cocktail is an interesting take on the classic Jungle Bird, drawing inspiration from this well-known tiki drink with a couple of key substitutions. It uses a dark rum base with pronounced molasses, caramel, coffee, chocolate, and oak notes, paired with Amaro Ramazzotti which replaces Campari. The amaro adds bitter-sweet flavors of liquorice, cola, oranges, and cinnamon. Generous pineapple juice maintains the tropical theme with sweet and tart fruitiness, while fresh lime juice provides a sharp, tart kick. The result is a slightly deeper, bolder, but nonetheless flavourful and intriguing variation.",
+    "source": "https://www.grouchy-bartender.com/cocktails/rum-and-ramazzotti",
+    "garnish": "Lime wheel, cherry, pineapple spears",
+    "abv": 14.67,
+    "tags": [
+        "Tropical",
+        "Bitter",
+        "Sour",
+        "Citrusy",
+        "Fruity"
+    ],
+    "glass": null,
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///rum-and-ramazzotti-1.webp",
+            "sort": 1,
+            "placeholder_hash": "DAgKJwQKlZl1mnd2iGeYp2h3aCBXBXEG",
+            "copyright": "grouchy bartender"
+        },
+        {
+            "uri": "file:///rum-and-ramazzotti-2.webp",
+            "sort": 2,
+            "placeholder_hash": "4BgOHwSveIWkd3iMiWeYSFh5aUAoBnQD",
+            "copyright": "AI (Gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "amaro-ramazzotti",
+            "name": "Amaro Ramazzotti",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "sort": 3,
+            "amount": 52.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 4,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "_id": "society-street",
+    "name": "Society Street",
+    "instructions": "1. Add all of the ingredients to a mixing glass, fill with ice, and stir. Strain the glass. Garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "As a nod to the many Manhattan variations named after New York neighborhoods, Jeremy Buck created this Charleston-inspired take on the classic. His Society Street features a bourbon base and a hint of peach in tribute to the South with Cognac for the city's French influence.",
+    "source": "https://imbibemagazine.com/recipe/society-street-a-charleston-inspired-manhattan-recipe/",
+    "garnish": "Lemon twist",
+    "abv": 28.55,
+    "tags": [
+        "Fruity",
+        "Sweet"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": "manhattan",
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///society-street.webp",
+            "sort": 1,
+            "placeholder_hash": "ihgKFwIbmocwdpi9WAe4lmeXh2BTCDUE",
+            "copyright": "Imbibe Magazine | Jonathan Cooper"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "bourbon-whiskey",
+            "name": "Bourbon Whiskey",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cognac",
+            "name": "Cognac",
+            "sort": 2,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "peach-liqueur",
+            "name": "Peach liqueur",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 5,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

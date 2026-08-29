@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///gold-rush-1.jpg",
+            "uri": "file:///gold-rush.webp",
             "sort": 0,
             "placeholder_hash": "lRgORwgId7iIeIeBeniHeJiHh2BICIQF",
             "copyright": "Liquor.com"

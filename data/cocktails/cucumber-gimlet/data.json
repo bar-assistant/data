@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///cucumber-gimlet-1.jpg",
+            "uri": "file:///cucumber-gimlet.webp",
             "sort": 1,
             "placeholder_hash": "6RgKFwJKeZeJZ3d/nadJiFR8ZGCGYkwP",
             "copyright": ""

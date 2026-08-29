@@ -1,0 +1,80 @@
+{
+    "_id": "reno",
+    "name": "Reno",
+    "instructions": "1. Throw all ingredients with ice.\n2. Strain into over a large cube ice.\n3. Garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The story which inspired this cocktail took place during WWII on 21st April 1945, when the allied forces planned to retake Bologna. Polish, English, American and French troops helped Italian partisans to capture the city in a very unusual battlefield, a river called Reno. I used ingredients that remind me of the forces involved in the battle. Amaro Montenegro symbolises the city. Cocchi Americano to celebrate the partisan's movement born in Asti. Italicus represents braveness. And finally, Suze, this sophisticated liqueur de gentian, used to remember the aid received by the allies. Without this strong bitter touch, my cocktail wouldn't be the same, and the battle wouldn't have been won!",
+    "source": "https://www.diffordsguide.com/cocktails/recipe/4676/reno",
+    "garnish": "Garnish with scorched lemon wedge.",
+    "abv": 15.06,
+    "tags": [
+        "Bitter",
+        "Herbacious",
+        "Citrusy"
+    ],
+    "glass": "Lowball",
+    "method": null,
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2018,
+    "author": "Giorgio Ferrarese",
+    "images": [
+        {
+            "uri": "file:///reno.webp",
+            "sort": 1,
+            "placeholder_hash": "ojkGHwSfb8dnRqx2d7eoiYiZJYA4A4gD",
+            "copyright": "AI (Gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "amaro-montenegro",
+            "name": "Amaro Montenegro",
+            "sort": 1,
+            "amount": 35,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "gentian-liqueur",
+            "name": "Gentian Liqueur",
+            "sort": 2,
+            "amount": 20,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "vermouth-bianco",
+            "name": "Vermouth Bianco",
+            "sort": 3,
+            "amount": 25,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "italicus-rosolio-di-bergamotto",
+            "name": "Italicus Rosolio di Bergamotto",
+            "sort": 4,
+            "amount": 5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///keoke-coffee-1.jpg",
+            "uri": "file:///keoke-coffee.webp",
             "sort": 1,
             "placeholder_hash": "EPgJHwhgiHilk3dshKlod7aEJflpkp8G",
             "copyright": "Punch Staff"

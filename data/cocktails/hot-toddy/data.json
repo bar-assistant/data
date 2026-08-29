@@ -17,6 +17,7 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
             "uri": "file:///hot-toddy-1.webp",
@@ -25,7 +26,7 @@
             "copyright": "Cocktail Club"
         },
         {
-            "uri": "file:///hot-toddy-2.jpg",
+            "uri": "file:///hot-toddy-2.webp",
             "sort": 2,
             "placeholder_hash": "5BgKDwJXSWh/iHeBZ9pYR6d39/so/WoM",
             "copyright": "Punch Staff | Daniel Krieger"

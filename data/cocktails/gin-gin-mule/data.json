@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///gin-gin-mule-1.jpg",
+            "uri": "file:///gin-gin-mule.webp",
             "sort": 0,
             "placeholder_hash": "FwgKFwTN+0jKZojCd7dcSGRo+aJ1j4gK",
             "copyright": "Punch Staff | Daniel Krieger"

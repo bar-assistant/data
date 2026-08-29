@@ -20,9 +20,10 @@
     "utensils": [],
     "parent_cocktail_id": "gibson",
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///el-gibson-1.webp",
+            "uri": "file:///el-gibson.webp",
             "sort": 1,
             "placeholder_hash": "oigWFwRkh3eAiImXiId4d4h3mPe2en8K",
             "copyright": "Imbibe Magazine | Andrew Hyslop"

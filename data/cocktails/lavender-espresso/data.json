@@ -1,0 +1,94 @@
+{
+    "_id": "lavender-espresso",
+    "name": "Lavender & Espresso",
+    "instructions": "1. Add all of the ingredients to a shaker with ice and shake.\n2. Strain into the glass over a large ice rock.\n3. Garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "For her sophisticated and moody variation on the Espresso Martini, LP O'Brien—drink consultant and the winner of Netflix's Drink Masters—introduces a lavender syrup and balances the additional sweetness with Averna. The liqueur's bold flavors prevent \"the drink from being just another sweet Martini,\" she says.",
+    "source": "https://imbibemagazine.com/recipe/lavender-espresso-martini/",
+    "garnish": "3 espresso beans",
+    "abv": 17.6,
+    "tags": [
+        "Coffee",
+        "Herbal",
+        "Sweet",
+        "Bitter",
+        "Complex"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///lavender-espresso.webp",
+            "sort": 1,
+            "placeholder_hash": "G0kKFwa0dzlQhXiOeFh4WHiLB5UlsFYC",
+            "copyright": "Imbibe Magazine | RECIPE: LP O’Brien, Washington DC"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "vodka",
+            "name": "Vodka",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "espresso",
+            "name": "Espresso",
+            "sort": 2,
+            "amount": 1.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "amaro-averna",
+            "name": "Amaro Averna",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lavender-syrup",
+            "name": "Lavender syrup",
+            "sort": 5,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

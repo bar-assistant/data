@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///mr-brown-1.jpg",
+            "uri": "file:///mr-brown.webp",
             "sort": 1,
             "placeholder_hash": "3TgSLwiZmFVwc4aFdninZ5iHhXBJB4YD",
             "copyright": "Punch Staff | Lizzie Munro"

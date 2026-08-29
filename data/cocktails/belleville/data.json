@@ -1,0 +1,91 @@
+{
+    "_id": "belleville",
+    "name": "Belleville",
+    "instructions": "1. Combine all of the ingredients in a mixing glass with ice and expressed lemon peel. Stir to chill, then strain over a large ice cube in the glass. Garnish with a lemon peel.\n2. Note“This cocktail calls for a very under-utilized technique called the ‘Royal Stir’ where we incorporate a lemon peel in the mixing glass to gently add brightness and texture during the stir—but not getting in the way of the aromatics of the final cocktail via an expression. We encourage home bartenders to experiment with this approach if they want to highlight the high quality of the spirits that are being used rather than the citrus garnish.”—Allison Lovelace",
+    "created_at": null,
+    "updated_at": null,
+    "description": "At Atlanta bistro Little Sparrow, the cocktails skew classic with French accents. This Manhattan-inspired cocktail balances bourbon with crème de cassis, sweet vermouth, and a French bitter for an elegant and layered sipper.",
+    "source": "https://imbibemagazine.com/recipe/belleville-bourbon-and-cassis-cocktail/",
+    "garnish": "Lemon peel (not expressed)",
+    "abv": 25.92,
+    "tags": [
+        "Sweet",
+        "Complex"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///belleville.webp",
+            "sort": 1,
+            "placeholder_hash": "EEkOFwZwl5dceXikeHh5qHZoR/GHJY8K",
+            "copyright": "Imbibe Magazine | Courtesy of Rocket Farm Restaurants"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "bourbon-whiskey",
+            "name": "Bourbon Whiskey",
+            "sort": 1,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "creme-de-cassis",
+            "name": "Crème de cassis",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "bigallet-china-china",
+            "name": "Bigallet China China",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Lustau Vermut Rojo",
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Lustau Vermut Rojo",
+            "substitutes": []
+        }
+    ]
+}

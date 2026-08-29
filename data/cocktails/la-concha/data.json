@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///la-concha-1.jpg",
+            "uri": "file:///la-concha.webp",
             "sort": 0,
             "placeholder_hash": "pOgNHwSfeHd5eYmKmIhXl4iJdwK4d5AM",
             "copyright": "Imbibe Magazine | Courtesy of Kalimoxto Austin"

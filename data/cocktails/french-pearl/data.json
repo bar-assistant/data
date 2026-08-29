@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///french-pearl-1.jpg",
+            "uri": "file:///french-pearl.webp",
             "sort": 0,
             "placeholder_hash": "D+gJFwAmbJZhh4enWweY1mh3R7IHK4AA",
             "copyright": "Punch Staff | Lizzie Munro"

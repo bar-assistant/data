@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///golden-dream-1.jpg",
+            "uri": "file:///golden-dream.webp",
             "sort": 1,
             "placeholder_hash": "dggGDwD2SLV3hoiJZbo4Z3h4pYBnDEUG",
             "copyright": "Liquor.com / Tim Nusog"

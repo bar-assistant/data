@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///zombie-1.jpg",
+            "uri": "file:///zombie.webp",
             "sort": 1,
             "placeholder_hash": "rhgKJwT2O5R5lnmGeXeIh3iImXB4CHEG",
             "copyright": "Punch Drink"

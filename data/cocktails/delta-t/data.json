@@ -1,0 +1,105 @@
+{
+    "_id": "delta-t",
+    "name": "Delta T",
+    "instructions": "1. Add all ingredients except ginger beer to a shaking tin.\n2. Add ice and shake until chilled.\n3. Strain into a highball glass over an ice spear.\n4. Top with ginger beer.\n5. Add several dashes of Angostura bitters on top.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A cocktail designed to highlight the unique buttery and funky notes of Variable Dunderclap rum, balanced by the sharpness of ginger and the herbaceous qualities of Fernet. It's a complex, easy-sipping drink that plays with contrasts of hot and cold flavors.",
+    "source": "https://old.reddit.com/r/cocktails/comments/1subrqd/delta_t/",
+    "garnish": "candied ginger, lime peel, and a fresh bunch of mint",
+    "abv": 12.25,
+    "tags": [
+        "Herbal",
+        "Citrusy",
+        "Bitter",
+        "Spicy"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2026,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///delta-t.webp",
+            "sort": 1,
+            "placeholder_hash": "pBgOFwTfWYZ0iIiGaHmIiHeGeXBoB4YE",
+            "copyright": "Reddit"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "light-rum",
+            "name": "Light Rum",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Variable Dunderclap",
+            "substitutes": []
+        },
+        {
+            "_id": "fernet-branca",
+            "name": "Fernet Branca",
+            "sort": 2,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cinnamon-syrup",
+            "name": "Cinnamon syrup",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "ginger-beer",
+            "name": "Ginger beer",
+            "sort": 5,
+            "amount": 3,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 6,
+            "amount": 4,
+            "units": "dashes",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

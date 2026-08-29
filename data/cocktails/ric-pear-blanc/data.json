@@ -14,10 +14,11 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": "Trevor Easter",
     "images": [
         {
-            "uri": "file:///ric-pear-blanc-1.jpg",
-            "sort": 0,
+            "uri": "file:///ric-pear-blanc.webp",
+            "sort": 1,
             "placeholder_hash": "2/cJHwYveneOlnd1eHiIV5iHCCM6MrAE",
             "copyright": "Imbibe Magazine | Kelly Puleio"
         }

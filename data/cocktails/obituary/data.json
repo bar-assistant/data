@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///obituary-1.jpg",
+            "uri": "file:///obituary.webp",
             "sort": 0,
             "placeholder_hash": "UQgOFwImiJeQhoh9eQeYl4hnhQbXeHAN",
             "copyright": "Punch Staff | Lizzie Munro"

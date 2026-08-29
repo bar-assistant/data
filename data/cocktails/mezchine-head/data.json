@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///mezchine-head-1.jpg",
+            "uri": "file:///mezchine-head.webp",
             "sort": 0,
             "placeholder_hash": "iSgGHwQKYstSinhlqKl3eHmJtwNGS3AF",
             "copyright": "Imbibe Magazine | Damian AhChing"

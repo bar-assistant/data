@@ -6,7 +6,7 @@
     "updated_at": null,
     "description": "Modern Medicine, the drink, by Jordan Hughes, is just perfect. It’s as if scientists concocted a fusion of a Penicillin and a Paper Plane in a petri dish, to cure whatever is bothering you.",
     "source": "https://www.reddit.com/r/cocktails/comments/1436jpq/what_if_scientists_created_a_fusion_of_a/",
-    "garnish": "",
+    "garnish": null,
     "abv": 17.26,
     "tags": [
         "Smokey"
@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": "Jordan Hughes",
     "images": [
         {
-            "uri": "file:///modern-medicine-1.jpg",
+            "uri": "file:///modern-medicine.webp",
             "sort": 1,
             "placeholder_hash": "kigWNwp4d3iAd4h5eXh3iIh4RwSpNpAL",
             "copyright": "Reddit"

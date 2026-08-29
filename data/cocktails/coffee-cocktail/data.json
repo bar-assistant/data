@@ -17,10 +17,11 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 1887,
+    "author": null,
     "images": [
         {
-            "uri": "file:///coffee-cocktail-1.webp",
+            "uri": "file:///coffee-cocktail.webp",
             "sort": 1,
             "placeholder_hash": "BAgKDwIIp4h2iHZyjFeYx0h6hUEHKHUA",
             "copyright": "grouchy bartender"

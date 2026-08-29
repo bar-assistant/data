@@ -7,17 +7,18 @@
     "description": "While developing a Gin & Tonic menu for gin-focused bar Whitechapel, co-owner and beverage director Alex Smith looked to Italian flavors for inspiration—and wound up with a hybrid that evokes another gin-based classic. “I was thinking about how best to capture the signature flavors of Italian spirits,” Smith says. “The two classic Negroni ingredients, vermouth and Campari, seemed almost too poetically perfect for this application—but the resulting drink is quite delicious as it turns out.”",
     "source": "https://imbibemagazine.com/recipe/whitechapel-italian-gt/",
     "garnish": "Orange twist, rosemary sprig",
-    "abv": 30.76,
+    "abv": 30.42,
     "tags": [],
     "glass": "Highball",
     "method": "Build",
     "utensils": [],
-    "parent_cocktail_id": null,
+    "parent_cocktail_id": "gin-tonic",
     "year": null,
+    "author": "",
     "images": [
         {
-            "uri": "file:///whitechapel-gt-1.jpg",
-            "sort": 0,
+            "uri": "file:///whitechapel-gt.webp",
+            "sort": 1,
             "placeholder_hash": "9jgKLwr3WGh8hXqMdYiZh3h2h0BIB4MF",
             "copyright": "Imbibe Magazine | Lara Ferroni"
         }

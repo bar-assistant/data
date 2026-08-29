@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///hot-buttered-rum-1.webp",
+            "uri": "file:///hot-buttered-rum.webp",
             "sort": 1,
             "placeholder_hash": "oAgKXxSPeIhRlnmDdUnFZ5mpmQdYeIAF",
             "copyright": "Punch Staff | Emily Ferretti"

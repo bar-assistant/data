@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///tequila-daisy-1.jpg",
+            "uri": "file:///tequila-daisy.webp",
             "sort": 0,
             "placeholder_hash": "FCkKDwQSeXhudoeSawe4Vnh5aAFPOMAF",
             "copyright": "Punch Staff | Nitya Jain"

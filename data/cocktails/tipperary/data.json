@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///tipperary-1.jpg",
+            "uri": "file:///tipperary.webp",
             "sort": 1,
             "placeholder_hash": "TwgKFwI0t3Z/d3eHiHaHWJeImKBJCYoD",
             "copyright": "MixolopediA"

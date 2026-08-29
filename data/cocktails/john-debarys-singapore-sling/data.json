@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///john-debarys-singapore-sling-1.jpg",
+            "uri": "file:///john-debarys-singapore-sling.webp",
             "sort": 0,
             "placeholder_hash": "8SgKLwbxSpetd4lYY7mad2aZmGBICXUE",
             "copyright": "Punch Staff | Lizzie Munro"

@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///honeymoon-1.jpg",
+            "uri": "file:///honeymoon.webp",
             "sort": 1,
             "placeholder_hash": "SQgGHwIHx2dyhYmGema3OKeHeIBYB4QG",
             "copyright": "TuxedoNo2"

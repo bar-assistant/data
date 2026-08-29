@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///little-italy-1.jpg",
+            "uri": "file:///little-italy.webp",
             "sort": 0,
             "placeholder_hash": "NCgGDwL4mHZzm1h5l5eXOLiHe/OXFn8F",
             "copyright": "Punch Staff"

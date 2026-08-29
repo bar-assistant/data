@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///dreamy-dorini-smoking-martini-1.jpg",
+            "uri": "file:///dreamy-dorini-smoking-martini.webp",
             "sort": 0,
             "placeholder_hash": "3PcVFwBZh4hwhoiHeKeHWJl1d/R2Rm8I",
             "copyright": "Liquor.com"

@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///nice-by-way-of-antibes-1.jpg",
+            "uri": "file:///nice-by-way-of-antibes.webp",
             "sort": 0,
             "placeholder_hash": "1SgOFwgJlpeId4d0imeHaId3hwqopXAH",
             "copyright": ""

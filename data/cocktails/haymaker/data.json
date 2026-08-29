@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///haymaker-1.jpg",
+            "uri": "file:///haymaker.webp",
             "sort": 1,
             "placeholder_hash": "1ygOFwSTiXiAlYeIdxephYloWIcIdYMA",
             "copyright": "Imbibe Magazine | Jason Varney"

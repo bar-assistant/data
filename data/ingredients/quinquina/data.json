@@ -1,0 +1,20 @@
+{
+    "_id": "quinquina",
+    "_parent_id": "fortified-wine",
+    "name": "Quinquina",
+    "strength": 17,
+    "description": "Quinquina is a type of aromatized wine that contains cinchona bark, which imparts quinine and a bitter flavor. It is commonly used as an aperitif and in cocktails, offering herbal, citrus, and spice notes.",
+    "origin": null,
+    "color": "#ffffff",
+    "category": "Fortified wine",
+    "created_at": null,
+    "updated_at": null,
+    "images": [],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

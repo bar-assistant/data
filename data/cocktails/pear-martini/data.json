@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///pear-martini-1.jpg",
+            "uri": "file:///pear-martini.webp",
             "sort": 0,
             "placeholder_hash": "2vcFDwKVSYhgmXV0hkh4V4dp2gVrX6EN",
             "copyright": "Haus Alpenz | Lauren Clark"

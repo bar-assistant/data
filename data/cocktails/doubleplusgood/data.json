@@ -16,10 +16,17 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///doubleplusgood-1.jpg",
+            "uri": "file:///doubleplusgood-1.webp",
             "sort": 1,
+            "placeholder_hash": "5SgGFwJvWpVamYlxu2jFOJh5mQk5h4AD",
+            "copyright": "AI (Gemini)"
+        },
+        {
+            "uri": "file:///doubleplusgood-2.webp",
+            "sort": 2,
             "placeholder_hash": "KggWDwJGd3iAhoeDiWiIaIeFZ5BXWH8F",
             "copyright": "cocktailvirgin"
         }

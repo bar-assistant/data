@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///french-75-1.jpg",
+            "uri": "file:///french-75.webp",
             "sort": 1,
             "placeholder_hash": "bggKHwKIiIeeiId9dyd4d3ePxBsGnlAC",
             "copyright": "Sip and Feast"

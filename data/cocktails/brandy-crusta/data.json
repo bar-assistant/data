@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///brandy-crusta-1.jpg",
+            "uri": "file:///brandy-crusta.webp",
             "sort": 1,
             "placeholder_hash": "WDkKHwQ5d4hviIiId0h6N5l4OfE3BnsB",
             "copyright": "Mangosalsa"

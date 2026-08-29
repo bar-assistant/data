@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///pancho-villa-1.jpg",
+            "uri": "file:///pancho-villa.webp",
             "sort": 1,
             "placeholder_hash": "nSkOLwY0hZezh4p/eaaIaIl5eJA1C4YF",
             "copyright": "Punch Staff | Lizzie Munro"

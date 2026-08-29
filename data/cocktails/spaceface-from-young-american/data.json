@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///spaceface-from-young-american-1.jpg",
+            "uri": "file:///spaceface-from-young-american.webp",
             "sort": 0,
             "placeholder_hash": "HjgOJwhfa4ead4hmeahneYd4No9n/lMN",
             "copyright": "Imbibe Magazine | Young American"

@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///chrysanthemum-1.jpg",
+            "uri": "file:///chrysanthemum.webp",
             "sort": 1,
             "placeholder_hash": "SAgGDwIJuldTiIZ4i0W3p1d7h4A1CHgB",
             "copyright": "Imbibe Magazine"

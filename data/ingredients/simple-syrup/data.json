@@ -6,12 +6,12 @@
     "description": "Syrup made with sugar and water. Usually in 1:1 or 2:1 ratio.",
     "origin": null,
     "color": "#e6dfcc",
-    "category": "Sweeteners > Syrups",
+    "category": "Syrups",
     "created_at": null,
     "updated_at": null,
     "images": [
         {
-            "uri": "file:///simple-syrup-1.png",
+            "uri": "file:///simple-syrup.webp",
             "sort": 1,
             "placeholder_hash": "shiGBQI8T0SeYnd654pAhweHCCiHd4d3eA",
             "copyright": ""
@@ -60,7 +60,7 @@
         }
     ],
     "prices": [],
-    "calculator_id": "simple-syrup-273",
+    "calculator_id": "simple-syrup-1",
     "sugar_g_per_ml": null,
     "acidity": null,
     "distillery": null,

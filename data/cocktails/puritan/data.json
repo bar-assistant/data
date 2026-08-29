@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///puritan-1.webp",
+            "uri": "file:///puritan.webp",
             "sort": 1,
             "placeholder_hash": "2FgSJwxzh4fAeHiXdph3iIaI99qpn50I",
             "copyright": "Punch Staff | Cleveland Jennings"
@@ -26,7 +27,7 @@
         {
             "_id": "gin",
             "name": "Gin",
-            "sort": 1,
+            "sort": 0,
             "amount": 2,
             "units": "oz",
             "optional": false,
@@ -38,7 +39,7 @@
         {
             "_id": "dry-vermouth",
             "name": "Dry Vermouth",
-            "sort": 2,
+            "sort": 0,
             "amount": 0.5,
             "units": "oz",
             "optional": false,
@@ -50,7 +51,7 @@
         {
             "_id": "yellow-chartreuse",
             "name": "Yellow Chartreuse",
-            "sort": 3,
+            "sort": 0,
             "amount": 0.25,
             "units": "oz",
             "optional": false,
@@ -62,7 +63,7 @@
         {
             "_id": "orange-bitters",
             "name": "Orange bitters",
-            "sort": 4,
+            "sort": 0,
             "amount": 2,
             "units": "dash",
             "optional": false,

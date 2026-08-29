@@ -8,15 +8,23 @@
     "source": "https://punchdrink.com/recipes/bentons-old-fashioned/",
     "garnish": "orange peel",
     "abv": 0.34,
-    "tags": [],
+    "tags": [
+        "Smokey",
+        "Sweet",
+        "Bitter",
+        "Classic",
+        "Complex",
+        "Savory"
+    ],
     "glass": "Lowball",
     "method": "Stir",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 2011,
+    "author": null,
     "images": [
         {
-            "uri": "file:///bentons-old-fashioned-1.webp",
+            "uri": "file:///bentons-old-fashioned.webp",
             "sort": 1,
             "placeholder_hash": "21kKFwTb6oifd4WLdsZot1d2VoUHNnYA",
             "copyright": "Punch Staff | Nick Brown"

@@ -1,0 +1,115 @@
+{
+    "_id": "pousse-cafe",
+    "name": "Pousse Café",
+    "instructions": "1. In a small decorative flute or Pousse Café glass, build the first five ingredients in order. (The ingredients will naturally layer themselves on top of or right under the previous one, depending on density.)",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A pousse-café is now a term for any multi-layered cocktail. The term originally seems to have been a general term for a mixture of liqueurs and/or spirits served after dinner, and most probably originated in France.",
+    "source": null,
+    "garnish": "Express a lemon twist over the drink and discard.",
+    "abv": 27.27,
+    "tags": [
+        "Sweet",
+        "Classic"
+    ],
+    "glass": "Shot",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///pousse-cafe-1.webp",
+            "sort": 1,
+            "placeholder_hash": "XQgKDwDPWIepina0dlqqZ5aHp4BGKEAH",
+            "copyright": "AI (Gemini)"
+        },
+        {
+            "uri": "file:///pousse-cafe-2.webp",
+            "sort": 2,
+            "placeholder_hash": "KggKFwSyV5ifiXiHcrqXJ4h6lqIFKlcA",
+            "copyright": "Reddit@Shrykull1"
+        },
+        {
+            "uri": "file:///pousse-cafe-3.webp",
+            "sort": 3,
+            "placeholder_hash": "yjgGHwYNq3FUeHirahemeHi2+BfFflAM",
+            "copyright": "punchdrink"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "grenadine-syrup",
+            "name": "Grenadine Syrup",
+            "sort": 1,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "creme-de-cacao-dark",
+            "name": "Crème de Cacao (Dark)",
+            "sort": 2,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "creme-de-menthe",
+            "name": "Crème de menthe",
+            "sort": 3,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "green-chartreuse",
+            "name": "Green Chartreuse",
+            "sort": 4,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cognac",
+            "name": "Cognac",
+            "sort": 5,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "absinthe",
+            "name": "Absinthe",
+            "sort": 6,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

@@ -11,7 +11,7 @@
     "updated_at": null,
     "images": [
         {
-            "uri": "file:///st-germain-1.png",
+            "uri": "file:///st-germain.webp",
             "sort": 1,
             "placeholder_hash": "YRmKFQIt+DZ5d4pXd/mMjL/ICBh4eIiIhw",
             "copyright": "St-Germain"
@@ -20,8 +20,8 @@
     "ingredient_parts": [],
     "prices": [],
     "calculator_id": null,
-    "sugar_g_per_ml": null,
+    "sugar_g_per_ml": 340,
     "acidity": null,
-    "distillery": null,
+    "distillery": "Bacardi",
     "units": "ml"
 }

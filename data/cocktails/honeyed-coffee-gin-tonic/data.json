@@ -14,11 +14,12 @@
     "glass": "Highball",
     "method": "Stir",
     "utensils": [],
-    "parent_cocktail_id": null,
+    "parent_cocktail_id": "gin-tonic",
     "year": null,
+    "author": "",
     "images": [
         {
-            "uri": "file:///honeyed-coffee-gin-tonic-1.jpg",
+            "uri": "file:///honeyed-coffee-gin-tonic.webp",
             "sort": 1,
             "placeholder_hash": "kxgOJwR7eIiQanZrhjh2d4aH93lon2QF",
             "copyright": "Honeyed CG&T. | Photo by Emma Janzen."

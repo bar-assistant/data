@@ -8,15 +8,19 @@
     "source": "https://imbibemagazine.com/recipe/central-park-to-lumphini-fig-cocktail/",
     "garnish": "Torched bay leaf",
     "abv": 1.23,
-    "tags": [],
+    "tags": [
+        "Spicy",
+        "Refreshing"
+    ],
     "glass": null,
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///central-park-to-lumphini-1.webp",
+            "uri": "file:///central-park-to-lumphini.webp",
             "sort": 1,
             "placeholder_hash": "mEkSHwZohoeAhoiZmYd3t2aHlwLLSbYP",
             "copyright": "Imbibe Magazine | Heather Willensky"

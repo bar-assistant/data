@@ -1,0 +1,80 @@
+{
+    "_id": "prado",
+    "name": "Prado",
+    "instructions": "1. Combine all ingredients in a cocktail shaker.\n2. Dry shake to emulsify the egg whites.\n3. Add ice and shake until chilled.\n4. Double strain into a chilled cocktail glass.\n5. Garnish with a lime wheel, skewered cherry, and a small sprig of mint.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Prado is a sophisticated tequila sour that redefines the classic egg white cocktail. With its base of smooth tequila blanco, vibrant lime juice, and a touch of maraschino liqueur, this drink balances sharp acidity with rich, nutty sweetness. The crowning touch is a velvety foam of egg whites, adding a luxurious texture that makes every sip feel indulgent. Perfect for tequila enthusiasts seeking a refreshing yet complex twist on a timeless classic.",
+    "source": "https://www.grouchy-bartender.com/cocktails/prado",
+    "garnish": "Lime wheel, skewered cherry, small sprig of mint",
+    "abv": 17.37,
+    "tags": [
+        "Citrusy",
+        "Sour",
+        "Refreshing"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 1977,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///prado.webp",
+            "sort": 1,
+            "placeholder_hash": "BwgKDwIIp4h1iXZzi2eH10h3hUBnmHAP",
+            "copyright": "grouchy bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "maraschino",
+            "name": "Maraschino",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "egg-white",
+            "name": "Egg White",
+            "sort": 4,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

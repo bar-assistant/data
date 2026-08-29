@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///canchanchara-1.jpg",
+            "uri": "file:///canchanchara.webp",
             "sort": 1,
             "placeholder_hash": "2RgOHwQoaJdxeXdwiZlniJiJSB+W9nIL",
             "copyright": "Liquor.com / Tim Nusog"

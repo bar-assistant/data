@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///ce-soir-1.jpg",
+            "uri": "file:///ce-soir.webp",
             "sort": 1,
             "placeholder_hash": "0QcODwRpiHhQiXiOmHeGp3inxkEKHZMA",
             "copyright": "Punch Staff | Lizzie Munro"

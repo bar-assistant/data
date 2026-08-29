@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///rusty-ringo-1.jpg",
+            "uri": "file:///rusty-ringo.webp",
             "sort": 0,
             "placeholder_hash": "0GkGHwQhd6aDeIdwilh4SZiHKTMHoHMD",
             "copyright": "Punch Staff"

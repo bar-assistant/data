@@ -17,10 +17,11 @@
     "method": "Blend",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 1950,
+    "author": null,
     "images": [
         {
-            "uri": "file:///pina-colada-1.jpg",
+            "uri": "file:///pina-colada.webp",
             "sort": 1,
             "placeholder_hash": "TQgOHwIIyXdkd3eXe1Z3l4iGmZAYCpYD",
             "copyright": "A Couple Cooks"

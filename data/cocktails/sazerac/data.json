@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///sazerac-1.jpg",
+            "uri": "file:///sazerac-1.webp",
             "sort": 1,
             "placeholder_hash": "l8cJJwzAdnmJhndoloh5Vpd3OGBVBGME",
             "copyright": "The Spruce Eats"

@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///cafe-ireland-1.jpg",
+            "uri": "file:///cafe-ireland.webp",
             "sort": 0,
             "placeholder_hash": "YkkKDwJqZ2pvmFpklVmYhodrtdsgehUA",
             "copyright": "Imbibe Magazine | Kelly Puleio"

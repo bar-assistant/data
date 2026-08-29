@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///sidecar-1.jpg",
+            "uri": "file:///sidecar.webp",
             "sort": 1,
             "placeholder_hash": "SggKFwJVd3mmhHd8aQiZeKZ1J5B9BKYH",
             "copyright": "A Couple Cooks"

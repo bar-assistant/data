@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///sno-cone-1.jpg",
+            "uri": "file:///sno-cone.webp",
             "sort": 1,
             "placeholder_hash": "i9cJFwZgLZmIiJZoeHiHiHh4tor2rT0P",
             "copyright": "Brian Tasch"

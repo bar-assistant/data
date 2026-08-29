@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///see-you-on-wednesday-1.jpg",
+            "uri": "file:///see-you-on-wednesday.webp",
             "sort": 1,
             "placeholder_hash": "tvgJJwL2eGiaZ4h4d2eHqGd5eXBnd5EA",
             "copyright": "Liquor.com"
@@ -64,7 +65,7 @@
         {
             "_id": "lime-juice",
             "name": "Lime juice",
-            "sort": 4,
+            "sort": 5,
             "amount": 30,
             "units": "ml",
             "optional": false,
@@ -76,7 +77,7 @@
         {
             "_id": "saline-solution",
             "name": "Saline solution",
-            "sort": 5,
+            "sort": 6,
             "amount": 3,
             "units": "drops",
             "optional": false,

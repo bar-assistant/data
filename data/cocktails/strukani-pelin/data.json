@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///strukani-pelin-1.jpg",
+            "uri": "file:///strukani-pelin.webp",
             "sort": 1,
             "placeholder_hash": "owgOHwbY2YePdpeZhSand1h2R6AZFpcA",
             "copyright": "Tasteatlas"

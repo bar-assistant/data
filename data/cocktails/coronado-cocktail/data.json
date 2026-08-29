@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///coronado-cocktail-1.jpg",
+            "uri": "file:///coronado-cocktail.webp",
             "sort": 1,
             "placeholder_hash": "2SgKNwQJyGardXh4eIeYh5h1dnBIBpcF",
             "copyright": "LiberAndCo"

@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///godfather-iv-1.jpg",
+            "uri": "file:///godfather-iv.webp",
             "sort": 0,
             "placeholder_hash": "pBgKJwbzlUVjgpiYiIWZh3Z4imApCJMC",
             "copyright": "Punch Staff | Lizzie Munro"

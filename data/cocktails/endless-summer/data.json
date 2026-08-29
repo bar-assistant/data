@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///endless-summer-1.jpg",
+            "uri": "file:///endless-summer.webp",
             "sort": 0,
             "placeholder_hash": "oSgOJwh6hodQhnh0lnmYZ5iGRyB5BIQG",
             "copyright": "Punch Staff | Jim Sullivan"

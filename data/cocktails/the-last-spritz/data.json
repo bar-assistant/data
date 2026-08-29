@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///the-last-spritz-1.jpg",
+            "uri": "file:///the-last-spritz.webp",
             "sort": 1,
             "placeholder_hash": "tCkGHwKOeYhvl4elZteVZ0mWdwWHoHQN",
             "copyright": "Imbibe Magazine | John Valls"

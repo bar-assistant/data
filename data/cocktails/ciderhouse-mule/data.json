@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///ciderhouse-mule-1.png",
+            "uri": "file:///ciderhouse-mule.webp",
             "sort": 1,
             "placeholder_hash": "UhgKFwQSm3ZwioaVW6d5Z1aYNwAnBYAE",
             "copyright": "Imbibe Magazine | Max Flatow/@mflatowphoto"

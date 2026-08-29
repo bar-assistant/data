@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///tom-macys-gimlet-1.jpg",
+            "uri": "file:///tom-macys-gimlet.webp",
             "sort": 0,
             "placeholder_hash": "KvgRDwKPSXqUiIZ3eGiIV4h4CWdF9UUG",
             "copyright": "Punch Staff"

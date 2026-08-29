@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///scotch-sling-1.jpg",
+            "uri": "file:///scotch-sling.webp",
             "sort": 0,
             "placeholder_hash": "pkkKPwjPm3ZvZpinhYaHaIiIZ1A4B4QD",
             "copyright": "Punch Staff | Lizzie Munro"

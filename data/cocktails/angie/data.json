@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///angie-1.webp",
+            "uri": "file:///angie.webp",
             "sort": 1,
             "placeholder_hash": "FggSFwQxiIegiHiId2enV6eYeABXJoAG",
             "copyright": "Imbibe Magazine | Andrea Grujic"

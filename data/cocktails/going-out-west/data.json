@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///going-out-west-1.jpg",
+            "uri": "file:///going-out-west.webp",
             "sort": 1,
             "placeholder_hash": "2hgGLwibeYedd3iAZWiX6JiHd4UIWIgA",
             "copyright": "Reddit"

@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///betty-is-back-1.jpg",
+            "uri": "file:///betty-is-back.webp",
             "sort": 0,
             "placeholder_hash": "TRgKDwJoqGdAeYhdilWoaId7hZEICIcB",
             "copyright": "Imbibe Magazine | Lateef Okunnu"

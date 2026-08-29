@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///monks-respite-1.jpg",
+            "uri": "file:///monks-respite.webp",
             "sort": 0,
             "placeholder_hash": "1zgOJwZIm5iQindjabZod4iJVgm5pYAJ",
             "copyright": "Imbibe Magazine"

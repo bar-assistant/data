@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///happy-bastard-1.jpg",
+            "uri": "file:///happy-bastard.webp",
             "sort": 1,
             "placeholder_hash": "WwgODwIblpdwWZeYe1Z3eYaICPda9qcD",
             "copyright": "Punch Staff"

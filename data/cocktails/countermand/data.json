@@ -1,0 +1,82 @@
+{
+    "_id": "countermand",
+    "name": "Countermand",
+    "instructions": "1. Combine all ingredients in a chilled, petite glass with one large ice cube.\n2. Stir briefly, then express a lemon coin over the drink and discard.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Countermand is a mini reverse Martini cocktail recipe served at the NYC restaurant Somssi. It's made with gin, maraschino and absinthe.",
+    "source": "https://punchdrink.com/recipes/countermand/",
+    "garnish": "expressed and discarded lemon peel",
+    "abv": 23.99,
+    "tags": [
+        "Citrusy",
+        "Herbal",
+        "Dry",
+        "Classic",
+        "Refreshing"
+    ],
+    "glass": null,
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": "Christian Gray",
+    "images": [
+        {
+            "uri": "file:///countermand.webp",
+            "sort": 1,
+            "placeholder_hash": "jzkKHwQImodgdoeMiIZ3h1h3iAfHmHAK",
+            "copyright": "Punch Staff | Janice Chung"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "vermouth-bianco",
+            "name": "Vermouth Bianco",
+            "sort": 1,
+            "amount": 1.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Somssi uses a 50/50 blend of Noilly Prat Extra Dry and Cocchi Americano Bianco",
+            "substitutes": []
+        },
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 2,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Isolation Proof",
+            "substitutes": []
+        },
+        {
+            "_id": "maraschino",
+            "name": "Maraschino",
+            "sort": 3,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Luxardo",
+            "substitutes": []
+        },
+        {
+            "_id": "absinthe",
+            "name": "Absinthe",
+            "sort": 4,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Pernod",
+            "substitutes": []
+        }
+    ]
+}

@@ -18,7 +18,15 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
-    "images": [],
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///room-key.webp",
+            "sort": 1,
+            "placeholder_hash": "ETkKDwAHtniHimaBend2iIaXZ2AH0FoC",
+            "copyright": "Gemini"
+        }
+    ],
     "ingredients": [
         {
             "_id": "light-rum",

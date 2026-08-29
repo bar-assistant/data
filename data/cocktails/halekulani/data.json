@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///halekulani-1.jpg",
+            "uri": "file:///halekulani.webp",
             "sort": 1,
             "placeholder_hash": "iBgKJwQGqJeIhneEeleYZ4eIeIA3B3cC",
             "copyright": "TuxedoNo2"

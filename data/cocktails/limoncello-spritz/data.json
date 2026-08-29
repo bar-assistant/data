@@ -1,11 +1,11 @@
 {
     "_id": "limoncello-spritz",
     "name": "Limoncello Spritz",
-    "instructions": "Build all ingredients into ice-filled glass and stir.",
+    "instructions": "1. Build all ingredients into ice-filled glass and briefly stir.",
     "created_at": null,
     "updated_at": null,
     "description": "Limoncello Spritz is a refreshing and easy Italian cocktail made with Limoncello liqueur and sparkling water.",
-    "source": "",
+    "source": "https://www.diffordsguide.com/cocktails/recipe/4242/limoncello-spritz",
     "garnish": "Lemon slice",
     "abv": 14.35,
     "tags": [
@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": "",
     "images": [
         {
-            "uri": "file:///limoncello-spritz-1.jpg",
+            "uri": "file:///limoncello-spritz.webp",
             "sort": 1,
             "placeholder_hash": "7ggKFwRKh4d9iYiPiDd2d5iIyAv5moQP",
             "copyright": "Delish"

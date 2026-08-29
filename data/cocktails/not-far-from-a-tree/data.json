@@ -1,0 +1,105 @@
+{
+    "_id": "not-far-from-a-tree",
+    "name": "Not Far From A Tree",
+    "instructions": "1. Slap the mint leaves to release the aroma.\n2. In a cocktail glass, combine mint leaves with all other ingredients.\n3. Add crushed ice until the glass is at least half full.\n4. Swizzle until the ingredients are fully mixed and chilled.\n5. Top with more crushed ice.\n6. Garnish with a sprig of mint and a pear fan.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A unique swizzle cocktail that reinvents the Chartreuse Swizzle with a Northern French spin, built on a base of calvados and yellow Chartreuse. Pear nectar provides deep fruitiness, mint adds freshness, and lime juice offers a tart kick, all balanced into a refreshing, flavor-packed drink.",
+    "source": "https://www.grouchy-bartender.com/cocktails/grenadya-swizzle-xkh3g",
+    "garnish": "Mint sprig and a pear fan",
+    "abv": 19.37,
+    "tags": [
+        "Herbal",
+        "Fruity",
+        "Citrusy",
+        "Sweet"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///not-far-from-a-tree.webp",
+            "sort": 1,
+            "placeholder_hash": "xwgOLwIIp4h1iXiHeVaXh3iGiHA3CncE",
+            "copyright": "grouchy bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mint",
+            "name": "Mint",
+            "sort": 1,
+            "amount": 12,
+            "units": "leaf",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "slapped",
+            "substitutes": []
+        },
+        {
+            "_id": "yellow-chartreuse",
+            "name": "Yellow Chartreuse",
+            "sort": 2,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "apple-brandy",
+            "name": "Apple Brandy",
+            "sort": 3,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pear-liqueur",
+            "name": "Pear liqueur",
+            "sort": 4,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 5,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 6,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

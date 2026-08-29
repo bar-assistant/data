@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///palmetto-no-1-1.jpg",
+            "uri": "file:///palmetto-no-1.webp",
             "sort": 1,
             "placeholder_hash": "6CgKHwTwholUeoiOhLlGqXeJ1/KcG68F",
             "copyright": "Haus Alpenz"

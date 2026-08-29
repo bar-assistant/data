@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///tropical-storm-1.jpg",
+            "uri": "file:///tropical-storm.webp",
             "sort": 1,
             "placeholder_hash": "LUkGHwKYWmZ/iHd4cmmoN5eLeAo3SIIA",
             "copyright": "LiberAndCo | Juliet Beletic"

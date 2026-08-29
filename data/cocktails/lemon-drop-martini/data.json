@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///lemon-drop-martini-1.jpg",
+            "uri": "file:///lemon-drop-martini.webp",
             "sort": 1,
             "placeholder_hash": "mxgKDwI5iHhhmIeaiHamB5mZCQC1hXAJ",
             "copyright": "Basil & Bubbly"

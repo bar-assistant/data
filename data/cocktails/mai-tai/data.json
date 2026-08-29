@@ -20,10 +20,11 @@
         "Shaker"
     ],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 1944,
+    "author": null,
     "images": [
         {
-            "uri": "file:///mai-tai-1.jpg",
+            "uri": "file:///mai-tai-1.webp",
             "sort": 1,
             "placeholder_hash": "kDkOLwZHmHeQeHh2eqZ4h3eIiARniHAI",
             "copyright": "Reddit"

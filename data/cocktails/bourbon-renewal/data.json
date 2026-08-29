@@ -7,7 +7,7 @@
     "description": "This one was named after a band that my business partner, Tony Figoli was in a long time ago. I thought the name was absolutely brilliant, so I decided to do up a drink to commemorate the band – and my favorite spirit at the time.\n\nI think the creme de cassis really works well with the sour component of this drink, and who can beat American whiskey on a warm spring evening?",
     "source": "https://jeffreymorgenthaler.com/bourbon-renewal/",
     "garnish": "Garnish with a lemon wedge, or if in season, fresh currants",
-    "abv": 18.54,
+    "abv": 18.64,
     "tags": [
         "Sour"
     ],
@@ -15,10 +15,11 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 2001,
+    "author": "Jeffrey Morgenthaler",
     "images": [
         {
-            "uri": "file:///bourbon-renewal-1.webp",
+            "uri": "file:///bourbon-renewal.webp",
             "sort": 1,
             "placeholder_hash": "qVgOFwaaWWifdoiKhmiHaIeIeGA2V2AD",
             "copyright": "i0.wp.com"

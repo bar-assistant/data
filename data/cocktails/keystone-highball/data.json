@@ -8,15 +8,23 @@
     "source": "https://punchdrink.com/recipes/keystone-highball/",
     "garnish": "lemon peel, fresh bay leaf (or another fresh herb to complement the meal)",
     "abv": 8.97,
-    "tags": [],
+    "tags": [
+        "Citrusy",
+        "Herbal",
+        "Refreshing",
+        "Light",
+        "Complex",
+        "Classic"
+    ],
     "glass": "Highball",
     "method": "Stir",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///keystone-highball-1.webp",
+            "uri": "file:///keystone-highball.webp",
             "sort": 1,
             "placeholder_hash": "1jgOLwZMipiAd4haeCeIiIaYpwfma2AP",
             "copyright": "Punch Staff | Lizzie Munro"

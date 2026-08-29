@@ -17,10 +17,11 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 2011,
+    "author": null,
     "images": [
         {
-            "uri": "file:///sawyer-1.webp",
+            "uri": "file:///sawyer.webp",
             "sort": 1,
             "placeholder_hash": "61gOHwYiZ3d3aGeQmJiHZ3h5x4fyajgP",
             "copyright": "Punch Staff | Ed Anderson"

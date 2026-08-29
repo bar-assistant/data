@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///americano-1.jpg",
+            "uri": "file:///americano.webp",
             "sort": 1,
             "placeholder_hash": "DFkKHwgMqJiIhXmIiVaYiIh2tYBYCYgE",
             "copyright": "Liquor.com / Tim Nusog"

@@ -19,9 +19,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///monte-cassino-1.webp",
+            "uri": "file:///monte-cassino.webp",
             "sort": 1,
             "placeholder_hash": "YxkSLwJveIhgh3hVeGeHV4loZ7A5AbsE",
             "copyright": "Liquor.com"

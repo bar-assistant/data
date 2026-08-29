@@ -8,18 +8,27 @@
     "source": "https://drinkinghobby.com/wray-and-ting-cocktail/",
     "garnish": null,
     "abv": 9.92,
-    "tags": [],
+    "tags": [
+        "Tropical",
+        "Refreshing",
+        "Citrusy",
+        "Light",
+        "Classic",
+        "Summer",
+        "Fruity"
+    ],
     "glass": "Highball",
     "method": "Build",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": "",
     "images": [
         {
-            "uri": "file:///wray-and-ting-1.webp",
+            "uri": "file:///wray-and-ting.webp",
             "sort": 1,
-            "placeholder_hash": "ZEoKFwIjlncgZpdSd2iHaJeIRhAE8jEF",
-            "copyright": "Brendan"
+            "placeholder_hash": "pBgOBwI6mHaAhYiVeZeXd4Z3WPWueK8J",
+            "copyright": "AI (Gemini)"
         }
     ],
     "ingredients": [

@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///remember-the-maine-1.png",
+            "uri": "file:///remember-the-maine.webp",
             "sort": 1,
             "placeholder_hash": "6BgKHwSaZ3iPi3ZplLlmaYiJlJMHKXgA",
             "copyright": "Punch Staff | Daniel Krieger"

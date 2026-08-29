@@ -17,6 +17,7 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
             "uri": "file:///oaxaca-old-fashioned-1.webp",
@@ -25,7 +26,7 @@
             "copyright": "Epicurious"
         },
         {
-            "uri": "file:///oaxaca-old-fashioned-2.jpg",
+            "uri": "file:///oaxaca-old-fashioned-2.webp",
             "sort": 2,
             "placeholder_hash": "WDkOHwRlRoiAhnhliZmIZ2h3eAJHJ3AE",
             "copyright": "zestfulkitchen"

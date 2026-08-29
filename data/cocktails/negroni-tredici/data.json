@@ -4,21 +4,25 @@
     "instructions": "Add ingreds to mixing glass and stir with ice to chill; strain into rocks glass over large cube, garnish.",
     "created_at": null,
     "updated_at": null,
-    "description": null,
+    "description": "Delicious riff. A bit smoother, less bitter, less sweet and more citrusy than the standard version.",
     "source": "https://www.reddit.com/r/cocktails/comments/1i0s0es/negroni_tredici/",
     "garnish": null,
-    "abv": 25.79,
+    "abv": 25.28,
     "tags": [
-        "Negroni"
+        "Negroni",
+        "Bitter",
+        "Herbal",
+        "Aperitivo"
     ],
     "glass": "Lowball",
     "method": "Stir",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": "",
     "images": [
         {
-            "uri": "file:///negroni-tredici-1.webp",
+            "uri": "file:///negroni-tredici.webp",
             "sort": 1,
             "placeholder_hash": "EDkGJwhLp1dXhIZgipaIN5iHeHAnB3YD",
             "copyright": "Reddit"

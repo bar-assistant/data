@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///the-perfect-bqe-1.jpg",
+            "uri": "file:///the-perfect-bqe.webp",
             "sort": 0,
             "placeholder_hash": "7DgKDwQaB4l4iYiKhXh3iIeXd/14148G",
             "copyright": "Punch Staff"

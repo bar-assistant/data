@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///koffie-van-brunt-1.webp",
+            "uri": "file:///koffie-van-brunt.webp",
             "sort": 1,
             "placeholder_hash": "nBgSDwKJdZdvh4d3h3eIZoh4SPRHMJcA",
             "copyright": "Punch Staff | Lizzie Munro"

@@ -1,0 +1,95 @@
+{
+    "_id": "amalfi-frappe",
+    "name": "Amalfi Frappe",
+    "instructions": "1. Combine the ingredients in a glass, then add shaved ice and stir briefly to incorporate.\n2. Top with more shaved ice and garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "For this frappe, Little Rituals owner Ross Simon wanted to capture the flavors of the Amalfi Coast. \"Amalfi is famous for its citrus and citrus infusions, so he used our house limoncello (a recipe from sister bar Bitter & Twisted Cocktail Parlor) and wanted to make it frappe style,\" says bar director Aaron Defeo. \"We punched the drink up with a healthy dose of Strega, an Italian liqueur with notes of saffron, mint, fennel. All those flavors love fresh lemon, and we’ve got plenty of that in there. It’s a simple but flavorful drink that keeps getting better the longer it sits.\"",
+    "source": "https://imbibemagazine.com/recipe/amalfi-frappe/",
+    "garnish": "Lemon zest and fennel flower (optional)",
+    "abv": 8.85,
+    "tags": [
+        "Citrusy",
+        "Herbal",
+        "Sweet",
+        "Sour",
+        "Refreshing",
+        "Light"
+    ],
+    "glass": "Highball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2019,
+    "author": "Ross Simon",
+    "images": [
+        {
+            "uri": "file:///amalfi-frappe.webp",
+            "sort": 1,
+            "placeholder_hash": "zPcJFwAwXoeSTJiWaKhniYeHlzBcbh8E",
+            "copyright": "Imbibe Magazine | RECIPE: Ross Simon, Little Rituals, Phoenix"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "limoncello",
+            "name": "Limoncello",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "strega",
+            "name": "Strega",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "2:1",
+            "substitutes": []
+        },
+        {
+            "_id": "bitters",
+            "name": "Bitters",
+            "sort": 5,
+            "amount": 3,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Lemon bitters",
+            "substitutes": []
+        }
+    ]
+}

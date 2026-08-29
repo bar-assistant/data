@@ -1,0 +1,94 @@
+{
+    "_id": "whiskey-business",
+    "name": "Whiskey Business",
+    "instructions": "1. Combine all ingredients in a mixing tin and shake with ice.\n2. Strain into a glass over a ice.\n3. Garnish with lemon wheel dusted in ancho chile powder.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Whiskey Business cocktail recipe is Meaghan Dorman's spicy riff on a Whiskey Sour featuring chile liqueur and cinnamon syrup.",
+    "source": "https://punchdrink.com/recipes/whiskey-business/",
+    "garnish": "lemon wheel dusted in ancho chile powder",
+    "abv": 21.38,
+    "tags": [
+        "Spicy",
+        "Citrusy",
+        "Sweet",
+        "Sour",
+        "Complex"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///whiskey-business.webp",
+            "sort": 1,
+            "placeholder_hash": "0lkOJwIFiIl3iHeCeniIeId4Z1A4BoIE",
+            "copyright": "Punch Staff | Lizzie Munro"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "rye-whiskey",
+            "name": "Rye whiskey",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "preferably Rittenhouse",
+            "substitutes": []
+        },
+        {
+            "_id": "ancho-reyes",
+            "name": "Ancho Reyes",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "preferably Ancho Reyes",
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cinnamon-syrup",
+            "name": "Cinnamon syrup",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 5,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

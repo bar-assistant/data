@@ -9,16 +9,20 @@
     "garnish": "Lemon wheel",
     "abv": 0,
     "tags": [
-        "Virgin"
+        "Virgin",
+        "Citrusy",
+        "Spicy",
+        "Bright"
     ],
     "glass": "Coupe",
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///pinch-hitter-1.webp",
+            "uri": "file:///pinch-hitter.webp",
             "sort": 1,
             "placeholder_hash": "MfgFFwL+iIlOtYhopmmYVqyfjvRXDK8D",
             "copyright": "Imbibe Magazine | John Valls"

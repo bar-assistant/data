@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///zombie-apocalypse-1.jpg",
+            "uri": "file:///zombie-apocalypse.webp",
             "sort": 1,
             "placeholder_hash": "1RgGFwQKu8hidolFaCiKR3hb+l4gnUQA",
             "copyright": "LiberAndCo"

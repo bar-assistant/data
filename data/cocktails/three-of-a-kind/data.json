@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///three-of-a-kind-1.jpg",
+            "uri": "file:///three-of-a-kind.webp",
             "sort": 1,
             "placeholder_hash": "swgGFwBblHiPe4VmiHdomGd5CEaJoHEJ",
             "copyright": "Imbibe Magazine | John Valls"

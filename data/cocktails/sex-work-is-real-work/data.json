@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///sex-work-is-real-work-1.webp",
+            "uri": "file:///sex-work-is-real-work.webp",
             "sort": 1,
             "placeholder_hash": "0hgSLwQLl4dChoiaiUaXl2eXl6AoCIsC",
             "copyright": "Punch Staff | Lizzie Munro"

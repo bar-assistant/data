@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///white-lady-1.jpg",
+            "uri": "file:///white-lady.webp",
             "sort": 1,
             "placeholder_hash": "XAgKBwA2hYdRZ4h6igeXiKd1CztDsCAH",
             "copyright": "BBC Good Food"

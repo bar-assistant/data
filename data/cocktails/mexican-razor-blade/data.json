@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///mexican-razor-blade-1.jpg",
+            "uri": "file:///mexican-razor-blade.webp",
             "sort": 0,
             "placeholder_hash": "KAgSHwLFaod0ZYhwhziHSIiGuDBmClIK",
             "copyright": "Punch Staff | Lizzie Munro"

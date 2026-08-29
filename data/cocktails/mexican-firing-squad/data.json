@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///mexican-firing-squad-1.jpg",
+            "uri": "file:///mexican-firing-squad.webp",
             "sort": 1,
             "placeholder_hash": "mDkKDwRaVZmPpIexeEeneHl49j4WB3EB",
             "copyright": "Punch Staff"

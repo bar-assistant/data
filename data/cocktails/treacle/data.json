@@ -18,7 +18,15 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
-    "images": [],
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///treacle.webp",
+            "sort": 1,
+            "placeholder_hash": "HfgJHwaleIePdYh4aEaXaHd1ZQF5F5AI",
+            "copyright": "Grok"
+        }
+    ],
     "ingredients": [
         {
             "_id": "jamaican-rum",

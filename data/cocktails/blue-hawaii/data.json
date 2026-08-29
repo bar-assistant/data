@@ -15,13 +15,20 @@
     "method": "Blend",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 1957,
+    "author": null,
     "images": [
         {
             "uri": "file:///blue-hawaii-1.webp",
             "sort": 1,
             "placeholder_hash": "SxgKBwYI11mFaJdzmHaXeId2yI99+nkI",
             "copyright": "Punch Staff | Eric Medsker"
+        },
+        {
+            "uri": "file:///blue-hawaii-2.webp",
+            "sort": 2,
+            "placeholder_hash": "YvgNFwZwp4mBiYl6iDaVaIp5mHz393gO",
+            "copyright": "AI (Gemini)"
         }
     ],
     "ingredients": [

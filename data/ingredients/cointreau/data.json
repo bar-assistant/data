@@ -11,7 +11,7 @@
     "updated_at": null,
     "images": [
         {
-            "uri": "file:///cointreau-1.png",
+            "uri": "file:///cointreau.webp",
             "sort": 1,
             "placeholder_hash": "oJqOHQQeB2eFe3uHh/iqaf+KBzdwcoEzSA",
             "copyright": "Cointreau"
@@ -20,8 +20,8 @@
     "ingredient_parts": [],
     "prices": [],
     "calculator_id": null,
-    "sugar_g_per_ml": null,
+    "sugar_g_per_ml": 233,
     "acidity": null,
-    "distillery": null,
+    "distillery": "Cointreau",
     "units": "ml"
 }

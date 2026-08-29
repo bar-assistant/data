@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///212-1.webp",
+            "uri": "file:///212.webp",
             "sort": 1,
             "placeholder_hash": "jSgKJwYWlneQlop4eoaXB5h8hXA4B4cD",
             "copyright": "TuxedoNo2"

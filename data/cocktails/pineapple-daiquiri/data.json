@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": "daiquiri",
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///pineapple-daiquiri-1.webp",
+            "uri": "file:///pineapple-daiquiri.webp",
             "sort": 1,
             "placeholder_hash": "KegJHwIve4h8lYiKhnd4R5iGZ9AXB30E",
             "copyright": "Punch Staff"

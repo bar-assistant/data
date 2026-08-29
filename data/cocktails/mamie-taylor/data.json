@@ -1,0 +1,68 @@
+{
+    "_id": "mamie-taylor",
+    "name": "Mamie Taylor",
+    "instructions": "1. Add Scotch and lime juice to a highball glass and fill the glass with ice.\n2. Top with ginger beer.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Named for singer and actress, Mayme Taylor, this (inexplicably) misspelled cocktail recipe, is a combination of Scotch and ginger beer.",
+    "source": "https://punchdrink.com/recipes/mamie-taylor/",
+    "garnish": null,
+    "abv": 10.77,
+    "tags": [
+        "Citrusy",
+        "Refreshing",
+        "Light"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///mamie-taylor.webp",
+            "sort": 1,
+            "placeholder_hash": "SggKDwIKpXhkmneIiGeXmGiIpwAUvSAJ",
+            "copyright": "grouchy bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "scotch-whiskey",
+            "name": "Scotch whiskey",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "ginger-beer",
+            "name": "Ginger beer",
+            "sort": 3,
+            "amount": 4,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

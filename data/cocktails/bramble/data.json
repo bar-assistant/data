@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///bramble-1.jpg",
+            "uri": "file:///bramble.webp",
             "sort": 1,
             "placeholder_hash": "00gGFwYQuVdYeIahfRWrpXh5VAm5WIAH",
             "copyright": "Anders"

@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///pink-lady-1.jpg",
+            "uri": "file:///pink-lady.webp",
             "sort": 1,
             "placeholder_hash": "ZAgSFwRrWndwiXdmald3p2Z4h/hJZokA",
             "copyright": "LiberAndCo | Juliet Beletic"

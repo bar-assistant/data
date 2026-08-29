@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///turf-club-1.webp",
+            "uri": "file:///turf-club.webp",
             "sort": 1,
             "placeholder_hash": "JvgNDwB3dohAaIiSh3mJWImEpfN5ap8J",
             "copyright": "Liquor.com"

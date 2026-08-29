@@ -7,7 +7,7 @@
     "description": "Chartreuse sour from Berlin, the Beuser & Angus Special takes inspiration from the Last Word and the Ramos Gin Fizz. Created in 2007 by Gonçalo de Sousa Monteiro for fellow bartenders Bastian Heuser and Angus Winchester, the drink has gone on to become a modern classic.",
     "source": "https://punchdrink.com/recipes/beuser-angus-special/",
     "garnish": "Garnish with a lime wedge.",
-    "abv": 23,
+    "abv": 29.84,
     "tags": [
         "Sour",
         "Citrusy"
@@ -16,10 +16,11 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 2007,
+    "author": "Gonçalo de Sousa",
     "images": [
         {
-            "uri": "file:///beuser-angus-special-1.jpg",
+            "uri": "file:///beuser-angus-special.webp",
             "sort": 1,
             "placeholder_hash": "oAgSJwKYinikdIiAZ2eWV5Z4poAodpAG",
             "copyright": "Punch Staff"

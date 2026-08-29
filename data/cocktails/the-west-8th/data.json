@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///the-west-8th-1.jpg",
+            "uri": "file:///the-west-8th.webp",
             "sort": 1,
             "placeholder_hash": "4CgKFwYgh3hphIh2hmd5d5h41gYZjZAG",
             "copyright": "Imbibe Magazine | Asia Coladner"

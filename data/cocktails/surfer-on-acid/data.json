@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///surfer-on-acid-1.webp",
+            "uri": "file:///surfer-on-acid.webp",
             "sort": 1,
             "placeholder_hash": "11kOFwIOY4doh3himVmHd4eI5zCUDTML",
             "copyright": "Punch Staff | Madeline P. Gray"
@@ -30,7 +31,7 @@
         {
             "_id": "pineapple-juice",
             "name": "Pineapple juice",
-            "sort": 1,
+            "sort": 0,
             "amount": 1.5,
             "units": "oz",
             "optional": false,
@@ -42,7 +43,7 @@
         {
             "_id": "light-rum",
             "name": "Light Rum",
-            "sort": 2,
+            "sort": 0,
             "amount": 1.25,
             "units": "oz",
             "optional": false,
@@ -54,7 +55,7 @@
         {
             "_id": "jagermeister",
             "name": "Jägermeister",
-            "sort": 3,
+            "sort": 0,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
@@ -66,7 +67,7 @@
         {
             "_id": "simple-syrup",
             "name": "Simple Syrup",
-            "sort": 4,
+            "sort": 0,
             "amount": 0.5,
             "units": "oz",
             "optional": false,
@@ -78,7 +79,7 @@
         {
             "_id": "lime-juice",
             "name": "Lime juice",
-            "sort": 5,
+            "sort": 0,
             "amount": 0.5,
             "units": "oz",
             "optional": false,
@@ -90,7 +91,7 @@
         {
             "_id": "jamaican-rum",
             "name": "Jamaican Rum",
-            "sort": 6,
+            "sort": 0,
             "amount": 0.25,
             "units": "oz",
             "optional": false,
@@ -102,7 +103,7 @@
         {
             "_id": "coconut-rum",
             "name": "Coconut Rum",
-            "sort": 7,
+            "sort": 0,
             "amount": 0.25,
             "units": "oz",
             "optional": false,
@@ -114,7 +115,7 @@
         {
             "_id": "saline-solution",
             "name": "Saline solution",
-            "sort": 8,
+            "sort": 0,
             "amount": 1,
             "units": "dash",
             "optional": false,

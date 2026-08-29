@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///caribbean-ember-1.webp",
+            "uri": "file:///caribbean-ember.webp",
             "sort": 1,
             "placeholder_hash": "oEkSJwZWd4hgh4iGh4iGmHl4eaAFSIYA",
             "copyright": "Imbibe Magazine | Kat Kimball"

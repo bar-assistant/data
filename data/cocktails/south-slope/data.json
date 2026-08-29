@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///south-slope-1.webp",
+            "uri": "file:///south-slope.webp",
             "sort": 1,
             "placeholder_hash": "3SgGFwJ2ZpivWHhmeJeIJ3d0K/clcE4A",
             "copyright": "Steve the Bartender"

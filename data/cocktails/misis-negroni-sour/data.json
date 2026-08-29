@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///misis-negroni-sour-1.jpg",
+            "uri": "file:///misis-negroni-sour.webp",
             "sort": 0,
             "placeholder_hash": "KTkSFwSoZ3iQh3iWh2iYp3d4tvGIB3sG",
             "copyright": "Punch Staff | Lizzie Munro"

@@ -15,10 +15,11 @@
     "method": "Blend",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 1950,
+    "author": null,
     "images": [
         {
-            "uri": "file:///scorpion-bowl-1.webp",
+            "uri": "file:///scorpion-bowl.webp",
             "sort": 1,
             "placeholder_hash": "4WgOFwaImKiPeHd9iWaHqHiHeRkIp4AC",
             "copyright": "Total Mixology"

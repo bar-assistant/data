@@ -5,7 +5,7 @@
     "created_at": null,
     "updated_at": null,
     "description": "The Dirty Martini is a popular cocktail that adds olive brine to the classic Martini, giving it a savory flavor. It can be made with either gin or vodka, depending on personal preference.",
-    "source": "",
+    "source": null,
     "garnish": "Garnish with skewered olives.",
     "abv": 23.97,
     "tags": [
@@ -18,10 +18,11 @@
     "method": "Stir",
     "utensils": [],
     "parent_cocktail_id": "martini",
-    "year": null,
+    "year": 1930,
+    "author": "G. F. Steele",
     "images": [
         {
-            "uri": "file:///dirty-martini-1.webp",
+            "uri": "file:///dirty-martini.webp",
             "sort": 1,
             "placeholder_hash": "yygKFwQIx2djiHeIiCbId3eKiAekh0AK",
             "copyright": "Imbibe Magazine |  Lindsay Eberly"

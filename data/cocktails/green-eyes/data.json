@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///green-eyes-1.jpg",
+            "uri": "file:///green-eyes.webp",
             "sort": 0,
             "placeholder_hash": "KugJFwJ6d5hwiniDh0h3Joh0ZBCpCaUN",
             "copyright": "Imbibe Magazine"

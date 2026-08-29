@@ -13,6 +13,7 @@ Usage: $(basename "$0") [--dry-run] [--data-dir PATH]
 Normalizes the cocktail and ingredient catalogs by:
   - removing trailing _NUMBER folder and ID suffixes
   - updating ingredient and parent-cocktail references
+  - converting images to WebP at 80% quality and at most 1000px high
   - renaming images from their catalog folder name
   - setting created_at and updated_at values to null
   - setting ingredient prices to an empty array
@@ -57,6 +58,21 @@ if ! command -v jq >/dev/null 2>&1; then
     exit 1
 fi
 
+if ! command -v ffmpeg >/dev/null 2>&1; then
+    echo "Error: ffmpeg with the libwebp encoder is required." >&2
+    exit 1
+fi
+
+ffmpeg_encoders=$(ffmpeg -hide_banner -encoders 2>/dev/null) || {
+    echo "Error: Could not inspect ffmpeg encoders." >&2
+    exit 1
+}
+if [[ $ffmpeg_encoders != *" libwebp "* ]]; then
+    echo "Error: ffmpeg must include the libwebp encoder." >&2
+    exit 1
+fi
+unset ffmpeg_encoders
+
 DATA_DIR=$(cd -- "$DATA_DIR" 2>/dev/null && pwd) || {
     echo "Error: Data directory not found: $DATA_DIR" >&2
     exit 1
@@ -80,6 +96,7 @@ declare -A SOURCE_DIRS=()
 
 folder_rename_count=0
 image_rename_count=0
+image_conversion_count=0
 json_update_count=0
 
 strip_export_suffix() {
@@ -204,7 +221,7 @@ load_images() {
     local folder=${PLAN_SOURCES[plan_index]}
     local folder_name=${PLAN_NAMES[plan_index]}
     local json_file="$folder/data.json"
-    local image_count index uri source_name extension target_name
+    local image_count index uri source_name target_name
 
     IMAGE_SOURCES=()
     IMAGE_TARGETS=()
@@ -214,12 +231,11 @@ load_images() {
     for ((index = 0; index < image_count; index++)); do
         uri=$(jq -r --argjson index "$index" '.images[$index].uri' "$json_file")
         source_name=${uri#file:///}
-        extension=${source_name##*.}
 
         if ((image_count == 1)); then
-            target_name="$folder_name.$extension"
+            target_name="$folder_name.webp"
         else
-            target_name="$folder_name-$((index + 1)).$extension"
+            target_name="$folder_name-$((index + 1)).webp"
         fi
 
         IMAGE_SOURCES+=("$folder/$source_name")
@@ -264,6 +280,7 @@ preflight_images() {
 
         source_files["$source_path"]=1
         target_files["$target_path"]=1
+        ((image_conversion_count += 1))
 
         if [[ $source_path != "$target_path" ]]; then
             ((image_rename_count += 1))
@@ -387,6 +404,7 @@ done
 echo "Catalog entries: ${#PLAN_SOURCES[@]}"
 echo "Folders to rename: $folder_rename_count"
 echo "Images to rename: $image_rename_count"
+echo "Images to convert: $image_conversion_count"
 echo "JSON files to update: $json_update_count"
 
 if $DRY_RUN; then
@@ -394,34 +412,43 @@ if $DRY_RUN; then
     exit 0
 fi
 
+# Convert every image before modifying the catalog so a conversion failure leaves
+# all source files intact.
+for ((plan_index = 0; plan_index < ${#PLAN_SOURCES[@]}; plan_index++)); do
+    load_images "$plan_index"
+
+    for ((image_index = 0; image_index < ${#IMAGE_SOURCES[@]}; image_index++)); do
+        source_path=${IMAGE_SOURCES[image_index]}
+        staging_path="$staging_dir/image-$plan_index-$image_index.webp"
+
+        if ! ffmpeg -nostdin -hide_banner -loglevel error -y \
+            -i "$source_path" \
+            -vf "scale=-1:'min(1000,ih)':flags=lanczos" \
+            -frames:v 1 -c:v libwebp -quality 80 \
+            "$staging_path"; then
+            echo "Error: Could not convert image: $source_path" >&2
+            exit 1
+        fi
+
+        chmod --reference="$source_path" "$staging_path"
+    done
+done
+
 for ((plan_index = 0; plan_index < ${#PLAN_SOURCES[@]}; plan_index++)); do
     folder=${PLAN_SOURCES[plan_index]}
     json_file="$folder/data.json"
     staged_json=${STAGED_JSON[plan_index]}
     load_images "$plan_index"
-    declare -a image_staging_paths=()
 
     for ((image_index = 0; image_index < ${#IMAGE_SOURCES[@]}; image_index++)); do
         source_path=${IMAGE_SOURCES[image_index]}
-        target_path=${IMAGE_TARGETS[image_index]}
-        staging_path="$folder/.cleanup-image.$$.$image_index"
-        image_staging_paths+=("$staging_path")
-
-        if [[ $source_path != "$target_path" ]]; then
-            [[ ! -e $staging_path ]] || {
-                echo "Error: Image staging path already exists: $staging_path" >&2
-                exit 1
-            }
-            mv -- "$source_path" "$staging_path"
-        fi
+        rm -- "$source_path"
     done
 
     for ((image_index = 0; image_index < ${#IMAGE_SOURCES[@]}; image_index++)); do
-        source_path=${IMAGE_SOURCES[image_index]}
         target_path=${IMAGE_TARGETS[image_index]}
-        if [[ $source_path != "$target_path" ]]; then
-            mv -- "${image_staging_paths[image_index]}" "$target_path"
-        fi
+        staging_path="$staging_dir/image-$plan_index-$image_index.webp"
+        mv -- "$staging_path" "$target_path"
     done
 
     if ! cmp -s -- "$json_file" "$staged_json"; then

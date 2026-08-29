@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///hoodwinked-1.jpg",
+            "uri": "file:///hoodwinked.webp",
             "sort": 0,
             "placeholder_hash": "FQgKFwIlp2dQlmmVe4Z3d2d4SbApI5oA",
             "copyright": "Imbibe Magazine | Caroline Pardilla"

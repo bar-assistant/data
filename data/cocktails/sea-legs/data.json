@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///sea-legs-1.webp",
+            "uri": "file:///sea-legs.webp",
             "sort": 1,
             "placeholder_hash": "WBgODwJUiYiAeId5icZ3aGaY2aIATQkC",
             "copyright": "Liber &amp;amp; Co."

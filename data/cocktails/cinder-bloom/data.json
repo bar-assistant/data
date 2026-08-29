@@ -1,0 +1,117 @@
+{
+    "_id": "cinder-bloom",
+    "name": "Cinder Bloom",
+    "instructions": "1. Place 4 ají dulce peppers in a shaker and muddle. Add the rest of the ingredients along with ice. Shake hard for about 5 seconds, or until the outside of the shaker is frosty. Strain into the glass over ice.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "\"The inspiration behind this cocktail began with my love for the Margarita,\" says Omar Bautista, beverage manager of Boro Brine in New York City. Using the tequila classic as a template, he layered the bold flavors of passion fruit and Aperol with the sweet vegetal notes of ají peppers for a refreshing and aromatic cocktail. Bautista says that any tropical pepper will work, too, or swap in red or yellow bell peppers for a more vegetal profile.",
+    "source": "https://imbibemagazine.com/recipe/cinder-bloom-tequila-cocktail-with-passion-fruit-and-peppers/",
+    "garnish": "Grapefruit wheel",
+    "abv": 19.26,
+    "tags": [
+        "Citrusy",
+        "Tropical",
+        "Spicy",
+        "Refreshing"
+    ],
+    "glass": "Lowball",
+    "method": "Muddle",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///cinder-bloom.webp",
+            "sort": 1,
+            "placeholder_hash": "n4oKFwJbdnhoiXhTdliYuGh7PzkMkNMA",
+            "copyright": "Imbibe Magazine | Dan Ahn"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "aperol",
+            "name": "Aperol",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "passoa",
+            "name": "Passoã",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "chilli-pepper",
+            "name": "Chilli Pepper",
+            "sort": 5,
+            "amount": 4,
+            "units": "whole",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "demerara-syrup",
+            "name": "Demerara Syrup",
+            "sort": 6,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "2:1",
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 7,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "optional",
+            "substitutes": []
+        }
+    ]
+}

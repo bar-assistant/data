@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": "grasshopper",
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///grasshopper-blanco-1.webp",
+            "uri": "file:///grasshopper-blanco.webp",
             "sort": 1,
             "placeholder_hash": "H/gNDwCCaXiQhXiEiIeZlniHWDBo/nwH",
             "copyright": "Imbibe Magazine | Sam Hanna"
@@ -28,7 +29,7 @@
         {
             "_id": "tequila-blanco",
             "name": "Tequila Blanco",
-            "sort": 1,
+            "sort": 0,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
@@ -40,7 +41,7 @@
         {
             "_id": "creme-de-cacao-white",
             "name": "Crème de Cacao (White)",
-            "sort": 2,
+            "sort": 0,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
@@ -52,7 +53,7 @@
         {
             "_id": "creme-de-menthe",
             "name": "Crème de menthe",
-            "sort": 3,
+            "sort": 0,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
@@ -64,7 +65,7 @@
         {
             "_id": "cream",
             "name": "Cream",
-            "sort": 4,
+            "sort": 0,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
@@ -76,7 +77,7 @@
         {
             "_id": "mint",
             "name": "Mint",
-            "sort": 5,
+            "sort": 0,
             "amount": 4,
             "units": "leaves",
             "optional": false,

@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///old-pal-1.webp",
+            "uri": "file:///old-pal.webp",
             "sort": 1,
             "placeholder_hash": "GwgKFwbCipqthmT6hXp4d2aWNiUERoEA",
             "copyright": "A couple cooks"

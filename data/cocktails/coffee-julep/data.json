@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///coffee-julep-1.jpg",
+            "uri": "file:///coffee-julep.webp",
             "sort": 0,
             "placeholder_hash": "nxgSJwZWeniAZ4iFeJiImHd35g2F3FAJ",
             "copyright": "LiberAndCo | ﻿Juliet Beletic"

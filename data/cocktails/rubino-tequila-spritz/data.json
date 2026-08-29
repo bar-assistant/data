@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///rubino-tequila-spritz-1.webp",
+            "uri": "file:///rubino-tequila-spritz.webp",
             "sort": 1,
             "placeholder_hash": "cQkGHwR1X2fXyXeaVIhIR3ultqIHJ38A",
             "copyright": "Imbibe Magazine | John Valls"
@@ -26,7 +27,7 @@
         {
             "_id": "tequila-blanco",
             "name": "Tequila Blanco",
-            "sort": 1,
+            "sort": 0,
             "amount": 1,
             "units": "oz",
             "optional": false,
@@ -38,7 +39,7 @@
         {
             "_id": "italicus-rosolio-di-bergamotto",
             "name": "Italicus Rosolio di Bergamotto",
-            "sort": 2,
+            "sort": 0,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
@@ -50,7 +51,7 @@
         {
             "_id": "lemon-juice",
             "name": "Lemon juice",
-            "sort": 3,
+            "sort": 0,
             "amount": 0.25,
             "units": "oz",
             "optional": false,
@@ -62,7 +63,7 @@
         {
             "_id": "prosecco",
             "name": "Prosecco",
-            "sort": 4,
+            "sort": 0,
             "amount": 3,
             "units": "oz",
             "optional": false,
@@ -74,7 +75,7 @@
         {
             "_id": "orange-soda",
             "name": "Orange Soda",
-            "sort": 5,
+            "sort": 0,
             "amount": 2,
             "units": "oz",
             "optional": false,

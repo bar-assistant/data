@@ -16,15 +16,16 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///airmail-1.jpg",
+            "uri": "file:///airmail-1.webp",
             "sort": 1,
             "placeholder_hash": "5ggSJwJwhod4qnmFiId3Vnd3ZkCaNYAH",
             "copyright": "Punch |  Daniel Krieger"
         },
         {
-            "uri": "file:///airmail-2.jpg",
+            "uri": "file:///airmail-2.webp",
             "sort": 2,
             "placeholder_hash": "ixgKFwAImIeLdnh3iRfHaIh5isB4DbMK",
             "copyright": "Imbibe Magazine"

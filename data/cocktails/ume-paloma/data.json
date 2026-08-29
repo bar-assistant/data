@@ -21,9 +21,10 @@
     "utensils": [],
     "parent_cocktail_id": "paloma",
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///ume-paloma-1.webp",
+            "uri": "file:///ume-paloma.webp",
             "sort": 1,
             "placeholder_hash": "qzgKDwInhmn3lnaxlmh6ZoiIxwF5L4AF",
             "copyright": "Punch Staff | Lizzie Munro"

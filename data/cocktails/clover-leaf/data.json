@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///clover-leaf-1.jpg",
+            "uri": "file:///clover-leaf.webp",
             "sort": 0,
             "placeholder_hash": "z2gODwYpiJePdniciGe5SMmGWAXVZ3AI",
             "copyright": "Liquor.com"

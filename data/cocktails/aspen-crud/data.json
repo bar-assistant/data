@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///aspen-crud-1.jpg",
+            "uri": "file:///aspen-crud.webp",
             "sort": 0,
             "placeholder_hash": "1TgKFwQMc5d2iXdVnKh4d3d5qDj3mXMP",
             "copyright": "Punch Staff | Matthew Snell"

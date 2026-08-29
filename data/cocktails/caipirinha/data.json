@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///caipirinha-1.jpg",
+            "uri": "file:///caipirinha.webp",
             "sort": 1,
             "placeholder_hash": "JxkWJwJ3h4d/iYeHh3d4h3d4l1A4ynAI",
             "copyright": "Liquor.com / Tim Nusog"

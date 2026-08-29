@@ -7,7 +7,7 @@
     "description": "This cocktail recipe is a variation on the basic Daisy formula: a sour kicked up with the addition of seltzer or soda water.",
     "source": "https://punchdrink.com/recipes/gin-daisy-new-school/",
     "garnish": "orange slice",
-    "abv": 19.2,
+    "abv": 13.71,
     "tags": [
         "Light"
     ],
@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///gin-daisy-new-school-1.webp",
+            "uri": "file:///gin-daisy-new-school.webp",
             "sort": 1,
             "placeholder_hash": "oigOJwakaHaPd4h4d1d4l4iGmZBICXQE",
             "copyright": "Punch Staff | Daniel Krieger"
@@ -28,7 +29,7 @@
         {
             "_id": "gin",
             "name": "Gin",
-            "sort": 1,
+            "sort": 0,
             "amount": 1.5,
             "units": "oz",
             "optional": false,
@@ -40,7 +41,7 @@
         {
             "_id": "lemon-juice",
             "name": "Lemon juice",
-            "sort": 2,
+            "sort": 0,
             "amount": 0.5,
             "units": "oz",
             "optional": false,
@@ -52,7 +53,7 @@
         {
             "_id": "grenadine-syrup",
             "name": "Grenadine Syrup",
-            "sort": 3,
+            "sort": 0,
             "amount": 0.25,
             "units": "oz",
             "optional": false,
@@ -64,9 +65,21 @@
         {
             "_id": "simple-syrup",
             "name": "Simple Syrup",
-            "sort": 4,
+            "sort": 0,
             "amount": 0.25,
             "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "sort": 0,
+            "amount": 1,
+            "units": "topup",
             "optional": false,
             "is_specified": false,
             "amount_max": null,

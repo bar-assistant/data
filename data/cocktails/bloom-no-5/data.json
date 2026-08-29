@@ -1,0 +1,93 @@
+{
+    "_id": "bloom-no-5",
+    "name": "Bloom No. 5",
+    "instructions": "1. Combine all of the ingredients in a shaker with ice and shake vigorously.\n2. Strain into a chilled coupe.\n3. Express a lemon peel and use as a garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "\"The goal behind the Bloom No. 5 was to weave floral, springtime flavors into a classic Margarita template,\" says Shelby Abell, bartender at Nashville's Martha My Dear. To do this she combines Suze and elderflower liqueur, which balance one another and create a complex, bittersweet profile. Meanwhile, ginger and lemon brighten up the drink \"to nail the 'springtime in a glass' vibe,\" Abell adds.",
+    "source": "https://imbibemagazine.com/recipe/bloom-no-5-spring-cocktail/",
+    "garnish": "Lemon peel",
+    "abv": 16.92,
+    "tags": [
+        "Floral",
+        "Citrusy",
+        "Bitter",
+        "Sweet"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2026,
+    "author": "Shelby Abell",
+    "images": [
+        {
+            "uri": "file:///bloom-no-5.webp",
+            "sort": 1,
+            "placeholder_hash": "jhgKFwII13mkdnemi6dmlzlopHBKDcsK",
+            "copyright": "Imbibe Magazine | Victoria Quirk/@victoriaquirkphoto"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "ginger-syrup",
+            "name": "Ginger syrup",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "suze",
+            "name": "Suze",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "st-germain",
+            "name": "St-Germain",
+            "sort": 5,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

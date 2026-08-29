@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///bitter-giuseppe-1.jpg",
+            "uri": "file:///bitter-giuseppe.webp",
             "sort": 1,
             "placeholder_hash": "kCgKFwKPi5iEaYdTl3hmeHl5yIEDCzUE",
             "copyright": "Punch | Emma Janzen."

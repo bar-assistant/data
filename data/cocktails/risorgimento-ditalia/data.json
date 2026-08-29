@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///risorgimento-ditalia-1.webp",
+            "uri": "file:///risorgimento-ditalia.webp",
             "sort": 1,
             "placeholder_hash": "2RgGLwYIi2deppdzSleaamiYJpA1AmUC",
             "copyright": "Punch Staff"

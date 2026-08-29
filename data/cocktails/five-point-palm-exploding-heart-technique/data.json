@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///five-point-palm-exploding-heart-technique-1.webp",
+            "uri": "file:///five-point-palm-exploding-heart-technique.webp",
             "sort": 1,
             "placeholder_hash": "oygKHwT1d4eGeHl8d3d4h1d5lwNXOHAG",
             "copyright": "Reddit"

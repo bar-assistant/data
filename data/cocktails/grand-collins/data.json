@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///grand-collins-1.jpg",
+            "uri": "file:///grand-collins.webp",
             "sort": 1,
             "placeholder_hash": "UigOFwQDbHaWaHiSend3h3d4BzBbNp8I",
             "copyright": "Cocktails Distilled"

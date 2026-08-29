@@ -18,10 +18,11 @@
     "method": "Build",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 1857,
+    "author": null,
     "images": [
         {
-            "uri": "file:///mint-julep-1.jpg",
+            "uri": "file:///mint-julep.webp",
             "sort": 1,
             "placeholder_hash": "0jgKJwRGe8VgZoiaiiiHhpeXd1BYBXED",
             "copyright": "Liquor.com / Tim Nusog"

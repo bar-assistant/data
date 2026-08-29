@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///thyme-after-thyme-1.jpg",
+            "uri": "file:///thyme-after-thyme.webp",
             "sort": 1,
             "placeholder_hash": "shgGHwTCeHi/dndodYh3eYiGdxBnCHAI",
             "copyright": "Kirk Robert Chambers."

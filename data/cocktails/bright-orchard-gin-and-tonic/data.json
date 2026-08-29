@@ -1,0 +1,82 @@
+{
+    "_id": "bright-orchard-gin-and-tonic",
+    "name": "Bright Orchard Gin and Tonic",
+    "instructions": "1. Fill a highball glass with ice.\n2. Pour in the gin, apple juice, and lemon juice.\n3. Top with light tonic water.\n4. Stir once to integrate.\n5. Garnish with an apple slice and rosemary sprig.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A refreshing winter variation of the classic gin and tonic that combines orchard fruits, citrus, and juniper notes. Designed to be low in sugar and calories, this crisp beverage offers subtle digestive and mood-supporting qualities while delivering a clean, dry finish.",
+    "source": "https://downtondistillery.com/blogs/cocktails/bright-orchard-gin-and-tonic-gin-cocktail",
+    "garnish": "Apple slice and rosemary sprig",
+    "abv": 14.88,
+    "tags": [
+        "Citrusy",
+        "Fruity",
+        "Sour",
+        "Herbal",
+        "Dry"
+    ],
+    "glass": "Highball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": "gin-tonic",
+    "year": 2026,
+    "author": "Hugh Anderson",
+    "images": [
+        {
+            "uri": "file:///bright-orchard-gin-and-tonic.webp",
+            "sort": 1,
+            "placeholder_hash": "pSkKDwIIiZqreaeleGdWd5Waqgu+itAH",
+            "copyright": "downtondistillery.com"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 0,
+            "amount": 25,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "apple-juice",
+            "name": "Apple Juice",
+            "sort": 0,
+            "amount": 20,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 0,
+            "amount": 10,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "tonic",
+            "name": "Tonic",
+            "sort": 0,
+            "amount": 1,
+            "units": "topup",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

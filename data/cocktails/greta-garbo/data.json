@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///greta-garbo-1.jpg",
+            "uri": "file:///greta-garbo.webp",
             "sort": 1,
             "placeholder_hash": "DQgOBwIImJiFeXeGiie4yFiJ+Ejp/5cN",
             "copyright": "Punch Staff"

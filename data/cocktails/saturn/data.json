@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///saturn-1.jpg",
+            "uri": "file:///saturn.webp",
             "sort": 1,
             "placeholder_hash": "2ggKLwQdc6ePqXaCmZhot4d6hjB2B2AK",
             "copyright": "LiberAndCo | Subtle Tiki"

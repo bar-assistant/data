@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///the-greenpoint-1.jpg",
+            "uri": "file:///the-greenpoint.webp",
             "sort": 1,
             "placeholder_hash": "oygSFwSMWWeQiHaHdqh4ZomFGEBFBWIE",
             "copyright": "Punch Staff"

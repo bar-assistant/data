@@ -11,7 +11,7 @@
     "updated_at": null,
     "images": [
         {
-            "uri": "file:///lime-juice-1.png",
+            "uri": "file:///lime-juice.webp",
             "sort": 1,
             "placeholder_hash": "9/iBBQBWi3BfwqHsNmSgjvsFB5iHeHd4eA",
             "copyright": ""
@@ -40,7 +40,7 @@
         }
     ],
     "prices": [],
-    "calculator_id": "lime-super-juice-kevin-koss-275",
+    "calculator_id": "lime-super-juice-kevin-koss-3",
     "sugar_g_per_ml": null,
     "acidity": null,
     "distillery": null,

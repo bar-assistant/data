@@ -19,9 +19,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///gin-rickey-1.webp",
+            "uri": "file:///gin-rickey.webp",
             "sort": 1,
             "placeholder_hash": "VwgSFwQFqYeEiXd3iHiId4iHl/TG+XYJ",
             "copyright": "Punch Staff | Reema Desai"

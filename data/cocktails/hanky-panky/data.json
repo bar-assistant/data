@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///hanky-panky-1.jpg",
+            "uri": "file:///hanky-panky.webp",
             "sort": 1,
             "placeholder_hash": "NQgKDwL0SHeEfIeHZtk4t1iIZsBmB3wF",
             "copyright": "Punch / Daniel Krieger"

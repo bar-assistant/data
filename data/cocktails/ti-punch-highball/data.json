@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///ti-punch-highball-1.jpg",
+            "uri": "file:///ti-punch-highball.webp",
             "sort": 1,
             "placeholder_hash": "cggKDwDohziPd4Z1h7dXqGeHhmBHeIAK",
             "copyright": "Punch Staff | Lizzie Munro"

@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///2-to-2-1.jpg",
+            "uri": "file:///2-to-2.webp",
             "sort": 1,
             "placeholder_hash": "G0kKDwJAfYqIlaZrd2eZZ4iHODAKEqQA",
             "copyright": "LiberAndCo | Juliet Beletic"

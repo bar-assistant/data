@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///the-st-germain-spritz-1.jpg",
+            "uri": "file:///the-st-germain-spritz.webp",
             "sort": 1,
             "placeholder_hash": "2DgGHwQLT5Z+eGeUSolHhol1eWBXCYQH",
             "copyright": "Punch Staff"

@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///pina-verde-1.jpg",
+            "uri": "file:///pina-verde.webp",
             "sort": 1,
             "placeholder_hash": "WBkSHwgJdphxh3ileoiWdmh5mAK5p2AI",
             "copyright": "Punch Staff | Lizzie Munro"

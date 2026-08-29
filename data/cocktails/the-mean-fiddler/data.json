@@ -1,0 +1,114 @@
+{
+    "_id": "the-mean-fiddler",
+    "name": "The Mean Fiddler",
+    "instructions": "1. Combine all ingredients in a mixing glass with ice and stir for 30-45 seconds or approximately 60 revolutions.\n2. Strain into a chilled cocktail glass.\n3. Garnish with a dehydrated orange wheel and a skewered cherry.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Mean Fiddler is a bold and complex whisky cocktail created by the team at Dead Rabbit in New York. This drink stands out with its layered flavors, combining the smoky depth of Islay whisky with the smoothness of Irish whiskey. The addition of Green Chartreuse and sweet vermouth introduces rich botanical notes, while Campari brings a touch of bittersweet orange complexity. A hint of cinnamon syrup and Angostura bitters adds aromatic warmth, tying everything together into a harmonious, spirit-forward experience perfect for those seeking a robust and warming drink.",
+    "source": "https://www.grouchy-bartender.com/cocktails/mean-fiddler",
+    "garnish": "Dehydrated orange wheel, skewered cherry",
+    "abv": 28.97,
+    "tags": [
+        "Complex"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///the-mean-fiddler.webp",
+            "sort": 1,
+            "placeholder_hash": "iCgGDwQHmVeJeYV5hFmYh2eEN2CHBocG",
+            "copyright": "grouchy bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "irish-whiskey",
+            "name": "Irish whiskey",
+            "sort": 1,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "green-chartreuse",
+            "name": "Green Chartreuse",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 3,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "islay-scotch-whiskey",
+            "name": "Islay Scotch Whiskey",
+            "sort": 4,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "sort": 5,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cinnamon-syrup",
+            "name": "Cinnamon syrup",
+            "sort": 6,
+            "amount": 5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 7,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

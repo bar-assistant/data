@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///grog-1.webp",
+            "uri": "file:///grog.webp",
             "sort": 1,
             "placeholder_hash": "zhgOJwQGl6d1mHdzi3eId4iIeGA3CHUE",
             "copyright": "phoenixmag"

@@ -14,7 +14,15 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
-    "images": [],
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///mezcal-sour.webp",
+            "sort": 1,
+            "placeholder_hash": "2RgKDwIQl8iXh3eEa4eXV5Z6yKCaC7kK",
+            "copyright": "AI (Gemini)"
+        }
+    ],
     "ingredients": [
         {
             "_id": "mezcal",

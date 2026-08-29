@@ -3,18 +3,18 @@
     "_parent_id": "amaro",
     "name": "Amaro CioCiaro",
     "strength": 30,
-    "description": "Created by Vincenzo Paolucci in 1873 shortly after his move from the nearby Italian region of Abruzzo to Sora in Ciociaria and the Liri Valley rich in herbs and spices such as gentian which he needed for his liqueur production. Amaro Ciociaro continues to be made by Vincenzo Paolucci's decendents.",
-    "origin": null,
-    "color": null,
+    "description": "Amaro CioCiaro is a classic Italian herbal liqueur with a rich, complex profile rooted in traditional Italian amaro traditions. Created in 1860 by the Ciarlo family in Turin, it blends over 20 botanicals—including bitter orange peel, gentian root, rhubarb, and cinnamon—with a touch of sugar and alcohol. Its deep, aromatic flavor balances sweetness, bitterness, and herbal warmth, making it a versatile base for cocktails or a digestif.",
+    "origin": "Italy",
+    "color": "#6B3F20",
     "category": "Apéritif > Amaro",
     "created_at": null,
     "updated_at": null,
     "images": [
         {
-            "uri": "file:///amaro-ciociaro-1.webp",
+            "uri": "file:///amaro-ciociaro.webp",
             "sort": 1,
             "placeholder_hash": "5BiGDQBFh2iGeIv0h4hweAcYCKeGeHd4dw",
-            "copyright": "external-content.duckduckgo.com"
+            "copyright": "Ciarlo Distillery"
         }
     ],
     "ingredient_parts": [],
@@ -22,6 +22,6 @@
     "calculator_id": null,
     "sugar_g_per_ml": null,
     "acidity": null,
-    "distillery": null,
+    "distillery": "Ciarlo Distillery",
     "units": null
 }

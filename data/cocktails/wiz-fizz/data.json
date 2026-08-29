@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///wiz-fizz-1.jpg",
+            "uri": "file:///wiz-fizz.webp",
             "sort": 1,
             "placeholder_hash": "lDgKFwT5e0rwmomVu0pm15t6VwurppAK",
             "copyright": "Punch Staff"

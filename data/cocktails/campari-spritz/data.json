@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///campari-spritz-1.webp",
+            "uri": "file:///campari-spritz.webp",
             "sort": 1,
             "placeholder_hash": "MvgFLwrWSnZ1iXePc4poN7eGmbBoCIkD",
             "copyright": "ACoupleCooks"

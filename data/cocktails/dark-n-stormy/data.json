@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///dark-n-stormy-1.jpg",
+            "uri": "file:///dark-n-stormy.webp",
             "sort": 1,
             "placeholder_hash": "rCgKJwb3SIibd4eKhZlXh5h1qFA3B3YE",
             "copyright": "The Spruce / Madhumita Sathishkumar"

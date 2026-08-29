@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///cuba-libre-1.jpg",
+            "uri": "file:///cuba-libre.webp",
             "sort": 1,
             "placeholder_hash": "1SgKHwZbaIhUgHqLiHh4SIeHd2BnBoUF",
             "copyright": "Jamie Oliver"

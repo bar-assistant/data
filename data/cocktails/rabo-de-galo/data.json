@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///rabo-de-galo-1.jpg",
+            "uri": "file:///rabo-de-galo.webp",
             "sort": 0,
             "placeholder_hash": "HvgRJwaPd4ZmhnqWmYiZeJiId3BYB4YE",
             "copyright": "Punch Staff"

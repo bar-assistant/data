@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///caribbean-parachute-1.jpg",
+            "uri": "file:///caribbean-parachute.webp",
             "sort": 0,
             "placeholder_hash": "NBkGHwKb4Hg5lZdGpnd2eId5R2evUPQK",
             "copyright": "Imbibe Magazine"

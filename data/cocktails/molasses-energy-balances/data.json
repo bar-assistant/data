@@ -1,0 +1,94 @@
+{
+    "_id": "molasses-energy-balances",
+    "name": "Molasses Energy Balances",
+    "instructions": "1. Add ingredients to a shaking tin.\n2. Add ice and shake until chilled.\n3. Strain into a highball glass over crushed ice.\n4. Garnish with a cherry and lime peel.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A bright and herbaceous cocktail designed to highlight the unique characteristics of a specific rum. The drink balances the herbal notes of Green Chartreuse and citrus with the rum's rich flavors of dried fruit, citrus zest, and buttery baked goods, resulting in a complex, floral, and fruity profile reminiscent of a fruit and cheese danish.",
+    "source": "https://www.instagram.com/p/DXakAUPDb6n",
+    "garnish": "cherry and lime peel",
+    "abv": 17.65,
+    "tags": [
+        "Herbal",
+        "Citrusy",
+        "Fruity",
+        "Sour",
+        "Tropical"
+    ],
+    "glass": "Highball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2026,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///molasses-energy-balances.webp",
+            "sort": 1,
+            "placeholder_hash": "ZAcKHwIPpnlpmHZlimeIh4eHeGBIkFYE",
+            "copyright": "Instagram"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "light-rum",
+            "name": "Light Rum",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Variable Dunderclap (49% abv)",
+            "substitutes": []
+        },
+        {
+            "_id": "green-chartreuse",
+            "name": "Green Chartreuse",
+            "sort": 2,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 4,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "sort": 5,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "3:1",
+            "substitutes": []
+        }
+    ]
+}

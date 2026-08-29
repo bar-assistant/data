@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///toronto-1.webp",
+            "uri": "file:///toronto.webp",
             "sort": 1,
             "placeholder_hash": "SggKDwKQ0pSipJaLhjaXiHlllwL2CWEN",
             "copyright": "Sonja Overhiser"

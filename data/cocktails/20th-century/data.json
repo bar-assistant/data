@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///20th-century-1.jpg",
+            "uri": "file:///20th-century.webp",
             "sort": 1,
             "placeholder_hash": "DykODwIIt3iHdnh0i0aniId3dwKIxnYP",
             "copyright": "Imbibe Magazine"

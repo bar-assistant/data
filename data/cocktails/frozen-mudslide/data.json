@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///frozen-mudslide-1.jpg",
+            "uri": "file:///frozen-mudslide.webp",
             "sort": 0,
             "placeholder_hash": "IEkKHwRLqVqPh4ZoeWZ4h4h3eQd4dXAI",
             "copyright": "Steve the Bartender"

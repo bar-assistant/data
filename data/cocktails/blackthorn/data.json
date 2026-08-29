@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///blackthorn-1.jpg",
+            "uri": "file:///blackthorn.webp",
             "sort": 1,
             "placeholder_hash": "0VkGDwIFZW5lbHCIdzW3xGirljB2qjAH",
             "copyright": "Imbibe Magazine | John Valls"

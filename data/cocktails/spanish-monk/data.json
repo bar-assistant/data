@@ -7,7 +7,7 @@
     "description": "First published in 1951 in Charles H. Baker Jr.’s The South American Gentleman’s Companion, the Spanish Monk combines gin, lemon, green Chartreuse, simple syrup and an egg white. Nick Flower learned the recipe at New York’s Little Branch, and he now serves the classic at his bar Too Soon in Portland, Oregon.",
     "source": "https://punchdrink.com/recipes/spanish-monk/",
     "garnish": null,
-    "abv": 21.54,
+    "abv": 16.47,
     "tags": [
         "Citrusy",
         "Classic",
@@ -17,10 +17,11 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 1951,
+    "author": null,
     "images": [
         {
-            "uri": "file:///spanish-monk-1.webp",
+            "uri": "file:///spanish-monk.webp",
             "sort": 1,
             "placeholder_hash": "zygSFwQIuHh3dnd0eVeoiJh2VgRIhIAH",
             "copyright": "Punch Staff | Seth Marquez"
@@ -30,7 +31,7 @@
         {
             "_id": "gin",
             "name": "Gin",
-            "sort": 1,
+            "sort": 0,
             "amount": 1.5,
             "units": "oz",
             "optional": false,
@@ -42,7 +43,7 @@
         {
             "_id": "lemon-juice",
             "name": "Lemon juice",
-            "sort": 2,
+            "sort": 0,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
@@ -54,7 +55,7 @@
         {
             "_id": "green-chartreuse",
             "name": "Green Chartreuse",
-            "sort": 3,
+            "sort": 0,
             "amount": 0.5,
             "units": "oz",
             "optional": false,
@@ -66,9 +67,21 @@
         {
             "_id": "simple-syrup",
             "name": "Simple Syrup",
-            "sort": 4,
+            "sort": 0,
             "amount": 0.5,
             "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "egg-white",
+            "name": "Egg White",
+            "sort": 0,
+            "amount": 1,
+            "units": "whole",
             "optional": false,
             "is_specified": false,
             "amount_max": null,

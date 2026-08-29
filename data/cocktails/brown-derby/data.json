@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///brown-derby-1.jpg",
+            "uri": "file:///brown-derby.webp",
             "sort": 1,
             "placeholder_hash": "b1oGFwL2WIdyiYh4iMhHyFiGqeBpCZ4E",
             "copyright": "Liquor.com"

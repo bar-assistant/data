@@ -1,0 +1,20 @@
+{
+    "_id": "apricot-liqueur",
+    "_parent_id": "liqueurs",
+    "name": "Apricot liqueur",
+    "strength": 20,
+    "description": "Apricot liqueur is a fruit liqueur flavored primarily with apricots. It is typically made by infusing apricot pits or fruit in a spirit base, often brandy, and adding sugar. It is a common ingredient in cocktails, adding a sweet, fruity, and sometimes slightly nutty flavor.",
+    "origin": null,
+    "color": "#FFD700",
+    "category": "Liqueurs",
+    "created_at": null,
+    "updated_at": null,
+    "images": [],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

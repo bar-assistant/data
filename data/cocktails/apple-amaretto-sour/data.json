@@ -20,9 +20,10 @@
     ],
     "parent_cocktail_id": "amaretto-sour",
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///apple-amaretto-sour-1.webp",
+            "uri": "file:///apple-amaretto-sour.webp",
             "sort": 1,
             "placeholder_hash": "0xgOHwQIhWWEh3hxiXimWIaHuVA3C3UD",
             "copyright": "Epicurious | Lizzie Munro"

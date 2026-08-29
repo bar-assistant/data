@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///salmoncito-1.jpg",
+            "uri": "file:///salmoncito.webp",
             "sort": 1,
             "placeholder_hash": "03kKJwYllJpgeoaMfpZnZ0aHcKX1GXYP",
             "copyright": "Punch Staff | Alan Carranza"

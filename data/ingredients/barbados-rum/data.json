@@ -1,0 +1,20 @@
+{
+    "_id": "barbados-rum",
+    "_parent_id": "rum",
+    "name": "Barbados Rum",
+    "strength": 40,
+    "description": "Barbados rum is a style of rum historically produced on the island of Barbados. It is often characterized by a balanced profile, typically medium-bodied with a blend of pot and column still distillation. The island is home to some of the world's oldest rum-producing distilleries.",
+    "origin": "Barbados",
+    "color": "#ffffff",
+    "category": "Spirits > Sugarcane-based spirits > Rum",
+    "created_at": null,
+    "updated_at": null,
+    "images": [],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

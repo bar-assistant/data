@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///paris-is-burning-1.jpg",
+            "uri": "file:///paris-is-burning.webp",
             "sort": 1,
             "placeholder_hash": "SBgKFwIGmJiKhXh5h0iYJ7h1dqBHB4kG",
             "copyright": "TuxedoNo2"

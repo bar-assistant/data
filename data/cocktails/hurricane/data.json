@@ -1,31 +1,28 @@
 {
     "_id": "hurricane",
     "name": "Hurricane",
-    "instructions": "1. Combine all the ingredients to your cocktail shaker\n2. Whip shake with pebble ice to chill and dilute\n3. Pour over pebble ice into a hurricane glass\n4. Top with more pebble ice",
+    "instructions": "1. Add all ingredients to a shaker with ice and shake vigorously\n2. Pour into a tall chilled glass full of crushed ice and garnish",
     "created_at": null,
     "updated_at": null,
-    "description": "The Hurricane was created in New Orleans back in the 1940s. It was created out of necessity, when whiskey was in short supply due to the war. Rum was in abundance, and some suppliers would only sell a case of whiskey if it was accompanied by two cases of rum. Bars then had plenty of rum on hand, which forced them to get creative to move the stock!This drink is large and boozy but you can always halve the measurements for a more responsible version.",
-    "source": "https://stevethebartender.com.au/hurricane-rum-cocktail-recipe/",
-    "garnish": "Garnish with a lemon wheel, or pineapple &amp; maraschino",
+    "description": "A surprisingly simple and unique tiki drink that’s long been misunderstood",
+    "source": "https://tuxedono2.com/hurricane-cocktail-recipe",
+    "garnish": null,
     "abv": 16,
     "tags": [
-        "Tropical",
-        "Sweet",
-        "Fruity",
-        "Tiki",
-        "Sour"
+        "Summer"
     ],
     "glass": "Hurricane",
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///hurricane-1.webp",
-            "sort": 1,
-            "placeholder_hash": "DhgKFwI7NLhwdnd5miuGiZh3+IEHDIUB",
-            "copyright": "Steve the Bartender"
+            "uri": "file:///hurricane.webp",
+            "sort": 0,
+            "placeholder_hash": "hhgGFwIHuEiFdnp0eoWXaIh1h0A4GHAB",
+            "copyright": "TuxedoNo2"
         }
     ],
     "ingredients": [
@@ -42,8 +39,8 @@
             "substitutes": []
         },
         {
-            "_id": "lemon-juice",
-            "name": "Lemon juice",
+            "_id": "passionfruit-syrup",
+            "name": "Passionfruit syrup",
             "sort": 2,
             "amount": 60,
             "units": "ml",
@@ -54,8 +51,8 @@
             "substitutes": []
         },
         {
-            "_id": "passionfruit-syrup",
-            "name": "Passionfruit syrup",
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
             "sort": 3,
             "amount": 60,
             "units": "ml",

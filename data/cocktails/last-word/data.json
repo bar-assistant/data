@@ -17,15 +17,16 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///last-word-1.jpg",
+            "uri": "file:///last-word-1.webp",
             "sort": 1,
             "placeholder_hash": "VBgSFwQkiIeTdoh6eAe3d6h2h5BHdJAG",
             "copyright": "Punch"
         },
         {
-            "uri": "file:///last-word-2.jpg",
+            "uri": "file:///last-word-2.webp",
             "sort": 2,
             "placeholder_hash": "DwgOBwIUqIekhXhpega3d4h3OABtxaAN",
             "copyright": "Gastronomer Lifestyle"

@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///remember-the-alimony-1.jpg",
+            "uri": "file:///remember-the-alimony.webp",
             "sort": 0,
             "placeholder_hash": "LQgOFwS/kaddpnZbh4h3R4mGB2QIMJUA",
             "copyright": "Punch Staff | Lizzie Munro"

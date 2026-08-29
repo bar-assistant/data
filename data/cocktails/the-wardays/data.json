@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///the-wardays-1.jpg",
+            "uri": "file:///the-wardays.webp",
             "sort": 1,
             "placeholder_hash": "ygcGFwIKqWaJiXZ1eFiod2d3KVBWAnQG",
             "copyright": "Grouchy Bartender"

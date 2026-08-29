@@ -1,0 +1,68 @@
+{
+    "_id": "drunk-uncle",
+    "name": "Drunk Uncle",
+    "instructions": "1. Combine all of the ingredients in a mixing glass.\n2. Add ice and stir for 30-45 sec. or approx. 60 revolutions.\n3. Strain into a chilled cocktail glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Drunk Uncle is a cocktail inspired by a negroni, specifically a scotch negroni, with bold, strong bitter-sweet and boozy taste profile. Although in my mind it has left the true negroni specs in order to explore a more inventive and just as delicious direction.\n\nAs you probably guessed base spirit of this cocktail is a scotch, in this particular case smoky and funky Islay scotch takes the centre stage. It is then paired with Cynar, a bitter-sweet artichoke liqueur with deep flavours balanced by the subtle vegetal and herbal notes. For me it plays incredibly well with Islay scotch, probably even better than Campari would. Addition of bianco vermouth brings a touch more sweetness and delicate herbaceousness to the mix binding the cocktail into a delicious whole. Last, but not least, grapefruit peel serves not only as an eye-catching garnish, but also expands the aromatic dimension of the cocktail, giving it a light, fresh citrusy touch.\n\nAll in all, Drunk Uncle is my kind of negroni, dark, bold and full of amazing flavour. I might be partial here, since I love Cynar, but for me there is no better negroni variation for these cold and dark winter evenings.",
+    "source": "https://www.grouchy-bartender.com/cocktails/drunk-uncle",
+    "garnish": "Garnish with a twist of grapefruit.",
+    "abv": 23.23,
+    "tags": [
+        "Bitter",
+        "Sweet",
+        "Smokey"
+    ],
+    "glass": "Cocktail",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///drunk-uncle.webp",
+            "sort": 1,
+            "placeholder_hash": "hfcFDwIJlYqdd4eGeDe2aYd4iwImN2AC",
+            "copyright": "grouchy bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "islay-scotch-whiskey",
+            "name": "Islay Scotch Whiskey",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "vermouth-bianco",
+            "name": "Vermouth Bianco",
+            "sort": 3,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

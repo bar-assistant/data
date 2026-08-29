@@ -1,0 +1,95 @@
+{
+    "_id": "apricot-and-coffee-highball",
+    "name": "Apricot and Coffee Highball",
+    "instructions": "1. Add the first 4 ingredients to the ice-filled glass and stir to combine.\n2. Top with tonic water, then garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Apricot and coffee might not seem like an obvious flavor duo, but at Too Soon in Portland, Oregon, the idea to combine them in a cocktail came about from \"wanting to explore contrast in a really approachable format,\" says owner/operator Nick Flower. The combination with a hint of peated smoke from the Islay scotch gives compelling depth to a bright and bubbly highball. \"We’ve always loved coffee and tonic together. The subtle, crisp bitterness keeps it from reading too rich,\" adds Flower.",
+    "source": "https://imbibemagazine.com/recipe/apricot-and-coffee-highball/",
+    "garnish": "Lemon peel",
+    "abv": 12.5,
+    "tags": [
+        "Citrusy",
+        "Smokey",
+        "Bitter",
+        "Sweet",
+        "Refreshing",
+        "highball"
+    ],
+    "glass": "Highball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": "",
+    "images": [
+        {
+            "uri": "file:///apricot-and-coffee-highball.webp",
+            "sort": 1,
+            "placeholder_hash": "TCgKFwoI1oZiiniDrIVolYdoSQApVnAK",
+            "copyright": "Imbibe Magazine | Alex Caffall"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "blended-scotch-whisky",
+            "name": "Blended Scotch Whisky",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "islay-scotch-whiskey",
+            "name": "Islay Scotch Whiskey",
+            "sort": 2,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "sort": 3,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "apricot-liqueur",
+            "name": "Apricot liqueur",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "tonic",
+            "name": "Tonic",
+            "sort": 5,
+            "amount": 3.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "to top",
+            "substitutes": []
+        }
+    ]
+}

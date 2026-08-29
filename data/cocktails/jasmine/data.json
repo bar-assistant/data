@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///jasmine-1.jpg",
+            "uri": "file:///jasmine.webp",
             "sort": 1,
             "placeholder_hash": "XigODwIwyHc7dYh+eSeZ6nWExgmInYAG",
             "copyright": "Punch Staff | Kelly Puleio"

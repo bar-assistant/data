@@ -17,6 +17,7 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
             "uri": "file:///rome-with-a-view-1.webp",
@@ -25,13 +26,13 @@
             "copyright": "Sips From Scripts"
         },
         {
-            "uri": "file:///rome-with-a-view-2.jpg",
+            "uri": "file:///rome-with-a-view-2.webp",
             "sort": 2,
             "placeholder_hash": "iDgKJwoIpoh0ioh5h0eniHd3iFB3CHUG",
             "copyright": "Grouchy Bartender"
         },
         {
-            "uri": "file:///rome-with-a-view-3.jpg",
+            "uri": "file:///rome-with-a-view-3.webp",
             "sort": 3,
             "placeholder_hash": "MkkOPw74WGd5h3eHh5hnd4h4d4BoB4cG",
             "copyright": "Punch Staff | Lizzie Munro"

@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///white-negroni-sbagliato-1.jpg",
+            "uri": "file:///white-negroni-sbagliato.webp",
             "sort": 0,
             "placeholder_hash": "bSkKLwT8ozrMZYejh6ZJOYiYZXA2BFgI",
             "copyright": "Punch Staff | Lizzie Munro"

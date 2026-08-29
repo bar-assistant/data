@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///margarita-1.jpg",
+            "uri": "file:///margarita.webp",
             "sort": 1,
             "placeholder_hash": "GAgODwJVh4h/d4d2iXeId4h4iPtm/cYJ",
             "copyright": "Punch"

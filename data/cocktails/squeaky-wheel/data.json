@@ -24,9 +24,10 @@
     ],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///squeaky-wheel-1.jpg",
+            "uri": "file:///squeaky-wheel.webp",
             "sort": 1,
             "placeholder_hash": "pSgKHwZwXXa+h4m3dmaHaGmJ9INXT2UE",
             "copyright": "Imbibe Magazine | Eric Medsker"

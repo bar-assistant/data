@@ -1,0 +1,105 @@
+{
+    "_id": "calypso",
+    "name": "Calypso",
+    "instructions": "1. Add all of the ingredients to a shaker, add ice, then shake vigorously. Double-strain into a rocks glass with a large cube, then garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Named for the ship belonging to French ocean explorer Jacques Cousteau, this tropical port cocktail—combining rum from Barbados, tawny Port from Portugal, and bergamot liqueur from Italy—showcases the fortified wine's summery side.",
+    "source": "https://imbibemagazine.com/recipe/calypso-tropical-port-cocktail/",
+    "garnish": "Dried sage leaf",
+    "abv": 14.32,
+    "tags": [
+        "Citrusy",
+        "Tropical",
+        "Fruity",
+        "Sweet"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///calypso.webp",
+            "sort": 1,
+            "placeholder_hash": "nhgSHwJjiHdwlnlphrh4eIljqQLTJxEP",
+            "copyright": "Imbibe Magazine | Melissa Horn"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "barbados-rum",
+            "name": "Barbados Rum",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Armani/Ristorante 5th Avenue uses Mount Gay Eclipse",
+            "substitutes": []
+        },
+        {
+            "_id": "tawny-port",
+            "name": "Tawny Port",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 4,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "italicus-rosolio-di-bergamotto",
+            "name": "Italicus Rosolio di Bergamotto",
+            "sort": 5,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 6,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

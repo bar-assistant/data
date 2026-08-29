@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///j-tonys-kold-brew-americano-1.jpg",
+            "uri": "file:///j-tonys-kold-brew-americano.webp",
             "sort": 1,
             "placeholder_hash": "njgOFwybiHe/d4eTZ3eIiIiE9wJ1a2AM",
             "copyright": "Punch Staff | Arlene Ibarra"

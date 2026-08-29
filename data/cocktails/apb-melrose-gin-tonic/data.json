@@ -14,11 +14,12 @@
     "glass": "Highball",
     "method": "Build",
     "utensils": [],
-    "parent_cocktail_id": null,
+    "parent_cocktail_id": "gin-tonic",
     "year": null,
+    "author": "",
     "images": [
         {
-            "uri": "file:///apb-melrose-gin-tonic-1.jpg",
+            "uri": "file:///apb-melrose-gin-tonic.webp",
             "sort": 1,
             "placeholder_hash": "IBkSLwZQh3hhiYd1iJiJV4d2CGum4GUK",
             "copyright": "Imbibe Magazine | Kristina Cox/@Kodawari_Global"

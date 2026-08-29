@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///oaxacanite-1.jpg",
+            "uri": "file:///oaxacanite.webp",
             "sort": 0,
             "placeholder_hash": "pUkKDwJ6iYdwhniEd3d4dodmVvMeOt8C",
             "copyright": "Steve the Bartender"

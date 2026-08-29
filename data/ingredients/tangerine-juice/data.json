@@ -1,0 +1,20 @@
+{
+    "_id": "tangerine-juice",
+    "_parent_id": "juices",
+    "name": "Tangerine juice",
+    "strength": 0,
+    "description": "Tangerine juice is a vibrant, citrusy liquid extracted from the sweet, easy-to-peel tangerine fruit (*Citrus reticulata*), a variety of mandarin orange. It boasts a bright, aromatic profile with notes of sweetness, floral citrus, and subtle herbal or bergamot undertones.",
+    "origin": "Mediterranean",
+    "color": "#FF8C00",
+    "category": "Juices",
+    "created_at": null,
+    "updated_at": null,
+    "images": [],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

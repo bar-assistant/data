@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///enzo-1.webp",
+            "uri": "file:///enzo.webp",
             "sort": 1,
             "placeholder_hash": "zDgOPwwImJd4h3h3d1end3eHd4BXB3cG",
             "copyright": "Punch Staff | Scott Suchman"
@@ -28,7 +29,7 @@
         {
             "_id": "fernet-branca",
             "name": "Fernet Branca",
-            "sort": 1,
+            "sort": 0,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
@@ -40,7 +41,7 @@
         {
             "_id": "campari",
             "name": "Campari",
-            "sort": 2,
+            "sort": 0,
             "amount": 0.75,
             "units": "oz",
             "optional": false,
@@ -52,7 +53,7 @@
         {
             "_id": "sweet-vermouth",
             "name": "Sweet Vermouth",
-            "sort": 3,
+            "sort": 0,
             "amount": 1.5,
             "units": "oz",
             "optional": false,

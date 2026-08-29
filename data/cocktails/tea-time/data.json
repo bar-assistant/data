@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///tea-time-1.jpg",
+            "uri": "file:///tea-time.webp",
             "sort": 1,
             "placeholder_hash": "1igGDwKVmQdwaXdVV7ZzVnyytVQG3yEI",
             "copyright": "LiberAndCo"

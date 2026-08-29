@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///art-of-choke-1.jpg",
+            "uri": "file:///art-of-choke.webp",
             "sort": 1,
             "placeholder_hash": "XPgJHwbCimLGdlhvapeHhnV8VwWZZJAJ",
             "copyright": "LiberAndCo |  Scott Kallstrand"

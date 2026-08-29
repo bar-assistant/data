@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///amaro-highball-1.jpg",
+            "uri": "file:///amaro-highball.webp",
             "sort": 1,
             "placeholder_hash": "kxgKFwIGn3aGaYela1eHh4h4GUCqE+oP",
             "copyright": "Imbibe"

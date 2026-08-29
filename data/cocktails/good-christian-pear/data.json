@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///good-christian-pear-1.jpg",
+            "uri": "file:///good-christian-pear.webp",
             "sort": 1,
             "placeholder_hash": "ZikGDwIghIbMhXhTZ7epGHWM9cCYH4QK",
             "copyright": "Haus Alpenz | Lee Edwards"

@@ -15,10 +15,11 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
+    "year": 1963,
+    "author": null,
     "images": [
         {
-            "uri": "file:///bahama-mama-1.webp",
+            "uri": "file:///bahama-mama.webp",
             "sort": 1,
             "placeholder_hash": "ZvgJRwzaVXmPZ4d2mJdmiHeIeIBICHYF",
             "copyright": "Punch Staff | Lizzie Munro"

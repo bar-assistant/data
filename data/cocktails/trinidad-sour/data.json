@@ -18,9 +18,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///trinidad-sour-1.jpg",
+            "uri": "file:///trinidad-sour.webp",
             "sort": 1,
             "placeholder_hash": "8NcFDwSwBaaKr2WFY8hX6ClpCJDLBIkJ",
             "copyright": "A Couple Cooks"

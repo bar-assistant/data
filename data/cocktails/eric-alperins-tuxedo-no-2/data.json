@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///eric-alperins-tuxedo-no-2-1.jpg",
+            "uri": "file:///eric-alperins-tuxedo-no-2.webp",
             "sort": 0,
             "placeholder_hash": "DAgKDwAniWhyiJZ5egenh2p8BYEDAkMA",
             "copyright": "Punch Staff | Dylan + Jeni"

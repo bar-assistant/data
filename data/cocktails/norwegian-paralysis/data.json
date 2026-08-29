@@ -8,15 +8,24 @@
     "source": "https://www.grouchy-bartender.com/cocktails/norwegian-paralysis",
     "garnish": "Garnish with skewered cherry, sprig of mint and an orange twist.",
     "abv": 8.18,
-    "tags": [],
+    "tags": [
+        "Tropical",
+        "Fruity",
+        "Citrusy",
+        "Sweet",
+        "Complex",
+        "Tiki",
+        "Refreshing"
+    ],
     "glass": "Highball",
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///norwegian-paralysis-1.webp",
+            "uri": "file:///norwegian-paralysis.webp",
             "sort": 1,
             "placeholder_hash": "iAgKLwQIt3h3iXd1iWaXiHiIeVBHB4ME",
             "copyright": "grouchy bartender"

@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///e-tonico-1.jpg",
+            "uri": "file:///e-tonico.webp",
             "sort": 0,
             "placeholder_hash": "3DgKFwY99bWEako6XjaZdnmIlRDECGII",
             "copyright": "Punch Staff | Shannon Sturgis"

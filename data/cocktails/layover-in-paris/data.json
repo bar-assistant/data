@@ -1,0 +1,96 @@
+{
+    "_id": "layover-in-paris",
+    "name": "Layover in Paris",
+    "instructions": "1. Combine all of the ingredients in an ice-filled wine glass and stir gently to combine, then garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A simple spritz recipe from San Diego's Alicia Perry suggests a leisurely afternoon in the French capital.",
+    "source": "https://imbibemagazine.com/recipe/layover-in-paris-spritz-by-alicia-perry/",
+    "garnish": "Grapefruit twist",
+    "abv": 9.64,
+    "tags": [
+        "Citrusy",
+        "Sour",
+        "Floral",
+        "Refreshing",
+        "Spritz",
+        "Classic",
+        "Bright"
+    ],
+    "glass": "Wine",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///layover-in-paris.webp",
+            "sort": 1,
+            "placeholder_hash": "WggSDwJQeHeTeIiSeIiXZ4d6ZqIHH64C",
+            "copyright": "Imbibe Magazine | Shannon Partrick"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "rose-wine",
+            "name": "Rosé wine",
+            "sort": 1,
+            "amount": 3,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Sparkling",
+            "substitutes": []
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "grapefruit-juice",
+            "name": "Grapefruit juice",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pamplemousse-liqueur",
+            "name": "Pamplemousse Liqueur",
+            "sort": 4,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "absinthe",
+            "name": "Absinthe",
+            "sort": 5,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

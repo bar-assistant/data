@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///rob-roy-no-3-1.jpg",
+            "uri": "file:///rob-roy-no-3.webp",
             "sort": 0,
             "placeholder_hash": "5igSFwJ3d4d1d4ePeFd3WGd6ScAYAm0C",
             "copyright": "Punch Staff | Daniel Krieger"

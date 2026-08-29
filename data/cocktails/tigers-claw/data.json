@@ -1,0 +1,107 @@
+{
+    "_id": "tigers-claw",
+    "name": "Tiger’s Claw",
+    "instructions": "1. Add all ingredients to a shaker and shake with ice cubes.\n2. Pour into a Collins glass.\n3. Garnish with an orange half slice and mint sprig.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Tiger’s Claw is an easy tropical cocktail recipe made with reposado tequila, pineapple, lime, coffee liqueur and orange bitters.",
+    "source": "https://punchdrink.com/recipes/tigers-claw/",
+    "garnish": "orange half slice, mint sprig",
+    "abv": 16.69,
+    "tags": [
+        "Tropical",
+        "Sweet",
+        "Citrusy",
+        "Fruity",
+        "Complex",
+        "Bitter"
+    ],
+    "glass": null,
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": "Erick Castro",
+    "images": [
+        {
+            "uri": "file:///tigers-claw.webp",
+            "sort": 1,
+            "placeholder_hash": "E1oGHwZbTZhBoIlUh+e4R5iXZkBXBXEE",
+            "copyright": "Punch Staff | Valerie Durham"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-reposado",
+            "name": "Tequila Reposado",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Astral",
+            "substitutes": []
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cinnamon-syrup",
+            "name": "Cinnamon syrup",
+            "sort": 4,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "sort": 5,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Kahlua",
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 6,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

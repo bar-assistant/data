@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///alabazam-1.jpg",
+            "uri": "file:///alabazam.webp",
             "sort": 1,
             "placeholder_hash": "xvcFDwIIt2iLdYl4d0enN8h0dsBHB3sD",
             "copyright": "TuxedoNo2"

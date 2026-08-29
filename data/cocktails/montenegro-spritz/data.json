@@ -1,0 +1,69 @@
+{
+    "_id": "montenegro-spritz",
+    "name": "Montenegro Spritz",
+    "instructions": "1. Fill a wine glass with ice.\n2. Add the remaining ingredients.\n3. Stir to combine.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Montenegro Spritz is a refreshing twist on the classic Italian spritz, blending bold bitterness with effervescent brightness. This cocktail features Amaro Montenegro, a rich, cherry-and-spice-infused amaro, balanced by crisp Prosecco and a touch of soda water. The deep, complex flavors of the amaro—highlighting notes of orange, coriander, and clove—are softened by the light, fruity bubbles of the wine, creating a sophisticated yet easy-to-make drink. A sprig of sage adds an earthy aroma, elevating the experience beyond a simple spritz. Perfect for summer sipping, it’s a deeper, more nuanced alternative to the traditional Aperol Spritz, offering layers of flavor that unfold with each sip.",
+    "source": "https://www.grouchy-bartender.com/cocktails/colletti-royale",
+    "garnish": "Sprig of sage, half of an orange wheel, dehydrated grapefruit wheel",
+    "abv": 10.97,
+    "tags": [
+        "Bitter",
+        "Refreshing",
+        "Floral",
+        "Herbal"
+    ],
+    "glass": "Wine",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///montenegro-spritz.webp",
+            "sort": 1,
+            "placeholder_hash": "RhgKFwYHuId8hHl3iVeneId3Z6BWB3kC",
+            "copyright": "grouchy bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "amaro-montenegro",
+            "name": "Amaro Montenegro",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "prosecco",
+            "name": "Prosecco",
+            "sort": 2,
+            "amount": 90,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "sort": 3,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

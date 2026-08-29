@@ -1,0 +1,81 @@
+{
+    "_id": "petes-word",
+    "name": "Pete’s Word",
+    "instructions": "1. Combine all of the ingredients in a cocktail shaker.\n2. Add ice and shake until chilled.\n3. Double strain into a chilled cocktail glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Last Word is a famous classic cocktail, that inspired countless riffs and variations. It is often chosen as starting point by many bartenders, proving versatility of this cocktail template. It is particular favourite of Phil Ward, who also created this particular cocktail – Pete’s Word.\n\nPete’s Word sticks to the original in all aspects, but one – base spirit. Gin has been replaced by Islay scotch, taking the cocktail into a new direction. Whisky brings darker, deeper notes of oak, peat and smoke which pair great with dark chocolate and cherry of maraschino liqueur. Cocktail is further enriched by complex botanicals of the green chartreuse and balanced by a healthy dose of tart lime juice.\n\nAll in all, Pete’s Word is a complex delicious cocktail that stays true to its predecessor. Fantastic example of how to apply Mr. Potato Head approach to making new cocktails.",
+    "source": "https://www.grouchy-bartender.com/cocktails/blog-post-petes-word",
+    "garnish": "Garnish with a twist of lime and a dehydrated lime wheel.",
+    "abv": 25.4,
+    "tags": [
+        "Bitter",
+        "Smokey",
+        "Tiki",
+        "Classic"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": "last-word",
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///petes-word.webp",
+            "sort": 1,
+            "placeholder_hash": "SBgKFwIJloiKdnd1mjeneYeHWIBYBIIO",
+            "copyright": "grouchy bartender"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "islay-scotch-whiskey",
+            "name": "Islay Scotch Whiskey",
+            "sort": 1,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "maraschino",
+            "name": "Maraschino",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "green-chartreuse",
+            "name": "Green Chartreuse",
+            "sort": 3,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 4,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

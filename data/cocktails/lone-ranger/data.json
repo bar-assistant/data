@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///lone-ranger-1.jpg",
+            "uri": "file:///lone-ranger.webp",
             "sort": 0,
             "placeholder_hash": "sxgKJwToZ2ePhXl1ebZoiHeId1B4B4QG",
             "copyright": "Punch Staff"

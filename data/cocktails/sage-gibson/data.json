@@ -1,0 +1,69 @@
+{
+    "_id": "sage-gibson",
+    "name": "Sage Gibson",
+    "instructions": "1. Add all of the ingredients to a mixing glass with ice and stir to chill. Add the onion and sage to a chilled glass. Pour the cocktail into the glass.\nSage-Infused VodkaAllow fresh sage (roughly 1 leafy sprig per 8 oz) to steep and infuse vodka for 3 days.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Gary Wallach, partner of Lindens NYC, infuses vodka with one of his favorite herbs, sage, for his take on the Gibson cocktail. \"I wanted to craft a cocktail that was an ode to the enduring harvest of the colder months,\" he said.",
+    "source": "https://imbibemagazine.com/recipe/sage-gibson-cocktail/",
+    "garnish": "Pickled onion and fresh sage leaf",
+    "abv": 7.78,
+    "tags": [
+        "Herbal",
+        "Citrusy",
+        "Dry",
+        "Savory"
+    ],
+    "glass": null,
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///sage-gibson.webp",
+            "sort": 1,
+            "placeholder_hash": "zzgKFwSYWoa6aHe/eIhqqXiXdgjoWHEP",
+            "copyright": "Imbibe Magazine | Nicholas Ruiz"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "sage-infused-vodka",
+            "name": "Sage-infused vodka",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "dry-vermouth",
+            "name": "Dry Vermouth",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "italicus-rosolio-di-bergamotto",
+            "name": "Italicus Rosolio di Bergamotto",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///spaghetti-western-1.png",
+            "uri": "file:///spaghetti-western-1.webp",
             "sort": 1,
             "placeholder_hash": "kxgKFwI8a5mbl3gwiVeHiJmHSTA3ApAC",
             "copyright": "Reddit"

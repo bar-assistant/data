@@ -1,0 +1,95 @@
+{
+    "_id": "21st-and-14-century",
+    "name": "21st and 1/4 Century",
+    "instructions": "1. Add all of the ingredients to the shaker with ice and shake to chill.\n2. Strain into a glass, then garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "This twist on the 20th Century cocktail uses coconut rum as a stand-in for gin, a sub that works seamlessly with the drink's lemon and crème de cacao. \"I dig the coconut-chocolate-citrus combo,\" says the recipe's creator, Erik Tennyson.",
+    "source": "https://imbibemagazine.com/recipe/21st-and-1-4-century-a-20th-century-cocktail-riff/",
+    "garnish": "Dehydrated lemon wheel",
+    "abv": 16.75,
+    "tags": [
+        "Citrusy",
+        "Sweet",
+        "Bitter",
+        "Herbal",
+        "Complex",
+        "Tropical"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": "20th-century",
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///21st-and-14-century.webp",
+            "sort": 1,
+            "placeholder_hash": "SBgKHwQIpop4iHdzi2aId4iHaYAnBWcE",
+            "copyright": "Imbibe Magazine | Cody Baker/Creatives Drink"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "coconut-rum",
+            "name": "Coconut Rum",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cocchi-aperitivo-americano",
+            "name": "Cocchi Aperitivo Americano",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "gentian-liqueur",
+            "name": "Gentian Liqueur",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "creme-de-cacao-white",
+            "name": "Crème de Cacao (White)",
+            "sort": 5,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

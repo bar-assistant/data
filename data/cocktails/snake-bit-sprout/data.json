@@ -1,0 +1,94 @@
+{
+    "_id": "snake-bit-sprout",
+    "name": "Snake Bit Sprout",
+    "instructions": "1. Shake all of the ingredients except the cider with ice and strain into glass filled with 4 large ice cubes.\n2. Top with crushed ice, fill with chilled cider.\n3. Garnish",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The bar team at Julep commonly taps regional and historic ingredients to make the house drinks. In this refreshing chamomile cocktail, the flowers bring a floral depth to the mix. And did you know chamomile was once used as a southern remedy for snake bites? That's inspired the drink's name.",
+    "source": "https://imbibemagazine.com/recipe/snake-bit-sprout-chamomile-cocktail/",
+    "garnish": "Dried chamomile flowers (optional)",
+    "abv": 12.8,
+    "tags": [
+        "Floral",
+        "Citrusy",
+        "Fruity",
+        "Complex",
+        "Herbal"
+    ],
+    "glass": null,
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///snake-bit-sprout.webp",
+            "sort": 1,
+            "placeholder_hash": "mqYNPwoDt4eXeXeHeIh3eIiHt3BmDWcH",
+            "copyright": "Imbibe Magazine"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Chamomile-infused",
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 2,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "1:1",
+            "substitutes": []
+        },
+        {
+            "_id": "apple-cider",
+            "name": "Apple Cider",
+            "sort": 5,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Dry cider",
+            "substitutes": []
+        }
+    ]
+}

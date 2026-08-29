@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///snake-eyes-1.jpg",
+            "uri": "file:///snake-eyes.webp",
             "sort": 0,
             "placeholder_hash": "HwgWFwJJeIZwdod0e3iYWIh4iGBXB3cE",
             "copyright": "Punch Staff"

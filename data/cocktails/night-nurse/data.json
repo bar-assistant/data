@@ -1,0 +1,118 @@
+{
+    "_id": "night-nurse",
+    "name": "Night Nurse",
+    "instructions": "1. Add all of the ingredients to a mixing glass and stir with ice to chill.\n2. Strain into a double rocks glass with a large ice cube, then garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A layered, tropical Negroni, the Night Nurse builds on a base of Jamaican rum, dials up the bitterness with a splash of Cynar, and adds complementary hints of coffee and banana.",
+    "source": "https://imbibemagazine.com/recipe/night-nurse-tropical-negroni/",
+    "garnish": "Orange twist",
+    "abv": 27.65,
+    "tags": [
+        "Bitter",
+        "Sweet",
+        "Tropical",
+        "Complex",
+        "Negroni"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///night-nurse.webp",
+            "sort": 1,
+            "placeholder_hash": "FDkKFwZB2pgvm4hcabdYd2h5WTBWBnAG",
+            "copyright": "Imbibe Magazine | Madeline Gray"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "jamaican-rum",
+            "name": "Jamaican Rum",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Aged",
+            "substitutes": []
+        },
+        {
+            "_id": "punt-e-mes",
+            "name": "Punt e Mes",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "overproof-rum",
+            "name": "Overproof Rum",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Jamaican rum",
+            "substitutes": []
+        },
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "sort": 5,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "creme-de-banane",
+            "name": "Crème de banane",
+            "sort": 6,
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "sort": 7,
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

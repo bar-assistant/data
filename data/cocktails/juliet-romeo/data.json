@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///juliet-romeo-1.jpg",
+            "uri": "file:///juliet-romeo.webp",
             "sort": 0,
             "placeholder_hash": "E/gNDwIvVnWPloh1eQeFJnaZc+AYkGYG",
             "copyright": "Punch Staff | Lizzie Munro"

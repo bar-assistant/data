@@ -1,0 +1,90 @@
+{
+    "_id": "the-brave",
+    "name": "The Brave",
+    "instructions": "1. Combine the ingredients in a wine glass and gently swirl to combine.\n2. Using an atomizer, spray 3 bursts of Angostura bitters on the drink’s surface. (Alternatively, add 3 drops of Angostura to the drink.)\n3. Take a coin-size slice of orange peel and—while carefully holding a lit match slightly above and to the side of the drink’s surface—spray its oils through the flame and atop the drink.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A room-temperature cocktail with a split base of agave spirits, The Brave has been on Anvil’s menu with few interruptions since its debut in 2009.",
+    "source": "https://imbibemagazine.com/recipe/the-brave-a-split-base-agave-spirits-cocktail/",
+    "garnish": "Angostura bitters, flamed orange peel",
+    "abv": 34.55,
+    "tags": [
+        "Smokey",
+        "Bitter",
+        "Citrusy",
+        "Herbal",
+        "Complex"
+    ],
+    "glass": "Wine",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": "",
+    "images": [
+        {
+            "uri": "file:///the-brave.webp",
+            "sort": 1,
+            "placeholder_hash": "k0kKHwKqZmWwiWeGeKeGaHh1eQpaz+AG",
+            "copyright": "Imbibe Magazine | Kelly Puleio"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "amaro-averna",
+            "name": "Amaro Averna",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "dry-curacao",
+            "name": "Dry Curaçao",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": [
+                {
+                    "_id": "grand-marnier",
+                    "name": "Grand Marnier",
+                    "amount": null,
+                    "units": null,
+                    "amount_max": null
+                }
+            ]
+        }
+    ]
+}

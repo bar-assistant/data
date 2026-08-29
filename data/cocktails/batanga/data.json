@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///batanga-1.jpg",
+            "uri": "file:///batanga.webp",
             "sort": 1,
             "placeholder_hash": "ThgGFwIJjWmkqYiqalWnZ2hpVQWGRGAH",
             "copyright": "Imbibe Magazine"

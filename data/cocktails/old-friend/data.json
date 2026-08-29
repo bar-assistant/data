@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///old-friend-1.webp",
+            "uri": "file:///old-friend.webp",
             "sort": 1,
             "placeholder_hash": "7igKDwJYCzmZhod1eck4h5iIBtmoBXoG",
             "copyright": "Steve the Bartender"

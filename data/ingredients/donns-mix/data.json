@@ -6,12 +6,12 @@
     "description": "2 parts fresh yellow grapefruit and 1 part cinnamon syrup",
     "origin": null,
     "color": "#c6972c",
-    "category": "Sweeteners > Syrups",
+    "category": "Syrups",
     "created_at": null,
     "updated_at": null,
     "images": [
         {
-            "uri": "file:///donns-mix-1.png",
+            "uri": "file:///donns-mix.webp",
             "sort": 1,
             "placeholder_hash": "XUmGJQpYeJeAfXeYp3h/ivfHB2iHiId3eA",
             "copyright": ""

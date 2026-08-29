@@ -16,9 +16,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///marigold-mule-1.png",
+            "uri": "file:///marigold-mule.webp",
             "sort": 1,
             "placeholder_hash": "6TgGFwSPPGdsiIfCclV3uUe2CDO2gHUM",
             "copyright": ""

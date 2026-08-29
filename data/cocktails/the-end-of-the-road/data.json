@@ -1,0 +1,68 @@
+{
+    "_id": "the-end-of-the-road",
+    "name": "The End of the Road",
+    "instructions": "Stir all ingredients cold on ice and strain into pre-chilled glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "McMillian’s “End of the Road” cocktail is just the sort of drink you would expect from the past, a simple equal parts combination of distinctive spirits that merge into something truly unique. The cocktail balances smoky Laphroaig scotch with bitter Campari and wildly herbal Chartreuse. It’s an unlikely blend with an unlikely ratio but wouldn’t you know, it’s perfectly balanced and delicious. It’s a sophisticated sipper, a gentleman’s nightcap, and features three ingredients easily found in most bars. Perhaps even found somewhere in the world, where puzzlers ponder, at the end of the road.",
+    "source": "https://www.galumbi.com/blog/2023/10/27/the-end-of-the-road/",
+    "garnish": null,
+    "abv": 33.33,
+    "tags": [
+        "Herbal",
+        "Bitter",
+        "Smokey"
+    ],
+    "glass": "Coupe",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2009,
+    "author": null,
+    "images": [
+        {
+            "uri": "file:///the-end-of-the-road.webp",
+            "sort": 1,
+            "placeholder_hash": "1zgKDwQChoiIeod8l1h4mGlp9ukvB3gB",
+            "copyright": "galumbi"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "islay-scotch-whiskey",
+            "name": "Islay Scotch Whiskey",
+            "sort": 1,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Laphroaig 10 Years",
+            "substitutes": []
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "sort": 2,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "green-chartreuse",
+            "name": "Green Chartreuse",
+            "sort": 3,
+            "amount": 30,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

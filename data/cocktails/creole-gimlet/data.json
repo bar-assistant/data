@@ -1,0 +1,82 @@
+{
+    "_id": "creole-gimlet",
+    "name": "Creole Gimlet",
+    "instructions": "1. Add all ingredients to a shaker and shake.\n2. Double strain into a chilled Coupe glass.\n3. Garnish with lime wheel.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Falernum adds hints of Caribbean Island flavors for a tasty twist on the classic Gimlet. The touch of Caribbean spice makes you want to dance to island music.",
+    "source": "https://freisescornerbar.com/2021/10/21/creole-gimlet/",
+    "garnish": "lime wheel",
+    "abv": 26.45,
+    "tags": [
+        "Citrusy",
+        "Sour",
+        "Sweet",
+        "Herbal",
+        "Complex"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": "gimlet",
+    "year": 2009,
+    "author": "Gonçalo de Sousa",
+    "images": [
+        {
+            "uri": "file:///creole-gimlet.webp",
+            "sort": 1,
+            "placeholder_hash": "0CgGDwJVeFwkdrVoimacB1mvJyIHFYIA",
+            "copyright": "AI (Gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 2.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "falernum",
+            "name": "Falernum",
+            "sort": 2,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-cordial",
+            "name": "Lime cordial",
+            "sort": 3,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "peychauds-bitters",
+            "name": "Peychauds Bitters",
+            "sort": 4,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

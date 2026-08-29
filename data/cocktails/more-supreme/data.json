@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///more-supreme-1.jpg",
+            "uri": "file:///more-supreme.webp",
             "sort": 0,
             "placeholder_hash": "zCgKFwIEt5dsdniHeia4J7d5Z2BHBoAE",
             "copyright": "Punch Staff | Angie Webb"

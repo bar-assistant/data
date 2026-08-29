@@ -14,9 +14,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///fairy-sugar-momma-1.jpg",
+            "uri": "file:///fairy-sugar-momma.webp",
             "sort": 1,
             "placeholder_hash": "UhgKDwI8end6d4ZQaXiJaImYVNUJdJYA",
             "copyright": "Reddit"

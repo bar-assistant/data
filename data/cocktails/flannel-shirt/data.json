@@ -7,7 +7,7 @@
     "description": "Bartender Jeffrey Morgenthaler of the Clyde Common in Portland, Oregon, created the Flannel Shirt for an autumnal event. Using classic fall flavors—apple, earth, spice and smoke—he whipped up this fleecy, bone-warming drink with the bold backbone of Scotch and a supporting cast of apple cider, St. Elizabeth Allspice Dram and super-bold Averna. Morgenthaler says, “It reminds me of a hot drink that you’d have on Thanksgiving morning—only served cold.”",
     "source": "https://punchdrink.com/recipes/flannel-shirt/",
     "garnish": "orange peel",
-    "abv": 18.6,
+    "abv": 19.41,
     "tags": [
         "Sour",
         "Fruity"
@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": "Jeffrey Morgenthaler",
     "images": [
         {
-            "uri": "file:///flannel-shirt-1.jpg",
+            "uri": "file:///flannel-shirt.webp",
             "sort": 1,
             "placeholder_hash": "XQgKDwKGiWeymXh1mbiZqIiP9blGj3cF",
             "copyright": "Punch Staff | Daniel Krieger"

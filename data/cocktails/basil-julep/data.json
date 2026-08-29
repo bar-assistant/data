@@ -17,9 +17,10 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
+    "author": null,
     "images": [
         {
-            "uri": "file:///basil-julep-1.jpg",
+            "uri": "file:///basil-julep.webp",
             "sort": 1,
             "placeholder_hash": "pPgJFwI4WXWQh3VlWUdqVnpZVmBGppAH",
             "copyright": "LiberAndCo |  Scott Kallstrand"
