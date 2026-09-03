@@ -6,7 +6,7 @@
     "description": "Syrup infused with ginger root.\n\nThis ginger syrup is fantastic in cocktails, but it also makes an out-of-this-world ginger ale. To make ginger ale, simply fill an ice-filled glass a third of the way with the syrup, top with soda water and a squeeze of lime, stir and enjoy.",
     "origin": "Worldwide",
     "color": "#c6972c",
-    "category": "Syrups",
+    "category": "Sweeteners > Syrups",
     "created_at": null,
     "updated_at": null,
     "images": [
@@ -81,7 +81,7 @@
     ],
     "prices": [],
     "calculator_id": null,
-    "sugar_g_per_ml": null,
+    "sugar_g_per_ml": 550,
     "acidity": null,
     "distillery": null,
     "units": "ml"

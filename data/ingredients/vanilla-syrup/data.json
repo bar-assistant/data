@@ -6,7 +6,7 @@
     "description": "Vanilla syrup is a sweet, aromatic ingredient created by infusing vanilla beans in a sugar and water solution. The process extracts the complex flavor compounds within the vanilla bean, resulting in a syrup that carries a distinctively rich and warm profile. This syrup is incredibly versatile, contributing a subtly sweet and intensely fragrant foundation to a variety of beverages and culinary applications. It’s a favored addition to enhance flavor and balance acidity.",
     "origin": "Worldwide",
     "color": "#F5F5DC",
-    "category": "Syrups > Simple Syrup",
+    "category": "Sweeteners > Syrups > Simple Syrup",
     "created_at": null,
     "updated_at": null,
     "images": [
@@ -20,7 +20,7 @@
     "ingredient_parts": [],
     "prices": [],
     "calculator_id": null,
-    "sugar_g_per_ml": null,
+    "sugar_g_per_ml": 550,
     "acidity": null,
     "distillery": null,
     "units": null

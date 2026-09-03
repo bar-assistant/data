@@ -13,7 +13,7 @@
     "ingredient_parts": [],
     "prices": [],
     "calculator_id": null,
-    "sugar_g_per_ml": null,
+    "sugar_g_per_ml": 3,
     "acidity": null,
     "distillery": null,
     "units": null

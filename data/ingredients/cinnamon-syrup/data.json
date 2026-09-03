@@ -6,7 +6,7 @@
     "description": "Simple syrup infused with cinnamon. Follow the recipe to make your own at home:\n\n- 1 cup granulated sugar\n- 1 cup water\n- 4 cinnamon sticks, broken into large pieces\n\nBring all ingredients to a boil over medium heat. Reduce heat to medium-low and let simmer for 8-10 minutes until sugar has dissolved, stirring frequently. Remove from heat and let cool. Discard cinnamon sticks, strain into a clean glass jar and cover. Store refrigerated for up to 2 weeks.",
     "origin": "Worldwide",
     "color": "#b65713",
-    "category": "Syrups > Simple Syrup",
+    "category": "Sweeteners > Syrups > Simple Syrup",
     "created_at": null,
     "updated_at": null,
     "images": [
@@ -81,7 +81,7 @@
     ],
     "prices": [],
     "calculator_id": null,
-    "sugar_g_per_ml": null,
+    "sugar_g_per_ml": 550,
     "acidity": null,
     "distillery": null,
     "units": "ml"

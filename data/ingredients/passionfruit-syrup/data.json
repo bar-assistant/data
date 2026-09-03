@@ -6,7 +6,7 @@
     "description": "Passionfruit syrup is trickier to make and sometimes requires more obscure ingredients. This makes it one of the only flavored syrups worth buying over the counter.",
     "origin": "Worldwide",
     "color": "#f9e2b9",
-    "category": "Syrups",
+    "category": "Sweeteners > Syrups",
     "created_at": null,
     "updated_at": null,
     "images": [
@@ -20,7 +20,7 @@
     "ingredient_parts": [],
     "prices": [],
     "calculator_id": null,
-    "sugar_g_per_ml": null,
+    "sugar_g_per_ml": 550,
     "acidity": null,
     "distillery": null,
     "units": "ml"

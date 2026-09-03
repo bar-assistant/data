@@ -6,7 +6,7 @@
     "description": "Fruit syrup made from raspberries.",
     "origin": null,
     "color": "#b71f23",
-    "category": "Syrups",
+    "category": "Sweeteners > Syrups",
     "created_at": null,
     "updated_at": null,
     "images": [
@@ -20,7 +20,7 @@
     "ingredient_parts": [],
     "prices": [],
     "calculator_id": null,
-    "sugar_g_per_ml": null,
+    "sugar_g_per_ml": 550,
     "acidity": null,
     "distillery": null,
     "units": "ml"

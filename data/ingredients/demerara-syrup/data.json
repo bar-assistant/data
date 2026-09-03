@@ -6,7 +6,7 @@
     "description": "Syrup made with demerara sugar",
     "origin": null,
     "color": "#7f372a",
-    "category": "Syrups > Simple Syrup",
+    "category": "Sweeteners > Syrups > Simple Syrup",
     "created_at": null,
     "updated_at": null,
     "images": [
@@ -20,7 +20,7 @@
     "ingredient_parts": [],
     "prices": [],
     "calculator_id": null,
-    "sugar_g_per_ml": null,
+    "sugar_g_per_ml": 600,
     "acidity": null,
     "distillery": null,
     "units": "ml"

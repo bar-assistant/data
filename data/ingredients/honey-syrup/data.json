@@ -6,7 +6,7 @@
     "description": "Syrup made from dissolving honey in water.",
     "origin": "Worldwide",
     "color": "#f2a900",
-    "category": "Syrups > Simple Syrup",
+    "category": "Sweeteners > Syrups > Simple Syrup",
     "created_at": null,
     "updated_at": null,
     "images": [
@@ -81,7 +81,7 @@
     ],
     "prices": [],
     "calculator_id": null,
-    "sugar_g_per_ml": null,
+    "sugar_g_per_ml": 600,
     "acidity": null,
     "distillery": null,
     "units": "ml"

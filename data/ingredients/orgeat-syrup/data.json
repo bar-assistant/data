@@ -6,7 +6,7 @@
     "description": "Sweet syrup made from almonds, sugar, and rose water or orange flower water.",
     "origin": null,
     "color": "#d9ca9f",
-    "category": "Syrups > Simple Syrup",
+    "category": "Sweeteners > Syrups > Simple Syrup",
     "created_at": null,
     "updated_at": null,
     "images": [
@@ -20,7 +20,7 @@
     "ingredient_parts": [],
     "prices": [],
     "calculator_id": null,
-    "sugar_g_per_ml": null,
+    "sugar_g_per_ml": 500,
     "acidity": null,
     "distillery": null,
     "units": "ml"
