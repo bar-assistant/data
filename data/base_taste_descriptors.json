@@ -1,0 +1,206 @@
+[
+    {
+        "name": "Bitter",
+        "normalized_name": "bitter"
+    },
+    {
+        "name": "Hoppy",
+        "normalized_name": "hoppy"
+    },
+    {
+        "name": "Malty",
+        "normalized_name": "malty"
+    },
+    {
+        "name": "Sweet",
+        "normalized_name": "sweet"
+    },
+    {
+        "name": "Dry",
+        "normalized_name": "dry"
+    },
+    {
+        "name": "Sour",
+        "normalized_name": "sour"
+    },
+    {
+        "name": "Fruity",
+        "normalized_name": "fruity"
+    },
+    {
+        "name": "Spicy",
+        "normalized_name": "spicy"
+    },
+    {
+        "name": "Smoky",
+        "normalized_name": "smoky"
+    },
+    {
+        "name": "Balanced",
+        "normalized_name": "balanced"
+    },
+    {
+        "name": "Simple",
+        "normalized_name": "simple"
+    },
+    {
+        "name": "Complex",
+        "normalized_name": "complex"
+    },
+    {
+        "name": "Citrusy",
+        "normalized_name": "citrusy"
+    },
+    {
+        "name": "Tropical",
+        "normalized_name": "tropical"
+    },
+    {
+        "name": "Piney",
+        "normalized_name": "piney"
+    },
+    {
+        "name": "Herbacious",
+        "normalized_name": "herbacious"
+    },
+    {
+        "name": "Floral",
+        "normalized_name": "floral"
+    },
+    {
+        "name": "Herbal",
+        "normalized_name": "herbal"
+    },
+    {
+        "name": "Earthy",
+        "normalized_name": "earthy"
+    },
+    {
+        "name": "Cereal",
+        "normalized_name": "cereal"
+    },
+    {
+        "name": "Grainy",
+        "normalized_name": "grainy"
+    },
+    {
+        "name": "Toasty",
+        "normalized_name": "toasty"
+    },
+    {
+        "name": "Roasty",
+        "normalized_name": "roasty"
+    },
+    {
+        "name": "Nutty",
+        "normalized_name": "nutty"
+    },
+    {
+        "name": "Caramel",
+        "normalized_name": "caramel"
+    },
+    {
+        "name": "Chocolatey",
+        "normalized_name": "chocolatey"
+    },
+    {
+        "name": "Coffee",
+        "normalized_name": "coffee"
+    },
+    {
+        "name": "Vanilla",
+        "normalized_name": "vanilla"
+    },
+    {
+        "name": "Woody",
+        "normalized_name": "woody"
+    },
+    {
+        "name": "Yeasty",
+        "normalized_name": "yeasty"
+    },
+    {
+        "name": "Clove",
+        "normalized_name": "clove"
+    },
+    {
+        "name": "Bubblegum",
+        "normalized_name": "bubblegum"
+    },
+    {
+        "name": "Funky",
+        "normalized_name": "funky"
+    },
+    {
+        "name": "Peppery",
+        "normalized_name": "peppery"
+    },
+    {
+        "name": "Light body",
+        "normalized_name": "light body"
+    },
+    {
+        "name": "Medium body",
+        "normalized_name": "medium body"
+    },
+    {
+        "name": "Full body",
+        "normalized_name": "full body"
+    },
+    {
+        "name": "Crisp",
+        "normalized_name": "crisp"
+    },
+    {
+        "name": "Refreshing",
+        "normalized_name": "refreshing"
+    },
+    {
+        "name": "Smooth",
+        "normalized_name": "smooth"
+    },
+    {
+        "name": "Creamy",
+        "normalized_name": "creamy"
+    },
+    {
+        "name": "Chewy",
+        "normalized_name": "chewy"
+    },
+    {
+        "name": "Fizzy",
+        "normalized_name": "fizzy"
+    },
+    {
+        "name": "Clean finish",
+        "normalized_name": "clean finish"
+    },
+    {
+        "name": "Lingering finish",
+        "normalized_name": "lingering finish"
+    },
+    {
+        "name": "Warming",
+        "normalized_name": "warming"
+    },
+    {
+        "name": "Astringent",
+        "normalized_name": "astringent"
+    },
+    {
+        "name": "Buttery",
+        "normalized_name": "buttery"
+    },
+    {
+        "name": "Metallic",
+        "normalized_name": "metallic"
+    },
+    {
+        "name": "Vegetal",
+        "normalized_name": "vegetal"
+    },
+    {
+        "name": "Medicinal",
+        "normalized_name": "medicinal"
+    }
+]
