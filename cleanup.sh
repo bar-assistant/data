@@ -5,10 +5,11 @@ set -euo pipefail
 SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)
 DATA_DIR="$SCRIPT_DIR/data"
 DRY_RUN=false
+SKIP_IMAGES=false
 
 usage() {
     cat <<EOF
-Usage: $(basename "$0") [--dry-run] [--data-dir PATH]
+Usage: $(basename "$0") [--dry-run] [--skip-images] [--data-dir PATH]
 
 Normalizes the cocktail and ingredient catalogs by:
   - removing trailing _NUMBER folder and ID suffixes
@@ -20,6 +21,12 @@ Normalizes the cocktail and ingredient catalogs by:
 
 When duplicate folder names remain after suffix removal, they are named slug,
 slug-2, slug-3, and so on. Use --dry-run to validate and preview the cleanup.
+
+Options:
+  --dry-run     Validate and preview the cleanup without changing any files.
+  --skip-images Skip image validation, conversion, and renaming. Image
+                references in the JSON are left untouched.
+  --data-dir    Path to the data directory (default: $DATA_DIR).
 EOF
 }
 
@@ -27,6 +34,9 @@ while (($# > 0)); do
     case "$1" in
         --dry-run)
             DRY_RUN=true
+            ;;
+        --skip-images)
+            SKIP_IMAGES=true
             ;;
         --data-dir)
             if (($# < 2)); then
@@ -58,20 +68,22 @@ if ! command -v jq >/dev/null 2>&1; then
     exit 1
 fi
 
-if ! command -v ffmpeg >/dev/null 2>&1; then
-    echo "Error: ffmpeg with the libwebp encoder is required." >&2
-    exit 1
-fi
+if ! $SKIP_IMAGES; then
+    if ! command -v ffmpeg >/dev/null 2>&1; then
+        echo "Error: ffmpeg with the libwebp encoder is required." >&2
+        exit 1
+    fi
 
-ffmpeg_encoders=$(ffmpeg -hide_banner -encoders 2>/dev/null) || {
-    echo "Error: Could not inspect ffmpeg encoders." >&2
-    exit 1
-}
-if [[ $ffmpeg_encoders != *" libwebp "* ]]; then
-    echo "Error: ffmpeg must include the libwebp encoder." >&2
-    exit 1
+    ffmpeg_encoders=$(ffmpeg -hide_banner -encoders 2>/dev/null) || {
+        echo "Error: Could not inspect ffmpeg encoders." >&2
+        exit 1
+    }
+    if [[ $ffmpeg_encoders != *" libwebp "* ]]; then
+        echo "Error: ffmpeg must include the libwebp encoder." >&2
+        exit 1
+    fi
+    unset ffmpeg_encoders
 fi
-unset ffmpeg_encoders
 
 DATA_DIR=$(cd -- "$DATA_DIR" 2>/dev/null && pwd) || {
     echo "Error: Data directory not found: $DATA_DIR" >&2
@@ -302,9 +314,11 @@ preflight_images() {
     done
 }
 
-for ((plan_index = 0; plan_index < ${#PLAN_SOURCES[@]}; plan_index++)); do
-    preflight_images "$plan_index"
-done
+if ! $SKIP_IMAGES; then
+    for ((plan_index = 0; plan_index < ${#PLAN_SOURCES[@]}; plan_index++)); do
+        preflight_images "$plan_index"
+    done
+fi
 
 map_to_json() {
     local -n id_map=$1
@@ -332,11 +346,15 @@ for ((plan_index = 0; plan_index < ${#PLAN_SOURCES[@]}; plan_index++)); do
     json_file="$folder/data.json"
     staged_json="$staging_dir/$plan_index.json"
 
-    load_images "$plan_index"
-    if ((${#IMAGE_NAMES[@]} > 0)); then
-        image_names_json=$(printf '%s\0' "${IMAGE_NAMES[@]}" | jq -Rs 'split("\u0000")[:-1]')
-    else
+    if $SKIP_IMAGES; then
         image_names_json='[]'
+    else
+        load_images "$plan_index"
+        if ((${#IMAGE_NAMES[@]} > 0)); then
+            image_names_json=$(printf '%s\0' "${IMAGE_NAMES[@]}" | jq -Rs 'split("\u0000")[:-1]')
+        else
+            image_names_json='[]'
+        fi
     fi
 
     if ! jq --indent 4 \
@@ -344,7 +362,8 @@ for ((plan_index = 0; plan_index < ${#PLAN_SOURCES[@]}; plan_index++)); do
         --arg new_id "$target_name" \
         --argjson cocktail_ids "$cocktail_ids_json" \
         --argjson ingredient_ids "$ingredient_ids_json" \
-        --argjson image_names "$image_names_json" '
+        --argjson image_names "$image_names_json" \
+        --argjson skip_images "$SKIP_IMAGES" '
         def mapped($ids):
             if type == "string" then
                 ($ids[.] // sub("_[0-9]+$"; ""))
@@ -385,10 +404,14 @@ for ((plan_index = 0; plan_index < ${#PLAN_SOURCES[@]}; plan_index++)); do
             )
           end
         | ._id = $new_id
-        | .images |= (
-            to_entries
-            | map(.value.uri = ("file:///" + $image_names[.key]) | .value)
-        )
+        | if $skip_images then
+            .
+          else
+            .images |= (
+                to_entries
+                | map(.value.uri = ("file:///" + $image_names[.key]) | .value)
+            )
+          end
     ' "$json_file" > "$staged_json"; then
         echo "Error: Could not normalize $json_file" >&2
         exit 1
@@ -414,42 +437,47 @@ fi
 
 # Convert every image before modifying the catalog so a conversion failure leaves
 # all source files intact.
-for ((plan_index = 0; plan_index < ${#PLAN_SOURCES[@]}; plan_index++)); do
-    load_images "$plan_index"
+if ! $SKIP_IMAGES; then
+    for ((plan_index = 0; plan_index < ${#PLAN_SOURCES[@]}; plan_index++)); do
+        load_images "$plan_index"
 
-    for ((image_index = 0; image_index < ${#IMAGE_SOURCES[@]}; image_index++)); do
-        source_path=${IMAGE_SOURCES[image_index]}
-        staging_path="$staging_dir/image-$plan_index-$image_index.webp"
+        for ((image_index = 0; image_index < ${#IMAGE_SOURCES[@]}; image_index++)); do
+            source_path=${IMAGE_SOURCES[image_index]}
+            staging_path="$staging_dir/image-$plan_index-$image_index.webp"
 
-        if ! ffmpeg -nostdin -hide_banner -loglevel error -y \
-            -i "$source_path" \
-            -vf "scale=-1:'min(1000,ih)':flags=lanczos" \
-            -frames:v 1 -c:v libwebp -quality 80 \
-            "$staging_path"; then
-            echo "Error: Could not convert image: $source_path" >&2
-            exit 1
-        fi
+            if ! ffmpeg -nostdin -hide_banner -loglevel error -y \
+                -i "$source_path" \
+                -vf "scale=-1:'min(1000,ih)':flags=lanczos" \
+                -frames:v 1 -c:v libwebp -quality 80 \
+                "$staging_path"; then
+                echo "Error: Could not convert image: $source_path" >&2
+                exit 1
+            fi
 
-        chmod --reference="$source_path" "$staging_path"
+            chmod --reference="$source_path" "$staging_path"
+        done
     done
-done
+fi
 
 for ((plan_index = 0; plan_index < ${#PLAN_SOURCES[@]}; plan_index++)); do
     folder=${PLAN_SOURCES[plan_index]}
     json_file="$folder/data.json"
     staged_json=${STAGED_JSON[plan_index]}
-    load_images "$plan_index"
 
-    for ((image_index = 0; image_index < ${#IMAGE_SOURCES[@]}; image_index++)); do
-        source_path=${IMAGE_SOURCES[image_index]}
-        rm -- "$source_path"
-    done
+    if ! $SKIP_IMAGES; then
+        load_images "$plan_index"
 
-    for ((image_index = 0; image_index < ${#IMAGE_SOURCES[@]}; image_index++)); do
-        target_path=${IMAGE_TARGETS[image_index]}
-        staging_path="$staging_dir/image-$plan_index-$image_index.webp"
-        mv -- "$staging_path" "$target_path"
-    done
+        for ((image_index = 0; image_index < ${#IMAGE_SOURCES[@]}; image_index++)); do
+            source_path=${IMAGE_SOURCES[image_index]}
+            rm -- "$source_path"
+        done
+
+        for ((image_index = 0; image_index < ${#IMAGE_SOURCES[@]}; image_index++)); do
+            target_path=${IMAGE_TARGETS[image_index]}
+            staging_path="$staging_dir/image-$plan_index-$image_index.webp"
+            mv -- "$staging_path" "$target_path"
+        done
+    fi
 
     if ! cmp -s -- "$json_file" "$staged_json"; then
         mv -- "$staged_json" "$json_file"
