@@ -1,0 +1,27 @@
+{
+    "_id": "amaro-di-angostura",
+    "_parent_id": "amaro",
+    "name": "Amaro di Angostura",
+    "strength": 35,
+    "description": "A bittersweet herbal liqueur produced by Angostura in Trinidad. It combines aromatic herbs, spice, and citrus peel with a balanced bitter finish. It is used as a digestif and in cocktails, often alongside aged spirits or in amaro-based drinks.",
+    "origin": "Trinidad",
+    "color": "#4a1f1a",
+    "category": "Apéritif > Amaro",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///amaro-di-angostura.webp",
+            "sort": 1,
+            "placeholder_hash": "TymGHQJXlzh5h4Ct2Hd3cIcHB4iHeId4eA",
+            "copyright": "Angostura"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": "Angostura",
+    "units": null
+}

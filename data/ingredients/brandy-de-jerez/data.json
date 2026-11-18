@@ -1,0 +1,27 @@
+{
+    "_id": "brandy-de-jerez",
+    "_parent_id": "brandy",
+    "name": "Brandy de Jerez",
+    "strength": 40,
+    "description": "Brandy de Jerez is a Spanish brandy produced in the Sherry Triangle around Jerez de la Frontera. It is distilled from wine and aged in sherry-seasoned oak casks using a solera system, giving flavors of dried fruit, vanilla, caramel, and oak. It is consumed neat and used in cocktails where a rich, aged brandy character is desired.",
+    "origin": "Spain",
+    "color": "#8b4513",
+    "category": "Spirits > Brandy",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///brandy-de-jerez.webp",
+            "sort": 1,
+            "placeholder_hash": "oCiGBQBGmkFiu37zaHhweDUIB5iFiYZ4hw",
+            "copyright": "Cardenal Mendoza"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

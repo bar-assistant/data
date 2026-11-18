@@ -1,0 +1,27 @@
+{
+    "_id": "lychee-liqueur",
+    "_parent_id": "liqueurs",
+    "name": "Lychee Liqueur",
+    "strength": 20,
+    "description": "A sweet fruit liqueur made by infusing or macerating lychee fruit into a neutral spirit base, then sweetening. It has a delicate floral, grape-like sweetness with a light musky aroma and low bitterness. It is used in cocktails such as the Lychee Martini and tropical or sparkling drinks, often paired with vodka, gin, or sake.",
+    "origin": "France",
+    "color": "#f9bab3",
+    "category": "Liqueurs",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///lychee-liqueur.webp",
+            "sort": 1,
+            "placeholder_hash": "sliCBQJGa5CEe15iJ3d9cLgHB6iGeIZ4eA",
+            "copyright": "Giffard"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

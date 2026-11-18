@@ -1,0 +1,27 @@
+{
+    "_id": "guava-juice",
+    "_parent_id": "juices",
+    "name": "Guava juice",
+    "strength": 0,
+    "description": "A pressed or blended liquid from guava fruit, often strained before use. It has a sweet-tart tropical flavor with notes of pear, strawberry, and citrus. It is used in cocktails and punches as a fruity mixer, commonly paired with rum, tequila, or vodka.",
+    "origin": "Central America",
+    "color": "#f4a6a0",
+    "category": "Juices",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///guava-juice.webp",
+            "sort": 1,
+            "placeholder_hash": "qIqCBQQ1xk5pc0H8C0q/S3cHCIhkiYaJSA",
+            "copyright": "vecteezy.com"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

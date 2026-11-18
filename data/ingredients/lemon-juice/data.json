@@ -17,7 +17,28 @@
             "copyright": ""
         }
     ],
-    "ingredient_parts": [],
+    "ingredient_parts": [
+        {
+            "_id": "lemon",
+            "_parent_id": null,
+            "name": "Lemon",
+            "strength": 0,
+            "description": "Lemon is a citrus fruit known for its bright yellow color and tart flavor.",
+            "origin": null,
+            "color": "#fdf26f",
+            "category": null,
+            "created_at": null,
+            "updated_at": null,
+            "images": [],
+            "ingredient_parts": [],
+            "prices": [],
+            "calculator_id": null,
+            "sugar_g_per_ml": 25,
+            "acidity": null,
+            "distillery": null,
+            "units": null
+        }
+    ],
     "prices": [],
     "calculator_id": null,
     "sugar_g_per_ml": 25,

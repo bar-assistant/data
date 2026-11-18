@@ -1,0 +1,27 @@
+{
+    "_id": "aperitivo-cappelletti",
+    "_parent_id": "fortified-wine",
+    "name": "Aperitivo Cappelletti",
+    "strength": 17,
+    "description": "The Aperitivo Cappelletti, endearingly known to locals as just “Specialino”, may be the oldest style of the classic red bitter still in production. Unlike its larger commercial rivals, Cappelletti is less sweet and has a wonderful drying finish. Additionally, it still uses natural carmine color for a crimson red and retains a vinous texture from its wine base. It offers a vibrant and flavorful profile, complemented by bitter undertones on a traditional wine base. This yields a Negroni or Spritz that is dry and refreshing in the finish. It is made just outside of Trento in Alto Adige by the Cappelletti family, who also produce a number of other exceptional aperitivi and amari.",
+    "origin": "Italy",
+    "color": "#FF7F50",
+    "category": "Fortified wine",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///aperitivo-cappelletti.webp",
+            "sort": 1,
+            "placeholder_hash": "l+mCFQhGmmJfwZOql3d/c/YnB6iFiHh4eA",
+            "copyright": "Antica Erboristeria Cappelletti"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": "Antica Erboristeria Cappelletti",
+    "units": null
+}

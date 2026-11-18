@@ -1,0 +1,20 @@
+{
+    "_id": "strawberry-jam",
+    "_parent_id": null,
+    "name": "Strawberry jam",
+    "strength": 0,
+    "description": "A sweet fruit preserve made from strawberries and sugar, often with pectin and lemon juice. It has a bright, fruity flavor and a thick, spreadable texture. In cocktails, it is used to add sweetness and strawberry flavor, commonly in drinks like the strawberry daiquiri or as a garnish component.",
+    "origin": null,
+    "color": "#c72c2c",
+    "category": null,
+    "created_at": null,
+    "updated_at": null,
+    "images": [],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}

@@ -1,0 +1,27 @@
+{
+    "_id": "pasubio",
+    "_parent_id": "fortified-wine",
+    "name": "Pasubio",
+    "strength": 17,
+    "description": "Pasubio is a true taste of the Dolomite Mountains in the Trentino region. On a base of rich aged wine you’ll find notes of blueberries, pine and smoke, together with bitter alpine herbs. It is rare among amari to feature mountain berries. The recipe from Giuseppe Cappelletti dates back to the early 20th century and is among the Erboristeria’s first amari. Traditionally enjoyed neat, typically at cellar temperature or chilled. Pasubio makes simple and delicious spritzes with tonic, soda, sparkling lemonade, or bitter lemon. Also pairs well in mixed drinks with bourbon, rye, or brandy.",
+    "origin": "Italy",
+    "color": "#f66151",
+    "category": "Fortified wine",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///pasubio.webp",
+            "sort": 1,
+            "placeholder_hash": "1giGDQBFi2BxnXX6aIiAZUYIB7iGiId4eA",
+            "copyright": "Antica Erboristeria Cappelletti"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": 0,
+    "distillery": "Antica Erboristeria Cappelletti",
+    "units": "ml"
+}

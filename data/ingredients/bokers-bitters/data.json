@@ -1,0 +1,27 @@
+{
+    "_id": "bokers-bitters",
+    "_parent_id": "bitters",
+    "name": "Boker's bitters",
+    "strength": 44.7,
+    "description": "A historic aromatic bitters brand, originally produced in the 19th century and revived by Adam Elmegirab. It is dark, bitter, and complex, with spice, citrus peel, and herbal notes. Used sparingly in classic cocktails such as the Manhattan, Martini, and Old Fashioned to add depth.",
+    "origin": "Scotland",
+    "color": "#5a2d1a",
+    "category": "Bitters",
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///bokers-bitters.webp",
+            "sort": 1,
+            "placeholder_hash": "YTmGBQBGpwiDe3V6eDOIgPSICJd2iId4dw",
+            "copyright": "Bokers"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": "Elmegirab's Bitters",
+    "units": null
+}

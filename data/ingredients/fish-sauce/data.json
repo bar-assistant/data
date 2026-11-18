@@ -1,0 +1,27 @@
+{
+    "_id": "fish-sauce",
+    "_parent_id": null,
+    "name": "Fish sauce",
+    "strength": 0,
+    "description": "A fermented condiment made from fish and salt, typically aged to develop a deep savory, salty, and umami-rich flavor. It is commonly used in Southeast Asian cooking as a seasoning and dipping base. In cocktails, it is used sparingly to add savory depth, often in drinks inspired by culinary or Bloody Mary-style profiles.",
+    "origin": "Southeast Asia",
+    "color": "#5b2c1a",
+    "category": null,
+    "created_at": null,
+    "updated_at": null,
+    "images": [
+        {
+            "uri": "file:///fish-sauce.webp",
+            "sort": 1,
+            "placeholder_hash": "I/iFHQI4xI9Blof2XkR5cKgIKyaQanaYhg",
+            "copyright": "Port Lincoln"
+        }
+    ],
+    "ingredient_parts": [],
+    "prices": [],
+    "calculator_id": null,
+    "sugar_g_per_ml": null,
+    "acidity": null,
+    "distillery": null,
+    "units": null
+}
