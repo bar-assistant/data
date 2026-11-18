@@ -1,0 +1,93 @@
+{
+    "_id": "hotel-valentine",
+    "name": "Hotel Valentine",
+    "instructions": "1. Add the first 3 ingredients to an ice-filled glass, then stir to combine.\n2. Splash with soda water and top with Miller High Life.\n3. Garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "According to 5 and Dime general manager and drink creator Cara Mahon, this highball was inspired by two cocktails that went viral: the Negroni Sbagliato and the Spaghett, a mix of Aperol, Miller High Life, and lemon. \"It tastes like a more complex Sbagliato,\" Mahon says. Pasubio stands in for sweet vermouth, while the Cappelletti rounds out the bitterness of the Campari. \"You get a balanced, slightly trashy (in the best way) riff on a riff,\" she adds.",
+    "source": "https://imbibemagazine.com/recipe/hotel-valentine-negroni-sbagliato-riff/",
+    "garnish": "Dehydrated orange wheel or orange peel/wheel",
+    "abv": 7.74,
+    "tags": [
+        "Bitter",
+        "Citrusy",
+        "Aperitivo"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": "negroni-sbagliato",
+    "year": null,
+    "author": "Cara Mahon",
+    "origin_bar": "5 and Dime",
+    "images": [
+        {
+            "uri": "file:///hotel-valentine.webp",
+            "sort": 1,
+            "placeholder_hash": "HUkKFwZQZ1iad42jfGh4WFpXqKCKCYYJ",
+            "copyright": "Imbibe Magazine | Aubrie LeGault"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pasubio",
+            "name": "Pasubio",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "aperitivo-cappelletti",
+            "name": "Aperitivo Cappelletti",
+            "sort": 3,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "club-soda",
+            "name": "Club soda",
+            "sort": 4,
+            "amount": 1,
+            "units": "splash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "beer",
+            "name": "Beer",
+            "sort": 5,
+            "amount": 6,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Miller High Life",
+            "substitutes": []
+        }
+    ]
+}

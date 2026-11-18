@@ -7,7 +7,7 @@
     "description": "This cocktail recipe is a variation on the basic Daisy formula: a sour kicked up with the addition of seltzer or soda water.",
     "source": "https://punchdrink.com/recipes/gin-daisy-new-school/",
     "garnish": "orange slice",
-    "abv": 13.71,
+    "abv": 10.67,
     "tags": [
         "Light"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///gin-daisy-new-school.webp",

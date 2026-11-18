@@ -21,6 +21,7 @@
     "parent_cocktail_id": "amaretto-sour",
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///apple-amaretto-sour.webp",

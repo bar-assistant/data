@@ -20,6 +20,7 @@
     "parent_cocktail_id": "martini",
     "year": 1930,
     "author": "G. F. Steele",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///dirty-martini.webp",

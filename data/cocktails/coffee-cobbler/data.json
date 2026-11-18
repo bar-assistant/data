@@ -1,0 +1,94 @@
+{
+    "_id": "coffee-cobbler",
+    "name": "Coffee Cobbler",
+    "instructions": "1. Build in a highball glass over pebble ice.\n2. Stir, then fill with additional ice.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A balanced, long-style cocktail that blends aged rum with coffee and orange liqueurs for a smooth, approachable profile. Chilled over pebble ice, it is characterized by its moderate strength and easy drinkability.",
+    "source": "https://www.reddit.com/r/cocktails/comments/15j9ggj/ranking_youtuber_cocktails_steve_the_bartender",
+    "garnish": "Orange wheel and mint sprig",
+    "abv": 22.22,
+    "tags": [
+        "Coffee",
+        "Citrusy",
+        "Sweet",
+        "Sour"
+    ],
+    "glass": "Highball",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2023,
+    "author": "Steve The Bartender",
+    "origin_bar": null,
+    "images": [
+        {
+            "uri": "file:///coffee-cobbler.webp",
+            "sort": 1,
+            "placeholder_hash": "FCkKHwRKuHUwhXmHmkZ4aYeMRWBWBGID",
+            "copyright": "AI (Gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "rich or dem style, not Jamaican",
+            "substitutes": []
+        },
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "sort": 2,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-curacao",
+            "name": "Orange Curaçao",
+            "sort": 3,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "simple-syrup",
+            "name": "Simple Syrup",
+            "sort": 4,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 5,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

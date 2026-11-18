@@ -7,7 +7,7 @@
     "description": "Put a little dinamismo in your G&T!",
     "source": "https://www.liberandcompany.com/collections/recipes/products/tonico-di-corte",
     "garnish": "dehydrated lime wheel",
-    "abv": 18,
+    "abv": 12,
     "tags": [
         "Bitter"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///tonico-di-corte.webp",

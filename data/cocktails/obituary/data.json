@@ -7,18 +7,25 @@
     "description": "A drier take on the lesser-known New Orleans Martini cocktail recipe from popular Brooklyn bar Maison Premiere.",
     "source": "https://punchdrink.com/recipes/obituary/",
     "garnish": "lemon twist, discarded",
-    "abv": 30.57,
-    "tags": [],
+    "abv": 30.8,
+    "tags": [
+        "Dry",
+        "Herbal",
+        "Citrusy",
+        "Complex",
+        "Classic"
+    ],
     "glass": "Cocktail",
     "method": "Stir",
     "utensils": [],
-    "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "parent_cocktail_id": "martini",
+    "year": 1940,
+    "author": "",
+    "origin_bar": "New Oreleans",
     "images": [
         {
             "uri": "file:///obituary.webp",
-            "sort": 0,
+            "sort": 1,
             "placeholder_hash": "UQgOFwImiJeQhoh9eQeYl4hnhQbXeHAN",
             "copyright": "Punch Staff | Lizzie Munro"
         }

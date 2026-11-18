@@ -7,7 +7,7 @@
     "description": "Developed during the 19th century and given its name in the 1880s, it is an IBA Official Cocktail. It is also one of six basic drinks listed in David A. Embury's The Fine Art of Mixing Drinks.\n\nOld-Fashioned is as traditional as they come. A simple mix of spirits, sugar, bitters and water, it appears in 1806 as the first printed recipe for a cocktail (“cock tail”). Other alcohols were permitted, but the whiskey or rye version of this combination, over ice, is what we now know as the Old Fashioned, thought to be named later that century after more elaborate new-fangled cocktails entered the canon. During Prohibition, the recipe veered into odd territory, adding fruit and cherries to distract from the available crude spirits. After repeal, it was the imposter version that stuck until the recent cocktail revival brought the original recipe back from the brink of extinction.",
     "source": "https://iba-world.com/old-fashioned/",
     "garnish": "Garnish with an orange slice or zest, and a cocktail cherry.",
-    "abv": 33.57,
+    "abv": 33.6,
     "tags": [
         "IBA Cocktail",
         "The Unforgettables",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///old-fashioned.webp",

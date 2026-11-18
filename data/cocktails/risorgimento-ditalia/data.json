@@ -7,7 +7,7 @@
     "description": "A more spiritous twist on the Garibaldi cocktail recipe, this drink sees additions of gin and absinthe to the orange juice and Campari.",
     "source": "https://punchdrink.com/recipes/risorgimento-ditalia/",
     "garnish": "orange slice sprinkled with salt",
-    "abv": 11.09,
+    "abv": 11.23,
     "tags": [
         "Citrusy"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///risorgimento-ditalia.webp",

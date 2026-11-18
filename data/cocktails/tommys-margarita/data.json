@@ -19,6 +19,7 @@
     "parent_cocktail_id": "margarita",
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///tommys-margarita.webp",

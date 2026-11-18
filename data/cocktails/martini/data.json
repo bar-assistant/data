@@ -7,7 +7,7 @@
     "description": "This classic is a contentious and sensitive topic with serious Martini drinkers. The way one drinks a Martini is simply a matter of personal preference.",
     "source": "https://iba-world.com/dry-martini/",
     "garnish": "Squeeze oil from lemon peel onto the drink, or garnish with green olives if requested.",
-    "abv": 27.22,
+    "abv": 27.2,
     "tags": [
         "IBA Cocktail",
         "The Unforgettables",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///martini-1.webp",

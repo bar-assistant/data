@@ -7,7 +7,7 @@
     "description": "This refreshing, elegant libation is a tribute to the Beaux-Arts Neoclassical architectural movement of the late 1800s in France, an era in which sipping pastis was quite fashionable. The “pearl” refers to the visual opacity of the drink, an effect referred to as “louching,” which naturally occurs when any anise-flavored liqueur or spirit meets water.",
     "source": null,
     "garnish": "Lime and mint for garnish",
-    "abv": 19.2,
+    "abv": 20,
     "tags": [],
     "glass": "Coupe",
     "method": "Shake",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///french-pearl-2.webp",

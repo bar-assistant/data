@@ -7,7 +7,7 @@
     "description": "A punch, sangria traditionally consists of red wine and chopped fruit, often with other ingredients or spirits.\n\nSangria is very popular among foreign tourists in Spain even if locals do not consume the beverage that much. It is commonly served in bars, restaurants, and chiringuitos and at festivities throughout Portugal and Spain.",
     "source": "https://www.acouplecooks.com/gin-gimlet-cocktail/",
     "garnish": "Drop fruit chunks into a glass",
-    "abv": 36.36,
+    "abv": 20.78,
     "tags": [
         "Wine"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///sangria.webp",

@@ -1,0 +1,81 @@
+{
+    "_id": "pie-for-the-people",
+    "name": "Pie for the People",
+    "instructions": "1. Add all of the ingredients to a mixing glass with ice and stir.\n2. Strain into the rocks glass over one big rock or strain into a glass.\n3. Garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Inspired by the phrase \"as American as apple pie,\" Jeremy Buck, owner of Coterie in Charleston, South Carolina, wanted to play off the idea that apple pie itself is imported. The mezcal base of this stirred cocktail provides a note of subtle smoke that is balanced by Cocchi Americano and a classic American spirit—apple brandy. Buck offers the choice to serve it up or over a large rock.",
+    "source": "https://imbibemagazine.com/recipe/pie-for-the-people-stirred-mezcal-cocktail/",
+    "garnish": "Apple slices, shaved nutmeg",
+    "abv": 26.88,
+    "tags": [
+        "Smokey",
+        "Herbacious",
+        "Dry"
+    ],
+    "glass": null,
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2026,
+    "author": "Jeremy Buck",
+    "origin_bar": "",
+    "images": [
+        {
+            "uri": "file:///pie-for-the-people.webp",
+            "sort": 1,
+            "placeholder_hash": "ZRgKFwIEN1lcmYl8iJlod5iXp8MKK7wA",
+            "copyright": "Imbibe Magazine | Kate Blohm"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cocchi-aperitivo-americano",
+            "name": "Cocchi Aperitivo Americano",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "apple-brandy",
+            "name": "Apple Brandy",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "bottled in bond",
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-aromatic-bitters",
+            "name": "Angostura aromatic bitters",
+            "sort": 4,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

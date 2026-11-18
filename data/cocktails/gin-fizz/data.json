@@ -7,36 +7,26 @@
     "description": "A gin fizz is the best-known cocktail in the fizz family. The drink is similar to a Tom Collins, with a possible distinction being a Tom Collins historically used \"Old Tom Gin\" (a slightly sweeter precursor to London Dry Gin), whereas the kind of gin historically used in a gin fizz is unknown.",
     "source": "https://iba-world.com/gin-fizz/",
     "garnish": "Garnish with a lemon slice, optional lemon zest.",
-    "abv": 16.94,
+    "abv": 11.64,
     "tags": [
         "IBA Cocktail",
         "The Unforgettables",
-        "Fizz"
+        "Fizz",
+        "Citrusy"
     ],
     "glass": "Highball",
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1876,
+    "author": "Jerry Thomas",
+    "origin_bar": "",
     "images": [
         {
-            "uri": "file:///gin-fizz-1.webp",
+            "uri": "file:///gin-fizz.webp",
             "sort": 1,
-            "placeholder_hash": "8fgFDwIkiFcFSWZgmYmaSqhkNAtrlJAF",
-            "copyright": "The Spruce"
-        },
-        {
-            "uri": "file:///gin-fizz-2.webp",
-            "sort": 2,
-            "placeholder_hash": "1vgRFwAKt2hmh3d3iXaId5iGh/WFdoAN",
-            "copyright": "Koch Wiki"
-        },
-        {
-            "uri": "file:///gin-fizz-3.webp",
-            "sort": 3,
-            "placeholder_hash": "LQgGDwR1UEqCeIeJyCh4WKiGdtr3h48N",
-            "copyright": "Mixolopedia"
+            "placeholder_hash": "4RgODwIIqYeClneMi2WHV3eYN4ig+FcH",
+            "copyright": "AI (gemini)"
         }
     ],
     "ingredients": [
@@ -44,7 +34,7 @@
             "_id": "gin",
             "name": "Gin",
             "sort": 1,
-            "amount": 45,
+            "amount": 60,
             "units": "ml",
             "optional": false,
             "is_specified": false,
@@ -68,7 +58,7 @@
             "_id": "simple-syrup",
             "name": "Simple Syrup",
             "sort": 3,
-            "amount": 10,
+            "amount": 15,
             "units": "ml",
             "optional": false,
             "is_specified": false,
@@ -81,7 +71,7 @@
             "name": "Club soda",
             "sort": 4,
             "amount": 1,
-            "units": "splash",
+            "units": "topup",
             "optional": false,
             "is_specified": false,
             "amount_max": null,

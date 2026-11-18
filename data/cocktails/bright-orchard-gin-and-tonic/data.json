@@ -7,7 +7,7 @@
     "description": "A refreshing winter variation of the classic gin and tonic that combines orchard fruits, citrus, and juniper notes. Designed to be low in sugar and calories, this crisp beverage offers subtle digestive and mood-supporting qualities while delivering a clean, dry finish.",
     "source": "https://downtondistillery.com/blogs/cocktails/bright-orchard-gin-and-tonic-gin-cocktail",
     "garnish": "Apple slice and rosemary sprig",
-    "abv": 14.88,
+    "abv": 7.25,
     "tags": [
         "Citrusy",
         "Fruity",
@@ -21,6 +21,7 @@
     "parent_cocktail_id": "gin-tonic",
     "year": 2026,
     "author": "Hugh Anderson",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///bright-orchard-gin-and-tonic.webp",

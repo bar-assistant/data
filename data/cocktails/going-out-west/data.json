@@ -7,7 +7,7 @@
     "description": "This smoky sipper is the perfect Wild West-ish twist on the Old Fashioned, featuring rye whiskey, mezcal for a touch of smoke, and Averna amaro for depth.",
     "source": "https://www.reddit.com/r/cocktails/comments/1c6ddka/going_out_west/",
     "garnish": "Orange peel for garnish",
-    "abv": 28.65,
+    "abv": 28.74,
     "tags": [],
     "glass": "Lowball",
     "method": "Stir",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///going-out-west.webp",

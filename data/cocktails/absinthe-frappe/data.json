@@ -7,7 +7,7 @@
     "description": "A dreamy classic that makes absinthe approachable and surprisingly refreshing.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/absinthe-frappe",
     "garnish": "Fresh mint",
-    "abv": 12,
+    "abv": 16.5,
     "tags": [
         "Herbacious"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///absinthe-frappe.webp",

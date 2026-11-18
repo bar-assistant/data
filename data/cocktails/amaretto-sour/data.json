@@ -5,7 +5,7 @@
     "created_at": null,
     "updated_at": null,
     "description": "Amaretto is an Italian liqueur that’s typically flavored with almonds or apricot stones. Its distinctive flavor can be incorporated into numerous cocktails, but it’s best known for the Amaretto Sour, a drink that tends to get a bad rap. That’s because, too often, the cocktail is overly sweet and relies on premade sour mix.",
-    "source": null,
+    "source": "The Bartender's Cherry",
     "garnish": "Spray aromatic bitters over foaming cocktail from atomiser and then garnish with lemon & cherry sail (lemon slice & Luxardo Maraschino cherry on stick)",
     "abv": 11.04,
     "tags": [
@@ -16,8 +16,9 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1987,
+    "author": "Mark Torre",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///amaretto-sour.webp",

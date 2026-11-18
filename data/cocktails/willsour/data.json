@@ -8,13 +8,21 @@
     "source": null,
     "garnish": null,
     "abv": 18.13,
-    "tags": [],
+    "tags": [
+        "Fruity",
+        "Citrusy",
+        "Sour",
+        "Sweet",
+        "Floral",
+        "Refreshing"
+    ],
     "glass": "Highball",
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 2024,
+    "author": "Karlo Mikuš",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///willsour.webp",
@@ -25,8 +33,8 @@
     ],
     "ingredients": [
         {
-            "_id": "pear-brandy-williams",
-            "name": "Pear Brandy (Williams)",
+            "_id": "pear-brandy",
+            "name": "Pear Brandy",
             "sort": 1,
             "amount": 60,
             "units": "ml",

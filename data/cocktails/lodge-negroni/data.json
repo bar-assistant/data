@@ -1,0 +1,79 @@
+{
+    "_id": "lodge-negroni",
+    "name": "Lodge Negroni",
+    "instructions": "1. Stir all the ingredients with ice to chill. Strain over a large ice cube in a rocks glass. Garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "In this Negroni recipe, scotch replaces gin, and coffee liqueur enters the equation.",
+    "source": "https://imbibemagazine.com/recipe/lodge-negroni/",
+    "garnish": "Flamed orange peel",
+    "abv": 23.33,
+    "tags": [
+        "Negroni"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": "negroni",
+    "year": 2018,
+    "author": "James Grant",
+    "origin_bar": "Wilfred's",
+    "images": [
+        {
+            "uri": "file:///lodge-negroni.webp",
+            "sort": 1,
+            "placeholder_hash": "YTkSLwj3qGiLhXd3iJeIqGiIiIAYB4cC",
+            "copyright": "Imbibe Magazine"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "scotch-whiskey",
+            "name": "Scotch whiskey",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Cinzano Rosso",
+            "substitutes": []
+        },
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Lucano Cafe",
+            "substitutes": []
+        }
+    ]
+}

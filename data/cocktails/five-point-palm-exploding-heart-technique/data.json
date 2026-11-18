@@ -7,7 +7,7 @@
     "description": "This smoky, bittersweet cocktail combines mezcal’s earthy intensity with the bitter depth of Punt e Mes and the richness of coffee liqueur. Chocolate bitters tie everything together with a roasty, slightly bitter finish. A brooding, complex drink with martial-arts-level impact—sip slowly and with respect.\n\nCreated by Erick Castro",
     "source": "https://www.reddit.com/r/cocktails/comments/1m90u9t/five_point_palm_exploding_heart_technique/",
     "garnish": null,
-    "abv": 29.39,
+    "abv": 29.41,
     "tags": [
         "Smokey",
         "Bitter",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///five-point-palm-exploding-heart-technique.webp",

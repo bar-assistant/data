@@ -7,7 +7,7 @@
     "description": "This cocktail from Hailey Knight and Casey Knight (no relation) of Charleston's Félix Cocktails et Cuisine takes the spicy Margarita for an extra-savory spin. Saline lends a saltiness, while Lillet Blanc rounds out the edges of the fresh lime juice. Meanwhile, Knight recommends using your favorite hot sauce to spice it up. \"The key is to use a vinegar-based hot sauce to complement the cocktail’s flavors rather than compete with them,\" she says. \"I’m partial to Slap Ya Mama hot sauce.\"",
     "source": "https://imbibemagazine.com/recipe/bon-soiree-spicy-margarita/",
     "garnish": "Tajín rim",
-    "abv": 11.09,
+    "abv": 17.79,
     "tags": [
         "Spicy",
         "Savory",
@@ -19,7 +19,8 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
-    "author": "",
+    "author": "Hailey Knight",
+    "origin_bar": "Charleston's Félix Cocktails et Cuisine",
     "images": [
         {
             "uri": "file:///bon-soiree.webp",

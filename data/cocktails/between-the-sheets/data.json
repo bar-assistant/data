@@ -10,14 +10,20 @@
     "abv": 26.18,
     "tags": [
         "IBA Cocktail",
-        "The Unforgettables"
+        "The Unforgettables",
+        "Citrusy",
+        "Sour",
+        "Sweet",
+        "Fruity",
+        "Classic"
     ],
     "glass": "Fizzio",
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1929,
+    "author": "",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///between-the-sheets.webp",

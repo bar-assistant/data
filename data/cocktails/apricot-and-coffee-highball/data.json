@@ -13,8 +13,7 @@
         "Smokey",
         "Bitter",
         "Sweet",
-        "Refreshing",
-        "highball"
+        "Refreshing"
     ],
     "glass": "Highball",
     "method": "Stir",
@@ -22,6 +21,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": "",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///apricot-and-coffee-highball.webp",

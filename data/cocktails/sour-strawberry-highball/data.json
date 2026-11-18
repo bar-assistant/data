@@ -7,7 +7,7 @@
     "description": "Can a compelling cocktail be made with just two ingredients? That's the basis for Roger Kamholz's book Pour Together, which features classic two-ingredient drinks like the Dark & Stormy and the Gibson. But he also includes a few recipes that, although still simple, do require some assembly, such as this Sour Strawberry Highball. A homemade strawberry shrub brings a punch of tart sweetness but, Kamholz says, don't stop there. \"You’re welcome to mingle with other spirits and other fruits\" in this highly modifiable highball recipe.",
     "source": "https://imbibemagazine.com/recipe/sour-strawberry-highball/",
     "garnish": "Lime wedge",
-    "abv": 22.22,
+    "abv": 13.33,
     "tags": [
         "Dessert"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///sour-strawberry-highball.webp",

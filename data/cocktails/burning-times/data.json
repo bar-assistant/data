@@ -1,0 +1,83 @@
+{
+    "_id": "burning-times",
+    "name": "Burning Times",
+    "instructions": "1. Stir the ingredients with ice.\n2. Strain into a coupe.\n3. Garnish with a lemon twist.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Burning Times is a gin cocktail created by Chris Amirault in 2010, inspired by the Ott's Special and named for Stregheria and Salem. It combines gin, Strega, Fernet Branca, and aromatic bitters, yielding lemon, vanilla, star anise, licorice, and minty notes with a honey-vanilla finish.",
+    "source": "https://cocktailvirgin.blogspot.com/2026/10/burning-times.html",
+    "garnish": "Lemon twist",
+    "abv": 33.29,
+    "tags": [
+        "Herbal",
+        "Bitter",
+        "Minty",
+        "Citrusy",
+        "Complex"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2010,
+    "author": "Chris Amirault",
+    "origin_bar": "",
+    "images": [
+        {
+            "uri": "file:///burning-times.webp",
+            "sort": 1,
+            "placeholder_hash": "2SgODwKPZ4mZeYareFd3d3d3WNIIA3gA",
+            "copyright": "AI (gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "strega",
+            "name": "Strega",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "fernet-branca",
+            "name": "Fernet Branca",
+            "sort": 3,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "bokers-bitters",
+            "name": "Boker's bitters",
+            "sort": 4,
+            "amount": 2,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

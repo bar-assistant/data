@@ -7,7 +7,7 @@
     "description": "Doug Petry of Louisville’s Rye restaurant devised this absinthe-based old fashioned. It reads quite sweet but it rounds out nicely into a surprisingly delicious cocktail.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/absinthe-old-fashioned",
     "garnish": null,
-    "abv": 19.58,
+    "abv": 25.74,
     "tags": [
         "Autumn",
         "Old Fashioned",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///absinthe-old-fashioned.webp",

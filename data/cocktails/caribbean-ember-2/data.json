@@ -7,7 +7,7 @@
     "description": "Tiki cocktails and whiskey is far from traditional cocktail combination. However, in Caribbean Ember Tyler Malone brings it together masterfully and with a great and delicious effect.\n\nCocktail is built around the blend of dark rum and rye whiskey. Dark rum contributes rich molasses, caramel, dried fruit notes, while whiskey adds some oaky, peppery spiciness, resulting in a one-of-a-kind cocktail base. Splash of pineapple juice, pays homage to the tiki culture with distinct sweet-tart fruitiness, while a touch of lime juice and maple syrup, expands the flavours of rum and whiskey. All of these notes are then wrapped up by the warming spiciness of ginger beer, providing not only freshness, but also balancing the cocktail out. A few dashes of Angostura bitters bring it all together and imparts more tropical notes bridging the gap between old-fashioned and tiki styles.\n\nCaribbean Ember is a unique and intriguing cocktail. Many have tried to incorporate whiskey into a tropical drink, but most of these attempts have failed, Caribbean Ember is the rare exception.",
     "source": "https://www.grouchy-bartender.com/cocktails/caribbean-ember",
     "garnish": "Garnish with a sprig of mint, lime wheel, pineapple spears and an edible flower.",
-    "abv": 21.58,
+    "abv": 13.04,
     "tags": [
         "Spicy",
         "Sweet",
@@ -22,6 +22,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///caribbean-ember-2.webp",

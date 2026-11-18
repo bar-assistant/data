@@ -7,7 +7,7 @@
     "description": "A delicious and simple Highball created by Dane Barca at Smuggler's Cove",
     "source": "https://www.reddit.com/r/cocktails/comments/17p3tyu/cosa_nostra_2/",
     "garnish": null,
-    "abv": 20.6,
+    "abv": 12.77,
     "tags": [
         "Tiki"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///cosa-nostra-2.webp",

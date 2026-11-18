@@ -1,0 +1,82 @@
+{
+    "_id": "umami-martini",
+    "name": "Umami Martini",
+    "instructions": "1. Measure all ingredients and stir to combine.\n2. Transfer to a bottle.\n3. Store in the freezer before serving.\n4. Pour into a chilled cocktail glass.\n5. Garnish with a lemon twist or olive.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A batched, spirit-forward Martini variation from Steve the Bartender that uses nori-infused dry vermouth to add savory, oceanic notes. The seaweed's salinity balances the gin's botanicals and the citrus oil from the garnish, making a savory drink designed to be kept frozen and served cold.",
+    "source": "https://app.stevethebartender.com.au/recipe/umami-martini",
+    "garnish": "Lemon twist or olive",
+    "abv": 24.41,
+    "tags": [
+        "Savory",
+        "salty",
+        "Citrusy",
+        "Batch"
+    ],
+    "glass": "Cocktail",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": "martini",
+    "year": 2026,
+    "author": "Steve The Bartender",
+    "origin_bar": "",
+    "images": [
+        {
+            "uri": "file:///umami-martini.webp",
+            "sort": 1,
+            "placeholder_hash": "lhgKDwKQeHt2eJZHaSaHl4lrBGiEcEEL",
+            "copyright": "AI (gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 570,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "dry-vermouth",
+            "name": "Dry Vermouth",
+            "sort": 2,
+            "amount": 190,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Nori-infused",
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 3,
+            "amount": 10,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "water",
+            "name": "Water",
+            "sort": 4,
+            "amount": 135,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

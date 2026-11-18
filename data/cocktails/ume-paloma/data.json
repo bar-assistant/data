@@ -22,6 +22,7 @@
     "parent_cocktail_id": "paloma",
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///ume-paloma.webp",

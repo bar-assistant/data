@@ -7,7 +7,7 @@
     "description": "This simple variation on a Death & Co modern classic from 2007 was one of the first to tap chocolate bitters’ flavor potential.",
     "source": "https://imbibemagazine.com/elements-chocolate-bitters/",
     "garnish": null,
-    "abv": 27.18,
+    "abv": 27.21,
     "tags": [],
     "glass": "Coupe",
     "method": "Stir",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///chocolate-martica.webp",

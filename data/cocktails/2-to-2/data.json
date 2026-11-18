@@ -7,7 +7,7 @@
     "description": "A bittersweet cocktail that's more accessible than its ingredient list may suggest.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/2-to-2",
     "garnish": "Orange peel",
-    "abv": 12.08,
+    "abv": 15.27,
     "tags": [
         "Citrusy",
         "Summer"
@@ -18,6 +18,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///2-to-2.webp",

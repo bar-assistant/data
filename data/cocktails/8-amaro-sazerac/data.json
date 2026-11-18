@@ -17,6 +17,7 @@
     "parent_cocktail_id": "sazerac",
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///8-amaro-sazerac-1.webp",

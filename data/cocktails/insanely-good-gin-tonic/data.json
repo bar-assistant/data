@@ -7,7 +7,7 @@
     "description": "A Gin & Tonic cocktail recipe adds a measure of Suze, the herbal liqueur, for added bitterness in the effervescent classic.",
     "source": "https://punchdrink.com/recipes/insanely-good-gin-tonic/",
     "garnish": "lime wheel",
-    "abv": 24,
+    "abv": 14.5,
     "tags": [
         "Bitter"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": "gin-tonic",
     "year": null,
     "author": "",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///insanely-good-gin-tonic.webp",

@@ -7,7 +7,7 @@
     "description": "A simple spritz recipe from San Diego's Alicia Perry suggests a leisurely afternoon in the French capital.",
     "source": "https://imbibemagazine.com/recipe/layover-in-paris-spritz-by-alicia-perry/",
     "garnish": "Grapefruit twist",
-    "abv": 9.64,
+    "abv": 9.68,
     "tags": [
         "Citrusy",
         "Sour",
@@ -22,7 +22,8 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
-    "author": null,
+    "author": "Alicia Perry",
+    "origin_bar": "CH Projects",
     "images": [
         {
             "uri": "file:///layover-in-paris.webp",

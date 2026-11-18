@@ -18,6 +18,7 @@
     "parent_cocktail_id": "manhattan",
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///society-street.webp",

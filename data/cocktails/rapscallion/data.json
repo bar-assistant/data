@@ -1,0 +1,71 @@
+{
+    "_id": "rapscallion",
+    "name": "Rapscallion",
+    "instructions": "1. Combine the Scotch and sherry in a mixing glass and stir to chill and dilute.\n2. Pour the pastis into a chilled Nick & Nora glass, then dump the contents out to season it with the liqueur.\n3. Strain the cocktail into the pastis-rinsed glass, then express a lemon peel over the drink and garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Rapscallion is a riff on the Manhattan. This cocktail recipe combines single malt Scotch, Pedro Ximénez sherry and pastis.",
+    "source": "https://punchdrink.com/recipes/rapscallion/",
+    "garnish": "lemon peel",
+    "abv": 25.83,
+    "tags": [
+        "Smokey",
+        "Sweet",
+        "Fruity",
+        "Herbal",
+        "Complex"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2007,
+    "author": "",
+    "origin_bar": "Ruby, Copenhagen",
+    "images": [
+        {
+            "uri": "file:///rapscallion.webp",
+            "sort": 1,
+            "placeholder_hash": "pRgKDwLERnfpjIeKdnhl+BeY2EcgWggC",
+            "copyright": "Punch Staff | Cory Smith"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "scotch-whiskey",
+            "name": "Scotch whiskey",
+            "sort": 1,
+            "amount": 1.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "preferably Talisker 10",
+            "substitutes": []
+        },
+        {
+            "_id": "pedro-ximenez",
+            "name": "Pedro Ximénez",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pernod",
+            "name": "Pernod",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "barspoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "preferably Ricard, to rinse",
+            "substitutes": []
+        }
+    ]
+}

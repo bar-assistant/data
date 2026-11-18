@@ -7,7 +7,7 @@
     "description": "Falernum adds hints of Caribbean Island flavors for a tasty twist on the classic Gimlet. The touch of Caribbean spice makes you want to dance to island music.",
     "source": "https://freisescornerbar.com/2021/10/21/creole-gimlet/",
     "garnish": "lime wheel",
-    "abv": 26.45,
+    "abv": 25.98,
     "tags": [
         "Citrusy",
         "Sour",
@@ -21,6 +21,7 @@
     "parent_cocktail_id": "gimlet",
     "year": 2009,
     "author": "Gonçalo de Sousa",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///creole-gimlet.webp",

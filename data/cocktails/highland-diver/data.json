@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": 2025,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///highland-diver.webp",

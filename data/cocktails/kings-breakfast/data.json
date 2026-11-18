@@ -1,0 +1,84 @@
+{
+    "_id": "kings-breakfast",
+    "name": "King’s Breakfast",
+    "instructions": "1. Shake the ingredients together.\n2. Fine strain into a Nick & Nora glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A sweet and lightly tart cocktail that blends the floral characteristics of Italicus and gin with fresh lemon juice and strawberry jam. The jam provides enough fruit character to define the drink without overpowering its flavor profile, creating an approachable and easy-drinking beverage best served chilled.",
+    "source": "https://www.reddit.com/r/cocktails/comments/15j9ggj/ranking_youtuber_cocktails_steve_the_bartender",
+    "garnish": "half a strawberry",
+    "abv": 14.9,
+    "tags": [
+        "Sweet",
+        "Citrusy",
+        "Fruity",
+        "Floral",
+        "Refreshing",
+        "Light"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2023,
+    "author": "Steve The Bartender",
+    "origin_bar": null,
+    "images": [
+        {
+            "uri": "file:///kings-breakfast.webp",
+            "sort": 1,
+            "placeholder_hash": "5igKDwLqW2eCnXZvjISYR3VrF7A3BHoD",
+            "copyright": "AI (Gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "italicus-rosolio-di-bergamotto",
+            "name": "Italicus Rosolio di Bergamotto",
+            "sort": 1,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "strawberry-jam",
+            "name": "Strawberry jam",
+            "sort": 4,
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

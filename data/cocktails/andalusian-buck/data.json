@@ -7,7 +7,7 @@
     "description": "This drink is great because it doesn’t go too far any any direction. It’s not too sweet, there’s only a teaspoon of sugar in the whole thing. It’s not too sour, there’a barely half a lime’s worth of juice. And it’s not too strong, it only calls for an ounce of gin. And between the ginger beer and the Amontillado sherry, it’s absolutely bursting with flavor. In sort, it’s refreshing and crushable, but still interesting, which was exactly the type of drink we specialized in at Clyde Common.",
     "source": "https://jeffreymorgenthaler.com/andalusian-buck/",
     "garnish": "Garnish with a lime wheel.",
-    "abv": 10.13,
+    "abv": 9.77,
     "tags": [
         "Savory"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///andalusian-buck.webp",

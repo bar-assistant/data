@@ -7,7 +7,7 @@
     "description": "E Tonico is a Gin & Tonic with an Italian twist courtesy of an aperitivo liqueur, vermouth and saline solution.",
     "source": "https://punchdrink.com/recipes/e-tonico/",
     "garnish": "bay leaf",
-    "abv": 33.52,
+    "abv": 16.76,
     "tags": [
         "Bitter"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///e-tonico.webp",

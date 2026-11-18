@@ -7,7 +7,7 @@
     "description": "An autumnal and all-American version of the Moscow Mule.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/washingtons-mule",
     "garnish": "Lime wedge",
-    "abv": 19.85,
+    "abv": 12.33,
     "tags": [
         "Mule"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///washingtons-mule.webp",

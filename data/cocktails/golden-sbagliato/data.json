@@ -1,0 +1,71 @@
+{
+    "_id": "golden-sbagliato",
+    "name": "Golden Sbagliato",
+    "instructions": "1. Add the Cappelletti, vermouth, Italicus and gold flakes to a small wine glass filled with ice.\n2. Top with prosecco, and garnish with an orange wedge.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Dante's elevated take on the classic Negroni Sbagliato cocktail recipe respects the drink's heritage while presenting it in a whole new way.",
+    "source": "https://punchdrink.com/recipes/golden-sbagliato/",
+    "garnish": "orange wedge",
+    "abv": 16.16,
+    "tags": [
+        "Bitter",
+        "Citrusy",
+        "Sweet",
+        "Floral",
+        "Herbal"
+    ],
+    "glass": "Wine",
+    "method": "Build",
+    "utensils": [],
+    "parent_cocktail_id": "negroni-sbagliato",
+    "year": null,
+    "author": "Naren Young",
+    "origin_bar": "Dante",
+    "images": [
+        {
+            "uri": "file:///golden-sbagliato.webp",
+            "sort": 1,
+            "placeholder_hash": "YRgaLwZwd4l2iYd4h3eHaJh4eKBHBnkE",
+            "copyright": "Punch Staff | Lizzie Munro"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "aperitivo-cappelletti",
+            "name": "Aperitivo Cappelletti",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Cinzano 1757 Rosso Vermouth",
+            "substitutes": []
+        },
+        {
+            "_id": "italicus-rosolio-di-bergamotto",
+            "name": "Italicus Rosolio di Bergamotto",
+            "sort": 3,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

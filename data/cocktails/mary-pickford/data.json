@@ -16,14 +16,15 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1920,
+    "author": "Fred Kaufman",
+    "origin_bar": "Hotel Nacional de Cuba",
     "images": [
         {
             "uri": "file:///mary-pickford.webp",
             "sort": 1,
-            "placeholder_hash": "zBcGFwQIqJiMhodxjAbHeIiLeqAHB4sA",
-            "copyright": "Drinkoteket"
+            "placeholder_hash": "3CgOFwSfuniRiHh8eTaYaYh6hQJ6B5QD",
+            "copyright": "AI (gemini)"
         }
     ],
     "ingredients": [

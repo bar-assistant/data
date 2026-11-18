@@ -7,7 +7,7 @@
     "description": "A Daiquiri cocktail riff adding a few dashes of absinthe to the classic mix of white rum, lime juice and sugar.",
     "source": "https://punchdrink.com/recipes/greta-garbo/",
     "garnish": null,
-    "abv": 20.65,
+    "abv": 21.2,
     "tags": [],
     "glass": "Coupe",
     "method": "Shake",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///greta-garbo.webp",

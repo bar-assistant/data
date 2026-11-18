@@ -17,6 +17,7 @@
     "parent_cocktail_id": "daiquiri",
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///strawberry-daiquiri.webp",

@@ -7,7 +7,7 @@
     "description": "There are two things that impede all other Amaretto Sours from challenging mine. First off, the obvious: they’re too sweet. One does not simply use an everyday sour recipe to make a world-class Amaretto Sour, it must be adjusted for this particular liqueur.\n\nSecond, and this is a big one: amaretto isn’t strong enough on its own to stand up to a bunch of other ingredients. It’s weak. It needs help. And for this, I enlist the assistance of an old friend. One that knows amaretto’s strengths and weaknesses. Or, mainly, its weaknesses. One that works with amaretto, to complete it like Jerry Maguire completes Rene Zellwiger’s character, whatever her name was. And that, my friends, is cask-proof bourbon.",
     "source": "https://jeffreymorgenthaler.com/i-make-the-best-amaretto-sour-in-the-world/",
     "garnish": "Garnish with lemon peel and brandied cherries.",
-    "abv": 16.33,
+    "abv": 15.78,
     "tags": [
         "Sour",
         "Sweet"
@@ -16,8 +16,9 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": "amaretto-sour",
-    "year": null,
+    "year": 2012,
     "author": "Jeffrey Morgenthaler",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///amaretto-sour-jeffrey-morgenthaler.webp",

@@ -7,7 +7,7 @@
     "description": "An old school island drink with a beautiful presentation",
     "source": "https://tuxedono2.com/queens-park-swizzle-cocktail-recipe",
     "garnish": "mint sprig for garnish",
-    "abv": 19.46,
+    "abv": 19.64,
     "tags": [
         "Swizzle",
         "Tiki",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///queens-park-swizzle-1.webp",

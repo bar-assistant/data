@@ -8,13 +8,18 @@
     "source": "Douglas Ankrah, The Townhouse | London",
     "garnish": "Half a passion fruit on top",
     "abv": 16.36,
-    "tags": [],
+    "tags": [
+        "Citrusy",
+        "Fruity",
+        "Sweet"
+    ],
     "glass": "Coupe",
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 2002,
+    "author": "Douglas Ankrah",
+    "origin_bar": "The Townhouse",
     "images": [
         {
             "uri": "file:///porn-star-martini.webp",

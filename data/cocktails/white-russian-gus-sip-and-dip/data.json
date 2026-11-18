@@ -18,6 +18,7 @@
     "parent_cocktail_id": "white-russian",
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///white-russian-gus-sip-and-dip.webp",

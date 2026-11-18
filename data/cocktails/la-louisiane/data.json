@@ -7,7 +7,7 @@
     "description": "The La Louisiane cocktail is an improvement on the Sazerac! Absinthe, rye whiskey and vermouth make this spirit-forward cocktail a stunner.",
     "source": "https://www.acouplecooks.com/la-louisiane-cocktail/",
     "garnish": "Garnish with a Luxardo cherry.",
-    "abv": 28.93,
+    "abv": 29.43,
     "tags": [],
     "glass": "Cocktail",
     "method": "Stir",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///la-louisiane.webp",

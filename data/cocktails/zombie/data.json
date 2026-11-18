@@ -7,7 +7,7 @@
     "description": "It first appeared in late 1934, invented by Donn Beach at his Hollywood Don the Beachcomber restaurant. It was popularized on the East coast soon afterwards at the 1939 New York World's Fair.",
     "source": "https://iba-world.com/zombie/",
     "garnish": "Garnish with mint leaves.",
-    "abv": 23.39,
+    "abv": 22.72,
     "tags": [
         "Contemporary Classics",
         "IBA Cocktail",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///zombie.webp",

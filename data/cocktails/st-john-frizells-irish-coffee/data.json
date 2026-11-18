@@ -7,7 +7,7 @@
     "description": "The best Irish Coffee cocktail recipe, which won our tasting of variations on the drink, combines Irish whiskey, espresso and whipped cream.",
     "source": "https://punchdrink.com/recipes/st-john-frizells-irish-coffee/",
     "garnish": "freshly grated cinnamon",
-    "abv": 13.64,
+    "abv": 9.09,
     "tags": [
         "Coffee"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///st-john-frizells-irish-coffee.webp",

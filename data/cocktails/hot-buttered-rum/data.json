@@ -7,7 +7,7 @@
     "description": "At his NOLA bar, Jewel of the South, Chris Hannah relies on a number of flavored batters to kick up the Hot Buttered Rum cocktail recipe.",
     "source": "https://punchdrink.com/recipes/chris-hannahs-hot-buttered-rum/",
     "garnish": "cinnamon stick",
-    "abv": 33.33,
+    "abv": 14.29,
     "tags": [
         "Hot"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///hot-buttered-rum.webp",

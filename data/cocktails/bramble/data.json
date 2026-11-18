@@ -17,8 +17,9 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1985,
+    "author": "Dick Bradsell",
+    "origin_bar": "Fred's Club",
     "images": [
         {
             "uri": "file:///bramble.webp",

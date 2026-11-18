@@ -16,12 +16,13 @@
     "method": "Stir",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1923,
+    "author": "George Black",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///black-manhattan.webp",
-            "sort": 0,
+            "sort": 1,
             "placeholder_hash": "HkkKJwb8Z0eBjXeEhbdIZ3d3aQp4hnAG",
             "copyright": "Punch Staff | Lizzie Munro"
         }

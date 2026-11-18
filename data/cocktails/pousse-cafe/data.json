@@ -7,7 +7,7 @@
     "description": "A pousse-café is now a term for any multi-layered cocktail. The term originally seems to have been a general term for a mixture of liqueurs and/or spirits served after dinner, and most probably originated in France.",
     "source": null,
     "garnish": "Express a lemon twist over the drink and discard.",
-    "abv": 27.27,
+    "abv": 29.55,
     "tags": [
         "Sweet",
         "Classic"
@@ -18,24 +18,13 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
-            "uri": "file:///pousse-cafe-1.webp",
+            "uri": "file:///pousse-cafe.webp",
             "sort": 1,
             "placeholder_hash": "XQgKDwDPWIepina0dlqqZ5aHp4BGKEAH",
             "copyright": "AI (Gemini)"
-        },
-        {
-            "uri": "file:///pousse-cafe-2.webp",
-            "sort": 2,
-            "placeholder_hash": "KggKFwSyV5ifiXiHcrqXJ4h6lqIFKlcA",
-            "copyright": "Reddit@Shrykull1"
-        },
-        {
-            "uri": "file:///pousse-cafe-3.webp",
-            "sort": 3,
-            "placeholder_hash": "yjgGHwYNq3FUeHirahemeHi2+BfFflAM",
-            "copyright": "punchdrink"
         }
     ],
     "ingredients": [

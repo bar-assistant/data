@@ -8,13 +8,18 @@
     "source": "https://imbibemagazine.com/recipe/beet-it-a-mezcal-beet-cocktail/",
     "garnish": "Drops of olive oil",
     "abv": 13.47,
-    "tags": [],
+    "tags": [
+        "Savory",
+        "Citrusy",
+        "Smokey"
+    ],
     "glass": "Coupe",
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 2023,
+    "author": "Chris D'Apice",
+    "origin_bar": "Books & Records",
     "images": [
         {
             "uri": "file:///beet-it.webp",

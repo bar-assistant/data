@@ -7,7 +7,7 @@
     "description": "Mint and coconut are an excellent pairing that's underused in cocktails. This piña colada variant from Maison Premiere in Brooklyn employs mint in two ways in this boldly flavored cocktail.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/absinthe-colada",
     "garnish": "fresh mint",
-    "abv": 16,
+    "abv": 19.51,
     "tags": [
         "Tiki",
         "Summer",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///absinthe-colada.webp",

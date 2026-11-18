@@ -7,7 +7,7 @@
     "description": "Caffeinated alcoholic drink consisting of Irish whiskey, hot coffee, and sugar, stirred, and topped with cream (sometimes cream liqueur) The coffee is drunk through the cream.",
     "source": "https://iba-world.com/irish-coffee/",
     "garnish": null,
-    "abv": 8.26,
+    "abv": 8.08,
     "tags": [
         "Contemporary Classics",
         "IBA Cocktail",
@@ -20,6 +20,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///irish-coffee.webp",

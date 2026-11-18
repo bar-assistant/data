@@ -7,7 +7,7 @@
     "description": "Tyler Malone of Zasu New Orleans wanted to create a rum cocktail with depth and warmth, one that bridges the gap between Old Fashioned-style cocktails and tropical drinks—\"two worlds that don't often meet,\" he says. He succeeded by matching rum with the spice of rye whiskey and the richness of dark maple syrup. \"It’s a cocktail that feels both familiar and unexpected. Bold, layered, and easy to drink,” he says.",
     "source": "https://imbibemagazine.com/recipe/caribbean-ember-from-zasu-new-orleans/",
     "garnish": "Mint bouquet",
-    "abv": 21.58,
+    "abv": 13.04,
     "tags": [],
     "glass": "Highball",
     "method": "Shake",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///caribbean-ember.webp",

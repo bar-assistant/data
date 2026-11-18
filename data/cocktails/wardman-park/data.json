@@ -17,7 +17,8 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
-    "author": null,
+    "author": "",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///wardman-park.webp",
@@ -40,8 +41,8 @@
             "substitutes": []
         },
         {
-            "_id": "grape-brandy",
-            "name": "Grape Brandy",
+            "_id": "brandy",
+            "name": "Brandy",
             "sort": 2,
             "amount": 22.5,
             "units": "ml",

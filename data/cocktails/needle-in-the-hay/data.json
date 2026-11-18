@@ -7,7 +7,7 @@
     "description": "The Needle in the Hay was created by Los Angeles-based mixologist Devon Tarby. She was a contributor to the well known cocktail book, Cocktail Codex (from the authors and owners of Death & Co). This Islay whisky cocktail is what you would imagine a Autumn cocktail to be - smoky, sweet maple flavours and undertones of apple from the brandy.",
     "source": "https://stevethebartender.com.au/needle-in-the-hay-smoky-autumn-cocktail-recipe/",
     "garnish": "Garnish with a twist of lemon",
-    "abv": 30.43,
+    "abv": 30.51,
     "tags": [
         "Smokey",
         "Sweet"
@@ -18,6 +18,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///needle-in-the-hay.webp",

@@ -1,0 +1,95 @@
+{
+    "_id": "the-bainbridge",
+    "name": "The Bainbridge",
+    "instructions": "1. Build the orgeat, lime juice, pineapple juice, Amaro di Angostura, and aged rum in a shaker.\n2. Add ice and shake.\n3. Pour the contents into a glass.\n4. Top with more ice as needed.\n5. Garnish with frond, mint, lime wheel, and cherry.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A shaken tiki-style drink combining aged rum and Amaro di Angostura with orgeat, lime juice, and pineapple juice. It is citrusy and fruity with nutty and bittersweet accents.",
+    "source": "https://old.reddit.com/r/cocktails/comments/1xt98dv/the_bainbridge/",
+    "garnish": "Frond, mint, lime wheel, and cherry",
+    "abv": 17.14,
+    "tags": [
+        "Citrusy",
+        "Fruity",
+        "Nutty",
+        "Herbal",
+        "Tiki"
+    ],
+    "glass": null,
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": "Matt Pietrek",
+    "origin_bar": "",
+    "images": [
+        {
+            "uri": "file:///the-bainbridge.webp",
+            "sort": 1,
+            "placeholder_hash": "lhgWJwZnh3dwhnmIiXeXd4eHeFBXCIIE",
+            "copyright": "Reddit"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "orgeat-syrup",
+            "name": "Orgeat Syrup",
+            "sort": 1,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 2,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "pineapple-juice",
+            "name": "Pineapple juice",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "amaro-di-angostura",
+            "name": "Amaro di Angostura",
+            "sort": 4,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "brown-rum",
+            "name": "Brown Rum",
+            "sort": 5,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Bacardi 8",
+            "substitutes": []
+        }
+    ]
+}

@@ -7,7 +7,7 @@
     "description": null,
     "source": "https://botanica.hr/index.php?route=recipe/recipe&recipe_id=105",
     "garnish": "Dehydrated apple, rose bud",
-    "abv": 14.22,
+    "abv": 8.53,
     "tags": [],
     "glass": "Wine",
     "method": "Shake",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///smooth-kiss.webp",

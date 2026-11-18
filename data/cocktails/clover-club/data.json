@@ -10,14 +10,21 @@
     "abv": 14.22,
     "tags": [
         "IBA Cocktail",
-        "The Unforgettables"
+        "The Unforgettables",
+        "Fruity",
+        "Citrusy",
+        "Sweet",
+        "Sour",
+        "Creamy",
+        "Classic"
     ],
     "glass": "Coupe",
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1904,
+    "author": "Paul Lowe",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///clover-club.webp",
@@ -47,7 +54,7 @@
             "units": "ml",
             "optional": false,
             "is_specified": false,
-            "amount_max": 0,
+            "amount_max": null,
             "note": null,
             "substitutes": [
                 {

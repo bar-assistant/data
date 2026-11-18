@@ -10,14 +10,16 @@
     "abv": 20.58,
     "tags": [
         "Bitter",
-        "Herbal"
+        "Herbal",
+        "Negroni"
     ],
     "glass": "Coupe",
     "method": "Stir",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 2009,
+    "author": "Toby Maloney",
+    "origin_bar": "Violet Hour",
     "images": [
         {
             "uri": "file:///eeyores-requiem.webp",
@@ -30,7 +32,7 @@
         {
             "_id": "campari",
             "name": "Campari",
-            "sort": 0,
+            "sort": 1,
             "amount": 1.5,
             "units": "oz",
             "optional": false,
@@ -42,7 +44,7 @@
         {
             "_id": "vermouth-bianco",
             "name": "Vermouth Bianco",
-            "sort": 0,
+            "sort": 2,
             "amount": 1,
             "units": "oz",
             "optional": false,
@@ -54,7 +56,7 @@
         {
             "_id": "gin",
             "name": "Gin",
-            "sort": 0,
+            "sort": 3,
             "amount": 0.5,
             "units": "oz",
             "optional": false,
@@ -66,7 +68,7 @@
         {
             "_id": "cynar",
             "name": "Cynar",
-            "sort": 0,
+            "sort": 4,
             "amount": 0.25,
             "units": "oz",
             "optional": false,
@@ -78,7 +80,7 @@
         {
             "_id": "fernet-branca",
             "name": "Fernet Branca",
-            "sort": 0,
+            "sort": 5,
             "amount": 0.25,
             "units": "oz",
             "optional": false,
@@ -90,7 +92,7 @@
         {
             "_id": "orange-bitters",
             "name": "Orange bitters",
-            "sort": 0,
+            "sort": 6,
             "amount": 2,
             "units": "dash",
             "optional": false,

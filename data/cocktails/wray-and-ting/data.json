@@ -23,6 +23,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": "",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///wray-and-ting.webp",

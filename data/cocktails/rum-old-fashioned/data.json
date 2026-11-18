@@ -7,7 +7,7 @@
     "description": "The oldest recipe for this cocktail appeared in cocktail guides around 1860 and called for it to be made with gin. A couple of decades later it was made with bourbon, apparently by James E. Pepper, bartender and esteemed bourbon aristocrat, at the Pendennis Club in Louisville, Kentucky. You'll love how delicious the Old Fashioned tastes when made with Reserva Exclusiva. It almost seems like the foundation of the Old Fashioned was laid out with this rum in mind. An incredible mix of rich, bitter and citrusy makes our version of rum a choice for all fans of the old fashion.",
     "source": "https://rondiplomatico.com/cocktail-list/old-fashioned/",
     "garnish": "Orange peel",
-    "abv": 30.3,
+    "abv": 30.42,
     "tags": [
         "Old Fashioned"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///rum-old-fashioned.webp",

@@ -1,0 +1,96 @@
+{
+    "_id": "san-luis-sour",
+    "name": "San Luis Sour",
+    "instructions": "1. Combine all ingredients with ice in a shaker.\n2. Shake vigorously until well-chilled.\n3. Strain into a coupe glass.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A citrus-forward sour cocktail that balances the smoky profile of mezcal with bright lime and orange juices, sweetened with honey and cinnamon syrups for a complex yet refreshing finish.",
+    "source": "https://old.reddit.com/r/cocktails/comments/1w4bczl/7_original_cocktails_by_steve_the_bartender/",
+    "garnish": null,
+    "abv": 15.38,
+    "tags": [
+        "Citrusy",
+        "Smokey",
+        "Sour",
+        "Spicy",
+        "Sweet",
+        "Complex"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2026,
+    "author": "Steve The Bartender",
+    "origin_bar": null,
+    "images": [
+        {
+            "uri": "file:///san-luis-sour.webp",
+            "sort": 1,
+            "placeholder_hash": "3BgKFwJAiId7eIeYhmd3SHaFtvI5Tp8D",
+            "copyright": "AI (Gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "sort": 1,
+            "amount": 60,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 2,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-juice",
+            "name": "Orange juice",
+            "sort": 3,
+            "amount": 0.75,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "honey-syrup",
+            "name": "Honey Syrup",
+            "sort": 4,
+            "amount": 0.33,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "3:1",
+            "substitutes": []
+        },
+        {
+            "_id": "cinnamon-syrup",
+            "name": "Cinnamon syrup",
+            "sort": 5,
+            "amount": 0.33,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

@@ -7,7 +7,7 @@
     "description": "It’s basically a Skeleton Key with white rum instead of whiskey.",
     "source": null,
     "garnish": null,
-    "abv": 17.69,
+    "abv": 11.06,
     "tags": [
         "Refreshing",
         "Sour",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///room-key.webp",

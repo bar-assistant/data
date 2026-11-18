@@ -7,7 +7,7 @@
     "description": "The cocktail was created in honor of the 1884 musical Adonis after the show reached the milestone of more than 500 shows on Broadway.",
     "source": "https://en.wikipedia.org/wiki/Adonis_(cocktail)",
     "garnish": "Orange zest and peel",
-    "abv": 14.44,
+    "abv": 14.51,
     "tags": [
         "Wine"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///adonis.webp",

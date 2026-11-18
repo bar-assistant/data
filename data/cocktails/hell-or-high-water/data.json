@@ -1,0 +1,119 @@
+{
+    "_id": "hell-or-high-water",
+    "name": "Hell or High Water",
+    "instructions": "1. Shake all of the ingredients without ice until foamy, then add ice and shake again to chill.\n2. Strain into a chilled glass, and express the oils from an orange twist over the drink (then discard the twist).",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A Teardrop Lounge standard since 2010, this delicate whiskey sour is brushed with the flavors of peach liqueur and honey.",
+    "source": "https://imbibemagazine.com/recipe/hell-or-high-water-irish-whiskey-sour/",
+    "garnish": "Orange twist",
+    "abv": 17.92,
+    "tags": [
+        "Citrusy",
+        "Sweet",
+        "Fruity",
+        "Herbal",
+        "Sour"
+    ],
+    "glass": "Coupe",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2010,
+    "author": "Sean Hoard",
+    "origin_bar": "Teardrop Lounge",
+    "images": [
+        {
+            "uri": "file:///hell-or-high-water.webp",
+            "sort": 1,
+            "placeholder_hash": "FwgKFwIn1og9eYmBiwe7SJqIumAXD5YC",
+            "copyright": "Imbibe Magazine"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "irish-whiskey",
+            "name": "Irish whiskey",
+            "sort": 1,
+            "amount": 1.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "dry-vermouth",
+            "name": "Dry Vermouth",
+            "sort": 2,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "egg-white",
+            "name": "Egg White",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "pasteurized if you like",
+            "substitutes": []
+        },
+        {
+            "_id": "peach-liqueur",
+            "name": "Peach liqueur",
+            "sort": 5,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "benedictine",
+            "name": "Bénédictine",
+            "sort": 6,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "honey",
+            "name": "Honey",
+            "sort": 7,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

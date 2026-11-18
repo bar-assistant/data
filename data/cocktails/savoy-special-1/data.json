@@ -7,7 +7,7 @@
     "description": "For those who find martinis overly dry, this variation incorporates a hint of grenadine to craft a smoother and well-balanced flavor profile.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/savoy-special-1",
     "garnish": "orange twist",
-    "abv": 25.53,
+    "abv": 26.14,
     "tags": [
         "Sweet"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///savoy-special-1.webp",

@@ -17,18 +17,13 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1916,
+    "author": "Hugo R. Ensslin",
+    "origin_bar": "",
     "images": [
         {
-            "uri": "file:///aviation-1.webp",
+            "uri": "file:///aviation.webp",
             "sort": 1,
-            "placeholder_hash": "7vcFHwJ5OZhQa3aal4eHZlh8SEz+QtkP",
-            "copyright": "The Spruce Eats / Cara Cormack"
-        },
-        {
-            "uri": "file:///aviation-2.webp",
-            "sort": 2,
             "placeholder_hash": "+wcGBwLzbLqna3O7WDRjm2isN3++BnwG",
             "copyright": "Food and Wine"
         }

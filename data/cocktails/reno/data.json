@@ -7,7 +7,7 @@
     "description": "The story which inspired this cocktail took place during WWII on 21st April 1945, when the allied forces planned to retake Bologna. Polish, English, American and French troops helped Italian partisans to capture the city in a very unusual battlefield, a river called Reno. I used ingredients that remind me of the forces involved in the battle. Amaro Montenegro symbolises the city. Cocchi Americano to celebrate the partisan's movement born in Asti. Italicus represents braveness. And finally, Suze, this sophisticated liqueur de gentian, used to remember the aid received by the allies. Without this strong bitter touch, my cocktail wouldn't be the same, and the battle wouldn't have been won!",
     "source": "https://www.diffordsguide.com/cocktails/recipe/4676/reno",
     "garnish": "Garnish with scorched lemon wedge.",
-    "abv": 15.06,
+    "abv": null,
     "tags": [
         "Bitter",
         "Herbacious",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": 2018,
     "author": "Giorgio Ferrarese",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///reno.webp",

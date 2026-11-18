@@ -18,8 +18,9 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1983,
+    "author": "Dick Bradsell",
+    "origin_bar": "Soho Brasserie",
     "images": [
         {
             "uri": "file:///espresso-martini.webp",

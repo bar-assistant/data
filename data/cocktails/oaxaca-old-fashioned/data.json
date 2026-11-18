@@ -7,7 +7,7 @@
     "description": "A Mexican-accented Old Fashioned riff, created by Phil Ward, mixes reposado tequila with mezcal and mole bitters.",
     "source": "https://imbibemagazine.com/recipe/oaxaca-old-fashioned-recipe/",
     "garnish": "orange twist",
-    "abv": 29.63,
+    "abv": 29.76,
     "tags": [
         "Old Fashioned",
         "Smokey"
@@ -18,6 +18,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///oaxaca-old-fashioned-1.webp",

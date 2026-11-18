@@ -7,7 +7,7 @@
     "description": "Transforming the classic, equal-parts Last Word into a refreshing spritz, this recipe replaces gin and lengthens the drink with soda water. “It’s light, bright, and herbaceous, with a touch of sweetness from the cherry liqueur,” says Danny Webber, general manager at aperitivo bar Capri Club in LA’s Eagle Rock neighborhood. “It’s a great lighter cocktail for warm afternoons.”",
     "source": "https://imbibemagazine.com/recipe/the-last-spritz/",
     "garnish": "Cherry",
-    "abv": 26.36,
+    "abv": 15.82,
     "tags": [
         "Dessert"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///the-last-spritz.webp",

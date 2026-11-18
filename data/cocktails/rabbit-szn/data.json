@@ -7,7 +7,7 @@
     "description": "Blanco tequila, lime juice, ginger syrup and a float of sweet vermouth make up this bubbly, easy cocktail recipe.",
     "source": "https://punchdrink.com/recipes/rabbit-szn/",
     "garnish": "spring of mint",
-    "abv": 15.77,
+    "abv": 10.04,
     "tags": [
         "Herbacious",
         "Sour",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///rabbit-szn.webp",

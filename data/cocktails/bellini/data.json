@@ -17,20 +17,15 @@
     "method": "Stir",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1945,
+    "author": "Giuseppe Cipriani",
+    "origin_bar": "Harry's Bar",
     "images": [
         {
-            "uri": "file:///bellini-1.webp",
+            "uri": "file:///bellini.webp",
             "sort": 1,
-            "placeholder_hash": "LjkKHwhiVWN8V3WfhpmnaYd6lyQEaFMA",
-            "copyright": "Olive & Mango"
-        },
-        {
-            "uri": "file:///bellini-2.webp",
-            "sort": 2,
-            "placeholder_hash": "cjkGHwL8I552aZd7hbloiXhqWdAXBH8A",
-            "copyright": "OliveMagazine"
+            "placeholder_hash": "4xgOFwKfmWiQinh7emaKeHhod8IIBo4A",
+            "copyright": "AI (gemini)"
         }
     ],
     "ingredients": [

@@ -7,7 +7,7 @@
     "description": "First published in 1951 in Charles H. Baker Jr.’s The South American Gentleman’s Companion, the Spanish Monk combines gin, lemon, green Chartreuse, simple syrup and an egg white. Nick Flower learned the recipe at New York’s Little Branch, and he now serves the classic at his bar Too Soon in Portland, Oregon.",
     "source": "https://punchdrink.com/recipes/spanish-monk/",
     "garnish": null,
-    "abv": 16.47,
+    "abv": 21.54,
     "tags": [
         "Citrusy",
         "Classic",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": 1951,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///spanish-monk.webp",

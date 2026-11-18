@@ -7,7 +7,7 @@
     "description": "Gary Wallach, partner of Lindens NYC, infuses vodka with one of his favorite herbs, sage, for his take on the Gibson cocktail. \"I wanted to craft a cocktail that was an ode to the enduring harvest of the colder months,\" he said.",
     "source": "https://imbibemagazine.com/recipe/sage-gibson-cocktail/",
     "garnish": "Pickled onion and fresh sage leaf",
-    "abv": 7.78,
+    "abv": 24.44,
     "tags": [
         "Herbal",
         "Citrusy",
@@ -20,6 +20,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///sage-gibson.webp",

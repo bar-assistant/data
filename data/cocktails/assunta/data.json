@@ -7,7 +7,7 @@
     "description": "Since every cocktail at Saint Theo's is a nod to an Italian name, ingredient, or garnish, beverage director Simon Sebbah transformed the Moscow Mule into an Italian Mule by sweetening it with amaretto.",
     "source": "https://imbibemagazine.com/recipe/assunta-an-italian-mule/",
     "garnish": "Lime wedge",
-    "abv": 21.03,
+    "abv": 13.38,
     "tags": [],
     "glass": "Highball",
     "method": "Shake",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///assunta.webp",

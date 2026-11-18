@@ -7,7 +7,7 @@
     "description": "With roots dating back to 19th-century New Orleans, the Blackthorn cocktail is one of the few classics to highlight Irish whiskey. Here's how they make it at Lazy Bird in Chicago.",
     "source": "https://imbibemagazine.com/recipe/blackthorn-cocktail/",
     "garnish": "Lemon twist",
-    "abv": 27.31,
+    "abv": 27.36,
     "tags": [],
     "glass": "Lowball",
     "method": "Stir",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///blackthorn.webp",

@@ -7,7 +7,7 @@
     "description": "First featured on an early menu at the Violet Hour in Chicago, Stephen Cole's Bitter Giuseppe cocktail has become a modern classic over the years, with iterations popping up on menus at places like Cure in New Orleans, Elske and Ludlow Liquors in Chicago.",
     "source": "https://imbibemagazine.com/recipe/bitter-giuseppe-cocktail/",
     "garnish": "Lemon peel",
-    "abv": 13.08,
+    "abv": 13.27,
     "tags": [
         "Bitter"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///bitter-giuseppe.webp",

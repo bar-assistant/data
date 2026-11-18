@@ -1,0 +1,105 @@
+{
+    "_id": "camparajillo",
+    "name": "Camparajillo",
+    "instructions": "1. Add all of the ingredients to a mixing glass with ice, then stir until chilled, about 20 seconds.\n2. Pour into a glass over a large ice cube.\n3. Express then orange twist over the cocktail and discard. Garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Red Fox in Boston's North End combines two beloved classics—the Negroni and the Carajillo—to create the Camparajillo. Still-strength blanco tequila and mezcal give the coffee cocktail a boozy agave backbone.",
+    "source": "https://imbibemagazine.com/recipe/camparajillo/",
+    "garnish": "Single espresso bean",
+    "abv": 22.08,
+    "tags": [
+        "Negroni",
+        "Bitter",
+        "Coffee"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": "Emilio Avila",
+    "origin_bar": "Red Fox",
+    "images": [
+        {
+            "uri": "file:///camparajillo.webp",
+            "sort": 1,
+            "placeholder_hash": "p3kKFwrnanl/Z2eHlJl4aIiHpxB4CXQE",
+            "copyright": "Imbibe Magazine | Kelly Puleio"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "sort": 0,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "coffee-liqueur",
+            "name": "Coffee liqueur",
+            "sort": 0,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "licor-43",
+            "name": "Licor 43",
+            "sort": 0,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 0,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "tequila-blanco",
+            "name": "Tequila Blanco",
+            "sort": 0,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "sort": 0,
+            "amount": 0.25,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

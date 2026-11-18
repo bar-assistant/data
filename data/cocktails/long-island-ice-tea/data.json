@@ -7,7 +7,7 @@
     "description": "The cocktail has been criticized for its large number of ingredients, making it cumbersome to prepare in busy bars. It is considered a favorite of university students in the United States and it has thus garnered negative connotations as \"an act of mixological atrocity favored by college students and wastrels\", in the words of one food critic.",
     "source": "https://iba-world.com/long-island-ice-tea/",
     "garnish": "Lemon Slice (Optional)",
-    "abv": 21.82,
+    "abv": 14.74,
     "tags": [
         "Contemporary Classics",
         "IBA Cocktail"
@@ -18,6 +18,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///long-island-ice-tea.webp",

@@ -7,7 +7,7 @@
     "description": "This cocktail was invented by Harry Johnson, \"the father of professional bartending\", who called it bijou because it combined the colors of three jewels: gin for diamond, vermouth for ruby, and chartreuse for emerald.",
     "source": "https://en.wikipedia.org/wiki/Bijou_(cocktail)",
     "garnish": "Maraschino cherry",
-    "abv": 30.58,
+    "abv": 30.53,
     "tags": [
         "Herbacious",
         "Floral"
@@ -16,8 +16,9 @@
     "method": "Stir",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1890,
+    "author": "Harry Johnson",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///bijou.webp",

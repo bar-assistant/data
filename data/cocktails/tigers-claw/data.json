@@ -7,7 +7,7 @@
     "description": "Tiger’s Claw is an easy tropical cocktail recipe made with reposado tequila, pineapple, lime, coffee liqueur and orange bitters.",
     "source": "https://punchdrink.com/recipes/tigers-claw/",
     "garnish": "orange half slice, mint sprig",
-    "abv": 16.69,
+    "abv": 14.43,
     "tags": [
         "Tropical",
         "Sweet",
@@ -22,6 +22,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": "Erick Castro",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///tigers-claw.webp",

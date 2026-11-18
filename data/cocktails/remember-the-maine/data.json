@@ -7,7 +7,7 @@
     "description": "This rye-based cocktail recipe has an ingredient list that’s part Sazerac, part Manhattan and has a grandiose backstory to boot.",
     "source": "https://punchdrink.com/recipes/remember-the-maine/",
     "garnish": "brandied cherry (preferably Luxardo)",
-    "abv": 27.18,
+    "abv": 27.23,
     "tags": [],
     "glass": "Nick and Nora",
     "method": "Stir",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///remember-the-maine.webp",

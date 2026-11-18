@@ -7,7 +7,7 @@
     "description": "The story of the Americano dates back to the second half of the 1800s in Gaspare Campari’s bar in Milan.  Over the years the cocktail acquires notoriety thanks to some homages from the world of cinema, including James Bond (007 Casino Royale) whose favorite cocktail was, precisely, the Americano.\n\nThe nickname “American” was born when Primo Carnera, a giant Italian boxer, became world heavyweight champion at Madison Square Garden in New York.  When Carnera returned to Italy with the title, he was greeted with this very Italian cocktail which, for the occasion, was called “Americano”.\n\nThe Americano entered the IBA Cocktail List only in 1987 but, in reality, it was a cocktail that spread all over Italy during the 1930s.",
     "source": "https://iba-world.com/americano/",
     "garnish": "Garnish with half orange slice and a lemon zest.",
-    "abv": 19.55,
+    "abv": 9.77,
     "tags": [
         "IBA Cocktail",
         "The Unforgettables",
@@ -17,8 +17,9 @@
     "method": "Build",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1920,
+    "author": "",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///americano.webp",

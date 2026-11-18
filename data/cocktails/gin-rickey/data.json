@@ -7,7 +7,7 @@
     "description": "Andra \"AJ\" Johnson created this juicy, aromatic Gin Rickey cocktail recipe while consulting for a Mediterranean restaurant.",
     "source": "https://punchdrink.com/recipes/andra-aj-johnsons-gin-rickey/",
     "garnish": "straw, lemon and lime ribbons, fresh basil",
-    "abv": 18.29,
+    "abv": 11.64,
     "tags": [
         "Citrusy",
         "Refreshing",
@@ -19,7 +19,8 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
-    "author": null,
+    "author": "Andra Johnson",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///gin-rickey.webp",
@@ -54,8 +55,8 @@
             "substitutes": []
         },
         {
-            "_id": "simple-syrup",
-            "name": "Simple Syrup",
+            "_id": "citrus-basil-syrup",
+            "name": "Citrus-Basil Syrup",
             "sort": 3,
             "amount": 22.5,
             "units": "ml",

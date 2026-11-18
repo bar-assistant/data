@@ -1,0 +1,58 @@
+{
+    "_id": "refajo",
+    "name": "Refajo",
+    "instructions": "1. Add beer and soda to an ice-filled Collins glass and stir gently.\n2. Garnish with an orange slice.\n\nIf you can't find Colombiana, try swapping it for Inca Kola, a Peruvian soda that tends to be easier to find outside of South America with a similar taste.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Refajo is a classic Colombian cocktail recipe. It combines pale lager, Colombiana or Inca Kola soda, and fresh fruit.",
+    "source": "https://punchdrink.com/recipes/refajo/",
+    "garnish": "orange slice (optional)",
+    "abv": 1.67,
+    "tags": [
+        "Fruity",
+        "Sweet",
+        "Refreshing",
+        "Citrusy"
+    ],
+    "glass": "Highball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": "",
+    "origin_bar": "",
+    "images": [
+        {
+            "uri": "file:///refajo.webp",
+            "sort": 1,
+            "placeholder_hash": "sTkKRwj2WFiqhnhodamHiHd5iGBHCHYF",
+            "copyright": "Punch Staff | Lizzie Munro"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "beer",
+            "name": "Beer",
+            "sort": 1,
+            "amount": 8,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Pale lager",
+            "substitutes": []
+        },
+        {
+            "_id": "cola",
+            "name": "Cola",
+            "sort": 2,
+            "amount": 8,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Colombiana or Inca Kola",
+            "substitutes": []
+        }
+    ]
+}

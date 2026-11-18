@@ -7,7 +7,7 @@
     "description": "The Japanese cocktail is notorious for a handful of things: it's a very old cocktail, published in Jerry Thomas’s landmark 1862 book How to Mix Drinks; it was the first mixed drink to be named something other than “Whiskey Cocktail”, “Brandy Cocktail”, or some other similarly obvious epithet; it might be the only cocktail Thomas invented himself; and finally, it was the first cocktail to feature more than a dash of a fancy sweetener, orgeat.",
     "source": null,
     "garnish": "Lemon peel",
-    "abv": 26.67,
+    "abv": 26.75,
     "tags": [
         "Brandy"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///japanese-cocktail.webp",

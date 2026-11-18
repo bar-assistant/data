@@ -19,6 +19,7 @@
     "parent_cocktail_id": "bijou",
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///bijou-blanc.webp",

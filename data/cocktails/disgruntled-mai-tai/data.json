@@ -18,6 +18,7 @@
     "parent_cocktail_id": "mai-tai",
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///disgruntled-mai-tai.webp",

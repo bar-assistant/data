@@ -7,7 +7,7 @@
     "description": "A Southside that honors the legacy of Baltimore's Black bartenders.",
     "source": "https://punchdrink.com/recipes/aaron-josephs-southside/",
     "garnish": "mint bouquet, lemon wheel or dehydrated lemon wheel",
-    "abv": 18.29,
+    "abv": 11.64,
     "tags": [
         "Citrusy"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///baltimore-southside.webp",

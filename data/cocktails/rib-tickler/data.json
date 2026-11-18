@@ -7,7 +7,7 @@
     "description": "Created by Alex Day, Nitecap, NYC.This drink was born out of the idea to create a more sippable, bubbly White Negroni (which is Suze, gin, and Lillet Blanc or blanc vermouth).",
     "source": "https://stevethebartender.com.au/st-germain-white-negroni-recipe/",
     "garnish": "Garnish with a grapefruit wedge",
-    "abv": 13.09,
+    "abv": 8.33,
     "tags": [],
     "glass": "Wine",
     "method": "Shake",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///rib-tickler.webp",

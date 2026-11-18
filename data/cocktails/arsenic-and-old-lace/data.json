@@ -7,7 +7,7 @@
     "description": "The Arsenic and Old Lace is a Martini cocktail recipe made with gin, absinthe, dry vermouth, crème de violette and Angostura bitters.",
     "source": "https://punchdrink.com/recipes/arsenic-and-old-lace/",
     "garnish": "lemon twist",
-    "abv": 25.58,
+    "abv": 27.06,
     "tags": [
         "Citrusy",
         "Herbal",
@@ -21,6 +21,7 @@
     "parent_cocktail_id": null,
     "year": 1941,
     "author": "Crosby Gaige",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///arsenic-and-old-lace.webp",

@@ -8,13 +8,19 @@
     "source": "https://www.liquor.com/recipes/the-bee-sting/",
     "garnish": null,
     "abv": 31.4,
-    "tags": [],
+    "tags": [
+        "Smokey",
+        "Bitter",
+        "Herbal",
+        "Sweet"
+    ],
     "glass": "Lowball",
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
-    "author": null,
+    "author": "Jonathan Pogash",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///bee-sting.webp",
@@ -63,7 +69,7 @@
         {
             "_id": "egg-white",
             "name": "Egg White",
-            "sort": 5,
+            "sort": 4,
             "amount": 1,
             "units": "ml",
             "optional": false,
@@ -75,7 +81,7 @@
         {
             "_id": "peychauds-bitters",
             "name": "Peychauds Bitters",
-            "sort": 6,
+            "sort": 5,
             "amount": 3,
             "units": "dash",
             "optional": false,

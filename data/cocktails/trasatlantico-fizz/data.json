@@ -7,7 +7,7 @@
     "description": "World-renowned bar and Imbibe 75 Place to Watch, Florería Atlántico in Buenos Aires, combines winter citrus in a bright and easy-drinking gin fizz. The cocktail, created in 2013 for the bar's opening menu, \"is a tribute to the immigration that came crossing the Atlantic by boat to the port of Buenos Aires,\" says drink creator Renato Giovannoni.",
     "source": "https://imbibemagazine.com/recipe/trasatlantico-fizz-from-floreria-atlantico/",
     "garnish": "Orange wedge and spritz of peated scotch",
-    "abv": 13.93,
+    "abv": 9.61,
     "tags": [
         "Citrusy",
         "Bright",
@@ -20,6 +20,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///trasatlantico-fizz.webp",

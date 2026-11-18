@@ -7,7 +7,7 @@
     "description": "A cross between a classic bourbon sour and a tiki drink",
     "source": "https://tuxedono2.com/halekulani-cocktail-recipe",
     "garnish": "pineapple wedge, citrus wheel, or pineapple fronds, for garnish",
-    "abv": 13.78,
+    "abv": 13.16,
     "tags": [
         "Tiki"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///halekulani.webp",

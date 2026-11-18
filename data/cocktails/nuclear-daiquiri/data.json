@@ -17,6 +17,7 @@
     "parent_cocktail_id": "daiquiri",
     "year": 2005,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///nuclear-daiquiri.webp",

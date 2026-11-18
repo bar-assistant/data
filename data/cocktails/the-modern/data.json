@@ -1,0 +1,108 @@
+{
+    "_id": "the-modern",
+    "name": "The Modern",
+    "instructions": "1. Combine sugar and lemon juice in a cocktail shaker.\n2. Stir until the sugar dissolves.\n3. Add the remaining ingredients to the shaker.\n4. Add ice and shake until chilled.\n5. Double strain into a chilled cocktail glass.\n6. Garnish with a lemon twist, a lime twist, and skewered cherries.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Modern is a Scotch and sloe gin cocktail with lemon, sugar, absinthe, and orange bitters. It balances warming malt and oak notes with sweet-tart fruitiness, aniseed, and citrus accents.",
+    "source": "https://www.grouchy-bartender.com/cocktails/the-modern",
+    "garnish": "Lemon twist, lime twist, and cocktail cherries",
+    "abv": 29.56,
+    "tags": [
+        "Fruity",
+        "Sour",
+        "Sweet",
+        "Herbal",
+        "Complex",
+        "Classic"
+    ],
+    "glass": "Nick and Nora",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": "Charlie Mahoney",
+    "origin_bar": "Hoffman House",
+    "images": [
+        {
+            "uri": "file:///the-modern.webp",
+            "sort": 1,
+            "placeholder_hash": "YBgSFwS/eXeJeXd5dnd4V4d3aWB4BYQE",
+            "copyright": "AI (gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "lemon-juice",
+            "name": "Lemon juice",
+            "sort": 1,
+            "amount": 7.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sugar",
+            "name": "Sugar",
+            "sort": 2,
+            "amount": 4,
+            "units": "g",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "scotch-whiskey",
+            "name": "Scotch whiskey",
+            "sort": 3,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Preferably Johnnie Walker Black Label",
+            "substitutes": []
+        },
+        {
+            "_id": "sloe-gin",
+            "name": "Sloe Gin",
+            "sort": 4,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "absinthe",
+            "name": "Absinthe",
+            "sort": 5,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 6,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

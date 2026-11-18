@@ -1,0 +1,82 @@
+{
+    "_id": "la-vida-buena",
+    "name": "La Vida Buena",
+    "instructions": "1. Combine all the ingredients, except the garnish, in a mixing glass filled with ice and stir until well chilled.\n2. Strain into a rocks glass over one large ice cube.\n3. Garnish with the orange peel.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Steve Olson and his team at aka wine geek developed La Vida Buena for Del Maguey VIDA, turning an early mezcal Negroni idea into a formula that later traveled widely on bar menus. The title means “the good life,” and the drink earns it with a relaxed balance: roasted agave and smoke lead, Aperol keeps the bitterness bright rather than stern, and rich vermouth rounds the edges with vanilla and dark spice. Orange oil ties the aromas together over a large cube. It is bold, yet unusually easygoing for a spirit-forward mezcal drink.",
+    "source": "https://delmaguey.com/recipes/la-vida-buena-2/",
+    "garnish": "orange peel",
+    "abv": 22.71,
+    "tags": [
+        "Negroni",
+        "Smokey",
+        "Bitter",
+        "Citrusy"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": "Steve Olson",
+    "origin_bar": null,
+    "images": [
+        {
+            "uri": "file:///la-vida-buena.webp",
+            "sort": 1,
+            "placeholder_hash": "IUkOLwrahFiPdmZYladoaHd2hkBXB4MF",
+            "copyright": "delmaguey.com"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Del Maguey Vida Single Village",
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 2,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Carpano Antica",
+            "substitutes": []
+        },
+        {
+            "_id": "aperol",
+            "name": "Aperol",
+            "sort": 3,
+            "amount": 22.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 4,
+            "amount": 3,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

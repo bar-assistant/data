@@ -1,0 +1,104 @@
+{
+    "_id": "barrel-finished-la-louisiane",
+    "name": "Barrel-finished La Louisiane",
+    "instructions": "1. Measure all ingredients except water and stir to combine.\n2. Store in a seasoned oak barrel for 1-5 days, tasting daily.\n3. Add the water.\n4. Transfer to a bottle.\n5. Store in the freezer before serving.\n6. Pour into a chilled cocktail glass.\n7. Garnish with a lemon twist.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "This batched version of the New Orleans classic highlights the herbal interplay between rye and Benedictine. The addition of water ensures the cocktail is properly diluted and ready to serve straight from the freezer. It is a spirit-forward pour with a lingering anise finish from the bitters and absinthe.",
+    "source": "https://app.stevethebartender.com.au/recipe/barrel-finished-la-louisiane",
+    "garnish": "Lemon twist",
+    "abv": 24.96,
+    "tags": [
+        "Herbal",
+        "Batch"
+    ],
+    "glass": null,
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": "la-louisiane",
+    "year": 2026,
+    "author": "Steve The Bartender",
+    "origin_bar": "",
+    "images": [
+        {
+            "uri": "file:///barrel-finished-la-louisiane.webp",
+            "sort": 1,
+            "placeholder_hash": "1ygGDwLur740i7ZveXaoN2eITCBmBnIE",
+            "copyright": "AI (gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "rye-whiskey",
+            "name": "Rye whiskey",
+            "sort": 1,
+            "amount": 425,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 2,
+            "amount": 160,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "benedictine",
+            "name": "Bénédictine",
+            "sort": 3,
+            "amount": 160,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "absinthe",
+            "name": "Absinthe",
+            "sort": 4,
+            "amount": 8,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "peychauds-bitters",
+            "name": "Peychauds Bitters",
+            "sort": 5,
+            "amount": 8,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "water",
+            "name": "Water",
+            "sort": 6,
+            "amount": 135,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

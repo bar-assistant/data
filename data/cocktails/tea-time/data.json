@@ -7,7 +7,7 @@
     "description": "Fruity, spicy, and tea-infused elements converge to create a truly unique and delicious non-alcoholic cocktail!",
     "source": "https://www.liberandcompany.com/products/tea-time",
     "garnish": "mint",
-    "abv": 0.25,
+    "abv": 0.15,
     "tags": [
         "Virgin"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///tea-time.webp",

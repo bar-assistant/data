@@ -1,0 +1,70 @@
+{
+    "_id": "scorched-earth-2",
+    "name": "Scorched Earth",
+    "instructions": "1. Stir with ice.\n2. Strain into a coupe glass.\n3. Garnish with a lemon twist.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Scorched Earth is a Cognac-based, spirits-forward cocktail created by Nicholas Hearin at Restaurant Eugene in Atlanta circa 2006. It resembles a brandy Little Italy, with lemon, grape, and rich Cognac aromas, grape and caramel on the sip, and brandy and funky herbal flavors on the swallow.",
+    "source": "https://cocktailvirgin.blogspot.com/2026/10/scorched-earth.html",
+    "garnish": "Lemon twist",
+    "abv": 27.01,
+    "tags": [
+        "Herbal",
+        "Bitter",
+        "Sweet",
+        "Fruity"
+    ],
+    "glass": null,
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": "Nicholas Hearin",
+    "origin_bar": "Restaurant Eugene, Atlanta",
+    "images": [
+        {
+            "uri": "file:///scorched-earth-2.webp",
+            "sort": 1,
+            "placeholder_hash": "nSgKDwKApoell3a5duiY6GVUwvCjCk4L",
+            "copyright": "AI (gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "cognac",
+            "name": "Cognac",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Courvoisier VS",
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 2,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Cocchi",
+            "substitutes": []
+        },
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

@@ -7,7 +7,7 @@
     "description": "This simple aperitivo cocktail offers layers of flavor from Melbourne's Pendant Public Bar.",
     "source": "https://imbibemagazine.com/recipe/backlash-tonic-aperitivo-cocktail/",
     "garnish": "Grapefruit twist",
-    "abv": 7.13,
+    "abv": 7.24,
     "tags": [
         "Bitter",
         "Briny",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///backlash-tonic.webp",

@@ -7,7 +7,7 @@
     "description": "If requested served with ice, pour into highball glass.",
     "source": "https://iba-world.com/bloody-mary/",
     "garnish": "Celery, Lemon Wedge (Optional)",
-    "abv": 10.89,
+    "abv": 10.84,
     "tags": [
         "Contemporary Classics",
         "IBA Cocktail",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///bloody-mary.webp",

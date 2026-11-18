@@ -7,7 +7,7 @@
     "description": "Blanc vermouth lends an herbaceous base to this elegant mix from Sother Teague. “Make it a Royale by substituting Champagne” for the soda water, Teague suggests.",
     "source": "https://imbibemagazine.com/recipe/parisian-dispatch-a-blanc-vermouth-cocktail/",
     "garnish": "Fresh mint",
-    "abv": 8.44,
+    "abv": 9.42,
     "tags": [],
     "glass": "Highball",
     "method": "Build",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///parisian-dispatch.webp",

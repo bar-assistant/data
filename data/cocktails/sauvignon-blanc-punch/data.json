@@ -7,7 +7,7 @@
     "description": "This vibrant white wine meets its perfect match, Aperol, in Alex Day’s epic punch recipe.",
     "source": "https://www.liquor.com/recipes/nz-sauvignon-blanc-punch/",
     "garnish": null,
-    "abv": 6.48,
+    "abv": 4.56,
     "tags": [
         "Refreshing",
         "Citrusy",
@@ -22,6 +22,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///sauvignon-blanc-punch.webp",

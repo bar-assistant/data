@@ -7,7 +7,7 @@
     "description": "The Countermand is a mini reverse Martini cocktail recipe served at the NYC restaurant Somssi. It's made with gin, maraschino and absinthe.",
     "source": "https://punchdrink.com/recipes/countermand/",
     "garnish": "expressed and discarded lemon peel",
-    "abv": 23.99,
+    "abv": 16.25,
     "tags": [
         "Citrusy",
         "Herbal",
@@ -21,6 +21,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": "Christian Gray",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///countermand.webp",

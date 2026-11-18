@@ -7,7 +7,7 @@
     "description": "Don’s Mai Tai is a tiki cocktail recipe originally from Don the Beachcomber. The tropical drink combines rum, absinthe, grapefruit and more.",
     "source": "https://punchdrink.com/recipes/dons-mai-tai/",
     "garnish": "brandied cherry, lime wedge, fresh mint",
-    "abv": 13.82,
+    "abv": 13.9,
     "tags": [
         "Tiki"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": "mai-tai",
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///dons-mai-tai.webp",

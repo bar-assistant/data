@@ -9,14 +9,16 @@
     "garnish": "orange twist",
     "abv": 10.98,
     "tags": [
-        "Tiki"
+        "Tiki",
+        "Citrusy"
     ],
     "glass": "Highball",
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 2011,
+    "author": "Jeffrey Morgenthaler",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///kingston-club.webp",

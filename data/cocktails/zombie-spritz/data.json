@@ -7,7 +7,7 @@
     "description": "At Dante's, this low-ABV spritz tangles with the Zombie's famously layered build for a cocktail recipe that feels firmly rooted to both.",
     "source": "https://punchdrink.com/recipes/zombie-spritz/",
     "garnish": "dehydrated grapefruit slice, fresh mint, cocktail umbrella (optional) ",
-    "abv": 12.46,
+    "abv": 12.8,
     "tags": [
         "Spritz",
         "Citrusy",
@@ -20,6 +20,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///zombie-spritz.webp",

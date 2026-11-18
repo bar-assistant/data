@@ -7,7 +7,7 @@
     "description": "The Mickey Finn is a classic stirred cocktail recipe combining navy-strength dry gin, vermouth, absinthe and crème de menthe.",
     "source": "https://punchdrink.com/recipes/mickey-finn/",
     "garnish": null,
-    "abv": 34.58,
+    "abv": 36.67,
     "tags": [
         "Herbal",
         "Minty"
@@ -18,6 +18,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///mickey-finn.webp",

@@ -7,7 +7,7 @@
     "description": "The El Presidente earned its acclaim in Havana during the 1920s through the 1940s during the American Prohibition. It quickly became the preferred drink of the Cuban upper class.",
     "source": "https://www.liquor.com/recipes/el-presidente/",
     "garnish": null,
-    "abv": 26.17,
+    "abv": 24.53,
     "tags": [],
     "glass": "Cocktail",
     "method": "Stir",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///el-presidente.webp",

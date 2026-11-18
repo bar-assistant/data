@@ -7,7 +7,7 @@
     "description": "This version of the classic Garibaldi cocktail recipe dials back the Campari and tops all with prosecco, turning the classic into a spritz.",
     "source": "https://punchdrink.com/recipes/garibaldi-spritz/",
     "garnish": "orange slice",
-    "abv": 6.25,
+    "abv": 7.08,
     "tags": [
         "Spritz"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///garibaldi-spritz.webp",

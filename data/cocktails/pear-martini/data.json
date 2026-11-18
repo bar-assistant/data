@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///pear-martini.webp",
@@ -27,8 +28,8 @@
     ],
     "ingredients": [
         {
-            "_id": "pear-brandy-williams",
-            "name": "Pear Brandy (Williams)",
+            "_id": "pear-brandy",
+            "name": "Pear Brandy",
             "sort": 1,
             "amount": 30,
             "units": "ml",

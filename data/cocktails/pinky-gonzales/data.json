@@ -1,0 +1,84 @@
+{
+    "_id": "pinky-gonzales",
+    "name": "Pinky Gonzales",
+    "instructions": "1. Combine all in a shaker tin and add pebble ice.\n2. Flash blend.\n3. Dump into a large rocks glass (Culebra uses a 17-ounce one) and top with more pebble ice.\n4. Garnish with a mint bouquet.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "This deep-cut drink is like a Mai Tai made with tequila.",
+    "source": "https://punchdrink.com/recipes/pinky-gonzales/",
+    "garnish": "mint bouquet",
+    "abv": 17.78,
+    "tags": [
+        "Citrusy",
+        "Sweet",
+        "Nutty",
+        "Sour",
+        "Refreshing",
+        "Tiki"
+    ],
+    "glass": "Highball",
+    "method": "Blend",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 1960,
+    "author": "Trader Vic",
+    "origin_bar": "",
+    "images": [
+        {
+            "uri": "file:///pinky-gonzales.webp",
+            "sort": 1,
+            "placeholder_hash": "FzkOFwIFpnmHinaWeZh3mIiHJ5BNUvsH",
+            "copyright": "Punch Staff | Garrett Sweet"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-reposado",
+            "name": "Tequila Reposado",
+            "sort": 1,
+            "amount": 2,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Cazadores",
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "dry-curacao",
+            "name": "Dry Curaçao",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "such as Pierre Ferrand",
+            "substitutes": []
+        },
+        {
+            "_id": "orgeat-syrup",
+            "name": "Orgeat Syrup",
+            "sort": 4,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

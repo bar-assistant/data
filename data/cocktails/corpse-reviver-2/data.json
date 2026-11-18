@@ -7,7 +7,7 @@
     "description": "The Corpse Reviver №2 as described in the Savoy Cocktail Book is the most commonly drunk of the corpse revivers, and consists of equal parts gin, lemon juice, curaçao (commonly Cointreau), Kina Lillet (now usually replaced with Cocchi Americano, as a closer match to Kina Lillet than modern Lillet Blanc), and a dash of absinthe. The dash of absinthe can either be added to the mix before shaking, or added to the cocktail glass and moved around until the glass has been coated with a layer of absinthe to give a subtle absinthe aroma and flavor to the drink.",
     "source": "https://iba-world.com/corpse-reviver-2/",
     "garnish": "Garnish with orange zest",
-    "abv": 19.43,
+    "abv": 19.46,
     "tags": [
         "Contemporary Classics",
         "IBA Cocktail",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///corpse-reviver-2.webp",

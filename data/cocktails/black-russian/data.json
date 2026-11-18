@@ -18,8 +18,9 @@
     "method": "Stir",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1949,
+    "author": "Gustave Tops",
+    "origin_bar": "Metropolitan Hotel",
     "images": [
         {
             "uri": "file:///black-russian.webp",

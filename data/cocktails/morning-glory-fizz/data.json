@@ -7,7 +7,7 @@
     "description": "The Morning Glory Fizz is a classic breakfast cocktail made with whiskey, citrus juice, absinthe, egg white and soda.",
     "source": "https://imbibemagazine.com/recipe/morning-glory/",
     "garnish": null,
-    "abv": 17.7,
+    "abv": 12.06,
     "tags": [
         "Sour"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///morning-glory-fizz.webp",

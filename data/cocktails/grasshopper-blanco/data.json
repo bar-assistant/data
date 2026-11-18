@@ -17,6 +17,7 @@
     "parent_cocktail_id": "grasshopper",
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///grasshopper-blanco.webp",

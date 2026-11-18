@@ -1,0 +1,93 @@
+{
+    "_id": "oaxaca-negroni",
+    "name": "Oaxaca Negroni",
+    "instructions": "1. Combine the mezcal, sweet vermouth, Cynar, Aperol, optional agave syrup, and mole bitters in a mixing glass with ice.\n2. Stir until chilled.\n3. Strain into an old fashioned glass filled with ice.\n4. Garnish with a grapefruit twist.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Oaxaca Negroni is a mezcal-based variation on the Negroni that combines smoky mezcal, sweet vermouth, Cynar, Aperol, optional agave syrup, and mole bitters. It offers grapefruit, smoke, and vegetal aromas, with grape and orange notes on the sip and smoky agave, vegetal, plum, orange, and clove flavors on the swallow.",
+    "source": "https://cocktailvirgin.blogspot.com/2026/10/oaxaca-negroni.html",
+    "garnish": "Grapefruit twist",
+    "abv": 20.01,
+    "tags": [
+        "Fruity",
+        "Smokey",
+        "Citrusy"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": null,
+    "author": "",
+    "origin_bar": "Alma Cocina, Atlanta",
+    "images": [
+        {
+            "uri": "file:///oaxaca-negroni.webp",
+            "sort": 1,
+            "placeholder_hash": "HEkKHwjfjHaIeKiFZWaHOXdnNIA3BHcD",
+            "copyright": "AI (gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "aperol",
+            "name": "Aperol",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "mole-bitters",
+            "name": "Mole Bitters",
+            "sort": 5,
+            "amount": 1,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

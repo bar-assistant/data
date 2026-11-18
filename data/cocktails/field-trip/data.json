@@ -1,0 +1,105 @@
+{
+    "_id": "field-trip",
+    "name": "Field Trip",
+    "instructions": "1. Shake all ingredients with ice.\n2. Strain into an old fashioned glass.\n3. Garnish with a salted lime wedge (or unsalted lime wheel).",
+    "created_at": null,
+    "updated_at": null,
+    "description": "The Field Trip is a modern tequila-and-mezcal sour from Old Pal in Athens, Georgia, featured on their Fall 2023 menu. It combines reposado tequila, mezcal, blanc vermouth, Suze, lime, and agave syrup, yielding lime, vanilla, and herbal aromas with vegetal agave, bitter herbal notes, and a smoky lime finish.",
+    "source": "https://cocktailvirgin.blogspot.com/2026/09/field-trip.html",
+    "garnish": "Salted lime wedge (or unsalted lime wheel)",
+    "abv": 14.67,
+    "tags": [
+        "Citrusy",
+        "Bitter",
+        "Herbal"
+    ],
+    "glass": "Lowball",
+    "method": "Shake",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2023,
+    "author": "",
+    "origin_bar": "Old Pal, Athens",
+    "images": [
+        {
+            "uri": "file:///field-trip.webp",
+            "sort": 1,
+            "placeholder_hash": "5xgKDwKOaoeDeImQjGe5Z4hYV0BMgJIL",
+            "copyright": "AI (gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-reposado",
+            "name": "Tequila Reposado",
+            "sort": 1,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "sort": 2,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": true,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "vermouth-bianco",
+            "name": "Vermouth Bianco",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "suze",
+            "name": "Suze",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "lime-juice",
+            "name": "Lime juice",
+            "sort": 5,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "agave-syrup",
+            "name": "Agave Syrup",
+            "sort": 6,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

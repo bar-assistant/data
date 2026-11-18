@@ -7,7 +7,7 @@
     "description": "This easy-drinking, semi-tropical cocktail recipe by Charles H. Baker is the Philippines’ answer to a Singapore Sling",
     "source": "https://punchdrink.com/recipes/pancho-villa/",
     "garnish": "pineapple leaf, lime zest, lime wheels",
-    "abv": 22.1,
+    "abv": 14.73,
     "tags": [
         "Fruity"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///pancho-villa.webp",

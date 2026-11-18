@@ -17,8 +17,9 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1953,
+    "author": "",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///margarita.webp",

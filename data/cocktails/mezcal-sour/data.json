@@ -7,7 +7,7 @@
     "description": "Chocolate bitters balance lime’s tartness in this silky mezcal cocktail.",
     "source": "https://imbibemagazine.com/elements-chocolate-bitters/",
     "garnish": "several drops of chocolate bitters",
-    "abv": 14.77,
+    "abv": 14.87,
     "tags": [],
     "glass": "Lowball",
     "method": "Shake",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///mezcal-sour.webp",

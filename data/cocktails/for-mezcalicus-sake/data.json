@@ -7,7 +7,7 @@
     "description": null,
     "source": "https://www.diffordsguide.com/cocktails/recipe/31894/for-mezcalicus-sake",
     "garnish": "Express lime zest twist over cocktail and use as garnish.",
-    "abv": 18.2,
+    "abv": 19.79,
     "tags": [
         "Dry",
         "Smokey",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": "Simon Difford",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///for-mezcalicus-sake.webp",

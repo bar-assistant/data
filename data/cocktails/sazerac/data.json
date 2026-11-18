@@ -7,7 +7,7 @@
     "description": "The Sazerac is a local variation of a cognac or whiskey cocktail originally from New Orleans, named for the Sazerac de Forge et Fils brand of cognac brandy that served as its original main ingredient.\nThe drink is most traditionally a combination of cognac or rye whiskey, absinthe, Peychaud's Bitters, and sugar, although bourbon whiskey is sometimes substituted for the rye and Herbsaint is sometimes substituted for the absinthe.\nSome claim it is the oldest known American cocktail, with origins in antebellum New Orleans, although drink historian David Wondrich is among those who dispute this, and American instances of published usage of the word cocktail to describe a mixture of spirits, bitters, and sugar can be traced to the dawn of the 19th century.",
     "source": "https://iba-world.com/sazerac/",
     "garnish": "Garnish with lemon zest.",
-    "abv": 29.89,
+    "abv": 30.73,
     "tags": [
         "IBA Cocktail",
         "The Unforgettables",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///sazerac-1.webp",

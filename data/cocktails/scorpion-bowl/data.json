@@ -16,7 +16,8 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": 1950,
-    "author": null,
+    "author": "",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///scorpion-bowl.webp",
@@ -75,8 +76,8 @@
             "substitutes": []
         },
         {
-            "_id": "grape-brandy",
-            "name": "Grape Brandy",
+            "_id": "brandy",
+            "name": "Brandy",
             "sort": 5,
             "amount": 30,
             "units": "ml",

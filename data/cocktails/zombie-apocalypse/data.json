@@ -7,7 +7,7 @@
     "description": "A spooky, autumnal zombie riff that's perfect for a Halloween night! We added activated charcoal, which has hardly any taste, to produce the black color.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/zombie-apocalypse",
     "garnish": "Cherry, grated nutmeg, star anise",
-    "abv": 18.35,
+    "abv": 18.37,
     "tags": [
         "Tiki"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///zombie-apocalypse.webp",

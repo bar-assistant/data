@@ -1,35 +1,42 @@
 {
     "_id": "casino",
     "name": "Casino",
-    "instructions": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled rocks glass with ice.",
+    "instructions": "1. Pour all ingredients into cocktails shaker\n2. Shake well with ice\n3. Strain into chilled rocks glass with ice.",
     "created_at": null,
     "updated_at": null,
     "description": "This version of the Casino Cocktail first appears in 1909, in The Reminder (3rd edition) by Jacob A. Didier.",
     "source": "https://iba-world.com/casino/",
     "garnish": "Garnish with lemon zest and a maraschino cherry.",
-    "abv": 25.6,
+    "abv": 25.57,
     "tags": [
         "IBA Cocktail",
-        "The Unforgettables"
+        "The Unforgettables",
+        "Citrusy",
+        "Sour",
+        "Sweet",
+        "Herbal",
+        "Bitter",
+        "Classic"
     ],
-    "glass": "Lowball",
+    "glass": "Nick and Nora",
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1909,
+    "author": "Jacob Didier",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///casino.webp",
             "sort": 1,
-            "placeholder_hash": "ZxgKDwIISJqSl4iUfEp4Z4iHx6C7CpsI",
-            "copyright": "Cocktail Society"
+            "placeholder_hash": "1ygODwJ/uHl2Z4d2enaYh2h4yFCLD9MM",
+            "copyright": "AI (gemini)"
         }
     ],
     "ingredients": [
         {
-            "_id": "gin",
-            "name": "Gin",
+            "_id": "old-tom-gin",
+            "name": "Old Tom Gin",
             "sort": 1,
             "amount": 40,
             "units": "ml",
@@ -39,8 +46,8 @@
             "note": null,
             "substitutes": [
                 {
-                    "_id": "old-tom-gin",
-                    "name": "Old Tom Gin",
+                    "_id": "gin",
+                    "name": "Gin",
                     "amount": null,
                     "units": null,
                     "amount_max": null

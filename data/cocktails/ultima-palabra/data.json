@@ -18,6 +18,7 @@
     "parent_cocktail_id": "last-word",
     "year": null,
     "author": "Simone De Luca",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///ultima-palabra.webp",

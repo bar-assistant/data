@@ -19,6 +19,7 @@
     "parent_cocktail_id": "kingstone-negroni",
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///as-kingston-negroni.webp",

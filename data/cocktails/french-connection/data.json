@@ -17,8 +17,9 @@
     "method": "Build",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1976,
+    "author": "",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///french-connection.webp",

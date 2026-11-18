@@ -7,7 +7,7 @@
     "description": "The white wine spritzer, popularized by \"ladies who lunch\" during the '50s, gets reimagined through a modern lens. While the original simply called for chilled white wine and club soda, this version is \"punchier, brighter, and far from basic, thanks to citrus-forward Italicus, with notes of bergamot and grapefruit that round it out beautifully,\" says Mary Jones, the director of entertainment and nightlife for Virgin Hotels.",
     "source": "https://imbibemagazine.com/recipe/your-mothers-spritz-white-wine-spritzer/",
     "garnish": "Dehydrated grapefruit wheel",
-    "abv": 10.91,
+    "abv": 6.94,
     "tags": [
         "Dessert"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///your-mothers-spritz.webp",

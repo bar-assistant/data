@@ -7,7 +7,7 @@
     "description": "When ordered in Tiki bars the Suffering Bastard is often served in the uniquely shaped and eponymously named \"Suffering Bastard Tiki mug\", made to look like a squat fellow with a hangover holding his hands over the top of his head in pain.",
     "source": "https://iba-world.com/suffering-bastard/",
     "garnish": "Garnish with mint springs and optionally an orange slice as well.",
-    "abv": 25.6,
+    "abv": 14.32,
     "tags": [
         "IBA Cocktail",
         "New Era Drinks",
@@ -20,6 +20,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///suffering-bastard.webp",

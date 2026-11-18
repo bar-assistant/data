@@ -7,7 +7,7 @@
     "description": "It originated with Walter Bergeron, a bartender at New Orleans’ Carousel Bar in the Hotel Monteleone. The name is French for \"old square”, in reference to the city's French Quarter neighborhood.",
     "source": "https://iba-world.com/vieux-carre/",
     "garnish": "Garnish with orange zest and maraschino cherry.",
-    "abv": 27.22,
+    "abv": 27.55,
     "tags": [
         "IBA Cocktail",
         "The Unforgettables",
@@ -17,8 +17,9 @@
     "method": "Stir",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": null,
+    "year": 1938,
+    "author": "Walter Bergeron",
+    "origin_bar": "Monteleone Hotel",
     "images": [
         {
             "uri": "file:///vieux-carre.webp",

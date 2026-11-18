@@ -19,8 +19,9 @@
     "method": "Shake",
     "utensils": [],
     "parent_cocktail_id": null,
-    "year": null,
-    "author": "",
+    "year": 1988,
+    "author": "Vincent Sardi",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///bourbon-stone-sour.webp",

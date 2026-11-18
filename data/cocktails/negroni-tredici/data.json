@@ -7,7 +7,7 @@
     "description": "Delicious riff. A bit smoother, less bitter, less sweet and more citrusy than the standard version.",
     "source": "https://www.reddit.com/r/cocktails/comments/1i0s0es/negroni_tredici/",
     "garnish": null,
-    "abv": 25.28,
+    "abv": 25.79,
     "tags": [
         "Negroni",
         "Bitter",
@@ -20,6 +20,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": "",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///negroni-tredici.webp",

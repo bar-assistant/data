@@ -1,0 +1,84 @@
+{
+    "_id": "the-quill",
+    "name": "The Quill",
+    "instructions": "1. Stir all of the ingredients with ice, then strain into a glass filled with a single large ice cube.\n2. Express an orange peel over the top and use as a garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "On a far-flung branch of the Negroni family tree lies another aperitivo cocktail, The Quill. Drinks historians believe it dates to Prohibition-era New York and often credit the recipe to Frank C. Payne, a theatrical press agent. As the story goes, circa 1930, Payne formed a union and began publishing a magazine called—wait for it—The Quill. The cocktail is nearly identical to the Negroni but includes a splash of absinthe. It’s a potent differentiator, explains William Elliott, executive bar director and managing partner of Maison Premiere in Brooklyn. “Absinthe adds layers of cooling, herbal bitterness that deepen the gentian-forward profile of a classic Negroni,” he says. “Depending on the amount used, absinthe can also contribute a subtle textural creaminess and slight louche, giving the drink a pleasant roundness when properly stirred.” Even for classic cocktail devotees, The Quill is a deep cut: The recipe appears in the expanded 1996 edition of Harry MacElhone’s seminal Harry’s ABC of Mixing Cocktails, but wasn’t in the 1920s original. That hardly dampens Elliott’s enthusiasm for the drink. “The Quill was one of my favorite bartender’s choice cocktails in the earliest days of Maison Premiere,” he says, noting how it captures “the spirit of the Negroni renaissance” and aligns with the bar’s focus on lesser-known and historic absinthe drinks. “While it’s not something guests order frequently by name, it’s a drink we’ve happily recommended to adventurous Negroni drinkers looking to explore something slightly more complex and nuanced.”",
+    "source": "https://imbibemagazine.com/recipe/the-quill/",
+    "garnish": "Orange peel",
+    "abv": 24.25,
+    "tags": [
+        "Bitter",
+        "Herbal",
+        "Citrusy",
+        "Dry",
+        "Negroni",
+        "Classic"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": "negroni",
+    "year": 1930,
+    "author": "Frank C. Payne",
+    "origin_bar": "",
+    "images": [
+        {
+            "uri": "file:///the-quill.webp",
+            "sort": 1,
+            "placeholder_hash": "TBgKFwYEeNh2eXh4iJdoeGmGdQKIFnAH",
+            "copyright": "Imbibe Magazine"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "gin",
+            "name": "Gin",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 3,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "absinthe",
+            "name": "Absinthe",
+            "sort": 4,
+            "amount": 1,
+            "units": "barspoon",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

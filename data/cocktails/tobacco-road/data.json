@@ -1,0 +1,82 @@
+{
+    "_id": "tobacco-road",
+    "name": "Tobacco Road",
+    "instructions": "1. Add Mezcal, Cynar, Fino Sherry, and Peychaud's Bitters to a mixing glass with fresh cubed ice.\n2. Stir with a bar spoon until thoroughly chilled and properly diluted.\n3. Strain into a double old fashioned glass over one large ice cube.\n4. Express a grapefruit twist over the surface, then tuck it beside the ice.\n5. Scatter salt lightly across the top of the large ice cube and serve.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "Created in 2014, the Tobacco Road is a modern mezcal-and-amaro cocktail characterized by a dry, dark profile with aromas of smoke, earth, and cured leaf. It features a bitter, vegetal core balanced by anise notes from bitters, finished with bright citrus aroma and saline sharpness.",
+    "source": "https://www.seriouseats.com/mezcal-drink-recipes-beginners-cocktails-with-mezcal",
+    "garnish": "Grapefruit Twist and Salt",
+    "abv": 20.73,
+    "tags": [
+        "Smokey",
+        "Bitter",
+        "Dry",
+        "Herbal"
+    ],
+    "glass": "Lowball",
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": null,
+    "year": 2014,
+    "author": "Nick Caruana",
+    "origin_bar": "",
+    "images": [
+        {
+            "uri": "file:///tobacco-road.webp",
+            "sort": 1,
+            "placeholder_hash": "lRgKFwRcv6d1l4l3iWd4Z2iJZyBJBpAF",
+            "copyright": "AI (Gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "sort": 1,
+            "amount": 45,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "cynar",
+            "name": "Cynar",
+            "sort": 2,
+            "amount": 37.5,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "fino",
+            "name": "Fino",
+            "sort": 3,
+            "amount": 15,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "peychauds-bitters",
+            "name": "Peychauds Bitters",
+            "sort": 4,
+            "amount": 2,
+            "units": "dashes",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        }
+    ]
+}

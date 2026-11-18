@@ -7,7 +7,7 @@
     "description": "This eye-catching spin on the Old Fashioned combines junmai (pure-rice) sake with Italian aperitivo Cocchi Americano and dry red wine.",
     "source": "https://imbibemagazine.com/recipe/new-fashioned/",
     "garnish": "Lemon twist",
-    "abv": 15.34,
+    "abv": 15.53,
     "tags": [],
     "glass": "Lowball",
     "method": "Build",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///new-fashioned.webp",

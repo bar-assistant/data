@@ -7,7 +7,7 @@
     "description": "Created by New Orleans bar owner Henry C. Ramos, this cocktail was originally known as the New Orleans Fizz, which Ramos served at his Imperial Cabinet Saloon around 1888 or so. Ramos personally dictated that the drink be shaken for anywhere from two to twelve full minutes—depending on whom you ask—to achieve a fluffy, meringue-like texture. His bar, and many others of the day, achieved this yeoman’s task by creating bartender relays, where lines of “shaker men” would pull off the athletic endeavor. By 1915’s Mardi Gras season, the drink was so popular that Ramos needed thirty shaker men behind his bar. This stunningly gorgeous cocktail remains no easy task for modern drink makers, so today’s bartenders have begun utilizing paint shaker–like devices and whipped cream canisters as a sort of cheat. But if you have two strong arms, you can shake up a fine drink.",
     "source": "https://iba-world.com/ramos-fizz/",
     "garnish": null,
-    "abv": 9.6,
+    "abv": 6.8,
     "tags": [
         "IBA Cocktail",
         "The Unforgettables",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///ramos-fizz.webp",

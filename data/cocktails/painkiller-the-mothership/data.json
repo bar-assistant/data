@@ -17,6 +17,7 @@
     "parent_cocktail_id": "painkiller",
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///painkiller-the-mothership.webp",

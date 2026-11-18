@@ -1,0 +1,118 @@
+{
+    "_id": "the-nutty-oaxacan",
+    "name": "The Nutty Oaxacan",
+    "instructions": "1. Measure all ingredients except the Nocino and stir to combine.\n2. Transfer the mixture to a bottle.\n3. Store in the freezer before serving.\n4. Rinse a glass with the Nocino, then pour the chilled cocktail over a large cube.\n5. Garnish with an orange twist.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "A batched, spirit-forward riff on a tequila Old Fashioned by Steve the Bartender, balancing agave smoke with the dark, earthy spice of green walnut liqueur and citrus bitters. Served freezer-cold over a large cube so the flavors unfold slowly.",
+    "source": "https://app.stevethebartender.com.au/recipe/the-nutty-oaxacan",
+    "garnish": "Orange twist",
+    "abv": 26.18,
+    "tags": [
+        "Citrusy",
+        "Chocolatey",
+        "Batch",
+        "Smokey"
+    ],
+    "glass": null,
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": "oaxaca-old-fashioned",
+    "year": 2026,
+    "author": "Steve The Bartender",
+    "origin_bar": "",
+    "images": [
+        {
+            "uri": "file:///the-nutty-oaxacan.webp",
+            "sort": 1,
+            "placeholder_hash": "1igOHwSujIZQZ5h4msi7uGl4KDBZApMG",
+            "copyright": "AI (gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "tequila-reposado",
+            "name": "Tequila Reposado",
+            "sort": 1,
+            "amount": 520,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "mezcal",
+            "name": "Mezcal",
+            "sort": 2,
+            "amount": 175,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "agave-syrup",
+            "name": "Agave Syrup",
+            "sort": 3,
+            "amount": 55,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "angostura-cocoa-bitters",
+            "name": "Angostura cocoa bitters",
+            "sort": 4,
+            "amount": 6,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "orange-bitters",
+            "name": "Orange bitters",
+            "sort": 5,
+            "amount": 6,
+            "units": "dash",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "water",
+            "name": "Water",
+            "sort": 6,
+            "amount": 135,
+            "units": "ml",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "walnut-liqueur",
+            "name": "Walnut Liqueur",
+            "sort": 7,
+            "amount": 1,
+            "units": "rinse",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "to rinse glass",
+            "substitutes": []
+        }
+    ]
+}

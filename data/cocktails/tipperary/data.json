@@ -7,7 +7,7 @@
     "description": "The Tipperary has been featured in old school cocktail books such as Recipes for Mixed Drinks from 1916, ABC of Mixing Drinks from 1922 and Harry Craddock's Savoy Cocktail Book from 1930. Two of three books call for equal parts but I've opted for an adapted recipe, lowering the Green Chartreuse, making for a more approachable version. Some recipes call for a dash or two of aromatic bitters and an orange twist.",
     "source": "https://iba-world.com/tipperary/",
     "garnish": "Garnish with a slice of orange.",
-    "abv": 29.31,
+    "abv": 29.36,
     "tags": [
         "IBA Cocktail",
         "New Era Drinks"
@@ -18,6 +18,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///tipperary.webp",

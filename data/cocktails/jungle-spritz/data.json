@@ -7,7 +7,7 @@
     "description": "A refreshing apertivo inspired by the classic tiki drink, the Jungle Bird.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/jungle-spritz",
     "garnish": "Lime wedge and pineapple leaves",
-    "abv": 11.65,
+    "abv": 8.55,
     "tags": [
         "Spritz"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///jungle-spritz.webp",

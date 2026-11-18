@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": 2006,
     "author": "Gonçalo de Sousa",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///ranglum.webp",

@@ -1,0 +1,88 @@
+{
+    "_id": "island-time",
+    "name": "Island Time",
+    "instructions": "1. Stir all of the ingredients in a mixing glass with ice, then strain into a rocks glass over a large ice cube and garnish.",
+    "created_at": null,
+    "updated_at": null,
+    "description": "In this tropical take on the classic Negroni, rum stands in for gin while banana liqueur enters the equation.",
+    "source": "https://imbibemagazine.com/recipe/island-time-a-rum-negroni/",
+    "garnish": "Lime twist",
+    "abv": 19.58,
+    "tags": [
+        "Bitter",
+        "Sweet",
+        "Fruity",
+        "Tiki"
+    ],
+    "glass": null,
+    "method": "Stir",
+    "utensils": [],
+    "parent_cocktail_id": "negroni",
+    "year": null,
+    "author": "Courtney McKamey",
+    "origin_bar": "Weather Up",
+    "images": [
+        {
+            "uri": "file:///island-time-1.webp",
+            "sort": 1,
+            "placeholder_hash": "pTgOHwbXjHjFZneRdgiXSIZml0B2CmIH",
+            "copyright": "Imbibe Magazine | Courtney McKamey"
+        },
+        {
+            "uri": "file:///island-time-2.webp",
+            "sort": 2,
+            "placeholder_hash": "oRgWFwSveXeYZ5eGeGeId3iHNzAoA5AC",
+            "copyright": "AI (gemini)"
+        }
+    ],
+    "ingredients": [
+        {
+            "_id": "dark-rum",
+            "name": "Dark Rum",
+            "sort": 1,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "sweet-vermouth",
+            "name": "Sweet Vermouth",
+            "sort": 2,
+            "amount": 1,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Cocchi di Torino",
+            "substitutes": []
+        },
+        {
+            "_id": "campari",
+            "name": "Campari",
+            "sort": 3,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": null,
+            "substitutes": []
+        },
+        {
+            "_id": "creme-de-banane",
+            "name": "Crème de banane",
+            "sort": 4,
+            "amount": 0.5,
+            "units": "oz",
+            "optional": false,
+            "is_specified": false,
+            "amount_max": null,
+            "note": "Giffard",
+            "substitutes": []
+        }
+    ]
+}

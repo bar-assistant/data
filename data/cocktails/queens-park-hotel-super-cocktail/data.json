@@ -7,7 +7,7 @@
     "description": null,
     "source": "https://www.cocktailexplorer.co/cocktails/queens-park-hotel-super-cocktail/anders-erickson/",
     "garnish": "Lime zest",
-    "abv": 18.4,
+    "abv": 18.52,
     "tags": [
         "Savory",
         "Sweet"
@@ -18,6 +18,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///queens-park-hotel-super-cocktail-1.webp",

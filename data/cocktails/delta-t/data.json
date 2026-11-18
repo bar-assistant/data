@@ -7,7 +7,7 @@
     "description": "A cocktail designed to highlight the unique buttery and funky notes of Variable Dunderclap rum, balanced by the sharpness of ginger and the herbaceous qualities of Fernet. It's a complex, easy-sipping drink that plays with contrasts of hot and cold flavors.",
     "source": "https://old.reddit.com/r/cocktails/comments/1subrqd/delta_t/",
     "garnish": "candied ginger, lime peel, and a fresh bunch of mint",
-    "abv": 12.25,
+    "abv": 12.4,
     "tags": [
         "Herbal",
         "Citrusy",
@@ -20,6 +20,7 @@
     "parent_cocktail_id": null,
     "year": 2026,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///delta-t.webp",

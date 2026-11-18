@@ -7,7 +7,7 @@
     "description": "The Seelbach Cocktail may not be a julep, but it doesn't have to be: it's respectable, powerful, and delicious right down to the bottom of the glass.",
     "source": "https://www.seriouseats.com/seelbach-cocktail-recipe",
     "garnish": "Orange twist",
-    "abv": 17.78,
+    "abv": 18.13,
     "tags": [],
     "glass": "Champagne",
     "method": "Stir",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///seelbach.webp",

@@ -7,7 +7,7 @@
     "description": "Related to the martini, the Tuxedo has had many variations since its inception in the 1880s. The cocktail is named after the Tuxedo Club in Orange County, New York where it was first mixed. Tuxedo Park, the planned community where the club was built, is itself a derivation of the Lenape word tucseto. The form of menswear by the same name originated at the same country club around the same time.",
     "source": "https://iba-world.com/tuxedo/",
     "garnish": "Garnish with cherry and lemon zest",
-    "abv": 24.17,
+    "abv": 27.17,
     "tags": [
         "IBA Cocktail",
         "The Unforgettables"
@@ -18,6 +18,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///tuxedo.webp",

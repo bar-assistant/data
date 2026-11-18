@@ -17,7 +17,8 @@
     "utensils": [],
     "parent_cocktail_id": null,
     "year": null,
-    "author": null,
+    "author": "Anders Erickson",
+    "origin_bar": "",
     "images": [
         {
             "uri": "file:///the-tartan-cocktail.webp",

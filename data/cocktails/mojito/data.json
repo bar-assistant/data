@@ -7,7 +7,7 @@
     "description": "The combination of mint, lime, and rum creates a delightful balance of sweetness, acidity, and herbal freshness. Mojitos are popular in bars and restaurants and are often associated with a laid-back and tropical vibe. They are a favorite cocktail for summer gatherings and outdoor events.",
     "source": "https://iba-world.com/mojito/",
     "garnish": "Garnish with sprigs of mint and slice of lime.",
-    "abv": 24.24,
+    "abv": 11.9,
     "tags": [
         "Contemporary Classics",
         "IBA Cocktail",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///mojito.webp",

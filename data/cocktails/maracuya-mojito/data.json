@@ -7,7 +7,7 @@
     "description": "This refreshing, rum based cocktail carries summer poolside/porch-side vibes. As a Cuban mojito riff, it has the essential mojito ingredients like mint, rum, and club soda, but adds tropical flavor with the passionfruit syrup. For extra mint flavor, muddle the mint with the syrup in the bottom of your highball glass. Otherwise, shaking hard for 15 seconds with the mint in the shaker is enough.",
     "source": "https://www.liberandcompany.com/collections/recipes/products/maracuya-mojito",
     "garnish": "mint",
-    "abv": 16.34,
+    "abv": 11.13,
     "tags": [
         "Summer",
         "Tropical",
@@ -20,6 +20,7 @@
     "parent_cocktail_id": "mojito",
     "year": null,
     "author": "",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///maracuya-mojito.webp",

@@ -7,7 +7,7 @@
     "description": "As a lower-alcohol, softer-hitting cocktail recipe, this combination of Amaro Montenegro and fino sherry is a Spain vs. Italy matchup.",
     "source": "https://punchdrink.com/recipes/second-serve/",
     "garnish": "half orange wheel",
-    "abv": 4.91,
+    "abv": 3.2,
     "tags": [
         "Savory"
     ],
@@ -17,6 +17,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///second-serve.webp",

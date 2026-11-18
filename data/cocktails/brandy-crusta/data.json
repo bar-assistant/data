@@ -7,7 +7,7 @@
     "description": "The cocktail, named for the crust of sugar on the rim, was invented by Joseph Santini, a bartender in New Orleans at his bar, Jewel of the South.\n\nJerry Thomas was the first to publish the recipe in his 1862 cocktail manual.",
     "source": "https://iba-world.com/brandy-crusta/",
     "garnish": "Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.",
-    "abv": 23.85,
+    "abv": 23.95,
     "tags": [
         "IBA Cocktail",
         "The Unforgettables",
@@ -19,6 +19,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///brandy-crusta.webp",

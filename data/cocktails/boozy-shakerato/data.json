@@ -7,7 +7,7 @@
     "description": "Perfect for an after dinner pick-me-up or a morning wake-up call, this boozy shakerato recipe is as versatile as it is delicious. Limoncello not your thing? Sub in 1/2 oz. sambuca or 1/2 oz. amaretto for a different spin.",
     "source": "https://imbibemagazine.com/recipe/boozy-shakerato/",
     "garnish": null,
-    "abv": 0.69,
+    "abv": 9.63,
     "tags": [],
     "glass": "Nick and Nora",
     "method": "Shake",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": 2017,
     "author": "Heather Perkins",
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///boozy-shakerato.webp",

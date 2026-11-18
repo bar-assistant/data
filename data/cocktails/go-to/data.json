@@ -7,7 +7,7 @@
     "description": "Created by Rob Krueger, Extra Fancy, Brooklyn NY.He mentioned this to a guest one night, to which she responded, \"Oh, so it's your go-to?\" inspiring the cocktail's name.",
     "source": "https://stevethebartender.com.au/go-to-st-germain-cocktail-recipe/",
     "garnish": "Garnish with a mint sprig and cucumber wheels",
-    "abv": 22.15,
+    "abv": 13.71,
     "tags": [],
     "glass": "Highball",
     "method": "Shake",
@@ -15,6 +15,7 @@
     "parent_cocktail_id": null,
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///go-to.webp",

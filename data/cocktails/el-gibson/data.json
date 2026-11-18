@@ -21,6 +21,7 @@
     "parent_cocktail_id": "gibson",
     "year": null,
     "author": null,
+    "origin_bar": null,
     "images": [
         {
             "uri": "file:///el-gibson.webp",
