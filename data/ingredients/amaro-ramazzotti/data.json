@@ -23,5 +23,14 @@
     "sugar_g_per_ml": 270,
     "acidity": null,
     "distillery": "Pernod",
-    "units": null
+    "units": null,
+    "taste_descriptors": [
+        "herbal",
+        "complex",
+        "bitter",
+        "herbacious",
+        "sweet",
+        "lingering finish",
+        "earthy"
+    ]
 }

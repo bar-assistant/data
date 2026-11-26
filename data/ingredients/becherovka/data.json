@@ -23,5 +23,13 @@
     "sugar_g_per_ml": 100,
     "acidity": null,
     "distillery": "Jan Becher",
-    "units": "ml"
+    "units": "ml",
+    "taste_descriptors": [
+        "herbal",
+        "bitter",
+        "spicy",
+        "herbacious",
+        "complex",
+        "warming"
+    ]
 }

@@ -23,5 +23,14 @@
     "sugar_g_per_ml": 150,
     "acidity": null,
     "distillery": null,
-    "units": "drops"
+    "units": "drops",
+    "taste_descriptors": [
+        "sour",
+        "complex",
+        "caramel",
+        "fruity",
+        "sweet",
+        "woody",
+        "full body"
+    ]
 }

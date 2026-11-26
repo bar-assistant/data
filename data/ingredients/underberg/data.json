@@ -23,5 +23,13 @@
     "sugar_g_per_ml": 50,
     "acidity": null,
     "distillery": "Underberg AG",
-    "units": "ml"
+    "units": "ml",
+    "taste_descriptors": [
+        "bitter",
+        "herbacious",
+        "herbal",
+        "medicinal",
+        "complex",
+        "earthy"
+    ]
 }

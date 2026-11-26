@@ -23,5 +23,12 @@
     "sugar_g_per_ml": 240,
     "acidity": null,
     "distillery": null,
-    "units": "barspoon"
+    "units": "barspoon",
+    "taste_descriptors": [
+        "clove",
+        "sweet",
+        "spicy",
+        "warming",
+        "complex"
+    ]
 }

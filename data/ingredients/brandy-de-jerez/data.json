@@ -23,5 +23,14 @@
     "sugar_g_per_ml": null,
     "acidity": null,
     "distillery": null,
-    "units": null
+    "units": null,
+    "taste_descriptors": [
+        "caramel",
+        "vanilla",
+        "woody",
+        "fruity",
+        "complex",
+        "full body",
+        "warming"
+    ]
 }

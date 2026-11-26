@@ -23,5 +23,14 @@
     "sugar_g_per_ml": 5,
     "acidity": 0.65,
     "distillery": null,
-    "units": null
+    "units": null,
+    "taste_descriptors": [
+        "complex",
+        "nutty",
+        "dry",
+        "balanced",
+        "toasty",
+        "crisp",
+        "caramel"
+    ]
 }

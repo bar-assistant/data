@@ -23,5 +23,11 @@
     "sugar_g_per_ml": 233,
     "acidity": null,
     "distillery": "Cointreau",
-    "units": "ml"
+    "units": "ml",
+    "taste_descriptors": [
+        "citrusy",
+        "dry",
+        "fruity",
+        "sweet"
+    ]
 }

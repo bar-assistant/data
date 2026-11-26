@@ -44,5 +44,14 @@
     "sugar_g_per_ml": 84,
     "acidity": null,
     "distillery": null,
-    "units": "ml"
+    "units": "ml",
+    "taste_descriptors": [
+        "fruity",
+        "citrusy",
+        "sweet",
+        "refreshing",
+        "sour",
+        "simple",
+        "light body"
+    ]
 }

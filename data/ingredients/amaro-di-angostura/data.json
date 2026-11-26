@@ -23,5 +23,14 @@
     "sugar_g_per_ml": null,
     "acidity": null,
     "distillery": "Angostura",
-    "units": null
+    "units": null,
+    "taste_descriptors": [
+        "bitter",
+        "herbal",
+        "herbacious",
+        "balanced",
+        "complex",
+        "spicy",
+        "citrusy"
+    ]
 }

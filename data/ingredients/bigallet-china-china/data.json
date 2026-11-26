@@ -23,5 +23,14 @@
     "sugar_g_per_ml": 250,
     "acidity": null,
     "distillery": "Bigallet (Barcelona, Spain)",
-    "units": null
+    "units": null,
+    "taste_descriptors": [
+        "complex",
+        "sweet",
+        "herbal",
+        "herbacious",
+        "citrusy",
+        "bitter",
+        "warming"
+    ]
 }

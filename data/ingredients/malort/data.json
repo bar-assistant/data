@@ -23,5 +23,14 @@
     "sugar_g_per_ml": 10,
     "acidity": null,
     "distillery": "Jeppson",
-    "units": "ml"
+    "units": "ml",
+    "taste_descriptors": [
+        "bitter",
+        "herbal",
+        "herbacious",
+        "funky",
+        "lingering finish",
+        "astringent",
+        "medicinal"
+    ]
 }

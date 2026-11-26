@@ -23,5 +23,14 @@
     "sugar_g_per_ml": 220,
     "acidity": null,
     "distillery": null,
-    "units": "ml"
+    "units": "ml",
+    "taste_descriptors": [
+        "spicy",
+        "peppery",
+        "warming",
+        "roasty",
+        "vegetal",
+        "earthy",
+        "toasty"
+    ]
 }

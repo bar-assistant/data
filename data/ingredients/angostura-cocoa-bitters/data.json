@@ -23,5 +23,14 @@
     "sugar_g_per_ml": 10,
     "acidity": null,
     "distillery": null,
-    "units": "dashes"
+    "units": "dashes",
+    "taste_descriptors": [
+        "bitter",
+        "floral",
+        "nutty",
+        "chocolatey",
+        "complex",
+        "roasty",
+        "herbal"
+    ]
 }

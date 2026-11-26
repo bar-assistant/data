@@ -23,5 +23,13 @@
     "sugar_g_per_ml": 7,
     "acidity": null,
     "distillery": null,
-    "units": "peel"
+    "units": "peel",
+    "taste_descriptors": [
+        "citrusy",
+        "bitter",
+        "refreshing",
+        "sour",
+        "fruity",
+        "complex"
+    ]
 }

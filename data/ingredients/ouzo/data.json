@@ -23,5 +23,10 @@
     "sugar_g_per_ml": 20,
     "acidity": null,
     "distillery": null,
-    "units": null
+    "units": null,
+    "taste_descriptors": [
+        "dry",
+        "herbal",
+        "lingering finish"
+    ]
 }

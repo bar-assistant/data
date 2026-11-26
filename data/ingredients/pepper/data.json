@@ -23,5 +23,10 @@
     "sugar_g_per_ml": 0,
     "acidity": null,
     "distillery": null,
-    "units": "pinch"
+    "units": "pinch",
+    "taste_descriptors": [
+        "peppery",
+        "spicy",
+        "warming"
+    ]
 }

@@ -23,5 +23,9 @@
     "sugar_g_per_ml": 0,
     "acidity": null,
     "distillery": null,
-    "units": "drops"
+    "units": "drops",
+    "taste_descriptors": [
+        "simple",
+        "balanced"
+    ]
 }

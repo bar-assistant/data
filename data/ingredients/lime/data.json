@@ -23,5 +23,11 @@
     "sugar_g_per_ml": 1,
     "acidity": null,
     "distillery": null,
-    "units": "wedge"
+    "units": "wedge",
+    "taste_descriptors": [
+        "sour",
+        "citrusy",
+        "fruity",
+        "refreshing"
+    ]
 }

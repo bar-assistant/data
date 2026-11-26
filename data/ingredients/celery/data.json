@@ -23,5 +23,11 @@
     "sugar_g_per_ml": 0,
     "acidity": null,
     "distillery": null,
-    "units": "stalk"
+    "units": "stalk",
+    "taste_descriptors": [
+        "crisp",
+        "vegetal",
+        "refreshing",
+        "light body"
+    ]
 }

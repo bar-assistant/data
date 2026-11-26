@@ -23,5 +23,11 @@
     "sugar_g_per_ml": 0,
     "acidity": null,
     "distillery": null,
-    "units": "stalks"
+    "units": "stalks",
+    "taste_descriptors": [
+        "citrusy",
+        "herbal",
+        "herbacious",
+        "funky"
+    ]
 }

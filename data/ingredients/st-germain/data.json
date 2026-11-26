@@ -23,5 +23,9 @@
     "sugar_g_per_ml": 340,
     "acidity": null,
     "distillery": "Bacardi",
-    "units": "ml"
+    "units": "ml",
+    "taste_descriptors": [
+        "floral",
+        "sweet"
+    ]
 }

@@ -23,5 +23,9 @@
     "sugar_g_per_ml": 100,
     "acidity": null,
     "distillery": null,
-    "units": null
+    "units": null,
+    "taste_descriptors": [
+        "chocolatey",
+        "sweet"
+    ]
 }

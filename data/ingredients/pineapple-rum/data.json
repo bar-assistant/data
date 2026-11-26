@@ -23,5 +23,14 @@
     "sugar_g_per_ml": 15,
     "acidity": null,
     "distillery": "Plantation",
-    "units": null
+    "units": null,
+    "taste_descriptors": [
+        "fruity",
+        "tropical",
+        "complex",
+        "balanced",
+        "sweet",
+        "smooth",
+        "warming"
+    ]
 }

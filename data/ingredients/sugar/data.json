@@ -23,5 +23,9 @@
     "sugar_g_per_ml": 1000,
     "acidity": null,
     "distillery": null,
-    "units": "cube"
+    "units": "cube",
+    "taste_descriptors": [
+        "sweet",
+        "simple"
+    ]
 }

@@ -23,5 +23,14 @@
     "sugar_g_per_ml": 0,
     "acidity": null,
     "distillery": null,
-    "units": "leaves"
+    "units": "leaves",
+    "taste_descriptors": [
+        "herbal",
+        "herbacious",
+        "peppery",
+        "vegetal",
+        "clove",
+        "refreshing",
+        "floral"
+    ]
 }

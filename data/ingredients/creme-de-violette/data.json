@@ -23,5 +23,10 @@
     "sugar_g_per_ml": 300,
     "acidity": null,
     "distillery": null,
-    "units": "barspoon"
+    "units": "barspoon",
+    "taste_descriptors": [
+        "sweet",
+        "floral",
+        "complex"
+    ]
 }

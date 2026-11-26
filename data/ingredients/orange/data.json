@@ -23,5 +23,11 @@
     "sugar_g_per_ml": 9,
     "acidity": null,
     "distillery": null,
-    "units": "whole"
+    "units": "whole",
+    "taste_descriptors": [
+        "fruity",
+        "citrusy",
+        "sweet",
+        "refreshing"
+    ]
 }

@@ -23,5 +23,14 @@
     "sugar_g_per_ml": null,
     "acidity": null,
     "distillery": "Elmegirab's Bitters",
-    "units": null
+    "units": null,
+    "taste_descriptors": [
+        "bitter",
+        "complex",
+        "herbal",
+        "spicy",
+        "herbacious",
+        "citrusy",
+        "warming"
+    ]
 }

@@ -23,5 +23,12 @@
     "sugar_g_per_ml": 0,
     "acidity": null,
     "distillery": null,
-    "units": "slices"
+    "units": "slices",
+    "taste_descriptors": [
+        "spicy",
+        "warming",
+        "peppery",
+        "complex",
+        "earthy"
+    ]
 }

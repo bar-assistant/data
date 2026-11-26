@@ -23,5 +23,13 @@
     "sugar_g_per_ml": 106,
     "acidity": null,
     "distillery": null,
-    "units": "topup"
+    "units": "topup",
+    "taste_descriptors": [
+        "sweet",
+        "vanilla",
+        "fizzy",
+        "complex",
+        "citrusy",
+        "refreshing"
+    ]
 }

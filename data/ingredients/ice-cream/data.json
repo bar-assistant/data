@@ -23,5 +23,10 @@
     "sugar_g_per_ml": 200,
     "acidity": null,
     "distillery": null,
-    "units": "scoops"
+    "units": "scoops",
+    "taste_descriptors": [
+        "sweet",
+        "creamy",
+        "smooth"
+    ]
 }

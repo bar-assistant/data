@@ -16,5 +16,9 @@
     "sugar_g_per_ml": null,
     "acidity": null,
     "distillery": null,
-    "units": null
+    "units": null,
+    "taste_descriptors": [
+        "sweet",
+        "fruity"
+    ]
 }

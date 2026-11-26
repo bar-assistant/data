@@ -23,5 +23,8 @@
     "sugar_g_per_ml": 30,
     "acidity": null,
     "distillery": null,
-    "units": "ml"
+    "units": "ml",
+    "taste_descriptors": [
+        "vegetal"
+    ]
 }
