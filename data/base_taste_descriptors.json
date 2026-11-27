@@ -1,206 +1,257 @@
 [
     {
         "name": "Bitter",
-        "normalized_name": "bitter"
+        "normalized_name": "bitter",
+        "group": "taste"
     },
     {
         "name": "Hoppy",
-        "normalized_name": "hoppy"
+        "normalized_name": "hoppy",
+        "group": "family"
     },
     {
         "name": "Malty",
-        "normalized_name": "malty"
+        "normalized_name": "malty",
+        "group": "flavor"
     },
     {
         "name": "Sweet",
-        "normalized_name": "sweet"
+        "normalized_name": "sweet",
+        "group": "taste"
     },
     {
         "name": "Dry",
-        "normalized_name": "dry"
+        "normalized_name": "dry",
+        "group": "taste"
     },
     {
         "name": "Sour",
-        "normalized_name": "sour"
+        "normalized_name": "sour",
+        "group": "taste"
     },
     {
         "name": "Fruity",
-        "normalized_name": "fruity"
+        "normalized_name": "fruity",
+        "group": "family"
     },
     {
         "name": "Spicy",
-        "normalized_name": "spicy"
+        "normalized_name": "spicy",
+        "group": "family"
     },
     {
         "name": "Smoky",
-        "normalized_name": "smoky"
+        "normalized_name": "smoky",
+        "group": "family"
     },
     {
         "name": "Balanced",
-        "normalized_name": "balanced"
+        "normalized_name": "balanced",
+        "group": "profile"
     },
     {
         "name": "Simple",
-        "normalized_name": "simple"
+        "normalized_name": "simple",
+        "group": "profile"
     },
     {
         "name": "Complex",
-        "normalized_name": "complex"
+        "normalized_name": "complex",
+        "group": "profile"
     },
     {
         "name": "Citrusy",
-        "normalized_name": "citrusy"
+        "normalized_name": "citrusy",
+        "group": "family"
     },
     {
         "name": "Tropical",
-        "normalized_name": "tropical"
+        "normalized_name": "tropical",
+        "group": "family"
     },
     {
         "name": "Piney",
-        "normalized_name": "piney"
+        "normalized_name": "piney",
+        "group": "family"
     },
     {
         "name": "Herbaceous",
-        "normalized_name": "herbaceous"
+        "normalized_name": "herbaceous",
+        "group": "family"
     },
     {
         "name": "Floral",
-        "normalized_name": "floral"
+        "normalized_name": "floral",
+        "group": "family"
     },
     {
         "name": "Herbal",
-        "normalized_name": "herbal"
+        "normalized_name": "herbal",
+        "group": "family"
     },
     {
         "name": "Earthy",
-        "normalized_name": "earthy"
+        "normalized_name": "earthy",
+        "group": "family"
     },
     {
         "name": "Cereal",
-        "normalized_name": "cereal"
+        "normalized_name": "cereal",
+        "group": "flavor"
     },
     {
         "name": "Grainy",
-        "normalized_name": "grainy"
+        "normalized_name": "grainy",
+        "group": "flavor"
     },
     {
         "name": "Toasty",
-        "normalized_name": "toasty"
+        "normalized_name": "toasty",
+        "group": "flavor"
     },
     {
         "name": "Roasty",
-        "normalized_name": "roasty"
+        "normalized_name": "roasty",
+        "group": "flavor"
     },
     {
         "name": "Nutty",
-        "normalized_name": "nutty"
+        "normalized_name": "nutty",
+        "group": "flavor"
     },
     {
         "name": "Caramel",
-        "normalized_name": "caramel"
+        "normalized_name": "caramel",
+        "group": "flavor"
     },
     {
         "name": "Chocolatey",
-        "normalized_name": "chocolatey"
+        "normalized_name": "chocolatey",
+        "group": "flavor"
     },
     {
         "name": "Coffee",
-        "normalized_name": "coffee"
+        "normalized_name": "coffee",
+        "group": "flavor"
     },
     {
         "name": "Vanilla",
-        "normalized_name": "vanilla"
+        "normalized_name": "vanilla",
+        "group": "flavor"
     },
     {
         "name": "Woody",
-        "normalized_name": "woody"
+        "normalized_name": "woody",
+        "group": "family"
     },
     {
         "name": "Yeasty",
-        "normalized_name": "yeasty"
+        "normalized_name": "yeasty",
+        "group": "family"
     },
     {
         "name": "Clove",
-        "normalized_name": "clove"
+        "normalized_name": "clove",
+        "group": "flavor"
     },
     {
         "name": "Bubblegum",
-        "normalized_name": "bubblegum"
+        "normalized_name": "bubblegum",
+        "group": "flavor"
     },
     {
         "name": "Funky",
-        "normalized_name": "funky"
+        "normalized_name": "funky",
+        "group": "family"
     },
     {
         "name": "Peppery",
-        "normalized_name": "peppery"
+        "normalized_name": "peppery",
+        "group": "flavor"
     },
     {
         "name": "Light body",
-        "normalized_name": "light body"
+        "normalized_name": "light body",
+        "group": "body"
     },
     {
         "name": "Medium body",
-        "normalized_name": "medium body"
+        "normalized_name": "medium body",
+        "group": "body"
     },
     {
         "name": "Full body",
-        "normalized_name": "full body"
+        "normalized_name": "full body",
+        "group": "body"
     },
     {
         "name": "Crisp",
-        "normalized_name": "crisp"
+        "normalized_name": "crisp",
+        "group": "mouthfeel"
     },
     {
         "name": "Refreshing",
-        "normalized_name": "refreshing"
+        "normalized_name": "refreshing",
+        "group": "profile"
     },
     {
         "name": "Smooth",
-        "normalized_name": "smooth"
+        "normalized_name": "smooth",
+        "group": "mouthfeel"
     },
     {
         "name": "Creamy",
-        "normalized_name": "creamy"
+        "normalized_name": "creamy",
+        "group": "mouthfeel"
     },
     {
         "name": "Chewy",
-        "normalized_name": "chewy"
+        "normalized_name": "chewy",
+        "group": "mouthfeel"
     },
     {
         "name": "Fizzy",
-        "normalized_name": "fizzy"
+        "normalized_name": "fizzy",
+        "group": "mouthfeel"
     },
     {
         "name": "Clean finish",
-        "normalized_name": "clean finish"
+        "normalized_name": "clean finish",
+        "group": "finish"
     },
     {
         "name": "Lingering finish",
-        "normalized_name": "lingering finish"
+        "normalized_name": "lingering finish",
+        "group": "finish"
     },
     {
         "name": "Warming",
-        "normalized_name": "warming"
+        "normalized_name": "warming",
+        "group": "mouthfeel"
     },
     {
         "name": "Astringent",
-        "normalized_name": "astringent"
+        "normalized_name": "astringent",
+        "group": "mouthfeel"
     },
     {
         "name": "Buttery",
-        "normalized_name": "buttery"
+        "normalized_name": "buttery",
+        "group": "mouthfeel"
     },
     {
         "name": "Metallic",
-        "normalized_name": "metallic"
+        "normalized_name": "metallic",
+        "group": "flavor"
     },
     {
         "name": "Vegetal",
-        "normalized_name": "vegetal"
+        "normalized_name": "vegetal",
+        "group": "family"
     },
     {
         "name": "Medicinal",
-        "normalized_name": "medicinal"
+        "normalized_name": "medicinal",
+        "group": "family"
     }
 ]
